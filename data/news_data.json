@@ -1,1 +1,225 @@
-
+{
+    "AI_Tech": [
+        {
+            "title": "LLM 메모리 재구상: 컨텍스트를 훈련 데이터로 활용하여 테스트 시 학습하는 모델 구현",
+            "points": [
+                "기존 대규모 언어 모델(LLM)은 학습 후에는 새로운 정보를 즉시 학습하기 어렵지만, 이 기술은 모델이 추론(테스트)하는 시점에도 새로운 정보를 학습할 수 있게 합니다.",
+                "모델이 현재 처리하는 '컨텍스트' (예: 대화 내용, 문서)를 마치 새로운 훈련 데이터처럼 활용하여, 실시간으로 지식을 업데이트하고 적응력을 높이는 방식입니다.",
+                "이를 통해 LLM이 더 유연하고 동적으로 변화하는 정보에 대응하며, 장기 기억 능력을 향상시키는 데 기여합니다."
+            ],
+            "link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxNMk1KWDQ5WldHUzZiX3pVRm9uSFl2QUNlRlZSUFktNkRLZWQzSy1hNl9CelRjSnJVdEZqWFpJTHMxZVdoZXp3OUUtX1ZfUVBzOU1rYWg3aFU3cTdTRVdxSUtMdjZYd1ByRGdqVWk4V1NmZGo5QVdxRzl2b1NlaS11eTBHb2hzZWVib1ViNlNUeHBMLUNPVDluTDlzTnNnVXpMbTFqSXRWaW1XM1BvY3NqRVdjbWNzZHcxb2lMd1dwYk95SlUzWGc?oc=5",
+            "category": "AI_Tech",
+            "published": "2026-01-11T21:48:07.569118"
+        },
+        {
+            "title": "Amazon SageMaker AI에서 AWQ 및 GPTQ를 활용한 훈련 후 가중치 및 활성화로 LLM 추론 가속화",
+            "points": [
+                "대규모 언어 모델(LLM)의 추론(결과 생성) 속도를 획기적으로 높이는 기술입니다.",
+                "AWQ(Activation-aware Weight Quantization)와 GPTQ 같은 '양자화' 기법을 사용하여, 모델의 크기를 줄이면서도 성능 손실을 최소화합니다. 양자화는 모델의 계산에 필요한 숫자의 정밀도를 낮춰 효율을 높이는 방법입니다.",
+                "모델을 더 작고 효율적으로 만들어, 더 적은 컴퓨팅 자원으로도 빠르게 LLM을 실행할 수 있게 하여 비용 절감 및 접근성 향상에 기여합니다."
+            ],
+            "link": "https://news.google.com/rss/articles/CBMi7AFBVV95cUxOTE4tWnlTX1RQZ1pBRUNPMTYySGljOWFnQ3N1ZXNWTjZzWF9DaVRROUdyWEp4WkJRVjl3M2RyNTRLbXNFTE1rNmhOX1htWjZYQTNXODBmRDNUZGwxX0FNRkFESGJ5Yzl2S0gzOXBUVXRPUE00Q2J0RDZYUVZlS2N2UTBsOVJTSTNSaG9YdUZ6U1BONUZUV0RMMnNOUERIV0lHMFhKR2pwR2hIQXNnbFNLU1VOR3RzLWdLQ2NWbzU4UHF3cWgwQUlDUHBSTkdiY2J5YmhIMEt3MzlwQTByMFBFMGVRbmFFWDkwNEJBUQ?oc=5",
+            "category": "AI_Tech",
+            "published": "2026-01-11T21:48:07.569118"
+        },
+        {
+            "title": "AI의 기억력 위기",
+            "points": [
+                "AI 모델, 특히 대규모 모델이 훈련 데이터에 너무 의존하여 데이터를 '암기'하는 경향이 있다는 문제를 다룹니다.",
+                "이러한 암기 현상은 모델이 새로운 상황에 대한 일반화 능력을 떨어뜨리고, 훈련 데이터에 포함된 편향이나 개인 정보를 노출할 위험을 증가시킬 수 있습니다.",
+                "AI의 신뢰성과 안전성을 높이기 위해 모델이 단순히 암기하는 것을 넘어 진정으로 이해하고 추론하는 능력을 개발하는 것이 중요함을 강조합니다."
+            ],
+            "link": "https://news.google.com/rss/articles/CBMihgFBVV95cUxPX2x6cHR2Wm96bHFSQlRHSU80VUtwWmNxT2F3NjZaQVBxREJlM1Fna3J5cHUxcWZlS3hDM2dWNkpNQ1h0NGNDam04eXJPakdSZGxnYnVWU25EUFRmV0FvU2N2a3NOLTVDZTlkalhFd0o3bVo4a1JHTVRuelU3MVMwR0EtZWJ1UQ?oc=5",
+            "category": "AI_Tech",
+            "published": "2026-01-11T21:48:07.569118"
+        },
+        {
+            "title": "새로운 AI 도구, 자궁경부암 방사선 치료 계획 시간을 몇 시간에서 몇 분으로 단축",
+            "points": [
+                "AI 기술을 활용하여 자궁경부암 환자의 방사선 치료 계획 수립 과정을 자동화하고 가속화하는 새로운 도구입니다.",
+                "기존에는 수작업으로 몇 시간이 걸리던 복잡한 치료 계획을 AI가 단 몇 분 만에 정확하게 생성하여 의료진의 업무 부담을 줄이고 환자에게 더 신속한 치료를 제공할 수 있게 합니다.",
+                "이 기술은 의료 분야에서 AI가 진단 및 치료 효율성을 높이고, 환자 맞춤형 정밀 의료를 실현하는 데 기여할 수 있음을 보여줍니다."
+            ],
+            "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxPSE9tbXZxclQ4MWhfSk9oaXQtNVpGX3oyS2FKcW5hOGJyQVlORFA2eGNrUjZDeHV2TXM2eW1HUWJRM3RWaU1mQzVHeTZoUGFYOU5yMlZ5azZUbzFHZXExdDRQUl9yNXNqbmVYWjZGeU1FODJfOC13UDVHSkowSXlaS0htVDF1a210THJmc3ZyQ0k4QWVPQWJhLUFJbUgyaDhLeTNlaktRakhBbE04ZDg0LThEUkU2YzJhWFh3NA?oc=5",
+            "category": "AI_Tech",
+            "published": "2026-01-11T21:48:07.569118"
+        },
+        {
+            "title": "AWS 생성형 AI 서비스를 활용한 텍스트 및 오디오 감성 분석: 접근 방식, 과제 및 해결책",
+            "points": [
+                "AWS의 생성형 AI 서비스를 사용하여 텍스트와 오디오 데이터에서 사람의 감정(긍정, 부정, 중립 등)을 분석하는 방법을 설명합니다.",
+                "이 기술은 고객 서비스, 시장 조사 등 다양한 분야에서 고객의 반응을 이해하고 서비스 개선에 활용될 수 있습니다.",
+                "감성 분석 과정에서 발생할 수 있는 기술적 어려움(예: 복잡한 언어 표현, 오디오 노이즈)과 이를 해결하기 위한 실용적인 접근 방식들을 제시하여, 생성형 AI의 실제 적용 가능성을 높입니다."
+            ],
+            "link": "https://news.google.com/rss/articles/CBMi6gFBVV95cUxNY3ZGZzBGS2J5QzRCcFFFT3dWLVNvVEJBYzlGWHVHYlZuSXZiQkpmWmM3OERzclRzRDN0SmluZmdmbU5xWWRxZEJWcWpZWnkyTzRoTkc5azJsTXhqRlBCSEl5c19jZzY0X01DUnA0QTNWLVp2UTMtT1pXS0FZS3JpVnJ3TE1ZYjZId1ZCNjF2MjZxb2tCZmJDRGNjdHhibnJKZlRsbFF2X25YNXJlSUdyVVlEbTBzdlBQa2h5LVlKRkx5eUFidWhadWNpdkxYTVlIb0gtX1Q1VzY2aXFGbGg0azlneHNMQi1lNlE?oc=5",
+            "category": "AI_Tech",
+            "published": "2026-01-11T21:48:07.569118"
+        }
+    ],
+    "IT_Biz": [
+        {
+            "title": "“AI, 특이점 와버렸다…이 3가지 중요” 머스크 인터뷰 영상③ [이런뉴스]",
+            "points": [
+                "AI 기술의 급속한 발전과 중요성 강조",
+                "산업 전반에 걸친 AI의 영향력 및 미래 기술 트렌드 예측",
+                "일론 머스크의 AI에 대한 비전 제시"
+            ],
+            "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE0tTDZwdWdtZzZKM3g2akVLd2lCOUd3YWxPcU5BUmRqNV9VeTV6Tk5KRnZNTHVDME9hQzJuSkx2Tm5OenFXemFUdGVtcnAzWFU?oc=5",
+            "category": "IT_Biz",
+            "published": "2026-01-11T21:48:30.063970"
+        },
+        {
+            "title": "퀄컴 차세대 AP, TSMC 2나노 독점 유력… 삼성 파운드리 ‘막판 뒤집기’ 안간힘",
+            "points": [
+                "반도체 파운드리 시장의 치열한 경쟁 심화",
+                "TSMC의 2나노 공정 기술 우위 및 시장 지배력 강화",
+                "삼성 파운드리의 전략적 도전과 경쟁 구도 변화"
+            ],
+            "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPMUdndTRrSERoWVMzeVlHQzctUTlsWTFoMXhoZk5QVTE5SUhRWkFaVGRfRU14N3ZYazMyUTV1eW9DMkVQNFJOYnAxZ3hIVF9GaVdfSmotMC13aXJwdkpDYXhoQ3BXSGNoSFY1OFpmbE1XWnA5ZlhrZEowYkRDTHJTYWtfeUJzSU9G?oc=5",
+            "category": "IT_Biz",
+            "published": "2026-01-11T21:48:30.063970"
+        },
+        {
+            "title": "SK하이닉스, 인텔 ‘제온 6’ 뚫었다… 세계 최초 256GB DDR5 인증 획득",
+            "points": [
+                "SK하이닉스의 차세대 메모리 기술 리더십 강화",
+                "데이터센터 및 서버 시장의 고성능 메모리 수요 충족",
+                "글로벌 반도체 시장에서의 경쟁력 제고"
+            ],
+            "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxQQW9XVlJDU2wzdzMySnpLck9BVC0zQ2hEUTBhYktuLU9ZWUwzZWVwTTZiU3FHbWxBMm44WVpQcmM2Zk96NnAyS3oxVzRpYkc5NEtzcnoyOGdmeExLQXZMeWJLMVJRcS1lQkNIb3BDanpvaWJvVlpmR2ZCOGl2UFM4ZXVXR1JrTXBU?oc=5",
+            "category": "IT_Biz",
+            "published": "2026-01-11T21:48:30.063970"
+        },
+        {
+            "title": "\"사상 처음, 올해 아이폰18 출시 포기했다!\" 애플 초유의 사태…무슨 일?",
+            "points": [
+                "애플의 핵심 제품 출시 전략에 중대한 변화 예고",
+                "모바일 시장 및 관련 부품, 소프트웨어 산업에 큰 파급력",
+                "경쟁사들의 전략 조정 및 시장 판도 변화 가능성"
+            ],
+            "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE5aT3ZPSUtKdEtRejdDR3NYeXFFaHBDc0NxVGcydGxwTFp1M1g4OWlzMk1ORmhIaFVJWGZkY2toVU4wRmxMNzI4N3lyUFFMdk5uODNF?oc=5",
+            "category": "IT_Biz",
+            "published": "2026-01-11T21:48:30.063970"
+        },
+        {
+            "title": "[비즈토크] 젠슨 황 만난 정의선 현대차그룹 회장, 자율주행 협력 확대할까",
+            "points": [
+                "현대차그룹과 엔비디아(젠슨 황) 간 자율주행 기술 협력 확대 가능성",
+                "자동차 산업의 미래 핵심 기술인 자율주행 분야 경쟁 심화",
+                "IT 기업과 완성차 기업 간의 전략적 제휴 중요성 부각"
+            ],
+            "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE9yTVRVcGRSei1pcGVCQ21XeW5ybVNOVmgzcjJ0Z2J5TXVLLTc2VVpkNENITjBnWUZGRWNZMTU4ejVGX3ItS2todEhZMkNfLTA?oc=5",
+            "category": "IT_Biz",
+            "published": "2026-01-11T21:48:30.063970"
+        }
+    ],
+    "Economy": [
+        {
+            "title": "작년 1인당 GDP 3만6천달러 턱걸이한 듯…3년 만에 뒷걸음 - 한국무역협회-KITA.NET",
+            "points": [
+                "지난해 한국의 1인당 GDP가 3만6천달러 수준에 턱걸이하며 3년 만에 감소할 것으로 예상됨.",
+                "이는 국가 경제의 성장 둔화 및 생활 수준 저하에 대한 우려를 높이는 중요한 지표임."
+            ],
+            "link": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxObVFDQ3hfS3ZfYlFrOEM4cHpZNDZsclhIOFBnRXdCcGpiZHR1LTJYdTNNaVV4TlpFOUNpUzRQQlBUN0x4N0ZpazhoaFk3a0Njck0zdmJxNHE1QmFneUVFUUpSQkkzaUhKUE11S3czTUJjSl9PNDBWMEZqTmxJWUl1UXJ4eXptNm5MUEFnUTdyS1MxcUNVUGtJQjRLUl9BZEE5Sml6M3Rqbm53ak9VR1pxaDJyaEM3TFRHMW1CSG5EaU54eGRPLW8weF94azRoMDVHaWhvOQ?oc=5",
+            "category": "Economy",
+            "published": "2026-01-11T21:49:02.338811"
+        },
+        {
+            "title": "李대통령 \"'K자형성장' 중대도전 직면…청년고용에 역량 총동원\" - 한국무역협회-KITA.NET",
+            "points": [
+                "대통령이 'K자형 성장'이라는 중대한 경제적 도전에 직면했음을 인정하고 청년 고용 문제 해결에 국가 역량을 총동원할 것을 강조함.",
+                "이는 소득 불균형 심화와 청년 실업 문제 해결이 국가 경제의 핵심 과제임을 시사함."
+            ],
+            "link": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxNZXpPTVlpNTczSzlhUlpiTlR4cVdOMEQ2LVNuc3JGNVZZNVAyOVRtQ0FmaXloUU9QWllCUXJ0amkta05BSEpVOHNCY2g3dm9wcVk1WGZXYXhMTzhxa2NpOEFtekpjcGRXeEtjZFpfXzhKZG9CRFlQazFncjdqZElLZkdoaTlrUXIwZ1kzWXpzdTNqUEFzS3E0ZXlub2kzQnVLWHc4eFJqTXdETXo0SmhPZmIwN3FGd2hRaFhCRmxFb2ptb0pXZk51enZLQTk2aGtYN3NYRw?oc=5",
+            "category": "Economy",
+            "published": "2026-01-11T21:49:02.338811"
+        },
+        {
+            "title": "마트 14년 규제에 전통시장 보호 대신 쿠팡 독주… ‘핀셋 완화’ 요구 확산 - 조선비즈 - Chosunbiz",
+            "points": [
+                "대형마트 규제가 14년간 지속되었으나 전통시장 보호 효과는 미미하고 오히려 쿠팡 등 온라인 플랫폼의 독주를 심화시켰다는 비판이 제기됨.",
+                "유통 산업의 변화에 맞춰 규제 완화 및 재검토에 대한 요구가 확산되고 있어 향후 유통 시장의 지형 변화가 예상됨."
+            ],
+            "link": "https://news.google.com/rss/articles/CBMiigFBVV95cUxNTXJnNmYwZFpMT0lWRHc2NzM5d1pwTFFsQ3d3V1JBSWpsd05fNnJlQkZCVVktanhocE1SRUxrRFNlQ3ozajdqRDZsUDNYX3U0WDlEbEh6djJ6dzVaOWllV3RybTdOeFg0dC1TelhINVZ2R1dWWDBBVUFvMnhya3VNMUlhMkdhaU53VnfSAZ4BQVVfeXFMTy1iU1JndVBONkdEUDNMdFVPam5yRWE3cGlVbnBkNTdNWmlibS1maWJKRjhyei05ZF9NX1ZzcTZYN3AxSHQ2NTYySUdhWndCS0VYM2pQcUR6OHRnTXZTOGpoTDJYY2Z3ODROamlmSzd6NFR4RmY3aml4cGhFa2xEc3lqWFBqU0VkdGpHUEhYQ3gwTThpMDViQ3Q3LUxvRFE?oc=5",
+            "category": "Economy",
+            "published": "2026-01-11T21:49:02.338811"
+        },
+        {
+            "title": "눈앞에 온 ‘피지컬 AI 시대’…로봇 해킹 위협도 현실화 - 한겨레",
+            "points": [
+                "물리적 세계에서 직접 작동하는 '피지컬 AI' 시대가 도래하며 산업 전반에 혁신적인 변화를 가져올 것으로 전망됨.",
+                "동시에 로봇 해킹 등 새로운 보안 위협이 현실화되고 있어 기술 발전과 함께 이에 대한 대비가 중요해지고 있음."
+            ],
+            "link": "https://news.google.com/rss/articles/CBMickFVX3lxTE1tQUxKMTJld0hTQV8tYnFoZVFkSVo5VWxLZHRCQU5lajI0T2pnNHFVaVotZjBxX1hGTGl5QWZYNTZuck9NRGlhSlVsNmNIOWx3LWtpOGRIVHZYV245R0ZrdnFGRGI0LUwzOWNtbEFZcFRpdw?oc=5",
+            "category": "Economy",
+            "published": "2026-01-11T21:49:02.338811"
+        },
+        {
+            "title": "옥수수 가격 강세에 세계곡물가격지수 2개월 연속 상승 - 돼지와사람",
+            "points": [
+                "옥수수 가격의 지속적인 강세로 인해 세계 곡물 가격 지수가 2개월 연속 상승세를 기록함.",
+                "이는 전 세계적인 인플레이션 압력을 가중시키고 식량 안보에 대한 우려를 높이는 주요 경제 이슈임."
+            ],
+            "link": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE5NNl82SUl5QVNlbFVvS3E5Q0VTOWJFdlNpd2lrVXdEdjVLckVrbVpqRlNxMHVIeThtM3RaeGc4LTZfclUtQlNoZnlkclRoZnBxalFPQmhHX0JHT2E4TnZJVzBB?oc=5",
+            "category": "Economy",
+            "published": "2026-01-11T21:49:02.338811"
+        }
+    ],
+    "World": [
+        {
+            "title": "유엔 안보리, 12일 러시아 공습 관련 긴급회의…우크라 요청",
+            "points": [
+                "러시아-우크라이나 전쟁의 지속",
+                "유엔 안보리 긴급회의 소집",
+                "국제 사회의 우려와 대응"
+            ],
+            "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE1UUFdyMXpaSGh0SHJZejI2Nm9VMmFJSnlhQ1pkbnB3cGl0RGxLM3BpRDI5UkIweHlwQkcyMDZDN18xWExFNDlOUG1XbzN4U3FaQXp3SEZkcFk4YjQ?oc=5",
+            "category": "World",
+            "published": "2026-01-11T21:49:33.025936"
+        },
+        {
+            "title": "미·우크라, 1천200조 규모 ’번영 재건’ 합의 체결 예정",
+            "points": [
+                "미국과 우크라이나의 대규모 재건 합의",
+                "1200조 원 규모의 경제 지원",
+                "전후 우크라이나 재건 및 서방과의 결속 강화"
+            ],
+            "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE1sX0JJdlY3UVRwd3pJVnZBVUdsN3htSlVKbV8yWjVCRGRPWmx5NDAtb1JRQ0JQYXhkQUNhdzA1LVU1YWt3SU1CcDNTcFpoSkczbEFYYmRneVFvUdIBX0FVX3lxTE1hREpST2VMR0Etd0daRTlQUWR0NzNCb3g4X042b21maVZjQkxfSHVVSm9NbTBiUG5xeTFHeXlmXzVZakFYekRLbWt3a2tia3hBU2NBVFRpVEY4Zk9QanZj?oc=5",
+            "category": "World",
+            "published": "2026-01-11T21:49:33.025936"
+        },
+        {
+            "title": "이스라엘, 트럼프 대이란 군사작전 가능성에 경계태세 돌입",
+            "points": [
+                "트럼프의 대이란 군사작전 가능성 언급",
+                "이스라엘의 경계태세 돌입",
+                "중동 지역 긴장 고조 및 확전 우려"
+            ],
+            "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE9WRzBEN3JZdC1OM2lwc2ZvLTJDdGRmMGRRdUc1cEdzckpZZGlIbkU2UUh4TWdScXJHTWlyTjRLb2hpdXg5QmR5Q0V0cm1nQ0NRaW13VFVic0lqWkHSAWBBVV95cUxNbVB3RXZoWmdyRXBFYl9XcGlPM3ZNT2ptRVA1XzZ5Rnp0dmtoU3RBQmNmaHpTbWI4THQ3ZTY2YmppakpOaFdldnRHMFQyTENfMVdFRzB5UmFaSmhQQjRGZUE?oc=5",
+            "category": "World",
+            "published": "2026-01-11T21:49:33.025936"
+        },
+        {
+            "title": "이란 시위 사망자 116명... “대부분 근거리에서 실탄이나 고무탄에 희생”",
+            "points": [
+                "이란 반정부 시위의 심각한 인명 피해",
+                "정부의 강경 진압 및 인권 문제 부각",
+                "국제 사회의 관심과 비판"
+            ],
+            "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxNSFZkbGxOLVg0RDFlbGpuWTd0LW5ldEk3SDJTNHNfRmhRRnhzb3dMMTk1S0QzQUF4RnBNWmFwbkZZeWRKQnRhRTRyU2dhLTZ2V0o3dzAtbk4wcm9YQlN2QjhFTEtsaWNrSEdGbV9URktJbjhDNjlKR2M5QkxUdDVPY3EyOF9udlZaYWI2MUZiSjdxaTlGTUVSUnlMRlRBd9IBsgFBVV95cUxOLTBmUG9Qang5QUNjMGk3MmVkTlg2TlQ4NHdJSGhzTm1Bb2lrN1lVTDh6bWxadUNBLThTSkV2cU92akZqMW9qR0JSRFZVY0Nmck9JWE1yNlhFYmtLTHlDZVB5emRSSTRLbHJGRE9OWHZlRlFPV2VvTlE4UVNndG0yX3VXUlEtcVg0VlZIM3NEOW0ya0hGQzZaclRheWc2OWZteHZRMGR5T3RuT0J3dUhkMkxn?oc=5",
+            "category": "World",
+            "published": "2026-01-11T21:49:33.025936"
+        },
+        {
+            "title": "일본, 개정 안보문서에 '태평양 방위 강화' 명기‥중국 견제 목적",
+            "points": [
+                "일본의 안보 정책 변화",
+                "태평양 지역 방위력 강화 명시",
+                "중국 견제를 위한 전략적 움직임"
+            ],
+            "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTE1oN3VTZnQxY3dXalJxbFNzb2lYYzBUNlVaeWJidE9Na1VRcnZaVUlMc3JpaE1qS2xkUWJaOEI0NEJKSWxlOHhGNFVCbHhVYmdsQU1iNjZRUzF2eTNpQll0LV9lVGxQSDZyYlJMMVA2RlNoM3Rf0gF0QVVfeXFMTVIxYnM2QUlSdWFkLXdKeFd0UkcwWlZHeTNidW9WMUgwVHYzenRHUkl1WGF6Z3JXQ1JwNEs2MDhBVlFhZ2JWLU10RnN1V1JoSDdXMUlKR2ZNeWl3bDRkVW9rYnF4RDdGYmREbGZQNWFzZjdlYXA?oc=5",
+            "category": "World",
+            "published": "2026-01-11T21:49:33.025936"
+        }
+    ]
+}
