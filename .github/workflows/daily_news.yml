@@ -1,1 +1,42 @@
 
+name: Daily Tech News Crawler
+
+on:
+  schedule:
+    - cron: '0 21 * * *'  # UTC 21:00 = KST 06:00 (한국 시간 아침 6시)
+  workflow_dispatch:      # 수동 실행 버튼 (테스트용)
+
+permissions:
+  contents: write         # 봇이 리포지토리에 파일을 쓸(Commit) 권한
+
+jobs:
+  run-crawler:
+    runs-on: ubuntu-latest
+    
+    steps:
+      - name: Checkout code
+        uses: actions/checkout@v3
+
+      - name: Set up Python
+        uses: actions/setup-python@v4
+        with:
+          python-version: '3.10' # 3.10 이상 권장
+
+      - name: Install dependencies
+        run: |
+          python -m pip install --upgrade pip
+          pip install -r requirements.txt
+
+      - name: Run crawler
+        env:
+          GEMINI_API_KEY: ${{ secrets.GEMINI_API_KEY }} # GitHub Secret에서 키 가져오기
+        run: python crawler.py
+
+      - name: Commit and push changes
+        run: |
+          git config --global user.name 'News-Bot'
+          git config --global user.email 'news-bot@noreply.github.com'
+          git add data/news_data.json
+          # 변경사항이 있을 때만 커밋 (에러 방지)
+          git commit -m "Update news data: $(date +'%Y-%m-%d')" || exit 0
+          git push
