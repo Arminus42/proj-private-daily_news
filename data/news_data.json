@@ -1,225 +1,225 @@
 {
     "AI_Tech": [
         {
-            "title": "합성 데이터와 강화 학습을 활용한 명령줄 AI 에이전트 훈련 방법",
+            "title": "칭화대학교 네이처 연구: AI, 논문 작성 속도 3배 향상, 그러나 과학적 한계는 여전",
             "points": [
-                "AI가 복잡한 컴퓨터 명령줄(CLI) 작업을 스스로 학습하고 수행하도록 훈련시키는 혁신적인 방법을 소개합니다.",
-                "실제 데이터를 모으기 어려운 경우, 컴퓨터로 가짜 데이터를 만들어(합성 데이터) AI를 학습시키고, '강화 학습'이라는 방법을 통해 AI가 마치 게임을 하듯 시행착오를 겪으며 가장 효율적인 작업 방식을 스스로 찾아내도록 하는 기술적 원리를 설명합니다."
+                "AI가 과학 논문을 작성하는 능력이 크게 향상되어, 인간보다 3배 빠르게 초안을 만들 수 있다는 연구 결과가 발표되었습니다.",
+                "이 연구는 AI가 기존 지식을 조합하고 정리하는 데 매우 효율적임을 보여주지만, 새로운 과학적 발견이나 혁신적인 아이디어를 제시하는 데는 여전히 한계가 있음을 지적합니다.",
+                "이는 AI가 데이터 기반의 패턴 인식과 정보 재구성에 능숙하지만, 인간의 창의적 사고나 근본적인 과학적 질문을 던지는 능력과는 다르다는 점을 시사합니다."
             ],
-            "link": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxQN09EaTBVVjdBbTNPY0RYX3ZxSTJEYmI0NlpRSE5PYnk5QnVkdVhSQmRCR05xV0VTMXVOb2xvQjVtaURPS25XTkVBR0JFTXpnWW5ISDJLV2VWdVItSk1LcjBUWUpLbEJpWkpGVHlUWi1KTzNqQTBjMUx2OTFzcHBTOXpkZUlnREhKMkZlb0xDRmdHZ1R2ZU03YkVzTG5ZbnNzSkRRZzF2TF9RX2ZWbzdwQS1lNlNKckRBZXg5VmthOFZBTkNna3JaNQ?oc=5",
+            "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE1wWW4ybWZwa3NCLXdoNlM3UmVYb1hLYndPT0Y3OVlaUUhtTWdzV2xNX3RhZFh6NUYzV2I0QzEySGNsbDFGLVY1SGxxajhuQUZpZWVv?oc=5",
             "category": "AI_Tech",
-            "published": "2026-01-18T00:39:43.242191"
+            "published": "2026-01-20T02:49:43.910613"
         },
         {
-            "title": "머신러닝 데이터 오염: 훈련 데이터 조작의 이유와 방법",
+            "title": "은행들이 머신러닝과 생성형 AI를 자금세탁방지 감시에 책임감 있게 통합하는 방법",
             "points": [
-                "AI 모델이 학습하는 데이터(훈련 데이터)를 악의적으로 조작하여, 모델이 잘못된 판단을 내리거나 특정 의도대로 작동하게 만드는 '데이터 오염' 공격의 개념을 설명합니다.",
-                "이러한 공격은 AI 시스템의 신뢰성과 보안을 위협하며, 이를 막기 위한 기술적 방어 전략과 AI 모델의 견고성을 높이는 연구의 중요성을 강조합니다."
+                "은행들이 복잡한 자금세탁방지(AML) 시스템에 머신러닝(기계 학습)과 생성형 AI를 도입하면서, 기술적 효율성과 함께 윤리적, 규제적 책임감을 동시에 고려하는 방법을 다룹니다.",
+                "AI 모델이 특정 그룹에 대한 편향된 판단을 내리거나, 왜 그런 결정을 내렸는지 설명하기 어려운 '블랙박스' 문제를 해결하기 위한 기술적 접근 방식이 중요하게 논의됩니다.",
+                "이는 AI 기술이 금융과 같은 민감한 분야에 적용될 때, 투명성, 공정성, 그리고 규제 준수를 어떻게 확보할 것인가에 대한 실제적인 해결책을 모색하는 과정입니다."
             ],
-            "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxNd193T2p0a1Y2MjE0Q2x6MDU3ZWNFenF2WncxOEdOWndEUUdEXzZ5dVBGN3BUUkxhMENQdGFURDVxVUR4SW1aclBpd0hSaF9RczcwLUE0RGFERlpDekthajFOWk5pZ0RtMFJRcHlXWmRXQ29yelNNOUVWa3BQVHBZem9XUmRxQ2xBN0o5RnktaUU5TFZ1UGhmWlRpMW9tQS1fU3B2bEtubEFZN2ZIRUp3?oc=5",
+            "link": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxPdDZ1cjJuZUpSeVg3cUZ2SnVIckZyU2NTNUVZQWlHYnNybi10YTM2bjBwUWFneXFTX1htX2tsTElhcnNCbkw2OW83N0lFVGluT19iZjVrRXZhV2hmTUpPSVV2TXIwV25wU2JiX1FzQjJjV1kwLTlESnprN0s4ckh3WFc4WFJwZ3VHYkU0TEdGVzJvbUwtVExLdGl3VHA1b0pYeUx4QjV6MlR0TnRBWnZDXzdQOGdRdXpXTmUtREdwS1RLRjcxck5XZjhXNnM0YmRMTkZv?oc=5",
             "category": "AI_Tech",
-            "published": "2026-01-18T00:39:43.242191"
+            "published": "2026-01-20T02:49:43.910619"
         },
         {
-            "title": "Amazon Bedrock Guardrails로 생성형 AI 애플리케이션 보호하기",
+            "title": "유니젠, 생성형 AI 애플리케이션으로 엣지 포트폴리오 확장",
             "points": [
-                "아마존 웹 서비스(AWS)에서 제공하는 'Amazon Bedrock Guardrails'라는 기술을 활용하여 생성형 AI 서비스가 부적절하거나 유해한 내용을 만들지 않도록 안전하게 관리하는 방법을 설명합니다.",
-                "이 기술은 AI 모델이 특정 주제나 정책을 벗어나지 않도록 미리 정해진 규칙에 따라 AI의 응답을 필터링하고 제어하는 일종의 '안전망' 역할을 하여, AI의 책임 있는 사용을 돕습니다."
+                "클라우드 서버가 아닌 스마트폰, IoT 기기 등 최종 사용자 기기(엣지 디바이스)에서 AI 모델을 직접 실행하는 '엣지 AI' 분야에 생성형 AI 기술을 적용하는 동향을 소개합니다.",
+                "이러한 확장은 데이터 처리 속도를 높이고, 개인 정보 보호를 강화하며, 네트워크 연결 없이도 AI 기능을 사용할 수 있게 하는 등 엣지 컴퓨팅의 장점을 생성형 AI와 결합하려는 시도입니다.",
+                "제한된 자원(전력, 연산 능력)을 가진 엣지 기기에서 복잡한 생성형 AI 모델을 효율적으로 구동하기 위한 모델 경량화 및 최적화 기술 개발이 핵심 과제입니다."
             ],
-            "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxNVkdKYmYwR25qWXozcFpzbjVYdkd3T0hLeWIwbkJlMjRNMTZ1Z3FoTVZQcm5JOUNkYldSbkVYeExwNG93SXUwT0tneDlUTEtiWlFqcnl2M2ExMTRTQnBBM0hyaVVtV3hrcWRacldRQWFIUEcyRGFsa21obE5qLVpZc0pwZ0VGcGM1XzFYTldSWHBMUFlpSjRaTWZWTmNjZnNGc0hMYkNBblI4dWpHcldJU3phYWs?oc=5",
+            "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxPVUdDQ0JpcGZYTXU4M2ZiVzVWUlZKNldPX3VNTGR2aVlrc1dwUTJabzNkRVFBclIzV1NaZ29VcWUyakZRRnlwMzd3d1I3YXBaR0NJLUc0SWdWSlUwbHRaRUthUGJwd0FDR2QxQlJsUnNJUHNfdkpQTU4tR0xjdkJIU0pLcVZkZEI2c0Jfa3RTWHl2SUNxajF3Zk9MWmYwQQ?oc=5",
             "category": "AI_Tech",
-            "published": "2026-01-18T00:39:43.242191"
+            "published": "2026-01-20T02:49:43.910620"
         },
         {
-            "title": "의료 기술 분야 생성형 AI를 위한 모범 머신러닝 개발 사례",
+            "title": "버텍스 AI 소개",
             "points": [
-                "의료 기기 및 진단 산업(Medtech)과 같이 매우 민감하고 중요한 분야에서 생성형 AI를 안전하고 효과적으로 개발하기 위한 기술적 지침과 모범 사례를 제시합니다.",
-                "환자의 안전과 진단 정확성을 최우선으로 고려하여, AI 모델이 신뢰할 수 있고 예측 가능한 결과를 내도록 설계하고 검증하는 기술적 접근법을 다룹니다."
+                "구글의 통합 머신러닝 플랫폼인 '버텍스 AI'에 대한 소개로, AI 모델 개발의 전 과정(데이터 준비, 모델 학습, 배포, 모니터링)을 한곳에서 지원하는 다양한 도구들을 설명합니다.",
+                "이 플랫폼은 개발자들이 복잡한 인프라 관리나 여러 도구를 오가는 번거로움 없이, AI 모델 개발 자체에 집중할 수 있도록 돕는 것을 목표로 합니다.",
+                "특히, 머신러닝 운영(MLOps)을 위한 자동화된 파이프라인과 모델 관리 기능을 제공하여, AI 프로젝트의 효율성과 안정성을 높이는 데 기여합니다."
             ],
-            "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxNTE9HU1Z0YjlTaDFhU2xlenlvZ0lnN3Q2aDh1N1lzTnRKWW1JajdJUGpiSlNMYXhmempTdHlsby1RM2JhN0Z4ajFBTWJlSUpZNUllQTRwY1N5SDNwVHN0bHlUVXRrT1VBWlE5c2pXbzE5YTJnd0RsODVzVFNUNGVGRC1wV3h1SmhhUDR1Y1VxUEtodlR5V29fQk9Uc1QyNmMxbkNtY0tfUGQzYnZuQ0I2Nl9aZ3Zob1p4amlidUR1Zw?oc=5",
+            "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE56dHJMbzNzbWNXY3FkUGtEQkJmb3psM091V1RJTWxhUlVyY0JqanItcjdEVW94Qm8tTFdBR0d1bnl2NmdtWmFvRElZVkpnWWpNdk5hWUF3anZjTlV1c2Nn?oc=5",
             "category": "AI_Tech",
-            "published": "2026-01-18T00:39:43.242191"
+            "published": "2026-01-20T02:49:43.910622"
         },
         {
-            "title": "현실 세계의 생성형 AI: 신뢰할 수 있는 AI 시스템 구축의 중요성",
+            "title": "AI 과대광고 해부: 기본 원리부터 생성형 모델까지",
             "points": [
-                "생성형 AI 모델을 실제 산업이나 서비스에 적용할 때, 단순히 잘 작동하는 것을 넘어 '신뢰할 수 있는' 시스템으로 만드는 것이 얼마나 중요한지 강조합니다.",
-                "AI가 항상 정확하고 안정적으로 작동하며, 예상치 못한 상황에서도 안전하게 대응할 수 있도록 모델의 견고성을 높이고 오류를 줄이는 기술적 설계와 운영 방안에 대해 다룹니다."
+                "AI 기술에 대한 과장된 기대와 실제를 구분하기 위해, 인공지능의 기본 원리부터 최신 생성형 모델(예: 챗GPT 같은 텍스트 생성, 이미지 생성 AI)까지 심층적으로 분석합니다.",
+                "머신러닝, 딥러닝 등 AI의 핵심 개념과 함께, 텍스트나 이미지를 스스로 만들어내는 생성형 AI 모델이 어떻게 작동하는지 그 원리와 잠재력을 쉽게 설명합니다.",
+                "이 기사는 AI 기술의 근본적인 이해를 통해 현재의 'AI 열풍' 속에서 기술의 실제 가치와 한계를 명확히 파악하고, 보다 합리적인 관점을 가질 수 있도록 돕는 것을 목표로 합니다."
             ],
-            "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxNelU0T01uYXJuSE1tNkZ5YTRHSG42c2xMTHlwN3JySUU0XzQzYTRVRWVBWWd5VHk5ZHpqejFUSUxvaG1RS2dVVFdUMEs0aEJ4U3pYWFotWUhfWndiYUJIZ2lYVl9MdXFiSXJsMm95bkt2aUNPbHR2MTZKSmtiVGlrRFhRMVZxSTVBam93RERaR09KVDZkajQtZUtEbmgyQnpGcXBOblFER3hZdERQVzJuNU1jYS1QOXI2d1hCa2NaTHM1UQ?oc=5",
+            "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxQc1BsWmlrcTZQdVFLQjdObXctYkZwc3JsampzR1hIWWZVUEhjaG1yRWs3X0ttV0RTRXBhbkZxMnNuYmNaRmtGdFc1RHB6WjZNWElJR2d4dUd2X2x0X2dxY3h2dktIc213ZzBYNWN2VjUySlRSWDZ4UVBJalkzOVM2ajlVTk5VUzB2R3M4MEpXMDVIYy1SbG10Yk9mMmlya2E5UGlhV1FEdndnZG9Fano4?oc=5",
             "category": "AI_Tech",
-            "published": "2026-01-18T00:39:43.242191"
+            "published": "2026-01-20T02:49:43.910622"
         }
     ],
     "IT_Biz": [
         {
-            "title": "쏟아지는 전기차 폐배터리, 어쩌죠?…“300조 돈벌 기회인데 무슨 걱정” - 매일경제",
+            "title": "챗GPT 오픈AI, 18개월 내 파산 위기…머스크 197조 원 손배소 제기",
             "points": [
-                "전기차 폐배터리 재활용 시장이 300조 원 규모의 새로운 비즈니스 기회로 부상하며 IT 기술 기반의 솔루션 개발이 중요해짐.",
-                "환경 문제 해결과 동시에 경제적 가치를 창출하는 순환 경제 모델의 중요성이 부각되며 관련 기술 및 인프라 투자가 가속화될 전망.",
-                "배터리 재활용 기술 개발 및 관련 산업 생태계 조성은 미래 모빌리티 및 에너지 산업의 핵심 동력이 될 것."
+                "오픈AI의 챗GPT 파산 위기 가능성 제기",
+                "일론 머스크가 오픈AI에 197조 원 규모의 손해배상 소송 제기"
             ],
-            "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE1SY1FPRDZLcTZWN2tnbElhZVRxczVLS2w0N0JvZW9oa0tYeUw5azRzXzV0XzZXSUFmV25QOEJMMFFMbTRWYkQwcTVBMktsUkRZbVNkaUNB?oc=5",
+            "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxOTU1ZWjJMTDI0VUFHYlpzTWEyV3pPOVBzMkhjVjhyR3BZZndLa05hZnJoRXdoUER1dFZwVkpFaUdkYTJiVTVWb1hXT2lDU0VWeWJzRHVJdmtGN1dKYTVhdGRiNkxuTHZQRk05eVNwYUtGNDlEYVNpTVBfcWNoNno1RUl2a1BPeWdN?oc=5",
             "category": "IT_Biz",
-            "published": "2026-01-18T00:40:17.847504"
+            "published": "2026-01-20T02:50:15.402900"
         },
         {
-            "title": "북한 되려는 이란... 국제 인터넷망 영구 차단 추진 - 조선일보",
+            "title": "오랫동안 기다려온 Apple의 폴더블 iPhone은 삼성의 혁신적인 기술로 눈에 띄는 주름 없는 화면을 갖게 될 것입니다.",
             "points": [
-                "이란 정부가 국제 인터넷망 영구 차단을 추진하며 디지털 고립을 심화시키려는 움직임은 글로벌 인터넷 자유와 정보 접근성에 심각한 위협이 됨.",
-                "이러한 조치는 이란 내 글로벌 IT 기업들의 서비스 운영에 막대한 차질을 초래하고, 데이터 흐름 및 디지털 경제 활동에 부정적인 영향을 미칠 것.",
-                "국가 주도의 인터넷 통제 강화는 전 세계적으로 디지털 주권 및 사이버 안보에 대한 논의를 촉발시키고, 우회 기술 개발의 필요성을 증대시킬 수 있음."
+                "애플의 폴더블 아이폰 출시 임박 소식",
+                "삼성의 혁신적인 주름 없는 화면 기술이 적용될 예정"
             ],
-            "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxPWFRtc0tTY1RFNVhRN2hTZHJOaVBITExsOERIRzMzTW9jLUxydUVwQ2xJMzBnWEhBcTQwLWEyMkVDLWZROUd5WFRSV2RsNUZWMlhqWlhEdF9XVUJLY0R1Y0tUODV0Z1EweGJCNHc1QXZvcDRCSlRJdHUtMjkyTXFtcWFjTXNPYmdCR2Jkb0JfVGpiU18yOGZySF9fSmQ3d9IBsgFBVV95cUxQRmluSnlCSVZwVURvNEcxOEk0WnEzS3p3R1hfaEhnT0ZZaXdYZHpHUFgxZVdRX1N1WU9xYzFhSFl4MTZ4dEd0UDZaWlp4enpBVUduLXg4LXRzdG9WUG0tNHZpeHZCa3hnU3ZGUkxhaVY5endCUC1WWElLdGdNN3JLSTk5dW1mVkVNUlN3Z2plZlZzbzdXNXpScjg2cllTX2t4dWNtTDlvVDBKRkprczh3ZWhB?oc=5",
+            "link": "https://news.google.com/rss/articles/CBMi2wJBVV95cUxNV1VCOTJvWmFVVEZ2bHYtWEt4WGdkZ0t6VkF6T1RESmF0dktIZjNVN2VSMGhTSFREbzdjUDZPajY0OUF4Z0VRSE5oRnBLRjI1dGdjMmRGRjU4Y3VSSjI2UXVwa1ZkRy1pUnlsNlVPQm5hZjB4OEZTWGhKakk0V0dnWkhTcmlXc213VWREbFRvTHg4WXBjSWhpTkRuRThhTmwyTEZEblZjMmJ6b3A0ODlYWno2b1JYMktKQXRFZmJ6RHFEVFF0dFFmVGdtU3FrbXE2SnJfUVJIZVZxYi1hMFVZbGxFa05wa3A4Z0V4U0w1MmlsNWdwSWZPbzRCb1BzV0w4bWtWaXpBSHpUcTdqNFY1WTFjT3ZsMmd5UTRRcUFDZnFkQkgyM0ktS0FhY21QNTBZQ0d3MVhLdWduRWlMTHV5WGs1UmhlaXp4RmFuSG5EX1RZZERTUWhfNjdFa9IB2wJBVV95cUxNV1VCOTJvWmFVVEZ2bHYtWEt4WGdkZ0t6VkF6T1RESmF0dktIZjNVN2VSMGhTSFREbzdjUDZPajY0OUF4Z0VRSE5oRnBLRjI1dGdjMmRGRjU4Y3VSSjI2UXVwa1ZkRy1pUnlsNlVPQm5hZjB4OEZTWGhKakk0V0dnWkhTcmlXc213VWREbFRvTHg4WXBjSWhpTkRuRThhTmwyTEZEblZjMmJ6b3A0ODlYWno2b1JYMktKQXRFZmJ6RHFEVFF0dFFmVGdtU3FrbXE2SnJfUVJIZVZxYi1hMFVZbGxFa05wa3A4Z0V4U0w1MmlsNWdwSWZPbzRCb1BzV0w4bWtWaXpBSHpUcTdqNFY1WTFjT3ZsMmd5UTRRcUFDZnFkQkgyM0ktS0FhY21QNTBZQ0d3MVhLdWduRWlMTHV5WGs1UmhlaXp4RmFuSG5EX1RZZERTUWhfNjdFaw?oc=5",
             "category": "IT_Biz",
-            "published": "2026-01-18T00:40:17.847504"
+            "published": "2026-01-20T02:50:15.402906"
         },
         {
-            "title": "머스크 “올트먼, 날 속였다”···오픈AI·MS 상대 198조원 규모 손해배상 청구 - 경향신문",
+            "title": "[단독] \"샤오펑 자율주행 씁시다\" 충격…'기술내재화' 현대차에서 왜?",
             "points": [
-                "일론 머스크가 오픈AI와 마이크로소프트를 상대로 198조 원 규모의 손해배상 소송을 제기하며 AI 개발의 '오픈소스' 정신과 '상업화' 사이의 갈등이 심화되고 있음.",
-                "이 소송은 AI 산업의 미래 방향, 지적 재산권, 그리고 주요 빅테크 기업 간의 경쟁 구도에 막대한 영향을 미칠 것으로 예상됨.",
-                "AI 기술의 윤리적 사용, 개발 주체의 책임, 그리고 인공지능이 인류에게 미칠 영향에 대한 근본적인 질문을 던지는 계기가 될 것."
+                "현대차가 중국 샤오펑의 자율주행 기술 도입을 검토 중",
+                "현대차의 기존 '기술 내재화' 전략에 대한 의문 제기"
             ],
-            "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFBIYVhGbTRaczJiTkJhaTVNdW5oQzJMRnZweGFqY04zSEo0U3pQelBjQzZnRTRIbVVlNGJWSWI2blNjZkFIb25rdThKQnhLNXJQMVlPZXE5OFA3QdIBX0FVX3lxTE1PMXdIbXlfMTBWT3RiX0VpR2gxdDY1RWR0OUdvM01weVdiaVUwRlcxbXlxZnQwZDFhMEU1M050YWQ3VTA5bFdlaFdSUkxmT2FKQkYyNHp1alhQZW1kbmpr?oc=5",
+            "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE1GSjV5N0RUbmhhVTMzdWRoYlpydHcwMlJRMGxUR3FhWTFMTXBrd2R6Q3U0YThnZ2czckROOVAxY3ZVa3JIR2J3TE1WMVUzb1VWME9B?oc=5",
             "category": "IT_Biz",
-            "published": "2026-01-18T00:40:17.847504"
+            "published": "2026-01-20T02:50:15.402907"
         },
         {
-            "title": "아이폰 유저들, “참을 만큼 참았다”…구글에 백기 든 애플 - v.daum.net",
+            "title": "'3천만원대 테슬라' 나왔다…전기차 가격전쟁 시동",
             "points": [
-                "애플이 구글의 RCS(Rich Communication Services) 메시징 표준을 도입하기로 결정하며 모바일 메시징 시장에 큰 변화를 예고함.",
-                "아이폰과 안드로이드 기기 간 메시징 호환성이 크게 개선되어 사용자 경험이 향상되고, 플랫폼 간 장벽이 낮아질 것으로 기대됨.",
-                "이번 결정은 모바일 메시징 시장의 경쟁 구도에 영향을 미치고, 빅테크 기업 간 상호 운용성 확대의 중요성을 부각시키는 사례가 될 것."
+                "테슬라가 3천만원대 전기차를 출시하며 가격 경쟁력 강화",
+                "전기차 시장의 가격 경쟁이 본격적으로 시작될 전망"
             ],
-            "link": "https://news.google.com/rss/articles/CBMiRkFVX3lxTFA4dGdETmRzRU5QeDA3cGYxbHJUNjNsN05hSnNTblFRWUptamJBQWNDMEFhcXQ3cURkZTJtU0VsNWpZaWMtdWc?oc=5",
+            "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE5WQkFXc0Vud3NOSndzTDV6NUFScVZBZ29pbmJhbXFzY1NNQ2VKbzhNcGl0am9TVnptXzhCN3JwWl9VWkl1SjZwVWNrVFMtRF9ESTIzYXhR?oc=5",
             "category": "IT_Biz",
-            "published": "2026-01-18T00:40:17.847504"
+            "published": "2026-01-20T02:50:15.402908"
         },
         {
-            "title": "비트코인(₿BTC), 美 전략비축 자산 공식화…트럼프 행정명령 따라 매각 안 해 - tokenpost.kr",
+            "title": "[속보] 비트코인 · 리플 \"와르르 급락\" 그린란드 전면전 암호화폐 강타 ... 뉴욕증시 휴장",
             "points": [
-                "미국이 비트코인을 전략비축 자산으로 공식화하고 매각 금지 행정명령을 내리면서 암호화폐의 제도권 편입이 가속화되고 있음.",
-                "이는 비트코인의 자산으로서의 위상을 강화하고, 글로벌 금융 시장에서 암호화폐의 역할과 국가 자산 포트폴리오 변화에 대한 논의를 촉발시킬 것.",
-                "세계 최대 경제 대국의 이러한 움직임은 다른 국가들의 암호화폐 정책에도 영향을 미치며, 디지털 자산 시장의 안정성과 신뢰도를 높이는 데 기여할 것으로 예상됨."
+                "비트코인과 리플 등 주요 암호화폐의 급락 사태 발생",
+                "글로벌 암호화폐 시장에 큰 충격과 영향"
             ],
-            "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE16cGh6c3lvQU1XTzN1MXJnQXp4N0tGMDQ5YldpaW10eEh2dThpZXdzcGIzdnNIZlhoaXNMcDd2OUlXRm5zc0xjMWtHWDdTbTFsbnlIWGdZclFmcE9mNUE0MA?oc=5",
+            "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNNWgtbDZEcGNiZWZWaGE5WURzNE81aGpMQWJ5YXNDaGh5Q09VR2NVRmIyVl9jWGhSZkFpT29xUktIMDVWTFRmUGg5TE90Ti1MeFJBbmxaOWdmQzJHVXV6M0dyazVtbDdmcVNTWjhUZ0l3cXpSYUNiQmV1MElMQlFSbDY4YnlEcGsy?oc=5",
             "category": "IT_Biz",
-            "published": "2026-01-18T00:40:17.847504"
+            "published": "2026-01-20T02:50:15.402909"
         }
     ],
     "Economy": [
         {
-            "title": "미 상무장관 “반도체 관세 100% 맞든지 미국에 투자하든지”···한국 등에 압박 - 경향신문",
+            "title": "원/달러 환율 1.6원 상승…사흘째 1,470원 웃돌아",
             "points": [
-                "미국, 한국 등 반도체 기업에 투자 또는 100% 관세 부과 압박",
-                "글로벌 반도체 공급망 및 국제 무역 관계에 중대한 영향",
-                "한국 경제 및 주요 산업에 직접적인 파급 효과"
+                "원/달러 환율이 1,470원을 웃돌며 사흘째 상승세를 기록",
+                "고환율 장기화로 수출입 기업의 채산성 및 물가에 부정적 영향 우려",
+                "거시경제 안정성 및 금융시장 변동성 확대 가능성 주목"
             ],
-            "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE1fMm1abDV2cnFzNXVHOHVpb2VoNGx1T19hQ2xLeUY2dEdEVmE5Z2lidXpZZ29YcmVEMHlZc0Z0LXhGcVRGVXV6VzNnejNsejVMdncxeDlZV28wUdIBX0FVX3lxTFBHQkVBbVZ5bkVoWk9hMmdWZG9RTzV5M29lUnE4SHhBY0xyVFhwNVVLcXlRZDVRVXNFR3BNYldONjZjSDRXSHdGRTVTVzdWTFVULV9ZcXNqR0ExNzZaazhr?oc=5",
+            "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTE1WS0lta2hUQ0ZvaUx6bklkRnRmUjJxdlFXRWdybVdfM2F0cHBKX3BnQlhoRXpoZHpsMVZITUZfUnIyTEdzTVR4ajlPSkdCelpzMTk4S3JqUlhKMDJiT25hdVEwakZ3QXZ6cGRqc1FRRktqS01U?oc=5",
             "category": "Economy",
-            "published": "2026-01-18T00:40:51.609339"
+            "published": "2026-01-20T02:50:40.690993"
         },
         {
-            "title": "'백약이 무효'인 '최악 환율 컨트롤타워' … 남은 것은 '한·미 통화스와프' - 뉴데일리 경제",
+            "title": "\"코스피 5,000 앞두고 ‘트럼프 관세’ 암초…단기 속도조절 국면\"",
             "points": [
-                "환율 관리 정책의 한계 및 효과 미미 지적",
-                "국가 경제 안정성 및 대외 건전성 위협",
-                "한미 통화스와프 가능성 언급, 심각한 경제 상황 시사"
+                "코스피 5,000선 돌파 기대감 속 '트럼프 관세' 재부상 우려",
+                "미국 대선 결과에 따른 글로벌 무역 정책 변화 가능성 대두",
+                "국내 증시의 단기적인 속도 조절 및 변동성 확대 전망"
             ],
-            "link": "https://news.google.com/rss/articles/CBMie0FVX3lxTFBZQW9ieElEWUZQamVPdVZGaThkeXlUUk05OUZ1SUdfYVpaNGtxenF5YjRLVW83ZjRmd01PeEx3U1BDY0hEQXUxNWh3a2RhYThHVi00NnFqWk1LaG5oQmNGTk9qMHNLUWZpWG5RMmRHZjN0TmE0YnlyQUdESQ?oc=5",
+            "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE5DdlJSYVYwNFplellGSW9SV05peEFZZUlnLS16S25IVVJtaU5TdWZIMktUaXBmV1MtMnBJcWRSSzlBTTRfODRraTZ4Ui1XTmNfS3JZeW4tU0tIZjFNRXc?oc=5",
             "category": "Economy",
-            "published": "2026-01-18T00:40:51.609339"
+            "published": "2026-01-20T02:50:40.690999"
         },
         {
-            "title": "[세법시행령 개정안] 세입기반 확충 및 조세제도 합리화 - 조세플러스",
+            "title": "정부, 해외주식 팔아 국내 투자하면 세금 깎아준다…국민성장펀드에 최대 40% 소득공제",
             "points": [
-                "세법시행령 개정을 통한 정부 세입 기반 확충",
-                "조세 제도의 합리화 추진",
-                "기업 및 개인의 세금 부담, 투자 활동에 광범위한 영향"
+                "정부, 해외주식 매각 후 국내 투자 시 세금 감면 혜택 제공 방안 발표",
+                "국민성장펀드에 투자하면 최대 40%의 소득공제 혜택 부여",
+                "국내 자본시장 활성화 및 해외 유출 자금의 국내 유입 유도 목적"
             ],
-            "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTFBvTzBuQjhTMDRsdTNGUkNNTjFiV1FfcVg5NXZTV3R0Y0xOblFYX0hjY3FNS0k4Z1B2eGlwTVE4RWIwWGNwT1NBTWVDY1pxdEk3R3otbzFuMTcyOF9uWlZvcUlQSkUxc2tfOWpGZg?oc=5",
+            "link": "https://news.google.com/rss/articles/CBMickFVX3lxTE5UamU4R1ZoWjJTSjVnUFRwY0JqeE1Md2I1U3U3aFVKYXYyWmh4X09XUVFTVVU2cHhvdklfNXV0d0s5ZHdobXFITGRTTW1NQlhZZlpEcHJXWlVPVFZmTlZBTzVhLV9TQ0xWUTFtbUtpT3hTdw?oc=5",
             "category": "Economy",
-            "published": "2026-01-18T00:40:51.609339"
+            "published": "2026-01-20T02:50:40.691001"
         },
         {
-            "title": "코스피 4800의 뒤안 … 기업들, 주가 상승에 환호 커녕 노란봉투법에 초긴장 - 뉴데일리 경제",
+            "title": "아파트 청약경쟁률 양극화 심화…전국 6.9 대1 vs 서울 156대1",
             "points": [
-                "코스피 상승세에도 기업들의 '노란봉투법'에 대한 우려 증폭",
-                "노란봉투법이 기업 경영 환경 및 노사 관계에 미칠 영향 주목",
-                "주가 상승과 기업 심리 간의 괴리 발생"
+                "아파트 청약경쟁률이 전국 평균과 서울 지역 간 극심한 양극화 현상",
+                "서울은 156대1로 과열 양상, 전국 평균은 6.9대1로 상대적 저조",
+                "부동산 시장의 지역별 불균형 심화 및 주거 불안정 문제 심화 우려"
             ],
-            "link": "https://news.google.com/rss/articles/CBMie0FVX3lxTE5vWWRLcEk4MDNwZ29WUkxtbXdRME9LQ3p0aDV0eUJSZjgxTzFwZWpIUnpYLXJGMTRUWmE0RVNmR19hcnVyVWxaMmx2QncwSTd3MGZyRzNqdTBCdFU1a2p6VXN3cFlkZlRkRHdHRzJnSzBGZEVhdGwzdmtmSQ?oc=5",
+            "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE5CZWlDVEdYX1RQdmZVZzR0OG9SLVh5V0hRMGNUeU5VNnBIQU9iYnlvbHFxU20xeVN0Tm9QUHhFZ3IwQ1U0ZVhDbGVkdXRpZUVNdHlBdmxR?oc=5",
             "category": "Economy",
-            "published": "2026-01-18T00:40:51.609339"
+            "published": "2026-01-20T02:50:40.691002"
         },
         {
-            "title": "盧때 23.4% 文 8.0% 이어 李 8.9%↑… 진보정부 ‘집값 징크스’ 재연 우려 - 문화일보",
+            "title": "‘돈맥경화’ 징조일까…현대건설, 벌어도 현금이 안 쌓인다",
             "points": [
-                "진보 정부 시기 주택 가격 상승률 분석 및 '집값 징크스' 우려",
-                "부동산 시장 불안정 및 가계 경제에 미치는 영향",
-                "향후 정부의 부동산 정책 방향에 대한 관심 증대"
+                "현대건설의 영업이익에도 불구하고 현금 흐름이 악화되는 '돈맥경화' 징조 포착",
+                "건설업계 전반의 유동성 위기 가능성 및 자금 조달 어려움 시사",
+                "기업들의 재무 건전성 악화가 경제 전반으로 확산될 파급 효과에 대한 우려 증대"
             ],
-            "link": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE5CZU5CLTE1MWVZQ1ZCTnZFWkNoVUNOXzhoSFJuU3RwRUNLbnViMk03c0d2dEhLQUVFNXRNVEpwVjB0VjRzcmhzS3ZBSHl0NGpF?oc=5",
+            "link": "https://news.google.com/rss/articles/CBMickFVX3lxTFBCOWZfcjZiVlJLdm9wWkllOFdRejNLOFcycU9iT2U1MUtPdkczVW1fODRhQUhZYTdGV1Vjbk85cy1NZ2p3b2ZkandwWWNaUjdiODlrVFNwQ1MyWHFSOTFQUF9HbTBIOFVHOHVRc2Q0bG5wdw?oc=5",
             "category": "Economy",
-            "published": "2026-01-18T00:40:51.609339"
+            "published": "2026-01-20T02:50:40.691003"
         }
     ],
     "World": [
         {
-            "title": "트럼프 “그린란드 합병에 비협조하는 나라는 관세 각오해야” - 한겨레",
+            "title": "트럼프 “유럽 관세 100% 강행”…그린란드 무력 사용엔 “노 코멘트”",
             "points": [
-                "트럼프 대통령의 그린란드 합병 의지 표명",
-                "합병 비협조 국가에 대한 관세 부과 경고",
-                "국제 관계 및 무역 질서에 미칠 파급력"
+                "트럼프, 유럽산 제품에 100% 관세 부과 강행 시사",
+                "그린란드 관련 무력 사용 가능성에 대해 언급 회피",
+                "미국 무역 정책 및 외교 전략의 변화 예고"
             ],
-            "link": "https://news.google.com/rss/articles/CBMiggFBVV95cUxNZFhWY3luOUpNa1oxbjRRQkVZdmJveDByeGxKamtYcjBFT1BGaXZ1Zmloa3RKVXMyTzVOemwwN2FEdlhIUGpuWUYzTjVJUmIzZllHTjBBRGtrMFA4cHE4YUJPdDVCYzVLNDN5OGl0a1ZiTU1Temc4SXdHdDlNODhhbHJ3?oc=5",
+            "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTE42U1RtM3Z2TnZiaHhNTk0wbnItUG5GaHM5SUstVkJadHhJYUVtTGprY05JaU91YUxIWThWanpadWlwSkJTSG5KUEw3SmUyb19PMFNRUUxuNkxOMl90TWdqRTIyc2xjWGVockxCa3Vn?oc=5",
             "category": "World",
-            "published": "2026-01-18T00:41:23.827112"
+            "published": "2026-01-20T02:51:11.605374"
         },
         {
-            "title": "트럼프, 이란 군사 공격 잠시 보류 시사…이란 지도부는 거액 빼돌려 - 한국일보",
+            "title": "[트럼프 2기 1년] ② 백악관 돌아온 트럼프 1년···“외교에는 군대 동원, 행정력은 남용”",
             "points": [
-                "미국의 이란 군사 공격 보류 가능성 시사",
-                "중동 지역 긴장 완화 및 국제 안보에 미치는 영향",
-                "이란 지도부의 자금 유출 의혹 제기"
+                "트럼프 2기 집권 시 외교 정책에 군대 동원 가능성 제기",
+                "행정력 남용을 통한 권력 강화 우려",
+                "미국 국내외 정책의 급진적 변화 전망"
             ],
-            "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTFBLY0ktTWdJb0hQT25qWF9RbW1CckxOakg4QXV5b3c5ZG9XWkJvSHpKd2VSV2tsUEViNlJJQmRtdkxvZ2hqSkkwRkRiWnpBay1obUxWdnQ3S0hRT1dLbjB1YXNpMFlQWUd3Y1E?oc=5",
+            "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFBSOEdYZVlmTzV4VGxRM3hhOEktTmdmbkZoblU3U0hWUnAyWUozckJXQmZkcUYybE9LZm0zUmVKOHJ3V0c1aXN4MlVkOVUxNU9fMGItX3JHWEotUdIBX0FVX3lxTE9TUFVoN28yb2psVGhnaGxwbUs3Yy10S0QxMHJZelhxQjd2VWdRc2NJb3dOSXljbzBpelp0T0ZqZ3ZKM2pCaHVFeWRMRFF1NUFHM0hLWERxOEtXTDdHbEFz?oc=5",
             "category": "World",
-            "published": "2026-01-18T00:41:23.827112"
+            "published": "2026-01-20T02:51:11.605380"
         },
         {
-            "title": "캐나다, 중국과 무역 확대로 ‘미국 의존도 낮추기’ 시동 - 한겨레",
+            "title": "이란 거리서 사라진 시위대… 군인들 돌아다니며 “나오면 쏜다”",
             "points": [
-                "캐나다의 대중국 무역 확대 정책 추진",
-                "미국에 대한 경제적 의존도 감소 시도",
-                "글로벌 무역 및 동맹 관계 재편 가능성"
+                "이란 내 시위대 활동이 급감하며 거리에서 사라짐",
+                "군인들이 거리를 순찰하며 시위 참여 시 무력 진압 경고",
+                "이란 정부의 강력한 시위 탄압 및 인권 문제 심화"
             ],
-            "link": "https://news.google.com/rss/articles/CBMiggFBVV95cUxNV1p1Mkpnd2JGbG5XaTE3cjVfLVV5Y1BjWXBqRGl0XzA0YlZsTzVXVFlRaV9TN0lyYzdIUkNaUThOUnhldEZCb3E5ZW84aEJvUXF4bHV4bWUtLTF2eHZGZFJBQm5GNkJMa3pxNWNjbjJzQkItRjkycEowTUk1QUhCb1hR?oc=5",
+            "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxNbGwtZUd5MFhwbjR0TFhIT0x3bkVya3lNZnh0LXdlYXJqVFR5bHRoc0xpWThQUHFPeWliaGdNMEhiZHFyR0RfQ2RvVmF6WEY1eWZyMUt2NFd3VnNGTVVxRmpXMXBiVVFpWVJDaE5KUnlWUGZ2WGY2S2JDT0s0UE5PREctOEdGbUwzLUxQVWN0WmhsYjk2djdMd2ppOEdLQdIBsgFBVV95cUxQMG1KWk83bDRZWkozTHY1UC1zcWVUY25zZWNHUHJibDN3cDM1elVtcjJ3czhUTUNWWUx5SWktUktrUUY1Vmh6eVNKQzNkREVDTWxfQnpWT2xpQUxiQ2N6UTc1S2ZzWG8tZXhiREhxcm1lWldocEl0RUdRR0tDR21oNUw2VWxjdU9GY1R5alJsMmhIRWFTNEVhb2pVYmVfc1ZaU28zcWR2VEladmlhdlZ5Zl9n?oc=5",
             "category": "World",
-            "published": "2026-01-18T00:41:23.827112"
+            "published": "2026-01-20T02:51:11.605381"
         },
         {
-            "title": "천하의 美하버드대도 제치고 '1위'…공대에 미친 中에 '발칵' [강경주의 테크X] - 한국경제",
+            "title": "“가입비 10억달러” 내라는 ‘가자 평화위’…트럼프, 러시아도 초청",
             "points": [
-                "중국 대학의 공학 분야 세계 1위 등극",
-                "미국 하버드대 등 서구권 대학 추월",
-                "글로벌 기술 경쟁 및 미래 산업 지형 변화 시사"
+                "트럼프, '가자 평화위원회' 창설 제안 및 10억 달러 가입비 요구",
+                "러시아를 포함한 주요국 초청으로 국제적 참여 모색",
+                "중동 평화 프로세스에 대한 새로운 접근 방식 제시"
             ],
-            "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE9vSC16bWtCcjRVZVFZa3NWb2VyVkE1dmt3NXFWbElKbHlEZ3F1UXdxMmxkNmdzeElpZzJHSDlEZFplRHZpcDE0azFEZWFqUFdwWDlqS1hSTmhDd9IBVEFVX3lxTFBaQ3N0WC1GSWdMclpGckJidDR1SGtfcGpTS3BYQjlrZE5mNG44SUJQOU9Vci1PUXJlYzIzQ3BNTURpTTdmdG1fSEFMdGJmNEZOUUZfSQ?oc=5",
+            "link": "https://news.google.com/rss/articles/CBMiggFBVV95cUxNMTBVMlRKaUdCYnJnNXExczlEbFV6aGJOMFIyMG9xM2lxeHIxYjRvVUkxVFpwQ1lMUEk1SzZyQlZ4VEhpQVRpZzJtWkFibndYTURLaVpPb1dUQXFBTGNMZlB3UTlnbHB6Si1DUWRWWmM3SjhCbzh4cGlJampKOHctbzNB?oc=5",
             "category": "World",
-            "published": "2026-01-18T00:41:23.827112"
+            "published": "2026-01-20T02:51:11.605382"
         },
         {
-            "title": "북한 되려는 이란... 국제 인터넷망 영구 차단 추진 - 조선일보",
+            "title": "“1.8km기어와 50m앞에서 기습···진화한 북한군, ‘터미네이터’ 같았다”[러시아·우크라이나 전쟁 북한군 파병1년]",
             "points": [
-                "이란 정부의 국제 인터넷망 영구 차단 추진",
-                "정보 통제 및 인권 문제 심화 우려",
-                "이란의 국제 사회로부터의 고립 가속화"
+                "러시아-우크라이나 전쟁에 북한군 파병 1년 경과",
+                "북한군, 진화된 전술로 기습 공격 감행",
+                "국제 안보 및 전쟁 양상에 북한의 영향력 증대"
             ],
-            "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxPWFRtc0tTY1RFNVhRN2hTZHJOaVBITExsOERIRzMzTW9jLUxydUVwQ2xJMzBnWEhBcTQwLWEyMkVDLWZROUd5WFRSV2RsNUZWMlhqWlhEdF9XVUJLY0R1Y0tUODV0Z1EweGJCNHc1QXZvcDRCSlRJdHUtMjkyTXFtcWFjTXNPYmdCR2Jkb0JfVGpiU18yOGZySF9fSmQ3d9IBsgFBVV95cUxQRmluSnlCSVZwVURvNEcxOEk0WnEzS3p3R1hfaEhnT0ZZaXdYZHpHUFgxZVdRX1N1WU9xYzFhSFl4MTZ4dEc0UDZaWlp4enpBVUduLXg4LXRzdG9WUG0tNHZpeHZCa3hnU3ZGUkxhaVY5endCUC1WWElLdGdNN3JLSTk5dW1mVkVNUlN3Z2plZlZzbzdXNXpScjg2cllTX2t4dWNtTDlvVDBKRkprczh3ZWhB?oc=5",
+            "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFBlczNWWVpiVG5yZlRBeTNWTHVHTFlYVHFGQjlUc0RRWDBmU1dOT3BwZkRPbHdERkQ4bE5Jek1RZ3N1Z2pUUzByQXZLZVN3V3BXZmdPNm41RnkxZ9IBX0FVX3lxTE5iRUtfeXFxVnZ5X3EtRExHSlR4dkRra01FUE9WUzNNWS04bmZ6cEYtZlJRdW1ib3N5UXQ4X1c5TWtERndGRHotaEw3UmtjS3VGMGQ0YWE3YjdKM2VFRFQ0?oc=5",
             "category": "World",
-            "published": "2026-01-18T00:41:23.827112"
+            "published": "2026-01-20T02:51:11.605383"
         }
     ]
 }
