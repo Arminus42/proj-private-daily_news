@@ -1,220 +1,230 @@
 {
     "AI_Tech": [
         {
-            "title": "책임감 있는 AI란 무엇인가: 원칙, 프레임워크 및 미래 - 시러큐스 대학교 iSchool",
+            "title": "글쓰고, 그림 그리고, 아이디어 내는 AI? 바로 생성형 AI입니다. 작동 방식과 잠재적 위험을 알아보세요.",
             "points": [
-                "AI 기술 개발 및 배포에 있어 필수적인 '책임감 있는 AI'의 개념, 핵심 원칙, 그리고 이를 구현하기 위한 프레임워크를 설명합니다.",
-                "이는 AI가 사회에 긍정적인 영향을 미치고 잠재적인 위험을 최소화하도록 공정성, 투명성, 안전성, 개인 정보 보호 등의 가치를 기술 설계 단계부터 반영하는 방법론으로, AI 기술의 지속 가능한 발전을 위한 중요한 기술적/윤리적 지침을 제시합니다."
+                "생성형 AI는 텍스트, 이미지, 오디오 등 새로운 콘텐츠를 스스로 만들어내는 인공지능 기술입니다.",
+                "기존 데이터를 학습하여 패턴과 구조를 이해한 뒤, 이를 바탕으로 세상에 없던 결과물을 창조하는 것이 핵심 원리입니다.",
+                "창의적인 작업의 자동화 및 효율성 증대에 기여하지만, 잘못된 정보 생성이나 저작권 문제 등 윤리적, 사회적 위험도 존재합니다."
+            ],
+            "link": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxPOWN2Y3ZrLVdTb2MwWXdTSlU0MDBFa1dKTWdCelRVZlZHQTd6dlFQUFNJanhTNEstd3cyRWo3VXFnLU9RZ2Q1clFGSGllWllpLUlGQ1U3VlJGd0ctdGVQOE1mem9fSWNNWVFZWXJMemRBS3F2aHZDUGs5eGYwTmhnaTg3RFJibTlOSlRHWHZWT01zT3JmOFJXeWhSRUY3VG5OcEkzeHR5VVVMRDFLNGs2WS1jMGlMc0lQSlRDTzlEXzZhTFR0a0xMNWlKemNGUGVYRzloM2xkYVJFV2dVN2Z3?oc=5",
+            "category": "AI_Tech",
+            "published": "2026-01-21T21:18:44.313912"
+        },
+        {
+            "title": "구글, 프리미엄 제미나이 AI를 교육자에게 무료 제공",
+            "points": [
+                "구글의 최신 대규모 언어 모델인 제미나이(Gemini)의 고급 버전을 교육 기관에 무료로 제공하여 AI 교육 및 연구를 지원합니다.",
+                "이를 통해 교육자들은 제미나이의 강력한 기능(복잡한 정보 처리, 창의적 콘텐츠 생성 등)을 활용하여 교육 자료 개발, 학생 지도 등에 혁신을 가져올 수 있습니다.",
+                "선도적인 AI 모델의 접근성을 높여 교육 분야에서의 AI 활용을 촉진하고, 미래 인재 양성에 기여할 것으로 기대됩니다."
+            ],
+            "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxPUzh0d0NJWUROV2tpM0paZU9iNzI2QlVtRmRGWTZHT0NsV09iLWJJTjNTSnFDdFhaV0lGcmR1Y3p0VENZdk1naDdUNWJLRlEzOW9RRjBoMjl5NnhLS1E2a1NlS1BuS0xrcTVWNmpTRTJ3ZkxzMFBWYnplZlUydlppa0duT2pHOGsyTkw2bkEzajM?oc=5",
+            "category": "AI_Tech",
+            "published": "2026-01-21T21:18:44.313919"
+        },
+        {
+            "title": "책임감 있는 AI란 무엇인가: 원칙, 프레임워크 및 미래",
+            "points": [
+                "책임감 있는 AI는 AI 시스템이 공정하고, 투명하며, 안전하고, 개인의 프라이버시를 존중하며, 인간에게 이롭게 작동하도록 설계하고 개발하는 접근 방식입니다.",
+                "이를 위한 핵심 원칙으로는 공정성(bias 방지), 설명 가능성(결정 과정 이해), 견고성(오류 및 공격 방어), 개인 정보 보호 등이 있습니다.",
+                "AI 기술의 발전과 함께 발생할 수 있는 사회적, 윤리적 문제를 최소화하고, AI가 인류에게 긍정적인 영향을 미치도록 하기 위한 필수적인 고려 사항입니다."
             ],
             "link": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE5fVDZJYmw5OHNrN3BTUVpBS2ZpeTlnYjItdnkzeG80OFpzbm1hNFk4S3lhRGZuWUxidG5JN3BENERoWnVkNHY3TlQ3SU1NWWdISWtIaXkzNDJ1M3VrZVlEWmZ3?oc=5",
             "category": "AI_Tech",
-            "published": "2026-01-20T21:12:09.267509"
+            "published": "2026-01-21T21:18:44.313920"
         },
         {
-            "title": "소매업의 혁신: 에이전트 AI 로봇이 매장 경험을 재정의하는 방법 - Microsoft",
+            "title": "구글과 칸 아카데미, AI 글쓰기 코치 출시 위해 협력",
             "points": [
-                "마이크로소프트가 소매업 분야에서 '에이전트 AI 로봇'을 통해 매장 경험을 혁신하는 방안을 제시합니다.",
-                "에이전트 AI 로봇은 단순 반복 작업을 넘어, 고객과 상호작용하고, 재고를 관리하며, 매장 환경에 능동적으로 반응하여 스스로 의사결정을 내리는 등 고도의 자율성과 지능을 갖춘 AI 시스템으로, 새로운 차원의 서비스와 효율성을 제공하는 기술적 진보를 의미합니다."
+                "구글의 AI 기술과 칸 아카데미의 교육 전문성을 결합하여 학생들의 글쓰기 능력을 향상시키는 AI 기반 코칭 도구를 개발합니다.",
+                "이 AI 코치는 학생들의 작문 과정을 분석하고, 문법 교정뿐만 아니라 아이디어 구상, 논리 전개, 표현력 향상 등 전반적인 글쓰기 피드백을 제공합니다.",
+                "개별 맞춤형 학습을 지원하여 학생들이 스스로 글쓰기 실력을 개선하고, 창의적 사고력을 기를 수 있도록 돕는 것이 목표입니다."
             ],
-            "link": "https://news.google.com/rss/articles/CBMi6AFBVV95cUxNM2lIOHhZSjdDMDBuT2JHSDhvbGZEc1JtUVdiaW9CVEpTSHd3WFM5eWlwdzRNN1dZelI5ZHRwZjdaTHNBazhiZ1VxSVZSQmpzZDdCc2NXSXQ4VTgwZmswU28ycy1KVDJGQk9GaTNldE5DRHg4UWFOMWVoc0VSYjJaQ2Vyb25NS0g5Z1pRbFhpSDNPRmR5TGIxSWdVREZjMmdTc0dOdzNzMDkyakVZSFVwZjBjLU5fQXllZFpTakZvOFptcFJXandSNE03Q2dtZG5uaWV0Mm1OZGFqZW9OcTUyOHJVVFY5NzFk?oc=5",
+            "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxNNUN6bGRaNHNvOG5aX1JYS0RZMkFKMnNWNTl1cHdYbUs0cnV2MDJkZGhvLWdyQnJvcHJ3Rk5BRy1RNnNkRDVscllXckdENGZYNkY4cm1SWmZMYWJqenNfaHQ0RkhtbTdTdnNFTU8xMFBZeXNFbDR0alpnSUs3R0xubE85b3c3YjdxVlNSTXZTOWprMF9xX0E?oc=5",
             "category": "AI_Tech",
-            "published": "2026-01-20T21:12:09.267516"
+            "published": "2026-01-21T21:18:44.313921"
         },
         {
-            "title": "생성형 AI, 초보 디자이너의 건축 설계 발전시켜 성능 향상 입증",
+            "title": "구글, 옥스퍼드 대학에 첨단 AI 도입하여 고등 교육 혁신 주도",
             "points": [
-                "생성형 AI가 건축 설계 분야에서 초보 디자이너들의 작업 효율성과 결과물의 질을 크게 향상시켰다는 연구 결과가 나왔습니다.",
-                "특히, AI가 복잡한 설계 과정을 간소화하고 창의적인 아이디어를 제안함으로써, 경험이 적은 디자이너도 전문가 수준의 결과물을 만들 수 있도록 돕는 기술적 진보를 보여줍니다."
+                "구글이 옥스퍼드 대학과 협력하여 최첨단 AI 기술을 연구 및 교육 분야에 도입함으로써 고등 교육의 변화를 모색합니다.",
+                "이 협력을 통해 옥스퍼드 대학은 구글의 강력한 AI 도구와 전문 지식을 활용하여 복잡한 연구 과제를 해결하고, 새로운 교육 방법론을 개발할 수 있습니다.",
+                "선도적인 AI 기술이 학문 연구와 인재 양성에 어떻게 기여할 수 있는지 보여주는 중요한 사례이며, 미래 교육 모델을 제시할 것으로 기대됩니다."
             ],
-            "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxPQTJ1cThtWFVaSDg4V2M1UXZkNTRYVEwzYVdVSk1KUnJnd2lEZW1ETGpTY2lVeVJqTWxVa1BIb2RSdGxnZENuVUd0TGNMRjl5ZFg0TmxtWGpaQms5YmcwRW9LZnoyamlhSU0zaHFXaTl4bVB6YWF5cjNxVFU5VFduU1JfNUtiYW80d21QQ3h0WmJScU5pbDZGa0lwYw?oc=5",
+            "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxNUXdueGV2enduS0x4NkZIVWlSMDF6NlFGQ0owVldYTG1uZDdGOEZFLWltTW1UQm5CZ0dqQnA2OWZLWEIwbDg3Tm5xd3lHa2NucUN3SktpWW5Fb19JQ3RJRGZhSS16c3lubF9JQU9OSXM2NjhObWQ4ZnowdEpPZTdkaU1pMVZRWEZDaVNiSkM2YS1hZw?oc=5",
             "category": "AI_Tech",
-            "published": "2026-01-20T21:12:09.267517"
-        },
-        {
-            "title": "AI 선구자 마야 애커먼, '창의적인 기계' 대화로 인간 창의성 재정의 논의",
-            "points": [
-                "세계적인 AI 연구자이자 생성형 AI 선구자인 마야 애커먼이 '창의적인 기계'라는 주제로 AI가 인간의 창의성을 어떻게 변화시키고 재정의하는지에 대해 논의합니다.",
-                "이는 AI가 단순한 도구를 넘어 예술, 디자인 등 창의적인 영역에서 새로운 가능성을 열고 인간과 협력하여 전례 없는 결과물을 만들어낼 수 있는 기술적 잠재력을 탐구하는 것입니다."
-            ],
-            "link": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxQbndNNi0wblk3UUNIY1QtcGlORXlrOHlhN09CYmRLLVJHdzhqd2lOU3FWMDVTMElLSjZydFVEZnFVa3A4enlqd2o2eEQ0ZkRMRWhMbWcxT0xSVkx5MVBKUnNyXzQ3enh6THpuRWQwR3JSNmdZaFQ0dVpwbTVHSXlGcHp4d3piUENjWmY5Um4yZXNidUtFMlBxUU15a2F1UzJfcWx4Q1dpNHZpcjc1RnY2VGlScDk3N1BoZ0liOFJKQjBKR1RjVDc3ckJMY29UbXdxX1BUQnNqTGI4UQ?oc=5",
-            "category": "AI_Tech",
-            "published": "2026-01-20T21:12:09.267518"
-        },
-        {
-            "title": "ABBYY, 생성형 AI 직접 통합 및 고급 규정 준수/개인 정보 보호 기능 제공하는 Vantage 3.0 출시",
-            "points": [
-                "ABBYY가 새로운 Vantage 3.0 플랫폼을 출시하며 생성형 AI를 핵심 기능으로 직접 통합했습니다.",
-                "이 플랫폼은 문서 처리 및 데이터 추출 효율성을 극대화할 뿐만 아니라, AI 시스템에서 중요한 고급 규정 준수 및 개인 정보 보호 기능을 제공하여, 기업이 안전하고 신뢰할 수 있게 생성형 AI를 활용할 수 있는 기술적 기반을 마련합니다."
-            ],
-            "link": "https://news.google.com/rss/articles/CBMioAJBVV95cUxONk1YMU16ZzNGazE3UWxkQ3RCTTBaYnBPQU03UzJUbDFMcS1iZndtWnhKS0VPUWh4a0xWbi01ckg5ckgyLVBkUWJmc0YzOVpoN3gwWmZoV1g4YnRyVzhCd1N3VVdzRlJmaHpFUmRJc2VsWmF3RW5UN0RDeG1NTy1SREdFcl9aOHc5ZDFIVDl6T005LXZpR1hnc25PYjdkS1NoTU1KMlhQY1JDQVNNZnVUSGJQdUdCbHlIWUZ5RXdqdDB5RlhmdnVsbVBiY0dZSGQxeEhLRzgtS0dDSi00a2E3Z1hqeGJJbElsc2hGbWhqRjBQUlNsVGJDTXR3MWFrcEpDdUxmSVBOU1pkbkNobW1mLWRDNG9rdVBrLThOTDQwdW4?oc=5",
-            "category": "AI_Tech",
-            "published": "2026-01-20T21:12:09.267519"
+            "published": "2026-01-21T21:18:44.313922"
         }
     ],
     "IT_Biz": [
         {
-            "title": "[단독] ‘시총 30조’ 보스턴 다이나믹스 美 상장 돌입… 현대차, 장재훈 직속 TF팀 구축",
+            "title": "스마트폰 시대 끝난다 … 요리·길 안내 'AI 안경'이 대체할 것",
             "points": [
-                "시가총액 30조원 규모의 로봇 기업 보스턴 다이나믹스가 미국 증시 상장을 추진 중.",
-                "현대차가 보스턴 다이나믹스 상장을 위해 장재훈 사장 직속 TF팀을 구축하며 전략적 움직임을 보임."
+                "스마트폰 시대의 종말 예측",
+                "AI 안경이 스마트폰 기능 대체 가능성",
+                "미래 개인 컴퓨팅 기기의 변화"
             ],
-            "link": "https://news.google.com/rss/articles/CBMiRkFVX3lxTE9HbDMwYzNJRW9adkVIajhfZDY5SVl6eW10bXVIa2NxckNWUE1NdHlRUnN4eW1oOElVTDRuSHh6Rk91SktXWUE?oc=5",
+            "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE0yM0tfVzhDOEdTbTZZNC1IYUxvZFVLcW5ZV3VCV3JRZG5OOXlWbGxlQURpd1NoWHNLRlRubEVZT25WRzhVdmlBb2FLOGd3Tl9fX3c?oc=5",
             "category": "IT_Biz",
-            "published": "2026-01-20T21:12:43.626858"
-        },
-        {
-            "title": "로봇이 내 자리 대신할까… 현대차 ‘아틀라스’ 공개로 커지는 노동계 불안",
-            "points": [
-                "현대차가 공개한 로봇 '아틀라스' 등 첨단 로봇 기술 발전으로 노동 시장에 대한 불안감이 커지고 있음.",
-                "로봇 기술의 발전이 일자리 대체 가능성에 대한 사회적 논의와 기업의 대응을 요구함."
-            ],
-            "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE93VmhSNWgyZDFnSnBsSHBkdUEySGNKOFk3SzhqM1J3NWE1ZWt3WHdiS0w1YXNhekpFUDAtcXh3N1I0bHNnZGxVZ21RekU5eVMxYlNWWA?oc=5",
-            "category": "IT_Biz",
-            "published": "2026-01-20T21:12:43.626865"
-        },
-        {
-            "title": "이제 우리가 주도주… 소형 로봇·휴머노이드ETF 급등",
-            "points": [
-                "소형 로봇 및 휴머노이드 관련 상장지수펀드(ETF)가 급등하며 로봇 산업이 새로운 주도주로 부상하고 있음.",
-                "투자 시장에서 로봇 기술에 대한 높은 기대감과 성장 잠재력을 반영함."
-            ],
-            "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTFBMR0dYYjNWWkczeDI5Yk9nVFZYT0E5ai1lOVcxYk0wcmhCU1lwZThtTGNtYmNYTEdYNS1WdS1SZzF4REhpOHFqTjFDb0kyemVXZXc?oc=5",
-            "category": "IT_Biz",
-            "published": "2026-01-20T21:12:43.626866"
-        },
-        {
-            "title": "[속보] 비트코인 · 리플 와르르 급락 그린란드 전면전 암호화폐 강타 ... 뉴욕증시 휴장",
-            "points": [
-                "주요 암호화폐인 비트코인과 리플이 급락하며 암호화폐 시장에 큰 충격을 줌.",
-                "글로벌 금융 시장 불안정 속에 뉴욕증시가 휴장하는 등 전반적인 시장 위기감이 고조됨."
-            ],
-            "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNNWgtbDZEcGNiZWZWaGE5WURzNE81aGpMQWJ5YXNDaGh5Q09VR2NVRmIyVl9jWGhSZkFpT29xUktIMDVWTFRmUGg5TE90Ti1MeFJBbmxaOWdmQzJHVXV6M0dyazVtbDdmcVNTWjhUZ0l3cXpSYUNiQmV1MElMQlFSbDY4YnlEcGsy?oc=5",
-            "category": "IT_Biz",
-            "published": "2026-01-20T21:12:43.626867"
+            "published": "2026-01-21T21:19:14.079625"
         },
         {
             "title": "[속보] 뉴욕증시 하루 24시간 거래... 비트코인 140조 암호화폐 레버리지 청산",
             "points": [
-                "뉴욕증시가 하루 24시간 거래 체제로 전환되며 글로벌 금융 시장의 큰 변화를 예고함.",
-                "비트코인 등 암호화폐 시장에서 140조원 규모의 레버리지 포지션이 청산되는 대규모 변동성이 발생함."
+                "뉴욕증시 24시간 거래 시스템 도입",
+                "비트코인 등 암호화폐 시장 대규모 레버리지 청산 발생",
+                "글로벌 금융 시장의 변화와 암호화폐 시장의 변동성"
             ],
             "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPU2NkbXczV24yRnhZbDRISVNkZVpFcTRZdWI2WVJtQXMxcEJ1TWxkQndzNFNvVUxsVnozb25wODhQZEtnOUFtdFpEdHNOdXhUN3ZjVm9fdzRvRmNXZ2QwcnVBMHhYSnI5NGNCY3BxTjc0Ykpra2ZUWXVMbE1vSnJDMjhrOHlKRFJV?oc=5",
             "category": "IT_Biz",
-            "published": "2026-01-20T21:12:43.626868"
+            "published": "2026-01-21T21:19:14.079632"
+        },
+        {
+            "title": "챗GPT 의존한 사람들에게 일어난 비극... '아부에 속지 마라' [강인규 리포트]",
+            "points": [
+                "챗GPT 등 AI에 대한 과도한 의존의 위험성 경고",
+                "AI 활용 시 비판적 사고의 중요성 강조",
+                "AI 기술의 윤리적, 실용적 한계 지적"
+            ],
+            "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTFBwbDY3cUhOVHhNS2x1VGhucUd3ZTdkMUM5R1lmN0FwWnJtQzBRWEVJRTJpLUl1aXl0a2xHTnphRXVqTEh2VXo2WEE0a1c4MUE?oc=5",
+            "category": "IT_Biz",
+            "published": "2026-01-21T21:19:14.079634"
+        },
+        {
+            "title": "구동 비용이 5분의 1… 美기업도 딥시크 쓴다",
+            "points": [
+                "AI 모델 '딥시크'의 높은 비용 효율성",
+                "미국 기업들의 딥시크 도입 증가",
+                "AI 시장 내 비용 효율성을 통한 경쟁력 확보"
+            ],
+            "link": "https://news.google.com/rss/articles/CBMigwFBVV95cUxOR3huV0RHYThZS1pvX0VTUE13OC1XS1BQMXB3bk1OeDJWcWJyUHc3Mk40aFp2NkxCd2lPZ2JabzNEZlF4QnIxclFwYVROSnRmUm5ubk85QXZjSUdYR09acGUxU1R6NjVHckRPZjhEbjR0VGVvLVRmSjQxWkxoN2RlN3pYb9IBlwFBVV95cUxOcFhHaThhMWtLNzVCaWNtLVBqN0JGaVNzbC1VZjhkMXNGeHNPYzRQN2hBZ2FDOTR2TmtMNi1kcFAwZmVuRTdqcnpZa2N4X1Q5MTktRDVsTzVBdnNkSzZIZUEzemdqUDlqNzFwcDc3eFJjdGpJMzdtdmJ5SkRXWVJsOTFfbEZPTGd5ellCNVJpZmM3WlRBTmRv?oc=5",
+            "category": "IT_Biz",
+            "published": "2026-01-21T21:19:14.079635"
+        },
+        {
+            "title": "'AI 덤벼도' 끄떡없는 의외의 업종 1위, 바로 '이것'",
+            "points": [
+                "AI 기술 도입에도 불구하고 안정적인 업종 분석",
+                "AI가 대체하기 어려운 인간 고유의 역량 강조",
+                "미래 산업 구조 변화에 대한 통찰 제공"
+            ],
+            "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxQcjNlenhjLUpORENzbGwwSExJOWdnTEN6Wi1ZLUkyQ1VFM1RabkczNGJXVWpLSVM0VGdPUWExdDJUVjZnbFp2QWtwc0FkempsYk13TFA3dTJtSk5iYnN3TU9oNHFOd1gwNkNtemJNcDllajNUQWw2OXJBZnZoaXZIaA?oc=5",
+            "category": "IT_Biz",
+            "published": "2026-01-21T21:19:14.079636"
         }
     ],
     "Economy": [
         {
-            "title": "미국 재무 “트럼프, 차기 연준 의장 이르면 내주 결정…후보 4명”",
+            "title": "젠슨 황 “AI 인프라에 수천조 원 더 필요…일자리 늘 것” - KBS 뉴스",
             "points": [
-                "트럼프 전 대통령의 차기 연준 의장 결정 임박",
-                "미국 통화 정책 방향에 중대한 영향",
-                "글로벌 금융 시장의 불확실성 증대"
+                "엔비디아 CEO 젠슨 황, AI 인프라에 수천조 원 규모 투자 필요성 언급",
+                "AI 산업 성장에 따른 대규모 투자 및 일자리 창출 전망",
+                "글로벌 경제의 AI 중심 재편 가속화 시사"
             ],
-            "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE9fb2ZmVDZkUksyVVpRZXg1a2V1NkRteTMySUF6aFVYX1NUSjdBbm1WNVM2VUh3OG1LY1dlM3h6aTFWaFRVUnhyUEFad2NsSXQwSWFDVkJEU0tZTEE?oc=5",
+            "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE9XWmZUSUtjVGU2UVhqLXRUd00wbjZrOEhKRzZnSWNNOFB4S09vbWtZWFFJMU5waXpuLS1aeDQ5X0pZdWQ1TnpobTJfeDVhZXVmbzU3MFF0cHZIZ0U?oc=5",
             "category": "Economy",
-            "published": "2026-01-20T21:13:11.041976"
+            "published": "2026-01-21T21:19:39.442046"
         },
         {
-            "title": "美 국채 금리 급등·달러 지수 하락…투자자들 '셀아메리카'",
+            "title": "스웨덴 연기금 알렉타, 美국채 11조~12조원 어치 매도…보유분 대부분 팔아치워 - 연합인포맥스",
             "points": [
-                "미국 국채 금리 급등 및 달러 지수 하락",
-                "글로벌 투자자들의 '셀아메리카' 현상 심화",
-                "전 세계 금융 시장 및 자본 흐름에 미치는 영향"
+                "스웨덴 대형 연기금 알렉타, 미국 국채 11~12조원 규모 대량 매도",
+                "글로벌 채권 시장 및 국제 자본 흐름에 상당한 영향 예상",
+                "미국 국채에 대한 투자 심리 변화 가능성 시사"
             ],
-            "link": "https://news.google.com/rss/articles/CBMic0FVX3lxTE80UDJnclhpcWR1cm1yaGEtTHpwOXJhalhpVVhLR1pUcEN0RlpST1g0SWJRbU8yaHhfOWMwYjlZZGc2aUVGNHd2UVZfWTV0dlZWRGNHVF9kcW9mRkhrdWkwWlhqbmJWOVRLSE00S3V2aHhLTDQ?oc=5",
+            "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE9HRVVoaWtyV1hSMmZraDV2WTN3WXlocWstaUFGbFdiNFZpR3VSYXJXcTVrZ0psQmZxSVdXQmF2cW1vcnJDRG43VXpYa01aRElOM29LaENTcFlEVEJub3Q1UFBvaVZlRGJTYzNVbkkyUlQ?oc=5",
             "category": "Economy",
-            "published": "2026-01-20T21:13:11.041983"
+            "published": "2026-01-21T21:19:39.442052"
         },
         {
-            "title": "금값 4천700달러 돌파…대서양 무역전운에 최고가 행진",
+            "title": "환율, 李대통령 ‘구두 개입’에 나흘 만에 하락… 장중 1460원대까지 - 조선일보",
             "points": [
-                "금값 사상 최고가 경신",
-                "대서양 무역 갈등 심화로 인한 안전 자산 선호 심리 확산",
-                "글로벌 경제 불확실성 증대 반영"
+                "대통령의 '구두 개입' 이후 환율이 나흘 만에 하락하며 1460원대 기록",
+                "정부의 강력한 환율 안정화 의지 표명",
+                "외환 시장 변동성 관리 및 경제 안정화 노력"
             ],
-            "link": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxPRnJPdVVjSjQydG1VdGtEeWVuakRFa0NocUFJNkZJdTZ4d01oaHhpUGdvbEszZ3d1azJlVXowMjloVG1kOFhOVlZVNmlGaHRjejAyc3BiUkRvZEdBTERLMF90MldsWkx3dENySWRvejVnODVLc1RnWDk2dVlHZTFxQnJkeVRrMURiQkF6cG1GTGtxZmFvS3Q2aE5UU2VzTnZmN0gteUpabFlwVEZMRGw1MlEtMDY2SFB3WVIybGx3TGhKcGtHVHVrTlYyX3M3b0U2b1VEZg?oc=5",
+            "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxPTVJkNEN1cmpXY0NadEZESHpzTHh4eUZ3Ym81ZmZJdGlldVRMNHJOVU10U0UySUlKeXJkcnptS01QN0xIZnNSMVJkanhmWTdWc0k4NEhqcUl5emJrRmw5dU5qQVZ3SVRkRjJKX2JLUUdQRDRpRWNHNDUwZXdOcEVBbDUxMGtaNnkxNl84UUs0SS3SAaQBQVVfeXFMT3BsMVQ3dmJRaUQ2cDFud19wYlB0ZDgzTXlrbXRlaUNVRTRPbzlTbUJsdEo4eGxaQzRtUkNqZ2NwNXBLejhrLTFsbWtkNUZkeGFIZzJKeDNWQ25aaF9vWVVDUVVGZjBtbENBX3BxYWE1Q1ZSRXlxcUhYYUFrOVRxWWt6YnN2bWl1Q29WVkJKek4tX1h1WlZsd3M5QzhnNEhhbUtzVjk?oc=5",
             "category": "Economy",
-            "published": "2026-01-20T21:13:11.041984"
+            "published": "2026-01-21T21:19:39.442053"
         },
         {
-            "title": "오늘 '코스피 5000' 돌파 가능성 촉각…증권가 \"감내 가능\"",
+            "title": "李대통령 \"반도체 100% 관세? 미국 물가 오르는 결과\" - 지디넷코리아",
             "points": [
-                "코스피 5000 돌파 가능성 제기",
-                "국내 증시의 주요 지표 달성 임박",
-                "투자 심리 및 시장 전망에 미치는 영향"
+                "대통령, 반도체에 대한 100% 관세 부과 시 미국 물가 상승 초래 경고",
+                "글로벌 반도체 공급망 및 무역 정책에 대한 한국의 입장 표명",
+                "국제 통상 마찰 및 경제적 파급 효과에 대한 우려 제기"
             ],
-            "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFBaeW11TUE4SVJ4eE1qTjY4ZHlFTE5RVGp3UlNWUktfbU4xNzgzVWU4QWR5a1ktZW5FZzZTM2VxcEtqN1RkLTVXRkIyTi1MN0RpTlliVVZPZ2NVUdIBVEFVX3lxTE5RSWRIaUtPdXNreGZESXM1ZGt5OVpldWhGMGVkMXpXNnB4bXlhcjkxX1RZZl9Ma3hucVZVcDNMd3FaNWUtNjlic1dNbFN4Q0MzWWt1bw?oc=5",
+            "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE1nMTYtd0V1N3ZCNHhTRGc2NlprbFdQNEEwdmxHM0w0WnI4WnROYndTdVYwZms2SGY1SEZYeGFYeWRVVXlUd0RORnBoRmhId2d4UHBXTFhR?oc=5",
             "category": "Economy",
-            "published": "2026-01-20T21:13:11.041985"
+            "published": "2026-01-21T21:19:39.442054"
         },
         {
-            "title": "한은 국제국장의 등판…\"달러 넘쳐 역사상 가장 저렴하게 차입 가능\"",
+            "title": "AI 기본법 Q&A…워터마크·고영향AI 뭐가 달라지나 - 연합뉴스",
             "points": [
-                "한국은행 국제국장의 달러 차입 비용 관련 발언",
-                "달러 조달 환경의 역사적 최저 수준",
-                "국내 기업 및 금융권의 외화 조달 환경 개선"
+                "AI 기본법 제정 논의 및 주요 내용 (워터마크, 고영향 AI 등) 공개",
+                "인공지능 기술 개발 및 활용에 대한 법적, 제도적 기반 마련",
+                "AI 산업의 미래 방향성과 규제 환경 변화에 큰 영향 예상"
             ],
-            "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE5sOHJkaVVwYkJIelhjaW93MUFneG1mbXRzVE1aalhDTFJ3MnhRMjM1Z2ItaldwRFZMNTRUcXB1UUJtWUlpX3hybXoxSzNRN053c3FQSm5ueW9BRjF1OHI3ekFlZWVOdTVLdHVLVDV0dkI?oc=5",
+            "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE9XZlcxeWRrd2lEcUxRcDF0ZGtnVTFCTmktbkI5WTdja3p1aFpFcTFsR1hBZ0VGTDVkNVh4T1RkUEV2QmR4dlJRU0ZZcWd6TW9jaW1FSENYdVdiLUnSAWBBVV95cUxPOGVwQkhULUVZM3dGeXNLVmVuNXcyckFIT1JnbldDUHpmd0U5eWdYNElmZmlvU2hncngwRE9lVWhQV0lydF81UzR2RkRseHlHZXR3TWl0djRaMk9NRjI0Vnk?oc=5",
             "category": "Economy",
-            "published": "2026-01-20T21:13:11.041986"
+            "published": "2026-01-21T21:19:39.442055"
         }
     ],
     "World": [
         {
-            "title": "“자폭? 별수가 없지 않나…막다른 골목의 선택” [러·우크라전 북한군 파병1년]",
+            "title": "[속보] 트럼프 “그린란드 협상의 틀 마련, 관세 부과 유예할 것” - 조선일보",
             "points": [
-                "러시아-우크라이나 전쟁에 북한군 파병 가능성 제기",
-                "북한의 국제 분쟁 개입이 국제 안보에 미치는 영향 분석",
-                "전쟁 장기화와 북한의 전략적 선택에 대한 논의"
+                "트럼프 대통령의 그린란드 인수 협상 추진",
+                "미국의 무역 정책 변화 (관세 부과 유예)",
+                "국제 외교 및 경제에 미칠 파급력"
             ],
-            "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE5JNTUwYXItZk5UNE9UNDlVN2hEbk90SWZtcjFFUmJEdWNVZTFNMVZPSG9ycGc4NHZLV1phcXo3WVZ3SGhaNlcxdFlNbkxWZEZZYkQwMmdhT2VQZ9IBX0FVX3lxTE40aTQzN3ZOSnNoWGEtbDhCblVoekIzTlJLRFlaTlppZzNpZ09tVl9oOUpXcnhsdGN0U0JvOEY4dldScVRSWGtfdF9yVDUzOE5uTnc1ZjhoS1FzWHdNTjR3?oc=5",
+            "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxQSVlmWXFZRkFPVXdXMy1WYjBMc2xSUFhXam5EXzd5ZTNNcjZQaXlraU1tcHo5ZE8tLXFPS3QtczFWd2c0U1VlZE5JekxkLVhKMDA4a3pWSjlqNkJjbFUwWEJSb0wtcUFfUnpIU0YzSXRpaG54Rk5wR1RNREFTZF9GVVNTTzDSAZgBQVVfeXFMUEtucXdsUTFsZnR3TEpBNU8wSFVYSzczSXpuWXVoTG93WUtqRjQ3RE9scXRQdDFNeGYwemI4ZGM3UjR5X292SURya1ZmRFhLYV9wZTdpRjJWN2RJNGMzSzhHTXJ2bGUtb29ZeEZMRlhGOTRKcjJ2UGtDQkFmUVdXeFJhay1LRDlTTDVPckphVE8tUkNmMUVPMzc?oc=5",
             "category": "World",
-            "published": "2026-01-20T21:13:43.738187"
+            "published": "2026-01-21T21:19:59.014435"
         },
         {
-            "title": "\"이스라엘, 트럼프에 이란 공격 만류한 이유는 방공망 허점\"",
+            "title": "“돈도 많이 내야 하는데 푸틴까지 있네”…트럼프 초청 거절한 美 최우방 - 매일경제",
             "points": [
-                "이스라엘이 미국의 이란 공격을 만류한 배경 공개",
-                "이스라엘 방공망의 잠재적 취약성 문제 제기",
-                "중동 지역의 군사적 긴장과 복잡한 역학 관계 시사"
+                "미국 최우방국의 트럼프 대통령 초청 거절",
+                "미국과 동맹국 간의 관계 악화 시사",
+                "푸틴 러시아 대통령의 국제적 위상 및 영향력"
             ],
-            "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE1DZk9ZQXFfY0NaNG5DV201cDY4NzVuUUtfT0RaTllySUphYkU0TVRIM3IxQy1xbHFTWkh2c3hmc1JIVjVwU3ktTEk5b0RQOWlEeUpSTUFwUjNjQknSAWBBVV95cUxPcFVXM1lXbE92WEhyLUl1dzFTcmoxeVl2ZW9BSThYNTlVaUYyNWJlV0NWT3ZNTG9xUlhqWmhEMVlBcHROVHUxMUloRlVCLUR2bHJfdVFlT3ROLXlpamxZTlc?oc=5",
+            "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE02anVPTFRBYXF1a3RxOUpUQjFjRkFNcElzbGhwbnktdGZGYWVsMXVQd196UXFYWXRRckwxQUE5dUVKY0pwNzBvamJPLTI0elkxYVE?oc=5",
             "category": "World",
-            "published": "2026-01-20T21:13:43.738194"
+            "published": "2026-01-21T21:19:59.014442"
         },
         {
-            "title": "마크롱 “美 목표는 유럽 종속... 우린 폭력배보다 존중 선호한다”",
+            "title": "영국, ’유럽 최대’ 중국 대사관 승인...\"스파이 거점\" 반발 확산 - YTN",
             "points": [
-                "마크롱 프랑스 대통령, 미국의 유럽 정책에 대한 강한 비판",
-                "미국과 유럽 동맹 간의 균열 심화 시사",
-                "국제 질서 재편과 유럽의 독자적 위상 강화 움직임"
+                "영국 내 유럽 최대 규모 중국 대사관 건설 승인",
+                "중국 대사관이 '스파이 거점'이 될 수 있다는 우려 확산",
+                "영국-중국 관계 및 국가 안보 문제 부각"
             ],
-            "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxPeTAtM1ZLYVZZbGVFQ3Q0Zjl6N3A2eUFJV1gzbi1KRUIySWFabmZmeGVzeGpUR3lBUXdxMkR2X1FSbk01cU1qSmRQcWwwSlZ1UWVoejZpck5RbG1ZWkt2U0wtX21VbS10MXN1STdyczVKY0c2QTQyZXFMcWg2RUdqaVB1NVBXYlV1UGxfOTZmWFQzN0VwYTFJN1J5YS1aZ9IBsgFBVV95cUxNeWNpME5FMHhQbVZFVzl6WmVQaWkyejFkR3haVVU2NDAyS1BkSW5EN096Z0N1c0l6TUlkUVVWVXBZTGk3bkZOYVV4ZXc2RExyUVdLSWVRVXhxTFc4Y3JqaVU5bTB4RkJzaGFjeVRuYWM1ak1UQWVSZlFrakhkMDVjMjZKd0taOW5vODVOcV9ZX1VEblhzTU00bjRpNDJtMVA5M1FPN0xoVHRuVDM3SUZDS3dR?oc=5",
+            "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE1RNV9KRm14NnQ0aUtkMVRMU0s5T0dpUm43UXR2SW1Lc3hWSmR3bmhxZ0JyUWEtdmNMVUZJekU0c3BHWWs5S0ZiQXF5X0x4SXk2TElmQjlEUlB4NjRFM2fSAYMBQVVfeXFMTkV6OUgxclRwd2xVZTdMMTJxZm5nZnowVTQ4THZmNThQM2kxQy1nZVAzTEpKdWpfcnE5OVVzS3V5aFlSZEdId2t6eE5BdjZtSDBCdTlJdXZ1TkdzcjEtSlhPZ3NKdGc0MndtTm9IWHE0dDFrd2FvVDBzQWYzcDZKYko0WUE?oc=5",
             "category": "World",
-            "published": "2026-01-20T21:13:43.738195"
+            "published": "2026-01-21T21:19:59.014443"
         },
         {
-            "title": "기어코 그린란드 삼키려는 트럼프…역대급 판 벌린다 [이상은의 워싱턴나우]",
+            "title": "\"이란 당국 '시위 부상자 치료 말라'…죽도록 방치\" - 연합뉴스",
             "points": [
-                "트럼프 대통령의 그린란드 매입 시도 논란",
-                "덴마크와의 외교적 마찰 및 국제적 파장",
-                "미국의 영토 확장 야욕과 국제법적 문제 제기"
+                "이란 당국의 시위 부상자 치료 방치 지시",
+                "이란 내 인권 탄압 및 반인도적 행위 의혹",
+                "국제 사회의 이란 인권 문제에 대한 관심 증대"
             ],
-            "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE1QZkdtMDVEV0Y2VERDYWg2X2JpS2N3Yk5YOUxPeThMVEVCNzFIa0h5MTZWWHptZEdSYlJhV0swNk9aNDZlY1VyTEJTaUZZVVhHNExjMjFRVEFmZ9IBVEFVX3lxTE9FV19RX1h0X2p0cmtJM2VMV3hKQzJhQ3UwdU9LLWhNZlVRVzJYaG1OaC1rX01OVlp5ODBLa3F4dE5UczR2R3c3YVd4M0tneXluQ29NOQ?oc=5",
+            "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFB5dHl5MVJUa2FiUlNQME80NUJhUFdWYmM1NHZNaDdXcTJqSmV0bjc0VUN0V3p3TGw1TXZwUDN2dzhCbmtwbU9IVDYyN1ozVkg2TU12UTZ3Z1BsYlHSAWBBVV95cUxQUXlkRmhFcGVKVGZPWEtVZ2UyRWlBa3VPTkRNbWt1NHE4NGhxVkFoTFdVUUE1QlJZd1N5MElpQ1ZJSjNJQkg4bV9tcWY0QldGSDMzUGRCTlhzSkxyaE1qOUE?oc=5",
             "category": "World",
-            "published": "2026-01-20T21:13:43.738196"
+            "published": "2026-01-21T21:19:59.014444"
         },
         {
-            "title": "세계 첫 '탈원전' 국가도 돌아섰다…25년 만에 백기 든 이유 [강경주의 테크X]",
+            "title": "중국 음식점에 폭탄 테러, 7명 사망…IS가 중국인 노린 이유는? [핫이슈] - 나우뉴스",
             "points": [
-                "세계 최초 탈원전 국가의 원전 정책 회귀",
-                "에너지 안보 및 기후 변화 대응의 현실적 어려움 반영",
-                "글로벌 에너지 정책 방향과 원자력 발전의 재평가"
+                "중국 음식점에서 발생한 폭탄 테러로 7명 사망",
+                "극단주의 무장단체 IS의 소행 가능성 제기",
+                "테러의 국제적 확산 및 특정 국적(중국인) 표적 가능성"
             ],
-            "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE5IbF9Ydm03R0lvMjdXMXFVakRKUGlRZDhVelBWaE5HcVE3Z1NUa2ZjdnVFZVNKaWFkSTVobUdzeW9vZUhGdGtMbC1nSnVlTmY1ZVA2ZWhUWTdOd9IBVEFVX3lxTE5VY1VwX1FVaFVIYVFmUnBVQ213aHJJYlJLNmo1YXBQWHlPakZBRWtGb2JJbDBFV1JzTlF1Vk1BTTRQMURFcGFPWHBSYkJwMDc1MTJqSA?oc=5",
+            "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTFA4OUs2X1BOWGVCWWRDc2w1OFZJdkNZUXJIUkp6ZzZBR0dBWThLNmJNdy1mMFQ1QlpUU3hWNlNMcDhMY3F0clVGd01FMkxPZlFOZEgxaWZ5WWU0dlV4QlUtdzZicWwyT1FWQkI5SG04dFk?oc=5",
             "category": "World",
-            "published": "2026-01-20T21:13:43.738197"
+            "published": "2026-01-21T21:19:59.014445"
         }
     ]
 }
