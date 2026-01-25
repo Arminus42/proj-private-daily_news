@@ -1,230 +1,231 @@
 {
     "AI_Tech": [
         {
-            "title": "사물 인터넷 환경에서 프라이버시 보호 및 지속 가능한 보안을 위한 생성형 AI 기반 하이브리드 연합 학습 프레임워크 - Nature",
+            "title": "에이전트 AI 대 생성형 AI: 자동화의 다음 개척지 (2026)",
             "points": [
-                "연합 학습(Federated Learning)은 데이터를 중앙 서버로 모으지 않고 각 기기에서 학습한 모델만 공유하여 프라이버시를 보호하는 기술입니다.",
-                "이 프레임워크는 연합 학습에 생성형 AI를 결합하여, 사물 인터넷(IoT) 기기들이 민감한 정보를 노출하지 않으면서도 보안 위협에 효과적으로 대응하고 지속 가능한 보안을 유지할 수 있도록 돕습니다.",
-                "특히, 데이터 프라이버시가 중요한 스마트 환경에서 AI 기반 보안 시스템의 효율성과 안정성을 크게 향상시킬 수 있는 기술적 진보입니다."
+                "에이전트 AI (Agentic AI)는 단순히 콘텐츠를 생성하는 생성형 AI (Generative AI)를 넘어, 스스로 목표를 설정하고 계획을 세워 행동하며 복잡한 작업을 자율적으로 수행하는 인공지능을 의미합니다.",
+                "이는 AI가 단순한 도구를 넘어, 마치 사람처럼 문제 해결 과정을 주도하는 방향으로 발전하고 있음을 보여줍니다. 예를 들어, 특정 목표를 달성하기 위해 여러 단계를 계획하고 실행하는 AI 비서나 자율 시스템이 이에 해당합니다.",
+                "이러한 발전은 미래의 자동화 시스템이 훨씬 더 지능적이고 독립적으로 작동하게 될 것임을 시사하며, AI 기술 발전의 중요한 다음 단계로 평가됩니다."
             ],
-            "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE9OUFFsTl9hWGZQVldmV0Q4Y1RFOEREWmxFVkRQQXdxM1RheG9MM05fdDVuMkxxWWx2aGcwR1YxZ2pfeEE2NVR1UklHcWJ4d0liei1ycDJkRmFWTG8wLThr?oc=5",
+            "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE9fZzBzWnVWT3RVeUMyQ3AxSjZQRlJpYXdVOEdqRGFraXFoOFhSSC1ZM0JPSE1uaTRmNkFYQUt1Y0RtVjVBVzZIa0JFaGVOVmljbkt1R3hFLXVGUjBJZ2ltNzlTSTJfZGs?oc=5",
             "category": "AI_Tech",
-            "published": "2026-01-24T21:02:08.240217"
+            "published": "2026-01-25T21:02:04.199148"
         },
         {
-            "title": "AWS CloudFormation을 사용하여 Amazon Bedrock AgentCore로 AI 에이전트 구축하기 - Amazon Web Services (AWS)",
+            "title": "AI와 제약 의약품 개발: 새로운 표준이 만들어지고 있다",
             "points": [
-                "AI 에이전트는 특정 목표를 달성하기 위해 스스로 판단하고 행동하는 AI 시스템을 말합니다.",
-                "이 기사는 개발자들이 AWS의 Bedrock AgentCore와 CloudFormation 같은 클라우드 도구를 활용하여 이러한 AI 에이전트를 효율적으로 설계하고 배포하는 방법을 설명합니다.",
-                "이는 복잡한 AI 시스템을 더 쉽게 구축하고 관리할 수 있게 하여, 다양한 산업에서 AI의 실제 적용을 가속화하는 데 기여하는 기술적 방법론입니다."
+                "인공지능(AI)이 신약 개발 과정에 혁신을 가져오며 새로운 표준을 제시하고 있습니다. AI는 방대한 의학 데이터와 화학 물질 정보를 분석하여 잠재적인 신약 후보 물질을 빠르게 찾아내고, 약물의 효과와 부작용을 예측하는 데 활용됩니다.",
+                "이는 기존의 시간과 비용이 많이 드는 신약 개발 과정을 획기적으로 단축하고, 성공률을 높여 더 빠르고 효율적으로 환자에게 필요한 약을 제공할 수 있게 합니다.",
+                "AI 기반의 시뮬레이션과 예측 모델은 실험실에서의 물리적 실험을 줄여주어 연구 효율성을 극대화하며, 맞춤형 의약품 개발 가능성도 열어줍니다."
             ],
-            "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxNTnN0eWlqTVRtUVE0UEt0ZTBZUDVFNUVPc2ZqbVExQnVacHI3ZVY1ck9NRnBMc1hzZV83Vm9vc3RvLWFaMDNVZGlpOVFfbVBHN2RIeVUteDF2enNsSWluLW5iZ2pEOHdUMjRqQkRUVGdHN1FMQ1A0N0YwOEpTbElHOXV2SFpjY21lSU9GTFJkYk9PNVdQandNYzF5X0FpWnJGdHpjWllIUC11NGpjTlFhUGdzRE1icU9f?oc=5",
+            "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxNa2RCYjBPOG9Fak9aN1ZNLXZ0NGZUNTNjYmJ2bHlzZXcxczhsOXQ3SWtOQTFQVWtjamxVTDZaQmFjd1lxNi04M2p6THRIY0dJOUVEemNRa2Q1cFNwX1NNbE1xV3cyUXFFWVdMUTJwM3QwRTVfbVByeXU0NE1hcThPaUY1aklTaW5yU2F3R002aXRNdWcwVk5vUnZXa0JNbXpFendIdkhJSDVvVTlRQU1FZWJKc3k1a3g5Y2d6YXhwamhkd1JF?oc=5",
             "category": "AI_Tech",
-            "published": "2026-01-24T21:02:08.240224"
+            "published": "2026-01-25T21:02:04.199155"
         },
         {
-            "title": "Amazon.com 카탈로그 팀이 Amazon Bedrock으로 대규모 자기 학습 생성형 AI를 구축한 방법 - Amazon Web Services (AWS)",
+            "title": "코드의 새로운 분열: 생성형 AI가 소프트웨어 엔지니어링 세계를 둘로 나누는 방법",
             "points": [
-                "Amazon.com이 방대한 상품 카탈로그 관리를 위해 대규모로 '자기 학습'이 가능한 생성형 AI를 어떻게 구축했는지에 대한 기술적 사례를 다룹니다.",
-                "자기 학습 AI는 외부의 명시적인 프로그래밍 없이 스스로 데이터를 통해 학습하고 개선하는 능력을 의미하며, 이를 통해 복잡하고 변화무쌍한 카탈로그 데이터를 효율적으로 처리할 수 있습니다.",
-                "이러한 대규모 AI 시스템 구축 경험은 다른 기업들이 유사한 복잡한 문제를 해결하는 데 중요한 기술적 통찰을 제공합니다."
-            ],
-            "link": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxPd0RvbkpvOTFfbXg1OVR2NHlBMmoyTWxsSXVaQ3VyenNMSTE2QUJyaTdNNXJZQVoteXY2amYzOC1MXzJFY3BVR2todmFLdTg1NVI3UWRoLUlkbDZxTi1BV3hBaFpwMngwSV80LUpYUkVDSjhKbk1jRmNKa0M1OHRPejY3cTZzRERoNFhtMi13NUREdHduZzNwQ2xNM05EOXJVNkRaN3liTUtmek9nWlhXWjJYQWM1aUZkbFRLTE1DeHdZMVRBeVFyZHdWR0JaQldlVnhqUXJweTU?oc=5",
-            "category": "AI_Tech",
-            "published": "2026-01-24T21:02:08.240226"
-        },
-        {
-            "title": "코드의 새로운 분열: 생성형 AI가 소프트웨어 엔지니어링 세계를 둘로 나누는 방법 - WebProNews",
-            "points": [
-                "생성형 AI의 등장으로 소프트웨어 개발 방식이 크게 변화하고 있으며, 이는 소프트웨어 엔지니어링 분야에 새로운 경계를 만들고 있습니다.",
-                "AI 도구를 활용하여 코드를 생성하고 최적화하는 방식과 기존의 수동 코딩 방식 사이에서 역할과 역량의 변화가 일어나고 있음을 설명합니다.",
-                "이러한 변화는 개발자들이 AI와 협력하는 새로운 패러다임을 이해하고 적응해야 함을 시사하며, 미래 소프트웨어 개발의 방향을 제시하는 중요한 기술적 트렌드입니다."
+                "생성형 AI(Generative AI) 기술이 소프트웨어 개발 방식에 근본적인 변화를 가져오면서, 소프트웨어 엔지니어링 분야에 새로운 전환점을 만들고 있습니다.",
+                "AI가 코드 작성, 테스트, 디버깅 등 개발 과정의 많은 부분을 자동화하면서, 개발자들은 이제 AI 도구를 활용하는 능력과 AI가 생성한 코드를 검토하고 개선하는 역할에 더 집중하게 됩니다.",
+                "이는 개발자의 역할과 필요한 기술 역량을 변화시키며, AI를 효과적으로 활용하는 개발자와 그렇지 못한 개발자 사이에 새로운 격차를 만들 수 있음을 시사합니다."
             ],
             "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxPNWFoWFExUFY5VVlBMjhhVFR4eXIzYTZac0ZIOF9VZDRlWkI5SFItMXkyeWptaWdYMzNPVkhPdEJ2RmxVYk5HMVFTQ2xleGl5ckNkbGhMMHRYOWh0c01KWXU3VWRFYUd4dmsxMEJCcWFjNXE0UUQ1WEJ1NGNnNzUzS3JwTnhYa01ZY0xELUVoaWdtRkVjZXlYZkdNTGRBN0NiSXBlSzRtazYtdjhNYWNKMjk5bw?oc=5",
             "category": "AI_Tech",
-            "published": "2026-01-24T21:02:08.240227"
+            "published": "2026-01-25T21:02:04.199156"
         },
         {
-            "title": "AI 연구 도구는 개별 과학자에게 이점을 주지만, 과학 발전 속도를 늦출 수도 있다 - Chemistry World",
+            "title": "검색 엔진, AI, 그리고 공정 사용(Fair Use)을 둘러싼 오랜 논쟁",
             "points": [
-                "AI 기반 연구 도구들이 개별 과학자들의 작업 효율성을 높여주는 반면, 전체 과학 분야의 발전 속도에는 예상치 못한 부정적인 영향을 미칠 수 있다는 분석입니다.",
-                "이는 AI 도구에 대한 과도한 의존이 새로운 아이디어 발상이나 비판적 사고를 저해할 수 있으며, 연구의 다양성을 감소시킬 수 있다는 점을 지적합니다.",
-                "AI 기술이 과학 연구에 미치는 복합적인 영향을 이해하고, AI 도구를 현명하게 활용하여 진정한 과학적 진보를 이루기 위한 균형 잡힌 접근의 중요성을 강조합니다."
+                "인공지능(AI) 모델, 특히 검색 엔진과 연동되는 AI가 콘텐츠를 학습하고 생성하는 과정에서 저작권이 있는 데이터를 사용하는 것이 '공정 사용(Fair Use)' 원칙에 부합하는지에 대한 법적, 윤리적 논쟁이 심화되고 있습니다.",
+                "이 문제는 AI 모델이 어떤 데이터를 학습해야 하는지, 그리고 AI가 생성한 결과물의 저작권은 누구에게 있는지 등 AI 기술 개발의 근본적인 방향과 상업적 활용에 큰 영향을 미칩니다.",
+                "이 논쟁은 AI 기술 발전의 속도와 방향을 결정하는 중요한 요소이며, AI 모델의 학습 데이터 선정 및 결과물 활용에 대한 새로운 기준 마련의 필요성을 제기합니다."
             ],
-            "link": "https://news.google.com/rss/articles/CBMizAFBVV95cUxNR3o3dVFobVhUdlBiY25BdlBvN19yZF9QRU4zTmh2VklTck1mb09oRWdaVFZEZW8zcWZEUXAzUmliWGV1N3ZMcDFfZWdrbXdRdGhKMnZfN1lxOWNWcExBQkJEN0ZMQlZ0TG5rNi1DakUzLXpkaFQ3LUgxYVdXbG1MVzZIbFFWTEhTOGpSVDVWUzRtelBTcXQwRFhiVUZXOWRKVzNveGhLYWJSek1QdjJqSkpYZTFGODBvVVJvWkF2N2RmSVRsYkZNQ1FlRWg?oc=5",
+            "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxQUmdpNl93cGdOVWRSdUZ0ZXhHLWdQeW9uOFZmYUNKei1ySjRLN0FMNVY5NWVNQXBBOHZGcmNTOUIyQ19jeDlkR084VV8xVkJ5Um1GOVh0Q2xsMnJZODY3Q2g1Wl82V2dfNU96bEttaWtSSlV5RmxyZzBlZU8xcElNRzYxOThkNnhLTGJGQw?oc=5",
             "category": "AI_Tech",
-            "published": "2026-01-24T21:02:08.240228"
+            "published": "2026-01-25T21:02:04.199157"
+        },
+        {
+            "title": "직장에서의 AI: 기업들이 생성형 AI를 활용하는 5가지 방법",
+            "points": [
+                "기업들이 고객 서비스 개선, 콘텐츠 생성, 데이터 분석, 업무 자동화, 개인화된 마케팅 등 다양한 방식으로 생성형 AI(Generative AI)를 업무에 적극적으로 도입하고 있습니다.",
+                "이는 생성형 AI가 단순한 정보 제공을 넘어, 복잡한 문제 해결과 창의적인 작업 지원까지 가능하게 함으로써 기업의 생산성과 효율성을 크게 향상시키고 있음을 보여줍니다.",
+                "이러한 활용 사례들은 생성형 AI 기술이 실제 비즈니스 환경에서 어떻게 적용되고 발전하고 있는지에 대한 중요한 통찰을 제공하며, AI 기술의 실질적인 가치를 입증합니다."
+            ],
+            "link": "https://news.google.com/rss/articles/CBMickFVX3lxTE13VUlCWi16QTc1QjRMTS1JbTlDVUxkdwk5UVN6emloR01QX2VsaGdvTllaZ1V6VENNWHZ0NHdoX1FlOWp0VjBfOHBFZDJVb055S1RneGVDSUdSdkFRSmFfeUhTOW1ZbDBqLWNkU19GWDFSNXcw?oc=5",
+            "category": "AI_Tech",
+            "published": "2026-01-25T21:02:04.199158"
         }
     ],
     "IT_Biz": [
         {
-            "title": "오픈AI 의장 “AI, 거품일 수도 있다… 몇 년간 조정은 불가피” - 세계일보",
+            "title": "아이폰만 7년 썼는데 갈아탑니다…2030 '폰심' 흔들린 이유",
             "points": [
-                "오픈AI 의장이 AI 시장의 잠재적 거품 가능성을 경고했습니다.",
-                "향후 몇 년간 AI 산업의 시장 조정이 불가피할 것으로 전망했습니다.",
-                "AI 관련 투자 및 기업 전략에 중요한 영향을 미칠 발언입니다."
+                "2030 세대의 아이폰 사용자 이탈 현상 발생.",
+                "스마트폰 시장 내 브랜드 충성도 변화 및 경쟁 심화.",
+                "소비자들의 새로운 스마트폰 선택 기준 변화."
             ],
-            "link": "https://news.google.com/rss/articles/CBMiWEFVX3lxTFBiLVlIRW1DWkhqLXFSYVV4d1FyU09xclMwX0tadHN0cnJqTTFuOHM3UXByYjR4S0JxckJROFhxbnA3NXV2ejNzLWVGa2NzZU5qRFJxVjlhTWHSAVRBVV95cUxQQjNJSVdRSjNkWGFtV1V0Snl0NnFGRWRsdFU0ekZJYk1yby1GZ2tNLU5OcWJ5YXJQNm5qdnJqQmVpMHdTVmZ4aFA4U2pDTkZqOVpYOGQ?oc=5",
+            "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTFBPSXp0TVJGZXFGOTN5eGxqMWMxWkFFR2ZMRjlIaUQyU19KM2NIS0YwcEdnd1lsbElYM1JKdGNiOHFKOTBnaFI2c2M2UHE2QWdSbHI4?oc=5",
             "category": "IT_Biz",
-            "published": "2026-01-24T21:02:45.697669"
+            "published": "2026-01-25T21:02:32.496353"
         },
         {
-            "title": "머스크의 예언…\"내년 말 휴머노이드 판매, 5년 후 인류보다 똑똑한 AI\" - 네이트",
+            "title": "볼보, 역사상 가장 광범위한 소프트웨어 업데이트로 차량 디지털 기능 혁신",
             "points": [
-                "일론 머스크가 내년 말 휴머노이드 로봇 판매를 예측했습니다.",
-                "5년 내 인류보다 똑똑한 AI가 등장할 것이라고 전망했습니다.",
-                "AI 및 로봇 산업의 미래 발전 방향과 투자 심리에 큰 영향을 미칠 발언입니다."
+                "볼보 차량의 대규모 소프트웨어 업데이트를 통한 디지털 기능 강화.",
+                "차량 내 사용자 경험 및 편의성 대폭 개선.",
+                "자동차 산업의 소프트웨어 중심 차량(SDV) 전환 가속화."
             ],
-            "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE1jRVpoRmdWaERkV01UczJKZWdSNHN2TEswRHpWam01a0ZDWlh1eXdqREZHTDljQUhtUll3VVk0dVNxQUhOMXM0OXczX3MzVzBhNzJ3?oc=5",
+            "link": "https://news.google.com/rss/articles/CBMizgFBVV95cUxOdFJwQzhtQ1diNEszcF9jUGh5bTZSOUlpTldQWGx5a2F6RmNwUVJLcVVMSDJKeXF2VlVZLWVMUXRLV0lHYTdZTk9BYWdqQzBySWlZNW9TMDFSd2d0QWstdDVnSTJTN0xyLWVzcjN0UEh5MW8xODE5QzE1TGc3aHpRemdwUWdxaF8tZ1phb1REbHhjNWpFQnV3NlA1UjlHZ1ROejlEdVJ3Tkh6cGFiZWZMX1VzLUxTREFfaTZKaUVpd1pUQWhKOVEwOXBMYmV1d9IB0gFBVV95cUxQLVFQeUU2dDdQTWtKV25xZm56UXhYUG4tVk1DTDdBU1R5MmVMQkhaZ0M1T05jUkVQV0lqNU9nVzFLdmY2clJkOXJ1Ulo4UjRvRTQ4QjBWMTNoLUtzRm91b3l4bG41RGdEVk5GLWhZcklHRmhzTURBZEVIbVgxZm5fNGdlVzI3dzBtdUtVOWRESjU3RXRFZkhFM2JHbnNsR01nVzl6djVVSjVxcDhnLXd2SnBrbWZPLXZyU3BDNVVjbXYtMlN5YTBJY3B3cDFxTkJLOHc?oc=5",
             "category": "IT_Biz",
-            "published": "2026-01-24T21:02:45.697676"
+            "published": "2026-01-25T21:02:32.496360"
         },
         {
-            "title": "젠슨 황의 '신비로운' 메모리 플랫폼…삼성·SK 기회 잡나 [강해령의 테크앤더시티] - 한국경제",
+            "title": "그야말로 괴물…삼성, 승기 잡더니 또 승부수 던진다",
             "points": [
-                "엔비디아 젠슨 황 CEO가 새로운 메모리 플랫폼을 제시했습니다.",
-                "AI 시대 핵심인 고성능 메모리 기술의 중요성이 부각되었습니다.",
-                "삼성전자와 SK하이닉스 등 국내 반도체 기업의 기회 요인이 분석되었습니다."
+                "삼성전자가 시장 주도권을 강화하기 위한 새로운 전략 또는 제품을 준비 중.",
+                "IT 산업 전반에 큰 파급력을 미칠 삼성의 공격적인 행보.",
+                "기술 혁신 및 시장 선점을 위한 대규모 투자 또는 신기술 공개 가능성."
             ],
-            "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE9LallGYVVJV1VtY3pvS3QwOWx3aEwydUxNbjVSTkVBZVlsdGJGSlkyYkRQdmcxVjlQWmZ1MmVCTWdEZ20zV2ZvYmtwaFJQWFUwbGc2WEtHZ1JaQdIBVEFVX3lxTE90V0lrclpKbFk3MVNjN1B2SDJiQWhLalZQbUF5aS1nZENybUdoTVI4dV_7UXU4RmRXVGU2c3lrQWgxSTZsb1ZmOWhaNUEzZ2VwdHgzVA?oc=5",
+            "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFBqUzgwSHQxLVRnSVUyQ2RyNG00ZnZhMzZzVm5McG0tN1BjVnNxY0pYUU9GQzZTQTlfVWpSUG1kVzc2cTVaeHIwd3IxVmpKbWUzYkZKZERGa0t2QdIBVEFVX3lxTE4wS3c0WlNSYmlUM3l1bTdKWU1nenl2VU1jd1NDUFRGMEFHRE1wRllwa1lvZFRDbDVEYVJvRkN4TEFMRy11QUZ2M1FhLXVHNF81bDdmdA?oc=5",
             "category": "IT_Biz",
-            "published": "2026-01-24T21:02:45.697677"
+            "published": "2026-01-25T21:02:32.496361"
         },
         {
-            "title": "[사설] 이번엔 ‘로봇 반대’, 혁신 싹 틀 때마다 막아 서는 나라 - 조선일보",
+            "title": "‘옵티머스’를 견습생 투입... 테슬라는 지금 로봇혁명중",
             "points": [
-                "로봇 및 AI 기술 혁신에 대한 사회적 반대 현상이 지적되었습니다.",
-                "기술 발전과 혁신 수용을 가로막는 사회적 분위기를 비판했습니다.",
-                "AI 및 로봇 산업의 성장과 확산에 중요한 사회적, 정책적 과제를 제시합니다."
+                "테슬라의 휴머노이드 로봇 '옵티머스'가 실제 작업 현장에 투입되기 시작.",
+                "로봇 기술의 상업적 활용 및 자동화 혁명 가속화.",
+                "테슬라가 자동차를 넘어 로봇 산업의 주요 플레이어로 부상."
             ],
-            "link": "https://news.google.com/rss/articles/CBMihgFBVV95cUxNMWxZS1RYQ2JwdjVRdkIyUHFWdVZXN1N5MUNFRUc4ZktXYVlSQzcxdUppUms5enVrd19tX0FfWkNoZkpYTURab09nbkdvX05sVVYzaDJkTDR1TFFVUVc0ZkhsSDhGa0R3SDI1M3lYNHB6Q3FKQklVbjNRcWd5OGdGMnRtLVByZ9IBmgFBVV95cUxQUFBnQ3NaZ3Rrd0ZZUkc1a0tFaFJhelZDU1k3elVsM2JjR2ZSamg4OUF4c3Y3VUNRdTBUTUttcXR5SWU2XzN2VjdkcVQ0anZNQ2l0eGtUSzZscjctR1lHVk9MLUNhU2xSZ3ZlTks5SmxtdGZTNlctaFdDZVV2VTdoTF9SbGVtdzdNSTNmeXY1aU1iMWpSUkxWb2Nn?oc=5",
+            "link": "https://news.google.com/rss/articles/CBMigwFBVV95cUxNYkZGV3JWN29pbHdzbzIzczl0TktXeWdIc3pXOEtoY3MwNU11a1RfalBScHd2cUJ2Y0VHbUJFQUN4Z2tGNkJlamstZ3Fqbjd4M1o5ZUR6WmxkU1BuQXkzTWVfaWV1Nnl1YU5QaU1pMXljUlo2Umd2d2RRUTVOZ3ZWTUxCQdIBlwFBVV95cUxNLVh3dnN2TjJuUGpnWDFtLU1nYXFTRVZzSnU2ckhDSHg2LTRJWnlkcXJXZjhQS0wxTnhjaUlMb3F0RFdBMUh4N1dPdm52YkZCTTVxbHFTaVdVZWZ0bzlCTXEzVURpSHIyVWFBVzdqeklpNVptZ1FBY3JFVjJ5QXRDUzZvcEZoZ093Yy0wVWNFZ2k0Ym82OXFn?oc=5",
             "category": "IT_Biz",
-            "published": "2026-01-24T21:02:45.697678"
+            "published": "2026-01-25T21:02:32.496362"
         },
         {
-            "title": "백악관 “미국, 전 세계 암호화폐 수도” 발언 화제 - tokenpost.kr",
+            "title": "삼성전자, 1분기 낸드 가격 100% 인상…“공급이 수요 못 따라간다”",
             "points": [
-                "미국 백악관이 미국을 전 세계 암호화폐의 수도로 지칭했습니다.",
-                "미국 정부의 암호화폐 시장 주도 의지와 정책 방향을 시사했습니다.",
-                "글로벌 암호화폐 시장 및 핀테크 산업에 큰 영향이 예상됩니다."
+                "삼성전자가 1분기 낸드플래시 가격을 100% 인상하며 시장에 큰 영향.",
+                "글로벌 반도체 시장의 심각한 공급 부족 현상 지속.",
+                "메모리 반도체 시장의 회복 및 가격 상승 추세가 가속화.",
+                "IT 기기 제조사 및 소비자들에게 미칠 가격 인상 압력."
             ],
-            "link": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE1uTzlyN1dPNEI1TTUzU3VHXy1mbld3OUhONHhFU25pZEd1UXJjR0JFaU8xRk9seC1QWkg2WnJKMThpWXE5MWo5ZmZYRFo0dmJBRGsteVJLX3nSAV5BVV3lxTE9SUlJacnZPaFRtZHNLZnMwanhEYmZld3g3NkZ6VkZaVjdOYTA0OGQSN1BNbWUtZDdZb3k5WmcyOUUxc3RTTFlMNTRoOTN2VEFTLVBWeG1OOC01WDdBdkxn?oc=5",
+            "link": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxQeURLYXJxRHJlNlNFbnJjTDVPblhaaTFWdGVJaFRpdmJ0RWVOc1NiT2YyYV92cGhVYlhKSEM4VnZ2QWNrbHppQ3dqb2NLcDdzZ0hJbk9fd24xbEJBZDhRNTJzdVJ5U3ZwYktaY0w2LXk0dG5fclhKNHZuZXdCNXRtOTVsY3lmNG5lWDh2UGpjdVp6bnBFZEstTFpKWFZ6dDBYTmVhUnFubXlyMHpBMERBVDExcU1oOTNYdFBxRFBCYURVRldIYk5SMFlYWVhrNk5UWFhvbF8tSQ?oc=5",
             "category": "IT_Biz",
-            "published": "2026-01-24T21:02:45.697679"
+            "published": "2026-01-25T21:02:32.496363"
         }
     ],
     "Economy": [
         {
-            "title": "BOJ 총재 \"日 금리 상승 속도 상당히 빨라…정부와 긴밀 소통\"(상보)",
+            "title": "오천피 눈앞서 '전강후약' 코스피…\"실적시즌 삼전·SK하닉 관건\"",
             "points": [
-                "일본은행 금리 인상 속도 가속화 언급",
-                "일본 통화 정책 변화 및 글로벌 금융 시장 영향",
-                "정부와의 긴밀한 소통 강조"
+                "코스피 지수가 5000포인트 돌파를 앞두고 '전강후약' 흐름을 보임",
+                "실적 발표 시즌을 맞아 삼성전자와 SK하이닉스 등 주요 반도체 기업의 실적이 국내 증시의 향방을 결정할 주요 변수로 작용",
+                "국내 경제의 핵심 산업인 반도체 업황과 기업 실적에 대한 시장의 높은 관심"
             ],
-            "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE45NEp6QkwtRjRlTDE0aVJsMk1rRUdfcmhKaGpMUmxienNnSzE0dmhkdi0wSFppSjZWbE5qSE5wZHI3NktIS2tVRFJOaHQyRXBHMGxFbXNjUFlqNkJpUG1ydnk1Wi1UZU9mQURjdm9nanM?oc=5",
+            "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE05YU5WUDZYOTUxbjlRTjZFckRQa1VsdFRrazR0NjRpM0hUcExHYUU3Y2I3SXRUQ0dkVExUdHYzQ09wOFAzWGdxMU9oMDdRWWoyYmVfR0wxNy01TXpoT0NzZGlFdU1DUzRzXzZvR3Z0cDc?oc=5",
             "category": "Economy",
-            "published": "2026-01-24T21:03:13.361864"
+            "published": "2026-01-25T21:03:02.864714"
         },
         {
-            "title": "中, 엔비디아 H200 수입 준비…자국 AI칩 동시 활용",
+            "title": "'원화 약세·증시 과열' 국민연금 기금위…\"독립성 훼손 우려\"",
             "points": [
-                "중국, 엔비디아 H200 AI 칩 수입 추진",
-                "자국 AI 칩 개발 병행 전략 구사",
-                "미중 기술 경쟁 및 글로벌 반도체 공급망에 영향"
+                "원화 약세와 국내 증시의 과열 현상이 지속되는 가운데 국민연금 기금운용위원회의 독립성 훼손 우려가 제기됨",
+                "국민연금의 대규모 자금 운용이 국내 금융시장에 미치는 영향이 크며, 독립성 유지가 중요",
+                "환율 변동과 증시 상황, 그리고 국민 노후 자금 운용의 투명성 및 안정성에 대한 사회적 관심 증대"
             ],
-            "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE1YVlVyaWpSVTVXT0VHSEVYMF9wQndfaW9nck9WWWhnMWwxREZ0VFJKT1EzQWZVRTZ2UUh2UENvN19qdi1jQ3JzdHNwb1BLUUJ5M3BDcGln?oc=5",
+            "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE1oeXRReWpZQTY5b192dzJnZFlXeUJsZkJfZUdNcVBFeHoxU05QNWpKTUNHYW1tdzlreEtadzZOYktUQmJNcUR1Tk41SGhiVkgtdkE?oc=5",
             "category": "Economy",
-            "published": "2026-01-24T21:03:13.361872"
+            "published": "2026-01-25T21:03:02.864721"
         },
         {
-            "title": "“미국과 반도체 협상때 메모리･파운드리 맞춤전략 짜야”…전문가 조언 들어보니",
+            "title": "규제 한파 속 서울 집값 상승세…절반 이상 ‘신고가’ 기록",
             "points": [
-                "미국-한국 반도체 협상에 대한 전략적 접근 필요성 제기",
-                "메모리 및 파운드리 분야별 맞춤형 전략 강조",
-                "한국 반도체 산업의 미래 경쟁력 확보 방안 모색"
+                "정부의 강력한 부동산 규제에도 불구하고 서울 주택 가격이 상승세를 이어가고 있음",
+                "거래된 주택 중 절반 이상이 역대 최고가(신고가)를 기록하며 시장의 견조한 수요를 입증",
+                "부동산 시장의 불안정성과 주거비 부담 증가가 가계 경제에 미치는 영향이 심화될 우려"
             ],
-            "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE45MTJSNmRVZU1uM19Ec2daQkNHOHp0VDFZY2lMVGlwZ04wTFdNYzUtcG1HOUhNS2pGMWFhY2NKUWJUQjVsMzIzTGJfajV3QUFTODVhVg?oc=5",
+            "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE5ZbGRJWGI0OGVjTTB5b3Qxc1dOZExqcFQtNVFlUkNfc1VtdnRRalBIV2dqMkVhS0RmSEg3em1NRW5NZE05TjU2VExKVjd0S1Y5WmdaOWw2amN3akpTb2diUlFXelA?oc=5",
             "category": "Economy",
-            "published": "2026-01-24T21:03:13.361873"
+            "published": "2026-01-25T21:03:02.864722"
         },
         {
-            "title": "금값 온스당 5000달러 ‘초읽기’… 화폐 불신이 부른 ‘질주’",
+            "title": "은, 사상 첫 100달러 돌파…달러 불신에 ‘금·은 랠리’ 가속",
             "points": [
-                "금값 온스당 5000달러 돌파 임박",
-                "화폐 가치 하락 및 인플레이션 우려 반영",
-                "글로벌 경제 불확실성 심화에 따른 안전자산 선호 현상"
+                "은 가격이 사상 처음으로 온스당 100달러를 돌파하며 역사적인 기록을 세움",
+                "미국 달러화에 대한 불신이 심화되면서 금과 은 등 안전자산에 대한 투자 수요가 급증, 랠리 가속화",
+                "글로벌 인플레이션 우려와 통화 가치 하락에 대한 투자자들의 헤지 심리가 반영된 현상"
             ],
-            "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxONVh6NkptQXdyTjdsazgzUjdqaVd2VFNkNlhvNnRPRkVadG9EWjgzbVJTZWRhRUZXcmNaZDhyUVRkTU4wYVYxN1VXZnRRdktqR0wwR3dnb0hnX2F4RktBemFJNURLNVlxenpBbG1pX3RqbW56MFNmT3NFcnJVLUxlLXVhQXVMMFpG?oc=5",
+            "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxQOHI0cGNtcnZmNmI1aHJCLWU3aXhVcktZdkxNQnd3bG02OEdwaDRLY3dndzNvVFlFX3FJVE83R0VUWTRCeGxBaDJGMHA5VGFuM0VlX0JHM09VQ3pMOWFWWHdvQ2R4OUNaUllxOHFPMlpLUm1Odmo5UzZVZEVwZmRTRtIBlAFBVV95cUxNNlJXUFVhcHdSSmxwXzRKOFlhNDdrdzNoSklLWVE2dURmeXhFelhFSl9LUUNyb0lmaEo0VmRad0FIY0VfUHdKTWEwN2docThEc2J3RUQ3MF9vRmFDZTBGczZuQVVOUzltX3ZqN1VnT1lpVDMxbGFBSXpPT0QzVEZKaWdEVXJvUzhmWUZSQktNZG9fbXdV?oc=5",
             "category": "Economy",
-            "published": "2026-01-24T21:03:13.361874"
+            "published": "2026-01-25T21:03:02.864723"
         },
         {
-            "title": "[이로운경고]로봇과 인간의 전면전 서막인가…현대차 노조, '아틀라스' 투입에 제동",
+            "title": "李 대통령 질의로까지 번진 STO…커지는 정치권 외풍 [박주연의 여의도 나침반]",
             "points": [
-                "현대차 노조, 로봇 '아틀라스' 생산 라인 투입 반대",
-                "자동화로 인한 일자리 감소 및 노동 환경 변화 우려 제기",
-                "산업 현장의 기술 변화 수용과 노동 시장의 갈등 심화"
+                "증권형 토큰(STO) 관련 논의가 대통령의 직접적인 질의로까지 확대되며 정치권의 관심이 집중",
+                "새로운 금융 상품인 STO 시장의 제도화 및 규제 방향에 대한 정치권의 영향력이 커지고 있음",
+                "디지털 자산 시장의 미래와 금융 혁신에 중요한 변수로 작용할 가능성"
             ],
-            "link": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE4wTFl3RllwRTFUVHhYS0J3UHc2VGh2X2xkTVk3RWI4NnpxUXlOVU1Rajpva0NDODFoQUtOWW5BQVI1dTBjLTduZVU0OHNHQzJtcDlzR0FJeUE5S0pNaWprUzczUnZJQQ?oc=5",
+            "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE01Y2x5ZnRiLXJMcTBPeFNBMW9FY2NabnBTX1ZXLWtPWDZHZEVoUnh6THN0clNERmpGRURaV0NtdjNuRlVDYzFDUjdVSXo1MG8?oc=5",
             "category": "Economy",
-            "published": "2026-01-24T21:03:13.361875"
+            "published": "2026-01-25T21:03:02.864724"
         }
     ],
     "World": [
         {
-            "title": "러, 3자협상 도중 우크라 공습…1명 사망, 23명 부상 - 연합뉴스",
+            "title": "러, 3자협상 도중 우크라 공습…1명 사망, 23명 부상",
             "points": [
-                "러시아의 우크라이나 공습 발생",
-                "3자 협상 중 공습으로 1명 사망, 23명 부상",
-                "러시아-우크라이나 전쟁 상황 악화 및 국제 정세 불안정"
+                "러시아-우크라이나 전쟁 지속",
+                "평화 협상 중에도 러시아의 우크라이나 공습 감행",
+                "민간인 사상자 발생으로 인도적 위기 심화"
             ],
-            "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFA3LVkwXzN3REJUZ1R6NEtmZVVHMndTemVkZC0yMTJ5SHdVUGhUbW4wYXlFNFBfbGZ4S1c4TTk5M1NZNy1Ha1RKMS11LVRIN2Vjcy1FMGtGYVF5Yk3SAWBBVV95cUxNZFFfT1ExUlpkbXZGdzJfY2pHXzBVRjZSNGFDWGNUZ004M0dIYWVKSzJDVE1UdmVuZXNGRl9RdFRmd3ZUT3ZUa21IX0ZaQ2hUUlI4SlJCZ0lZd1NTOEU0V2k?oc=5",
+            "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFA3LVkwXzN3REJUZ1R6NEtmZVVHMndTemVkZC0yMTJ5SHdVUGhUbW4wYXlFNFBfbGZ4S1c4TTk5M1NZNy1Ha1RKMS10LUg5dEVjcy1FMGtGYVF5Yk3SAWBBVV95cUxNZFFfT1ExUlpkbXZGdzJfY2pHXzBVRjZSNGFDWGNUZ004M0dIYWVKSzJDVE1UdmVuZXNGRl9RdFRmd3ZUT3ZUa21IX0ZaQ2hUUlI4SlJCZ0lZd1NTOEU0V2k?oc=5",
             "category": "World",
-            "published": "2026-01-24T21:03:40.762636"
+            "published": "2026-01-25T21:03:23.142693"
         },
         {
-            "title": "중동 향하는 미 항모전단에 긴장 고조…이란 “공격하면 전면전” - 한겨레",
+            "title": "'중동행' 美항모전단 인도양 진입…이란 \"공격하면 전면전\"",
             "points": [
-                "미국 항모전단의 중동 배치로 지역 긴장 고조",
+                "미국 항모전단 인도양 진입으로 중동 지역 긴장 고조",
                 "이란, 미국 공격 시 전면전 불사 경고",
-                "중동 지역의 군사적 충돌 가능성 증대 및 국제 유가 영향 우려"
+                "중동 정세 불안정 및 잠재적 충돌 위험 증대"
             ],
-            "link": "https://news.google.com/rss/articles/CBMic0FVX3lxTE42eGQtZFRsSDd4MEdhZXJ2RmxYS2I4cHpCSUN1NWwwU2VZaDdiSHVCbVcyVmhBVnlETnkzNUdmMEtXSEk4X0l3Q1dJcFJJbVRySmo0U1BGSkJfN1JPaTQ5N3c3dExIZEozVTFkSktvcUNKWjA?oc=5",
+            "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE5oa2dzMDRxczJ5UlNvSUlYYkx3ejJORlYxbW1SeDY5Rkt0b05CYjhuX2d5WDdqaG5LTms0UGFiM04ybkxWLTZoSFJsRzJ6Qk93ZGZBNVZ0MmoyeUHSAWBBVV95cUxNMkRxQVl3ZTg4ckRuZ0M3TVVtQkx0d2UxckV0cHZCWGFIMnhtT09EWDhwUEpRcVNtNXh5T09KUG16QjlxMVFUSHNTX1RPaXBEeF9UeThNUzFmdjBFVURza1M?oc=5",
             "category": "World",
-            "published": "2026-01-24T21:03:40.762643"
+            "published": "2026-01-25T21:03:23.142700"
         },
         {
-            "title": "美, WHO 탈퇴 완료…회비 3천800억원 납부하지 않은채 떠나 - 연합뉴스",
+            "title": "유럽 또 긁는 트럼프 “나토 필요로 한 적 없다”…영국 “모욕적이고 참담”",
             "points": [
-                "미국의 세계보건기구(WHO) 탈퇴 공식 완료",
-                "미납 회비 3,800억원 문제 발생",
-                "글로벌 보건 협력 및 국제기구의 재정적, 정치적 역할 약화 우려"
+                "도널드 트럼프 전 대통령의 나토 무용론 발언",
+                "유럽 동맹국들의 강력한 반발 및 우려 표명",
+                "미국 대선 결과에 따른 대서양 안보 동맹의 미래 불확실성 증대"
             ],
-            "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFBMSXQ5bDRyaWRLTWphcXR1N2pGZ1pBYXRPVVhFd2xXNDZ4eE5oVy1WRVFEa1pJOE4wNXRfNEt3WnRqNEw3X3VDYml1ZllSUUdHdXJka1dVVVFyNXPSAWBBVV95cUxQVFlENHNZdHZVcWZSU1ZkWXoxYXdPY0VRZjZVVUdHdUdzalZpNGlmcmF3aExPd0dGMjc0TEhfb3BqdmVVakZyMXNBLUtjaDc5TkJlcV9mY1NCbWppUlZxMXQ?oc=5",
+            "link": "https://news.google.com/rss/articles/CBMiggFBVV95cUxNem5fcGtoRTRiMHJlZ2ZULXZMTjhtckpPMUY0UXd4QlJRcF9ORFpRdUJQUUVWRWllcG5aeGVBSkhxdkJYcEVhQmlFdXRva0pzVzJPT2w4aFVzREFWc2lPdEd0YmtvQ1NsUDd4V203U01HWmkyMGwtMmFqb2NMQWgxSlpB?oc=5",
             "category": "World",
-            "published": "2026-01-24T21:03:40.762644"
+            "published": "2026-01-25T21:03:23.142701"
         },
         {
-            "title": "한국에 더 많은 부담 지운 美국방전략… 전작권 전환 탄력받고 北비핵화 멀어진다 - 조선일보",
+            "title": "중·러, 그린란드 옆 스발바르섬 눈독...\"군사적 요충지·자원 풍부\"",
             "points": [
-                "미국의 새로운 국방전략으로 한국의 방위비 부담 증가",
-                "전시작전통제권(OPCON) 전환 논의에 영향",
-                "북한 비핵화 협상에 부정적 영향 우려"
+                "중국과 러시아의 북극 스발바르섬에 대한 전략적 관심 증대",
+                "군사적 요충지 및 풍부한 자원 확보 경쟁 심화",
+                "북극 지역의 지정학적 긴장 고조 및 국제 정세 영향"
             ],
-            "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxOMFRTdFlrMktuQ256MW9ubUdtem9IU0FMY2pPUFdGcDZmUm5lWmhORHhab29ONnQ0MzVOX0dlTElWTGpnRUlwdE1RNkZNeUY4a3VCOWN0TmtJMk1FY09iLVdYeHIxZlUwRjZQdm5yOHlMRmVMNzUwZi00YzdpdktqWXh4ZHfSAZgBQVVfeXFMTUJGTUkzdURoMzgyc0VJbWhETkUyWTQ2eG85SXk4eTZtWVVzbXZFaTduamV3Ykx6UVh0dXRocmJLc2RyOEU3ckpsZjc5WkR1OExpYmRRVHJBeHM1blpVVTVJMTE2UnZoWk1zVE05em1JUl92WVZzWEZSSWhBTGtseWFDR2F3RDl1cnVVUjdveThtak9WYUo2ZG0?oc=5",
+            "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE5WeUl4aHk5M3dmN1F3VXY3STVpX1VPSkdLVHFld1ZzZHBMNUhUdWxHaDR2NGtZZFUxWHhmMVZ4aUdwZ2xWaHI1VGdRSDg3cUVhanNMaHo2TWpCR3h6WEHSAYMBQVVfeXFMTW84ajFfS1kwNkdxSEowUGt4WGtwYXUtTkpvdmR6OU8zODZUbjdjVGRQdXFjSG9pMWZYT1J1RldSdGJTUWoxazhWM3laN3Roc2hmUTJYNVVRc2k3NzB0ajA3Y2tzNEtLWEZFcjNBSlNjMWZBSl9FWGRJMExaSHVSaFg1eEE?oc=5",
             "category": "World",
-            "published": "2026-01-24T21:03:40.762645"
+            "published": "2026-01-25T21:03:23.142702"
         },
         {
-            "title": "중국 ‘군부 2인자’ 장유샤 등 군 최고위직 2명 “기율위반 조사” - 경향신문",
+            "title": "美 인권운동가통신 “이란 반정부 시위 사망자 속출…5100명 넘어”",
             "points": [
-                "중국 군부 2인자 장유샤 등 최고위직 2명 기율위반 조사",
-                "중국 공산당 및 군 내부 권력 투쟁 가능성 제기",
-                "중국 군사 정책 및 안정성에 잠재적 영향"
+                "이란 내 반정부 시위 지속 및 인권 탄압 심화",
+                "시위 사망자 5100명 초과, 대규모 인명 피해 발생",
+                "이란 내부 정세 불안정 및 국제사회의 우려 증폭"
             ],
-            "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFBGZTdvT1k0bHRLeTZmU3VJb3ZXZGZmWEtXZzgwdUlVTzVsc1ctYzR4emFNcUtnbzlNaEkxcTFYOFc4aDFWMi05YTZPMktZTXN0TzdfZS1pSEE2QdIBX0FVX3lxTE42alVwQjg2OEZzWll0ZTg0Yk1kUG8xWGhIeHo1NDZSeWVkYmRfSzBMak9Ud1lxa3dRTmY3d0lGVk9zSUJiQ2tXSkZLWnV2X3lpVHdRN0c5WVBEZU5wY3k4?oc=5",
+            "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE15X1ZNTVVfQ0VOUmYyUXBIcDJtX0hZakdkZGhaRHJzSjllLXR3Q0pUX0JQWl91bzFzRE5HSkNHS2lMd3dDUXZvZTdXN1JteVM0SHc?oc=5",
             "category": "World",
-            "published": "2026-01-24T21:03:40.762646"
+            "published": "2026-01-25T21:03:23.142703"
         }
     ]
 }
