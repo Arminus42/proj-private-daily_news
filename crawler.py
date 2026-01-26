@@ -22,12 +22,12 @@ if API_KEY:
 
 # RSS 피드 설정
 RSS_FEEDS = {
-    # 'when:1d'로 범위를 좁히고, 대형 IT 매체나 핵심 키워드를 보강합니다.
-    'AI_Tech': 'https://news.google.com/rss/search?q=AI+Tech+OR+LLM+OR+SOTA+OR+NVIDIA+OR+OpenAI+when:1d&hl=en-US&gl=US&ceid=US:en',
+    # 한국 내 AI 기술, 연구, 생성형 AI 관련 메이저 뉴스 수집
+    'AI_Tech': 'https://news.google.com/rss/search?q=AI+기술+OR+인공지능+연구+OR+LLM+OR+생성형AI+when:1d&hl=ko&gl=KR&ceid=KR:ko',
     
-    # 한국 뉴스의 경우 '헤드라인' 섹션은 이미 구글이 메이저한 것을 선별해주지만, 
-    # 더 좁히고 싶다면 특정 언론사(예: 연합뉴스, 매일경제 등)를 쿼리에 넣을 수 있습니다.
-    'IT_Biz': 'https://news.google.com/rss/search?q=IT+산업+OR+테크+기업+when:1d&hl=ko&gl=KR&ceid=KR:ko',
+    'IT_Biz': 'https://news.google.com/rss/headlines/section/topic/TECHNOLOGY?hl=ko&gl=KR&ceid=KR:ko',
+    'Economy': 'https://news.google.com/rss/headlines/section/topic/BUSINESS?hl=ko&gl=KR&ceid=KR:ko',
+    'World': 'https://news.google.com/rss/headlines/section/topic/WORLD?hl=ko&gl=KR&ceid=KR:ko'
 }
 
 DATA_DIR = os.path.join(os.path.dirname(__file__), 'data')
@@ -58,10 +58,10 @@ def process_category(category, url):
     # 프롬프트 설정 (수정본)
     if category == 'AI_Tech':
         focus_instruction = """
-        ★중요★: 이 분야는 'Global AI Tech Trend'이며 기사는 영어 원문이야.
-        1. **메이저 뉴스 선별**: 조회수나 화제성이 낮은 사소한 뉴스는 무시해. Google, OpenAI, Meta, NVIDIA, Anthropic 등 주요 기업이나 유명 대학 연구소의 발표를 우선해.
+        ★중요★: 이 분야는 'Global AI Tech Trend'야.
+        1. **메이저 뉴스 선별**: 조회수나 화제성이 낮은 사소한 뉴스는 무시해. Google, OpenAI, Meta, NVIDIA, Anthropic 등 주요 글로벌 대기업이나, Naver, SKT 등 국내 AI 빅테크 기업이나, 유명 대학 연구소의 발표를 우선해.
         2. **기술 중심**: 단순 주가 변동이나 가십보다는 새로운 모델 출시, 논문, 획기적인 기술적 돌파구를 선정해.
-        3. **언어**: 반드시 한국어로 자연스럽게 번역해서 출력해.
+        3. **언어**: 영어 기사가 있다면, 반드시 한국어로 자연스럽게 번역해서 출력해.
         4. **전달력**: 기술 용어는 쉬운 비유를 섞어 설명하되, '왜 이 뉴스가 중요한지' 가치를 꼭 포함해줘.
         """
     else:
