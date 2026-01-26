@@ -1,231 +1,106 @@
 {
     "AI_Tech": [
         {
-            "title": "에이전트 AI 대 생성형 AI: 자동화의 다음 개척지 (2026)",
+            "title": "삼성, 엔비디아의 핵심 HBM4 AI 메모리 칩 승인 임박",
             "points": [
-                "에이전트 AI (Agentic AI)는 단순히 콘텐츠를 생성하는 생성형 AI (Generative AI)를 넘어, 스스로 목표를 설정하고 계획을 세워 행동하며 복잡한 작업을 자율적으로 수행하는 인공지능을 의미합니다.",
-                "이는 AI가 단순한 도구를 넘어, 마치 사람처럼 문제 해결 과정을 주도하는 방향으로 발전하고 있음을 보여줍니다. 예를 들어, 특정 목표를 달성하기 위해 여러 단계를 계획하고 실행하는 AI 비서나 자율 시스템이 이에 해당합니다.",
-                "이러한 발전은 미래의 자동화 시스템이 훨씬 더 지능적이고 독립적으로 작동하게 될 것임을 시사하며, AI 기술 발전의 중요한 다음 단계로 평가됩니다."
+                "이 뉴스는 AI 칩 시장의 핵심 플레이어인 삼성과 엔비디아 간의 중요한 기술 협력을 다룹니다. 차세대 AI 칩의 성능을 좌우할 고대역폭 메모리(HBM) 기술의 발전은 AI 산업 전체에 막대한 영향을 미칩니다.",
+                "HBM4는 기존 HBM3보다 훨씬 빠른 데이터 처리 속도와 더 높은 용량을 제공하여, 엔비디아의 차세대 AI GPU(그래픽 처리 장치)가 더욱 복잡하고 거대한 AI 모델을 효율적으로 학습하고 실행할 수 있도록 합니다. 이는 마치 고속도로의 차선이 늘어나고 속도 제한이 없어지는 것과 같아, AI 연산의 병목 현상을 크게 줄여주는 획기적인 기술적 돌파구입니다."
             ],
-            "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE9fZzBzWnVWT3RVeUMyQ3AxSjZQRlJpYXdVOEdqRGFraXFoOFhSSC1ZM0JPSE1uaTRmNkFYQUt1Y0RtVjVBVzZIa0JFaGVOVmljbkt1R3hFLXVGUjBJZ2ltNzlTSTJfZGs?oc=5",
+            "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxNQ2VNMVZwQkhKemhFQTNJSU85LXV0MzlzckQ2SkJqMVBqRGU0V3pDeXVmd2FfSWNNd2lTUXFZQl92QXUzUHU4eThaUWV2NlZ0VDJfTGVDM0xpckVnbDlmYXJyV2ZIRVowaC1uanljOXNGRkd0bXkybXZRX2hIdVRoWTkyZ3RDNkltRU9FMGNwY2pkclhqaGwzQk9LbWFRaUdOSy1pc2c4SXBlNUFVeTlHOA?oc=5",
             "category": "AI_Tech",
-            "published": "2026-01-25T21:02:04.199148"
+            "published": "2026-01-26T04:31:38.459016"
         },
         {
-            "title": "AI와 제약 의약품 개발: 새로운 표준이 만들어지고 있다",
+            "title": "엔비디아 CEO 젠슨 황: \"수조 달러 규모의 AI 인프라 구축이 필요하다\"",
             "points": [
-                "인공지능(AI)이 신약 개발 과정에 혁신을 가져오며 새로운 표준을 제시하고 있습니다. AI는 방대한 의학 데이터와 화학 물질 정보를 분석하여 잠재적인 신약 후보 물질을 빠르게 찾아내고, 약물의 효과와 부작용을 예측하는 데 활용됩니다.",
-                "이는 기존의 시간과 비용이 많이 드는 신약 개발 과정을 획기적으로 단축하고, 성공률을 높여 더 빠르고 효율적으로 환자에게 필요한 약을 제공할 수 있게 합니다.",
-                "AI 기반의 시뮬레이션과 예측 모델은 실험실에서의 물리적 실험을 줄여주어 연구 효율성을 극대화하며, 맞춤형 의약품 개발 가능성도 열어줍니다."
+                "AI 칩 시장을 지배하는 엔비디아의 수장이 직접 언급한 이 발언은 AI 산업의 미래 규모와 방향을 제시하는 매우 중요한 메시지입니다. 이는 단순한 예측이 아니라, 엔비디아가 주도하는 AI 생태계의 비전을 보여줍니다.",
+                "젠슨 황 CEO는 AI가 단순한 소프트웨어 기술을 넘어, 전 세계적인 데이터 센터와 컴퓨팅 자원의 대대적인 업그레이드를 필요로 하는 새로운 산업 혁명임을 강조합니다. 이는 AI 기술 발전이 하드웨어 투자와 직결되며, 관련 산업 전반에 걸쳐 막대한 경제적 파급 효과를 가져올 것임을 시사합니다."
             ],
-            "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxNa2RCYjBPOG9Fak9aN1ZNLXZ0NGZUNTNjYmJ2bHlzZXcxczhsOXQ3SWtOQTFQVWtjamxVTDZaQmFjd1lxNi04M2p6THRIY0dJOUVEemNRa2Q1cFNwX1NNbE1xV3cyUXFFWVdMUTJwM3QwRTVfbVByeXU0NE1hcThPaUY1aklTaW5yU2F3R002aXRNdWcwVk5vUnZXa0JNbXpFendIdkhJSDVvVTlRQU1FZWJKc3k1a3g5Y2d6YXhwamhkd1JF?oc=5",
+            "link": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxOMi12Rmc0RHd3SVRHSWFFNnhra2tRVTVCdjFVdlhwZVU0cmVEeDB2M1lxQi1kMlQxVkkxamJDU1FxOVk5bnB1eTVRU0JWanQ1U05IUm4xS0ZCODB5bkJ6UHhoVEp0NHlPNklGN01PdVM2U1N3TWRfSkVpWXJKcF9XQ2FOcDJYVVpPMnZJWW5JbWxpREhZQkJVYXQtcG1TNUllbnZFMU4wZUJUTFNadWVRcmZpdGF2dEdHZlFLTXNfOWdUM1d2QXVuMA?oc=5",
             "category": "AI_Tech",
-            "published": "2026-01-25T21:02:04.199155"
+            "published": "2026-01-26T04:31:38.459022"
         },
         {
-            "title": "코드의 새로운 분열: 생성형 AI가 소프트웨어 엔지니어링 세계를 둘로 나누는 방법",
+            "title": "OpenAI의 새로운 프로그램, AI의 전 세계적 접근성 확대 목표",
             "points": [
-                "생성형 AI(Generative AI) 기술이 소프트웨어 개발 방식에 근본적인 변화를 가져오면서, 소프트웨어 엔지니어링 분야에 새로운 전환점을 만들고 있습니다.",
-                "AI가 코드 작성, 테스트, 디버깅 등 개발 과정의 많은 부분을 자동화하면서, 개발자들은 이제 AI 도구를 활용하는 능력과 AI가 생성한 코드를 검토하고 개선하는 역할에 더 집중하게 됩니다.",
-                "이는 개발자의 역할과 필요한 기술 역량을 변화시키며, AI를 효과적으로 활용하는 개발자와 그렇지 못한 개발자 사이에 새로운 격차를 만들 수 있음을 시사합니다."
+                "최첨단 AI 모델을 개발하는 선두 기업인 OpenAI가 AI 기술의 접근성을 높이는 프로그램을 시작한다는 것은, AI가 특정 계층이나 지역에 국한되지 않고 더 넓은 사용자층과 개발자 커뮤니티에 확산될 것임을 의미합니다. 이는 AI의 민주화에 기여하며 혁신을 가속화할 수 있습니다.",
+                "이 프로그램은 AI 기술의 장벽을 낮춰 더 많은 사람들이 AI를 활용하고 개발에 참여할 수 있도록 돕습니다. 이는 마치 인터넷이 전 세계에 보급되면서 정보 접근성이 높아진 것처럼, AI 기술이 다양한 분야에서 새로운 서비스와 애플리케이션을 창출하는 기반이 될 것입니다."
             ],
-            "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxPNWFoWFExUFY5VVlBMjhhVFR4eXIzYTZac0ZIOF9VZDRlWkI5SFItMXkyeWptaWdYMzNPVkhPdEJ2RmxVYk5HMVFTQ2xleGl5ckNkbGhMMHRYOWh0c01KWXU3VWRFYUd4dmsxMEJCcWFjNXE0UUQ1WEJ1NGNnNzUzS3JwTnhYa01ZY0xELUVoaWdtRkVjZXlYZkdNTGRBN0NiSXBlSzRtazYtdjhNYWNKMjk5bw?oc=5",
+            "link": "https://news.google.com/rss/articles/CBMiqwJBVV95cUxPOXZaMzlrTVBteHpMS0o0N1JpUzNORmk2Q19ZQmQtYWtyMDFoUS16YU5WNDhTcVAtc3BmaTlXZGN5Z3NqWkVMc3lDQTZmem9SOWVZdjQzRVluczdtM2dMWXVMRmgyTTMwVVQzbm10VmNxMnZTX3lIemplZTZPV1RQcnd2R3M3Ulk1bGZ3XzQ5bFJUcm1pVDkzM3ZXaFZ3Ujk4dWhKMk5YV04yUm5ldVRJQzY5dVpiMXRXUEJMX3YwbGdNc0dXZjZibEpjOGdnZEUxSVhuTXpNVld0VWowZDhfd1R3bDA1VUZaZVh6Qmd1bmZoQXpsdi1EREFpM1ZWYTlBZzFkYndMZmYxZ3JBV19zczYxOHpZemw5ZmxaV3p4VEJwTkw0LVczRl9Wcw?oc=5",
             "category": "AI_Tech",
-            "published": "2026-01-25T21:02:04.199156"
+            "published": "2026-01-26T04:31:38.459024"
         },
         {
-            "title": "검색 엔진, AI, 그리고 공정 사용(Fair Use)을 둘러싼 오랜 논쟁",
+            "title": "애플, 시리를 챗GPT, 제미니 스타일로 재구축 중인 것으로 알려져",
             "points": [
-                "인공지능(AI) 모델, 특히 검색 엔진과 연동되는 AI가 콘텐츠를 학습하고 생성하는 과정에서 저작권이 있는 데이터를 사용하는 것이 '공정 사용(Fair Use)' 원칙에 부합하는지에 대한 법적, 윤리적 논쟁이 심화되고 있습니다.",
-                "이 문제는 AI 모델이 어떤 데이터를 학습해야 하는지, 그리고 AI가 생성한 결과물의 저작권은 누구에게 있는지 등 AI 기술 개발의 근본적인 방향과 상업적 활용에 큰 영향을 미칩니다.",
-                "이 논쟁은 AI 기술 발전의 속도와 방향을 결정하는 중요한 요소이며, AI 모델의 학습 데이터 선정 및 결과물 활용에 대한 새로운 기준 마련의 필요성을 제기합니다."
+                "전 세계 수십억 명이 사용하는 아이폰의 핵심 AI 비서인 시리가 챗GPT나 제미니와 같은 생성형 AI 모델로 탈바꿈한다는 소식은, AI가 일상생활에 통합되는 방식에 있어 거대한 변화를 예고합니다. 애플의 움직임은 소비자 AI 시장의 새로운 표준을 제시할 수 있습니다.",
+                "기존의 제한적인 명령 기반 AI에서 벗어나, 시리가 더욱 자연스러운 대화와 복잡한 추론, 개인화된 작업을 수행할 수 있게 된다는 의미입니다. 이는 사용자들이 스마트폰과 상호작용하는 방식을 근본적으로 변화시키고, AI 비서의 활용도를 비약적으로 높일 기술적 돌파구입니다."
             ],
-            "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxQUmdpNl93cGdOVWRSdUZ0ZXhHLWdQeW9uOFZmYUNKei1ySjRLN0FMNVY5NWVNQXBBOHZGcmNTOUIyQ19jeDlkR084VV8xVkJ5Um1GOVh0Q2xsMnJZODY3Q2g1Wl82V2dfNU96bEttaWtSSlV5RmxyZzBlZU8xcElNRzYxOThkNnhLTGJGQw?oc=5",
+            "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFB1U3NVLVV1c2JQRzdKbjBiV21NSm1SSmlHcUJESVBsU2dEdW9BczY5OFNYMmsyazZzdjhrMm9ib2M5b1h5U043cFlhTzJ5OFBZMTh2ZVRBdmdoVTA?oc=5",
             "category": "AI_Tech",
-            "published": "2026-01-25T21:02:04.199157"
+            "published": "2026-01-26T04:31:38.459025"
         },
         {
-            "title": "직장에서의 AI: 기업들이 생성형 AI를 활용하는 5가지 방법",
+            "title": "AI 시대에 스마트폰은 살아남을 수 있을까?",
             "points": [
-                "기업들이 고객 서비스 개선, 콘텐츠 생성, 데이터 분석, 업무 자동화, 개인화된 마케팅 등 다양한 방식으로 생성형 AI(Generative AI)를 업무에 적극적으로 도입하고 있습니다.",
-                "이는 생성형 AI가 단순한 정보 제공을 넘어, 복잡한 문제 해결과 창의적인 작업 지원까지 가능하게 함으로써 기업의 생산성과 효율성을 크게 향상시키고 있음을 보여줍니다.",
-                "이러한 활용 사례들은 생성형 AI 기술이 실제 비즈니스 환경에서 어떻게 적용되고 발전하고 있는지에 대한 중요한 통찰을 제공하며, AI 기술의 실질적인 가치를 입증합니다."
+                "세계적인 권위지 이코노미스트가 제기한 이 질문은 AI 기술 발전이 단순히 기존 제품을 개선하는 것을 넘어, 우리의 핵심 디지털 기기인 스마트폰의 존재 방식 자체를 재고하게 만들 정도로 파급력이 크다는 것을 보여줍니다. 이는 AI가 가져올 근본적인 패러다임 변화를 시사합니다.",
+                "이 기사는 AI가 현재의 스마트폰 인터페이스와 기능을 대체하거나, 완전히 새로운 형태의 'AI 네이티브' 기기를 탄생시킬 가능성을 탐구합니다. 이는 AI 기술이 하드웨어 디자인, 사용자 경험, 그리고 우리가 기술과 상호작용하는 방식 전반에 걸쳐 혁신적인 변화를 가져올 수 있음을 보여주는 중요한 논의입니다."
             ],
-            "link": "https://news.google.com/rss/articles/CBMickFVX3lxTE13VUlCWi16QTc1QjRMTS1JbTlDVUxkdwk5UVN6emloR01QX2VsaGdvTllaZ1V6VENNWHZ0NHdoX1FlOWp0VjBfOHBFZDJVb055S1RneGVDSUdSdkFRSmFfeUhTOW1ZbDBqLWNkU19GWDFSNXcw?oc=5",
+            "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxPV0dkcWlMNm0wYkpGZ2EzZGFfRV9tVFJ6aS16TFR2S0J3MkFMdUlaNnZrNHVnN1RENHFpUFdlWWRkVlpRc25OX09XblJ0T2xpYlF2bWxFTVNBdTFKZ21PXzI2UlFPbzlHaEhRdUZZRGNYb25wa1RfWFQ3T2pQU2Y4VzBfeHZVbXlVbEVuaQ?oc=5",
             "category": "AI_Tech",
-            "published": "2026-01-25T21:02:04.199158"
+            "published": "2026-01-26T04:31:38.459026"
         }
     ],
     "IT_Biz": [
         {
-            "title": "아이폰만 7년 썼는데 갈아탑니다…2030 '폰심' 흔들린 이유",
+            "title": "지원단가 60% 상향한 ‘2026년 팁스’, R&D·지역·ESG 창업기업 지원 확대",
             "points": [
-                "2030 세대의 아이폰 사용자 이탈 현상 발생.",
-                "스마트폰 시장 내 브랜드 충성도 변화 및 경쟁 심화.",
-                "소비자들의 새로운 스마트폰 선택 기준 변화."
+                "정부의 대표적인 스타트업 육성 프로그램인 팁스(TIPS)의 지원 단가 대폭 상향(60%) 및 지원 대상 확대는 국내 창업 생태계 전반에 활력을 불어넣을 주요 정책 변화입니다.",
+                "R&D, 지역 기반, ESG(환경·사회·지배구조) 분야 창업기업에 대한 집중 지원은 기술 혁신, 지역 균형 발전, 지속 가능한 경영 확산이라는 국가적 목표 달성에 기여할 핵심적인 경제적 변화를 유도할 것입니다."
             ],
-            "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTFBPSXp0TVJGZXFGOTN5eGxqMWMxWkFFR2ZMRjlIaUQyU19KM2NIS0YwcEdnd1lsbElYM1JKdGNiOHFKOTBnaFI2c2M2UHE2QWdSbHI4?oc=5",
+            "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE5jb2xiTHdQT2NQS3M1ZHJjejBmNml0Y2J4WlJscXcxZDdIME1TaDl4SmU0eFkwNDJCZGR3b21rUEVFSjdwZW1laHJZSHV3LWRaVGNOLUt3cF9JYXB3SWplSEk0NkttX0w0a2c?oc=5",
             "category": "IT_Biz",
-            "published": "2026-01-25T21:02:32.496353"
+            "published": "2026-01-26T04:32:24.440926"
         },
         {
-            "title": "볼보, 역사상 가장 광범위한 소프트웨어 업데이트로 차량 디지털 기능 혁신",
+            "title": "LS, '에식스솔루션즈' 국내 IPO 철회",
             "points": [
-                "볼보 차량의 대규모 소프트웨어 업데이트를 통한 디지털 기능 강화.",
-                "차량 내 사용자 경험 및 편의성 대폭 개선.",
-                "자동차 산업의 소프트웨어 중심 차량(SDV) 전환 가속화."
+                "대기업 LS그룹의 핵심 계열사 중 하나인 에식스솔루션즈가 국내 기업공개(IPO)를 철회한 것은 국내 자본시장 및 대기업의 투자 전략에 중요한 영향을 미치는 소식입니다.",
+                "이는 현재 시장의 불확실성, 기업 가치 평가에 대한 이견, 또는 LS그룹의 전반적인 사업 재편 전략 등 복합적인 경제적 요인을 반영하며, 향후 유사 기업들의 IPO 추진에도 영향을 미칠 수 있습니다."
             ],
-            "link": "https://news.google.com/rss/articles/CBMizgFBVV95cUxOdFJwQzhtQ1diNEszcF9jUGh5bTZSOUlpTldQWGx5a2F6RmNwUVJLcVVMSDJKeXF2VlVZLWVMUXRLV0lHYTdZTk9BYWdqQzBySWlZNW9TMDFSd2d0QWstdDVnSTJTN0xyLWVzcjN0UEh5MW8xODE5QzE1TGc3aHpRemdwUWdxaF8tZ1phb1REbHhjNWpFQnV3NlA1UjlHZ1ROejlEdVJ3Tkh6cGFiZWZMX1VzLUxTREFfaTZKaUVpd1pUQWhKOVEwOXBMYmV1d9IB0gFBVV95cUxQLVFQeUU2dDdQTWtKV25xZm56UXhYUG4tVk1DTDdBU1R5MmVMQkhaZ0M1T05jUkVQV0lqNU9nVzFLdmY2clJkOXJ1Ulo4UjRvRTQ4QjBWMTNoLUtzRm91b3l4bG41RGdEVk5GLWhZcklHRmhzTURBZEVIbVgxZm5fNGdlVzI3dzBtdUtVOWRESjU3RXRFZkhFM2JHbnNsR01nVzl6djVVSjVxcDhnLXd2SnBrbWZPLXZyU3BDNVVjbXYtMlN5YTBJY3B3cDFxTkJLOHc?oc=5",
+            "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTE5ucFlUeDFxZ0dsS3BnWmVEcnh6TllMSDFyZDdLTnBEQlpwNXVpdVJ6RmlJaTV5Wm9KdHZSZm1iYW5aRG5KMUtheVZCOEVHT3l1X2JRV3kweU82bmcwWGpYYTlhWXFGcmxXcTZ0RXByOA?oc=5",
             "category": "IT_Biz",
-            "published": "2026-01-25T21:02:32.496360"
+            "published": "2026-01-26T04:32:24.440932"
         },
         {
-            "title": "그야말로 괴물…삼성, 승기 잡더니 또 승부수 던진다",
+            "title": "내 자린 사라지는데, 옆자리는 '연봉 잭팟'…AX發 '월급 양극화'",
             "points": [
-                "삼성전자가 시장 주도권을 강화하기 위한 새로운 전략 또는 제품을 준비 중.",
-                "IT 산업 전반에 큰 파급력을 미칠 삼성의 공격적인 행보.",
-                "기술 혁신 및 시장 선점을 위한 대규모 투자 또는 신기술 공개 가능성."
+                "AI 및 자동화 기술(AX)의 급속한 발전이 산업 전반의 고용 구조와 임금 체계에 근본적인 변화를 가져오며 '월급 양극화' 현상을 심화시키고 있다는 분석은 미래 경제 및 사회 구조에 대한 중요한 통찰을 제공합니다.",
+                "이는 기술 혁신이 노동 시장에 미치는 파급 효과를 보여주며, 인력 재교육, 새로운 직업군 형성, 사회 안전망 강화 등 정책적 대응의 필요성을 제기하는 핵심적인 경제적 변화 포인트입니다."
             ],
-            "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFBqUzgwSHQxLVRnSVUyQ2RyNG00ZnZhMzZzVm5McG0tN1BjVnNxY0pYUU9GQzZTQTlfVWpSUG1kVzc2cTVaeHIwd3IxVmpKbWUzYkZKZERGa0t2QdIBVEFVX3lxTE4wS3c0WlNSYmlUM3l1bTdKWU1nenl2VU1jd1NDUFRGMEFHRE1wRllwa1lvZFRDbDVEYVJvRkN4TEFMRy11QUZ2M1FhLXVHNF81bDdmdA?oc=5",
+            "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE5nR1ZUSk9sUXFOVm9NYno3akZLcm1uUDJRYmlMSjB1MG5Kb3JtZkt3MlNMWFYteFdOM0d2THFjcGlLbnlJc1pzaDVsTlF6NlpUa2tTWtIBVEFVX3lxTE5nR1ZUSk9sUXFOVm9NYno3akZLcm1uUDJRYmlMSjB1MG5Kb3JtZkt3MlNMWFYteFdOM0d2THFjcGlLbnlJc1pzaDVsTlF6NlpUa2tTWg?oc=5",
             "category": "IT_Biz",
-            "published": "2026-01-25T21:02:32.496361"
+            "published": "2026-01-26T04:32:24.440933"
         },
         {
-            "title": "‘옵티머스’를 견습생 투입... 테슬라는 지금 로봇혁명중",
+            "title": "머크, 바이오테크 회사 ‘레볼루션 메디슨’ 인수 논의 중단",
             "points": [
-                "테슬라의 휴머노이드 로봇 '옵티머스'가 실제 작업 현장에 투입되기 시작.",
-                "로봇 기술의 상업적 활용 및 자동화 혁명 가속화.",
-                "테슬라가 자동차를 넘어 로봇 산업의 주요 플레이어로 부상."
+                "글로벌 제약 공룡 머크(Merck)가 유망 바이오테크 기업인 레볼루션 메디슨(Revolution Medicines) 인수를 중단한 것은 글로벌 제약 및 바이오 산업의 M&A 시장 동향과 투자 심리에 큰 영향을 미치는 소식입니다.",
+                "이러한 대규모 인수 논의 중단은 바이오 섹터의 가치 평가 기준 변화, 규제 환경, 또는 양사 간 전략적 이견 등 복합적인 요인을 반영하며, 향후 바이오 산업의 투자 및 재편 방향에 중요한 신호를 제공합니다."
             ],
-            "link": "https://news.google.com/rss/articles/CBMigwFBVV95cUxNYkZGV3JWN29pbHdzbzIzczl0TktXeWdIc3pXOEtoY3MwNU11a1RfalBScHd2cUJ2Y0VHbUJFQUN4Z2tGNkJlamstZ3Fqbjd4M1o5ZUR6WmxkU1BuQXkzTWVfaWV1Nnl1YU5QaU1pMXljUlo2Umd2d2RRUTVOZ3ZWTUxCQdIBlwFBVV95cUxNLVh3dnN2TjJuUGpnWDFtLU1nYXFTRVZzSnU2ckhDSHg2LTRJWnlkcXJXZjhQS0wxTnhjaUlMb3F0RFdBMUh4N1dPdm52YkZCTTVxbHFTaVdVZWZ0bzlCTXEzVURpSHIyVWFBVzdqeklpNVptZ1FBY3JFVjJ5QXRDUzZvcEZoZ093Yy0wVWNFZ2k0Ym82OXFn?oc=5",
+            "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE1rV21PZklQdjFsU2pnU3IxZ2Rfc29PRUkwaml2YmEydHVxQVROWmJzYzVMQU9qLWpvM2RTbjBRMlRnNU83cmtpVnpQejdsenFHa0xVbm8xZG44N1RHOEIwTTJIZDRKcldiS0tXMElINGPSAXRBVV95cUxNTHZ4TlMtdUVKdWVKRkRsU0FDYUxrcF9ORGoxTnhWWDl2ZmZhekJFMTV6ZWFhbC1iR0ttYnAwYmtydEY0UTNCMkpKQkcwQjdVOEI4eFR2TTg1MHh6NUtGU3lYbWhfU2lianp3RHJjbXMxelhYSQ?oc=5",
             "category": "IT_Biz",
-            "published": "2026-01-25T21:02:32.496362"
+            "published": "2026-01-26T04:32:24.440934"
         },
         {
-            "title": "삼성전자, 1분기 낸드 가격 100% 인상…“공급이 수요 못 따라간다”",
+            "title": "아이마켓코리아, 텍사스 산업단지에 6000만달러 금융 투자…美 진출 본격화",
             "points": [
-                "삼성전자가 1분기 낸드플래시 가격을 100% 인상하며 시장에 큰 영향.",
-                "글로벌 반도체 시장의 심각한 공급 부족 현상 지속.",
-                "메모리 반도체 시장의 회복 및 가격 상승 추세가 가속화.",
-                "IT 기기 제조사 및 소비자들에게 미칠 가격 인상 압력."
+                "국내 주요 기업인 아이마켓코리아가 미국 텍사스 산업단지에 6천만 달러 규모의 대규모 금융 투자를 단행하며 미국 시장 진출을 본격화하는 것은 국내 기업의 글로벌 사업 확장 전략을 보여주는 중요한 사례입니다.",
+                "이 투자는 미국 내 생산 및 유통 거점 확보를 통해 북미 시장에서의 경쟁력을 강화하고, 국내 기업들의 해외 직접 투자 및 글로벌 공급망 재편 동향에 영향을 미칠 수 있는 핵심적인 경제적 변화입니다."
             ],
-            "link": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxQeURLYXJxRHJlNlNFbnJjTDVPblhaaTFWdGVJaFRpdmJ0RWVOc1NiT2YyYV92cGhVYlhKSEM4VnZ2QWNrbHppQ3dqb2NLcDdzZ0hJbk9fd24xbEJBZDhRNTJzdVJ5U3ZwYktaY0w2LXk0dG5fclhKNHZuZXdCNXRtOTVsY3lmNG5lWDh2UGpjdVp6bnBFZEstTFpKWFZ6dDBYTmVhUnFubXlyMHpBMERBVDExcU1oOTNYdFBxRFBCYURVRldIYk5SMFlYWVhrNk5UWFhvbF8tSQ?oc=5",
+            "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE1Obk9USUx3MVI2Rld3Z05SSmdYRXQ3VzRwYTFQYVYzVTlRSjV6UWc4dmFPUDFEY0VST2NPQnZZeE9EcmlnbGFUamxTbUZqY3Bnb1AtTNIBVEFVX3lxTE1Obk9USUx3MVI2Rld3Z05SSmdYRXQ3VzRwYTFQYVYzVTlRSjV6UWc4dmFPUDFEY0VST2NPQnZZeE9EcmlnbGFUamxTbUZqY3Bnb1AtTA?oc=5",
             "category": "IT_Biz",
-            "published": "2026-01-25T21:02:32.496363"
-        }
-    ],
-    "Economy": [
-        {
-            "title": "오천피 눈앞서 '전강후약' 코스피…\"실적시즌 삼전·SK하닉 관건\"",
-            "points": [
-                "코스피 지수가 5000포인트 돌파를 앞두고 '전강후약' 흐름을 보임",
-                "실적 발표 시즌을 맞아 삼성전자와 SK하이닉스 등 주요 반도체 기업의 실적이 국내 증시의 향방을 결정할 주요 변수로 작용",
-                "국내 경제의 핵심 산업인 반도체 업황과 기업 실적에 대한 시장의 높은 관심"
-            ],
-            "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE05YU5WUDZYOTUxbjlRTjZFckRQa1VsdFRrazR0NjRpM0hUcExHYUU3Y2I3SXRUQ0dkVExUdHYzQ09wOFAzWGdxMU9oMDdRWWoyYmVfR0wxNy01TXpoT0NzZGlFdU1DUzRzXzZvR3Z0cDc?oc=5",
-            "category": "Economy",
-            "published": "2026-01-25T21:03:02.864714"
-        },
-        {
-            "title": "'원화 약세·증시 과열' 국민연금 기금위…\"독립성 훼손 우려\"",
-            "points": [
-                "원화 약세와 국내 증시의 과열 현상이 지속되는 가운데 국민연금 기금운용위원회의 독립성 훼손 우려가 제기됨",
-                "국민연금의 대규모 자금 운용이 국내 금융시장에 미치는 영향이 크며, 독립성 유지가 중요",
-                "환율 변동과 증시 상황, 그리고 국민 노후 자금 운용의 투명성 및 안정성에 대한 사회적 관심 증대"
-            ],
-            "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE1oeXRReWpZQTY5b192dzJnZFlXeUJsZkJfZUdNcVBFeHoxU05QNWpKTUNHYW1tdzlreEtadzZOYktUQmJNcUR1Tk41SGhiVkgtdkE?oc=5",
-            "category": "Economy",
-            "published": "2026-01-25T21:03:02.864721"
-        },
-        {
-            "title": "규제 한파 속 서울 집값 상승세…절반 이상 ‘신고가’ 기록",
-            "points": [
-                "정부의 강력한 부동산 규제에도 불구하고 서울 주택 가격이 상승세를 이어가고 있음",
-                "거래된 주택 중 절반 이상이 역대 최고가(신고가)를 기록하며 시장의 견조한 수요를 입증",
-                "부동산 시장의 불안정성과 주거비 부담 증가가 가계 경제에 미치는 영향이 심화될 우려"
-            ],
-            "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE5ZbGRJWGI0OGVjTTB5b3Qxc1dOZExqcFQtNVFlUkNfc1VtdnRRalBIV2dqMkVhS0RmSEg3em1NRW5NZE05TjU2VExKVjd0S1Y5WmdaOWw2amN3akpTb2diUlFXelA?oc=5",
-            "category": "Economy",
-            "published": "2026-01-25T21:03:02.864722"
-        },
-        {
-            "title": "은, 사상 첫 100달러 돌파…달러 불신에 ‘금·은 랠리’ 가속",
-            "points": [
-                "은 가격이 사상 처음으로 온스당 100달러를 돌파하며 역사적인 기록을 세움",
-                "미국 달러화에 대한 불신이 심화되면서 금과 은 등 안전자산에 대한 투자 수요가 급증, 랠리 가속화",
-                "글로벌 인플레이션 우려와 통화 가치 하락에 대한 투자자들의 헤지 심리가 반영된 현상"
-            ],
-            "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxQOHI0cGNtcnZmNmI1aHJCLWU3aXhVcktZdkxNQnd3bG02OEdwaDRLY3dndzNvVFlFX3FJVE83R0VUWTRCeGxBaDJGMHA5VGFuM0VlX0JHM09VQ3pMOWFWWHdvQ2R4OUNaUllxOHFPMlpLUm1Odmo5UzZVZEVwZmRTRtIBlAFBVV95cUxNNlJXUFVhcHdSSmxwXzRKOFlhNDdrdzNoSklLWVE2dURmeXhFelhFSl9LUUNyb0lmaEo0VmRad0FIY0VfUHdKTWEwN2docThEc2J3RUQ3MF9vRmFDZTBGczZuQVVOUzltX3ZqN1VnT1lpVDMxbGFBSXpPT0QzVEZKaWdEVXJvUzhmWUZSQktNZG9fbXdV?oc=5",
-            "category": "Economy",
-            "published": "2026-01-25T21:03:02.864723"
-        },
-        {
-            "title": "李 대통령 질의로까지 번진 STO…커지는 정치권 외풍 [박주연의 여의도 나침반]",
-            "points": [
-                "증권형 토큰(STO) 관련 논의가 대통령의 직접적인 질의로까지 확대되며 정치권의 관심이 집중",
-                "새로운 금융 상품인 STO 시장의 제도화 및 규제 방향에 대한 정치권의 영향력이 커지고 있음",
-                "디지털 자산 시장의 미래와 금융 혁신에 중요한 변수로 작용할 가능성"
-            ],
-            "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE01Y2x5ZnRiLXJMcTBPeFNBMW9FY2NabnBTX1ZXLWtPWDZHZEVoUnh6THN0clNERmpGRURaV0NtdjNuRlVDYzFDUjdVSXo1MG8?oc=5",
-            "category": "Economy",
-            "published": "2026-01-25T21:03:02.864724"
-        }
-    ],
-    "World": [
-        {
-            "title": "러, 3자협상 도중 우크라 공습…1명 사망, 23명 부상",
-            "points": [
-                "러시아-우크라이나 전쟁 지속",
-                "평화 협상 중에도 러시아의 우크라이나 공습 감행",
-                "민간인 사상자 발생으로 인도적 위기 심화"
-            ],
-            "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFA3LVkwXzN3REJUZ1R6NEtmZVVHMndTemVkZC0yMTJ5SHdVUGhUbW4wYXlFNFBfbGZ4S1c4TTk5M1NZNy1Ha1RKMS10LUg5dEVjcy1FMGtGYVF5Yk3SAWBBVV95cUxNZFFfT1ExUlpkbXZGdzJfY2pHXzBVRjZSNGFDWGNUZ004M0dIYWVKSzJDVE1UdmVuZXNGRl9RdFRmd3ZUT3ZUa21IX0ZaQ2hUUlI4SlJCZ0lZd1NTOEU0V2k?oc=5",
-            "category": "World",
-            "published": "2026-01-25T21:03:23.142693"
-        },
-        {
-            "title": "'중동행' 美항모전단 인도양 진입…이란 \"공격하면 전면전\"",
-            "points": [
-                "미국 항모전단 인도양 진입으로 중동 지역 긴장 고조",
-                "이란, 미국 공격 시 전면전 불사 경고",
-                "중동 정세 불안정 및 잠재적 충돌 위험 증대"
-            ],
-            "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE5oa2dzMDRxczJ5UlNvSUlYYkx3ejJORlYxbW1SeDY5Rkt0b05CYjhuX2d5WDdqaG5LTms0UGFiM04ybkxWLTZoSFJsRzJ6Qk93ZGZBNVZ0MmoyeUHSAWBBVV95cUxNMkRxQVl3ZTg4ckRuZ0M3TVVtQkx0d2UxckV0cHZCWGFIMnhtT09EWDhwUEpRcVNtNXh5T09KUG16QjlxMVFUSHNTX1RPaXBEeF9UeThNUzFmdjBFVURza1M?oc=5",
-            "category": "World",
-            "published": "2026-01-25T21:03:23.142700"
-        },
-        {
-            "title": "유럽 또 긁는 트럼프 “나토 필요로 한 적 없다”…영국 “모욕적이고 참담”",
-            "points": [
-                "도널드 트럼프 전 대통령의 나토 무용론 발언",
-                "유럽 동맹국들의 강력한 반발 및 우려 표명",
-                "미국 대선 결과에 따른 대서양 안보 동맹의 미래 불확실성 증대"
-            ],
-            "link": "https://news.google.com/rss/articles/CBMiggFBVV95cUxNem5fcGtoRTRiMHJlZ2ZULXZMTjhtckpPMUY0UXd4QlJRcF9ORFpRdUJQUUVWRWllcG5aeGVBSkhxdkJYcEVhQmlFdXRva0pzVzJPT2w4aFVzREFWc2lPdEd0YmtvQ1NsUDd4V203U01HWmkyMGwtMmFqb2NMQWgxSlpB?oc=5",
-            "category": "World",
-            "published": "2026-01-25T21:03:23.142701"
-        },
-        {
-            "title": "중·러, 그린란드 옆 스발바르섬 눈독...\"군사적 요충지·자원 풍부\"",
-            "points": [
-                "중국과 러시아의 북극 스발바르섬에 대한 전략적 관심 증대",
-                "군사적 요충지 및 풍부한 자원 확보 경쟁 심화",
-                "북극 지역의 지정학적 긴장 고조 및 국제 정세 영향"
-            ],
-            "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE5WeUl4aHk5M3dmN1F3VXY3STVpX1VPSkdLVHFld1ZzZHBMNUhUdWxHaDR2NGtZZFUxWHhmMVZ4aUdwZ2xWaHI1VGdRSDg3cUVhanNMaHo2TWpCR3h6WEHSAYMBQVVfeXFMTW84ajFfS1kwNkdxSEowUGt4WGtwYXUtTkpvdmR6OU8zODZUbjdjVGRQdXFjSG9pMWZYT1J1RldSdGJTUWoxazhWM3laN3Roc2hmUTJYNVVRc2k3NzB0ajA3Y2tzNEtLWEZFcjNBSlNjMWZBSl9FWGRJMExaSHVSaFg1eEE?oc=5",
-            "category": "World",
-            "published": "2026-01-25T21:03:23.142702"
-        },
-        {
-            "title": "美 인권운동가통신 “이란 반정부 시위 사망자 속출…5100명 넘어”",
-            "points": [
-                "이란 내 반정부 시위 지속 및 인권 탄압 심화",
-                "시위 사망자 5100명 초과, 대규모 인명 피해 발생",
-                "이란 내부 정세 불안정 및 국제사회의 우려 증폭"
-            ],
-            "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE15X1ZNTVVfQ0VOUmYyUXBIcDJtX0hZakdkZGhaRHJzSjllLXR3Q0pUX0JQWl91bzFzRE5HSkNHS2lMd3dDUXZvZTdXN1JteVM0SHc?oc=5",
-            "category": "World",
-            "published": "2026-01-25T21:03:23.142703"
+            "published": "2026-01-26T04:32:24.440935"
         }
     ]
 }
