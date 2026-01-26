@@ -22,13 +22,12 @@ if API_KEY:
 
 # RSS 피드 설정
 RSS_FEEDS = {
-    # [변경됨] AI Tech: 미국(US) 구글 뉴스에서 영어 원문 수집
-    'AI_Tech': 'https://news.google.com/rss/search?q=AI+Tech+OR+LLM+OR+Generative+AI+OR+Deep+Learning+when:2d&hl=en-US&gl=US&ceid=US:en',
+    # 'when:1d'로 범위를 좁히고, 대형 IT 매체나 핵심 키워드를 보강합니다.
+    'AI_Tech': 'https://news.google.com/rss/search?q=AI+Tech+OR+LLM+OR+SOTA+OR+NVIDIA+OR+OpenAI+when:1d&hl=en-US&gl=US&ceid=US:en',
     
-    # 나머지는 기존 한국 뉴스 유지
-    'IT_Biz': 'https://news.google.com/rss/headlines/section/topic/TECHNOLOGY?hl=ko&gl=KR&ceid=KR:ko',
-    'Economy': 'https://news.google.com/rss/headlines/section/topic/BUSINESS?hl=ko&gl=KR&ceid=KR:ko',
-    'World': 'https://news.google.com/rss/headlines/section/topic/WORLD?hl=ko&gl=KR&ceid=KR:ko'
+    # 한국 뉴스의 경우 '헤드라인' 섹션은 이미 구글이 메이저한 것을 선별해주지만, 
+    # 더 좁히고 싶다면 특정 언론사(예: 연합뉴스, 매일경제 등)를 쿼리에 넣을 수 있습니다.
+    'IT_Biz': 'https://news.google.com/rss/search?q=IT+산업+OR+테크+기업+when:1d&hl=ko&gl=KR&ceid=KR:ko',
 }
 
 DATA_DIR = os.path.join(os.path.dirname(__file__), 'data')
@@ -56,24 +55,26 @@ def process_category(category, url):
 
     if not client: return None
 
-    # 프롬프트 설정
+    # 프롬프트 설정 (수정본)
     if category == 'AI_Tech':
-        # [중요] 영문 기사를 한국어로 번역 요약 요청
         focus_instruction = """
-        ★중요★: 이 분야는 'Global AI Tech Trend'야. 기사는 영어로 되어 있어.
-        1. **반드시 한국어로 번역해서 출력해.**
-        2. 기업 주가나 매출 같은 비즈니스 뉴스보다는, **새로운 모델, 알고리즘, 연구 논문, 오픈소스 공개** 같은 기술적 뉴스를 최우선으로 뽑아.
-        3. 제목도 한국어로 자연스럽게 번역하되, 원문의 의미를 정확히 반영해줘.
-        4. points(요약)에는 해당 기술의 혁신적인 점이나 원리를 설명해줘.
-        5. 전공자가 아닌 일반인도 이해할 수 있게 쉽게 작성해줘.
-        6. 전공자만 이해할 수 있는 어려운 용어는 피하고, 꼭 필요한 경우에는 간단한 설명을 덧붙여줘.
+        ★중요★: 이 분야는 'Global AI Tech Trend'이며 기사는 영어 원문이야.
+        1. **메이저 뉴스 선별**: 조회수나 화제성이 낮은 사소한 뉴스는 무시해. Google, OpenAI, Meta, NVIDIA, Anthropic 등 주요 기업이나 유명 대학 연구소의 발표를 우선해.
+        2. **기술 중심**: 단순 주가 변동이나 가십보다는 새로운 모델 출시, 논문, 획기적인 기술적 돌파구를 선정해.
+        3. **언어**: 반드시 한국어로 자연스럽게 번역해서 출력해.
+        4. **전달력**: 기술 용어는 쉬운 비유를 섞어 설명하되, '왜 이 뉴스가 중요한지' 가치를 꼭 포함해줘.
         """
     else:
-        focus_instruction = "이 분야의 가장 파급력 있고 중요한 뉴스를 선정해줘. 언어는 한국어야."
+        focus_instruction = """
+        ★중요★: 국내외 주요 미디어에서 공통적으로 다루는 '비중 있는 뉴스'만 선정해.
+        1. **사소한 소식 배제**: 개인의 블로그성 기사, 특정 업체의 단순 이벤트, 광고성 기사는 절대 제외해.
+        2. **영향력 기준**: 해당 산업(IT/경제/세계)의 판도를 바꿀 만한 정책 변화, 대규모 투자, 혁신적인 서비스 출시 위주로 뽑아.
+        3. **중복 제거**: 비슷한 내용의 기사가 여러 개라면 가장 정보량이 많은 하나만 선택해.
+        """
 
     prompt = f"""
     아래는 '{category}' 분야의 뉴스 기사 목록이야.
-    이 중에서 가장 중요한 뉴스 {TOP_K}개를 선정해줘.
+    이 중에서 **가장 파급력이 크고 신뢰도 높은** 뉴스 {TOP_K}개를 엄선해줘.
 
     [지시사항]
     {focus_instruction}
@@ -85,7 +86,10 @@ def process_category(category, url):
     [
         {{
             "title": "기사 제목 (한국어)",
-            "points": ["핵심 내용 1 (한국어)", "핵심 내용 2 (한국어)"],
+            "points": [
+                "이 뉴스가 왜 메이저한 소식인지 설명 (한국어)",
+                "핵심 기술적/경제적 변화 포인트 (한국어)"
+            ],
             "link": "원문 링크(변경금지)"
         }}
     ]
