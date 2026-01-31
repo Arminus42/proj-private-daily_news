@@ -1,210 +1,210 @@
 {
     "AI_Tech": [
         {
-            "title": "GPU 의존도 줄인 AI 인프라 소프트웨어",
+            "title": "AI 코딩 보조 도구가 개발자 학습 능력 17% 저하: 앤트로픽 연구 결과 발표",
             "points": [
-                "AI 모델 학습 및 운영에 필수적인 GPU 자원의 효율성을 극대화하려는 시도는 전 세계 AI 산업의 핵심 과제입니다. 이는 AI 기술의 상용화와 확산에 결정적인 영향을 미칠 수 있는 근본적인 기술 혁신입니다.",
-                "현재 AI 개발의 가장 큰 병목 중 하나인 고비용의 GPU 의존도를 낮추는 소프트웨어 기술은 AI 인프라 비용을 절감하고, 더 많은 기업과 연구자들이 AI를 활용할 수 있도록 접근성을 높여줍니다. 이는 AI 모델의 학습 시간 단축, 운영 비용 절감, 에너지 소비 감소로 이어져 AI 산업 전반의 지속 가능성과 경제성을 크게 향상시킬 수 있습니다."
+                "글로벌 AI 선도 기업인 앤트로픽(Anthropic)의 연구 결과로, AI 기술이 인간의 역량에 미치는 심층적인 영향을 분석했다는 점에서 매우 중요합니다.",
+                "AI가 단순히 생산성을 높이는 것을 넘어, 장기적으로 인간의 핵심 역량(학습 능력)에 부정적인 영향을 미칠 수 있음을 과학적으로 제시한 획기적인 연구입니다. 이는 AI 개발 및 활용 전략에 대한 근본적인 재고를 요구하며, 인간과 AI의 건강한 공존 방안을 모색하는 데 중요한 이정표가 됩니다. 마치 계산기가 암산 능력을 저하시키는 것처럼, AI 코딩 도구가 개발자의 문제 해결 능력 발달을 저해할 수 있다는 경고입니다."
             ],
-            "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTE1qVlZ5WjhKTUU0RldrdDJWalduTFI4OHh2YWZvSVlCR1VmMDF6c3hqWWZJRG1ieWJBQkowejJNYlBFOTFoNVN6bXNXSlh5bnZSUEhxVXZmTi1ZYVdYYUpocGtnYVB1c0wydHJv?oc=5",
+            "link": "https://news.google.com/rss/articles/CBMimAVBVV95cUxOQVBnb3VBNHNlN2VrTTFMZ012Zk50VUh6SjVVRlY5NDNpVnN2dUhTbUJvb29PWHJaLTFVWjNuWnpLOVl1S205SXVhUVdIVlpWV19aaTZnQ3lDTnh5LUs2b1dtMjJxam1KZk5la3hQQzhwdE9KbFRxRHlubzE3Mlk5dEE5c0ZxQl9TQkc2SXVJNElyUDN1Z2E2RmxGaV9yRzlJdG02ZkNFdXFEZmRLbkVCaW1YaVlBajF3UnQtMDdROWx0aFBSbUVkSGVJdzV2VUFlcXNmN3MzaVRsWFdNRy1FVDVITWZqelpER2U4UWI0TVBjcUpNVXB5enV3RjlDY3RKbW9PV000WTdzbjRkY190U1ZGSXFDeDFoR2EtMzJ4YjV2bzRtVVppMmt6NWpreHRWeEhFaFVPM0FhWWk2Qm9CLXNBT3dvS252YTA1WjF1Z2xocU43UjY1OVk4c1lGdWRhT3I1ckxJbXA0NGJxTWd0ZVlnZGFMQ0NydlRDdVZOQkM5X200U2JuX3pna2JlOFFSOVVRQmJpT2hTb2RUa051QWN1aElxNkNIQ1hIbVNQQTJ6VGdhYUFvcG1YQnJsc2FaX2NXVW9RRndBSGpCbWtSUDh4NmVEeEN1RE1BSUhaSXRIMXV6OWtsZzliLTFEY2QtME1jNmlOaXI4akxBTlNnTmxja0l0b0lUVllVNEI2dEYtamQ1d3lDSUpvX2QwaHcwbEtYYklhZW0tM0p1NjJoUC1GZUE4SU01U1BNcEN0YkNZUFVXWGtqNXFvTjc4ZHJSNFg4eVFvemc5NU53TXFXOHpIOGN0NXBwd0l4QjlKTzZ2TjkxR1RkN3ltN1N3SFNwVnFrMGFDVFozaGZDUFdXLVRZcTdqRElG?oc=5",
             "category": "AI_Tech",
-            "published": "2026-01-30T21:16:44.344984"
+            "published": "2026-01-31T21:10:24.217059"
         },
         {
-            "title": "LIG넥스원–연세대, 국방 AI 동맹 구축…미래전 기술 주도권 잡는다",
+            "title": "KAIST, GPU 의존도를 줄이는 차세대 LLM 인프라 기술 개발",
             "points": [
-                "국내 대표 방위산업체인 LIG넥스원과 명문 연세대학교의 협력은 국방 분야 AI 기술 개발에 대한 국가적, 산업적 중요성을 보여줍니다. 이는 AI가 단순 민간 기술을 넘어 국가 안보와 미래 전력의 핵심 요소로 자리 잡고 있음을 시사합니다.",
-                "국방 분야에 특화된 AI 기술 개발은 미래 전쟁의 양상을 바꿀 수 있는 핵심 동력입니다. 자율 무기 시스템, 지능형 감시, 전장 정보 분석 등 첨단 국방 AI 기술 주도권 확보는 국가 안보에 직결됩니다. 기업의 실전 경험과 대학의 연구 역량이 결합하여 국방 AI 분야의 인재 양성 및 기술 개발을 가속화하며, 이는 글로벌 국방 AI 시장에서의 경쟁력 강화로 이어질 것입니다."
+                "국내 최고 과학기술 연구기관인 KAIST의 연구 성과로, 대규모 언어 모델(LLM) 운영의 핵심 병목인 GPU 의존성 문제를 해결하려는 기술적 돌파구입니다.",
+                "현재 LLM 개발 및 운영은 막대한 GPU 자원과 전력을 필요로 하여 비용과 접근성 측면에서 큰 장벽이 있습니다. 이 기술은 GPU 없이도 LLM을 효율적으로 구동할 수 있는 새로운 인프라를 제시하여, AI 기술의 대중화와 비용 효율적인 확산에 기여할 수 있습니다. 이는 마치 고성능 스포츠카 대신 일반 도로에서도 효율적으로 달릴 수 있는 새로운 엔진을 개발하는 것과 같습니다."
             ],
-            "link": "https://news.google.com/rss/articles/CBMickFVX3lxTE1Vbzc1Ti1pTGpCYnZnT1dZUy0xdWQ4WlRqMkRkRVlyM2NaYnRfRGJ2b2tocEZ6XzlxbEtDWU9sNzViMkdZenVHSWtRRVp0UlFycXpRLVlvVnRCRWsyZUNTVG11SWlFRXhVMFRxXzJUX21pZ9IBckFVX3lxTE1Vbzc1Ti1pTGpCYnZnT1dZUy0xdWQ4WlRqMkRkRVlyM2NaYnRfRGJ2b2tocEZ6XzlxbEtDWU9sNzViMkdZenVHSWtRRVp0UlFycXpRLVlvVnRCRWsyZUNTVG11SWlFRXhVMFRxXzJUX21pZw?oc=5",
+            "link": "https://news.google.com/rss/articles/CBMiwANBVV95cUxQSUFkdXFsWGcyOWJIS051Vm9NSkpnQjJnOUV0TThXZ0dMQ1VQSEtORFZhdXhDLUI5QnRkdVZJdzJKWjlVdWtkUnJycUxQTmRNckNScHhPRUpQbFlXY2ZNa0pXQmV1ZmpValg5MElHNXJ6Z3RFTWk1cnBWT0x1TVItaGprMTdGTG5iT2YyLXlOcGozMkNWX0Mzdlp2S1NWMjNSUndoSEphUFBVZUFibXpoWUV3bjZLTDdnRDNDZV8tNmlkQU51dGM2XzlTbzBIQVVNRlNKQzU3RzFiVzgzd2xDUUZUUWNfSUhYWnhzb2dCYkNYZ1YxcmlPUGJfTjgtTEpVWldBT0VERWRnZDFCNUFoNzZNMi03TmJQU2FTc2JIcWRPMGZVNUdXd0VCTTRDcXVRNDJJZFl5bU03NzBPX3hoaFhEcGJ0SzN6eUtMeEp1V0RnaGEtZzVmODRvSnRaYmJSRDNEZFFnblMtN3V0VUNhY1RQa09kQnNFcVVaT3B3TlRnMHpSRHJraDVnTWNTRDduVW9SY1dtcVUxcFUxYWxQUEhjcWJjbl81dlo0RndtYmFGaDU0Y2pVVHFZYi13NDB1?oc=5",
             "category": "AI_Tech",
-            "published": "2026-01-30T21:16:44.344990"
+            "published": "2026-01-31T21:10:24.217065"
         },
         {
-            "title": "NC AI, 신동훈 전 KT CAIO 영입…“LLM·버티컬 주도”",
+            "title": "KAIST, AI '지식 이식' 기술 개발로 '경력직 AI' 시대 예고",
             "points": [
-                "국내 주요 게임 및 IT 기업인 NC소프트가 KT의 거대언어모델(LLM) 개발을 이끌었던 핵심 인사를 영입한 것은, LLM과 특정 산업에 특화된 '버티컬 AI' 분야에 대한 국내 빅테크 기업들의 치열한 경쟁과 전략적 투자를 보여주는 사례입니다.",
-                "범용 LLM을 넘어 특정 산업(예: 게임, 금융, 법률 등)에 최적화된 버티컬 AI는 실제 비즈니스 가치를 창출하는 핵심 동력으로 부상하고 있습니다. 이번 영입은 NC AI가 이 분야에서 주도권을 잡으려는 강력한 의지를 나타냅니다. AI 분야의 핵심 인재 영입은 기술력 확보와 직결되며, 최고AI책임자(CAIO)와 같은 리더급 인사의 이동은 해당 기업의 AI 전략 방향과 미래 성장 동력을 가늠할 수 있는 중요한 지표입니다."
+                "국내 유수의 연구기관인 KAIST에서 개발한 기술로, AI 모델의 효율성과 재활용성을 혁신적으로 높일 수 있는 중요한 진전입니다.",
+                "이 '지식 이식' 기술은 특정 작업을 위해 학습된 AI 모델의 지식을 다른 AI 모델에 효율적으로 전달하여, 새로운 모델을 처음부터 학습시키는 데 드는 막대한 시간과 비용을 절감합니다. 이는 마치 한 분야의 전문가가 다른 분야의 신입에게 핵심 노하우를 빠르게 전수하여 즉시 '경력직'으로 만들어주는 것과 같아, AI 개발 속도를 가속화하고 다양한 분야로의 AI 적용을 촉진할 것입니다."
             ],
-            "link": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE9XQm40RmUxXzluZlBsZUJjZHFWSmNOekxwSDRZSEVLemd5X3puZ1gyQm1NUXBvaGRZX1VDdWdaOXlvQkV6Q1AzU3JOS1lQdw?oc=5",
+            "link": "https://news.google.com/rss/articles/CBMiSEFVX3lxTE5VOUx1NWl3U0lyVU5IcUJORllvVGtpeGFQLUdLTDVuQm4xRGRSWmpzVDl4dXRjRDFrb20yYklZYWdCQTZERV91ag?oc=5",
             "category": "AI_Tech",
-            "published": "2026-01-30T21:16:44.344991"
+            "published": "2026-01-31T21:10:24.217067"
         },
         {
-            "title": "KISTI, 과기 특화 LLM 고도화 'AI 연구동료 개발' 추진",
+            "title": "KISTI 고니팀, 한국어 추론 모델 및 LLM 환각 억제 기술 확보",
             "points": [
-                "한국과학기술정보연구원(KISTI)이 과학기술 분야에 특화된 거대언어모델(LLM)을 고도화하여 'AI 연구동료'를 개발하는 것은, AI가 단순 정보 검색을 넘어 실제 연구 과정의 생산성을 혁신적으로 높일 수 있음을 보여주는 중요한 시도입니다.",
-                "과학기술 분야의 방대한 데이터와 전문 지식을 학습한 LLM은 연구자들이 논문 작성, 실험 설계, 데이터 분석 등 복잡한 연구 과정을 효율적으로 수행하도록 돕는 '디지털 조수' 역할을 할 수 있습니다. 이는 연구 생산성을 획기적으로 향상시킬 잠재력을 가집니다. 일반적인 LLM이 아닌 특정 도메인(과학기술)에 최적화된 모델은 해당 분야의 정확성과 깊이를 높여, AI의 실질적인 활용 가치를 극대화합니다."
+                "국가 과학기술 연구의 중추인 KISTI(한국과학기술정보연구원)의 성과로, 한국어 기반 LLM의 성능과 신뢰도를 높이는 데 필수적인 기술적 진보입니다.",
+                "대규모 언어 모델(LLM)이 한국어를 더 정확하게 이해하고 추론하며, 사실과 다른 정보를 생성하는 '환각' 현상을 효과적으로 억제하는 기술은 한국어 AI 서비스의 품질을 비약적으로 향상시킬 수 있습니다. 이는 마치 외국어를 배우는 AI에게 모국어처럼 자연스럽게 소통하고, 거짓말을 하지 않도록 가르치는 것과 같아, 한국 시장에 특화된 고품질 AI 서비스 개발의 기반을 마련합니다."
             ],
-            "link": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE5VTmdELXg1bGUxRU82Ql9lS0NtYTFEd1kwTngxeTZ6Z0FCSUUzOVZfYToyTnctQ0pOV0xpM3ZlbFROZFdvSVVwV3hrUDc0bmllMXZJTVdtRk05MHlsdEF3Z0pPcWNnZw?oc=5",
+            "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE9YTERIYnBMb18weFNBZ2pPTFhiTG5KWHVFZFZreFQ1dTFUZlEteUtzeEpxbFEyTVJwM3pYUkh4RllXTDUxdVgzcjZUQ1VSTUp4Y2hVZmV3?oc=5",
             "category": "AI_Tech",
-            "published": "2026-01-30T21:16:44.344992"
+            "published": "2026-01-31T21:10:24.217068"
         },
         {
-            "title": "아이클루드, 일본 STNet과 에이전틱 AI 아바타 공동연구...일본 매장 실증 통해 생성형 AI 상용 모델 검증",
+            "title": "AI로 인간의 '놀람'을 지도화: LLM이 밝힌 뇌의 예측 메커니즘",
             "points": [
-                "'에이전틱 AI 아바타'는 사용자의 의도를 이해하고 자율적으로 행동하는 AI 기술로, 단순한 챗봇을 넘어 실제 사람처럼 상호작용하는 미래 AI 서비스의 핵심입니다. 일본 시장에서의 상용 모델 검증은 이러한 첨단 AI 기술이 현실 세계에 적용되고 있음을 보여주는 중요한 사례입니다.",
-                "에이전틱 AI 아바타는 고객 응대, 정보 제공 등 다양한 서비스 분야에서 인간과 유사한 수준의 상호작용을 제공하여 사용자 경험을 혁신할 수 있습니다. 이는 AI가 단순 도구를 넘어 '가상 비서'나 '가상 점원'처럼 자율적인 역할을 수행하는 시대를 예고합니다. 생성형 AI 기술을 기반으로 한 아바타가 실제 매장에서 검증된다는 것은, AI가 단순히 콘텐츠를 생성하는 것을 넘어 실제 비즈니스 환경에서 고객과 소통하고 문제를 해결하는 상업적 가치를 창출할 수 있음을 의미합니다."
+                "인공지능(LLM)을 활용하여 인간 뇌의 복잡한 작동 원리, 특히 '놀람'과 같은 감각 및 인지 메커니즘을 규명하려는 시도는 AI가 단순한 도구를 넘어 생명 과학 연구의 핵심 파트너로 진화하고 있음을 보여줍니다. 이는 AI 분야뿐만 아니라 뇌 과학 분야에서도 획기적인 발견으로 이어질 수 있는 잠재력을 가집니다.",
+                "이 연구는 LLM이 단순히 텍스트를 생성하는 것을 넘어, 인간의 뇌가 어떻게 예측하고 오류를 수정하며 학습하는지에 대한 심오한 통찰을 제공할 수 있음을 시사합니다. 이는 AI가 인간 지능의 본질을 이해하는 데 기여하고, 나아가 더욱 인간적인 AI를 개발하는 데 중요한 이론적 기반을 제공할 수 있습니다. 마치 AI가 뇌의 '설명서'를 읽고 해석하여, 우리가 왜 놀라는지 그 원리를 밝혀내는 것과 같습니다."
             ],
-            "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE0tVHJtcU5kdVBrWkJSbEozbW1EZTZCYzMwT05vcE9xZEZrV2RyWWJ4ZUZkbkt0LWtmNHI1aGFnYURaY241QzlMV19sSm45TnZ6aU9iNnBCcW9SZXpPaHBVM3ZvQk9tSms?oc=5",
+            "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTFBQRXhsbi1FbHlRcl9FNHFRaHBWMm9uMFJPZ053OHZaX0loTExZaG1Kdm0wYklhQVBqTEdKNG9MQU9ldUtlT2tHVnRPZmFRR25ZdFJOQy1vMGVLZExndmJ1TE5NQkY1T28?oc=5",
             "category": "AI_Tech",
-            "published": "2026-01-30T21:16:44.344993"
+            "published": "2026-01-31T21:10:24.217069"
         }
     ],
     "IT_Biz": [
         {
-            "title": "Tesla, AI와 로보택시로 전략 전환, xAI에 20억 달러 투자 - SpeedMe.ru",
+            "title": "오픈AI는 ‘깐부’ 아니었나... 젠슨 황, 145조 투자 보류 - 조선일보",
             "points": [
-                "테슬라가 AI 및 로보택시 중심으로 사업 전략을 대대적으로 전환하며, 일론 머스크의 AI 기업 xAI에 20억 달러를 투자하는 대규모 움직임입니다.",
-                "자율주행 기술과 AI 산업의 미래 판도를 바꿀 수 있는 핵심적인 투자 및 전략적 변화로, 글로벌 IT 및 자동차 산업에 막대한 파급력을 가집니다."
+                "이 뉴스는 엔비디아의 젠슨 황이 오픈AI에 대한 대규모 투자(145조 원)를 보류할 수 있다는 소식으로, AI 산업의 핵심 플레이어 간의 관계 변화와 투자 흐름에 중대한 영향을 미칠 수 있는 메이저한 소식입니다.",
+                "엔비디아와 오픈AI 간의 전략적 관계 변화는 AI 기술 개발 및 시장 경쟁 구도에 큰 파장을 일으킬 수 있으며, 이는 AI 산업 전반의 판도를 바꿀 잠재력을 가집니다."
             ],
-            "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxPbkVzMEFJTE9LbENhdThPdHU1My00NkxsYlF3dXc0eVcxdGVLZkpMRzhiVDVScXBuSzZ4cTVyb0xKRUlTb2djejBxRl95aGltbUlHRVN5RkNKdXFyMGlNLUpDcmpBa1k3amhjR0NSS1JoWmFnMjhncWY5VHNQckZlOXBDS1NvSzhSUTdHYUo4c05Jcnp0UlBoZnItbHJab2N4dHfSAaYBQVVfeXFMUExoVWd0SGxLeGhUNHRwendtMHhpbWdZUVR3UFlrelE0OG9PcTMyMVRBeHh1dk14Vkp2Nlg3NGdpY3F4U2d3eHB1cXE0V3JYcmxMakN6WU1pRWtUYk52MVY2SHQ2MDlHTGcwaTI4TVZkaldTbjVqV1JDdW8tSGtlNXVMRFYyZHBwaGVZSFZmWFNyWnliaWpsVHdzNjItdHRpYnVaZGVZZw?oc=5",
+            "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxPRFBhbXRJdDdUdDBhSUdpRmtjTENLU0xwVWJSVGc0SUtlbDdiMC1qUllBdnZ2NUx3dzFySnR2V2ZKMnRNOGIxSUJzLWF4dWZEUURJSlZtNzVMb1NHOGdodEY3bHAwUHctSGpQWVpVTm1tT2lsU29XRTEyb0lUT3dGNXhYQ18wbVpfMmYtUExVOVZUcjZnMEFhSGJWYVB1Z9IBsgFBVV95cUxNN0M5WVNaTFZacHJpRFBFOGRIZG1JV3BZTE5FZnpZaEp6WTNmcnBseXdjcldRTXRsbmtqR05ad3RiM0gyNFp3QTFFNGkta2dfdlRMS0xkUC1SMGFGckRPRWFtbnV1WGdhNTQzaHd3WVF2Q2czUE5wcm1UNGRBNVZXeE1YZkx1cFdOM3F0ZWZ5YUJmaUtYU1NjbTNvSjNPQ1B4VkdyMl9OTURZMWJZUWRGLURR?oc=5",
             "category": "IT_Biz",
-            "published": "2026-01-30T21:17:13.827266"
+            "published": "2026-01-31T21:10:56.315557"
         },
         {
-            "title": "SK하이닉스, 엔비디아 '루빈' 탑재 '9부 능선' 넘었다 - 한국경제",
+            "title": "15조 달러 증발… '트럼프 발' 금·은 하루 만에 최대 -36% 폭락 - tokenpost.kr",
             "points": [
-                "SK하이닉스가 엔비디아의 차세대 AI 칩 플랫폼 '루빈'에 탑재될 고대역폭 메모리(HBM) 공급의 핵심 단계에 진입했음을 시사하는 소식입니다.",
-                "글로벌 AI 반도체 시장의 핵심 공급망에서 SK하이닉스의 위상을 강화하고, AI 인프라 구축에 필수적인 기술적 진전을 보여줌으로써 산업 전반에 큰 영향을 미칩니다."
+                "이 뉴스는 트럼프 전 대통령의 발언으로 인해 금과 은 시장에서 15조 달러 규모의 자산이 증발하고 가격이 폭락했다는 내용으로, 글로벌 경제 및 금융 시장에 막대한 영향을 미치는 메이저한 소식입니다.",
+                "주요 정치인의 발언이 전통적인 안전 자산 시장에 미치는 파급력을 보여주며, 이는 거시 경제의 불확실성과 투자 심리에 큰 변화를 가져올 수 있습니다."
             ],
-            "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE4taWEzcjRuQUpIb1RtS2h1NFNyTUtTWDRCclpkTG4zWWMyUDg3Vkh2OThvLWZPXzhDV0ZkYmZIc0MyVUhBV0ZzaGRFVndtTHdKaDZhSmxTbHZfZ9IBVEFVX3lxTE1RZFRmVm92SzJwazV3UVRTSHBZUnNUc2R0bU15VkNWcEY4cFZKaTFlaVFUWGUxTEFfTHQ0VWljbmJuaDV2OE1udnBaYW1kS3FyYWlDZg?oc=5",
+            "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE13RGJyaWRVQVJHSE5rbDcxQmNjMWJ0VUdNeVZ3dWFJVThPR2VzTWZXTGVjMEs1NE1ndUxzaS01OUtJSTEyYnh4NzZxaUFCMjlZSVlXaU9wR1M0UWV5N2NodtIBZkFVX3lxTE91Wl9MWi1xbTlRNzNSYzJLaGltX0RIbkE5VlhYSFMxRmZHcUh5R0dBZUlfT0phWmJaMjR0OFhMYVBjWXZ4NGtrenF0N19zVkRJVzVOSklOV0xtRERfSjZiRUV1RVRFZw?oc=5",
             "category": "IT_Biz",
-            "published": "2026-01-30T21:17:13.827273"
+            "published": "2026-01-31T21:10:56.315564"
         },
         {
-            "title": "500만 회원 따릉이 개인정보 유출 정황…서울시 비상 - 한겨레",
+            "title": "‘휴머노이드 쇼’ 예고한 中 설방송 ‘춘완’… 참여 업체 4곳은 - 조선비즈 - Chosunbiz",
             "points": [
-                "서울시 공공 자전거 서비스 '따릉이'의 500만 회원 개인정보 유출 정황이 포착되어 심각한 보안 위협이 발생했습니다.",
-                "대규모 개인정보 유출은 사이버 보안의 중요성을 다시 한번 부각시키고, 공공 및 민간 서비스의 데이터 보호 정책 강화 필요성을 제기하며 IT 보안 산업에 큰 영향을 줍니다."
+                "이 뉴스는 중국의 최대 명절 프로그램인 '춘완'에서 휴머노이드 로봇 쇼를 예고하며 4개 업체가 참여한다는 소식으로, 중국의 로봇 및 AI 기술 발전 수준과 대중화 노력을 보여주는 메이저한 소식입니다.",
+                "국가적 차원의 대규모 행사에서 휴머노이드 로봇을 전면에 내세우는 것은 로봇 기술의 상업적, 사회적 적용이 가속화되고 있음을 시사하며, 이는 글로벌 로봇 산업의 경쟁 구도와 미래 기술 방향에 영향을 미칠 수 있습니다."
             ],
-            "link": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE9BbTVoN2xIb2U0V2x5LURySkhVRjhTeU41a1NfbWJ3Rms1RTZRVllrZjcyU3lCb2NNMnR6dGpOUDgtNFowbFZid29weXluMTNGRDZKb2xUSzBuZmFaYUtFaWNUTQ?oc=5",
+            "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxQRVd6SlRxbXVzdUtBVndJcEZZM21wYzdkb2pCa2dGb3JFZ2FaT3JTNjRWWW9VdUhocnNCTW9ibmxuQmNRMmZPemlNTF91VnBSSFN5WWdOTFRtMDVvaklhaUR5MXZkdG5nMXE4SjZhSHl6VjVtTDBSclJJVEFoWUhJS2E4YXViTU5jODlYN3IwRUdNeFY3TDNhdVlxOEd6Z9IBsgFBVV95cUxPSnVTXzZyYnJYUVluRFhhNVVhM2dTVXNicjFHYWk0cUVZdHN3UmNpb25EV1l1U3pWb0VhTmdZblpwYWpmZndDYzJLcjN5NWRPZXIta3NOLUozSDRHRXpuQl9wNHlKSVV2d2pXdDlnRjkzYmk3c2FFbVk0RUlHMUtjRjB2WDViSUR3WEZtU19EM2VLNEJRM1dXYUk1M0JCT3p5bTVfS1BKcl8xTURRN1lrTFlB?oc=5",
             "category": "IT_Biz",
-            "published": "2026-01-30T21:17:13.827274"
+            "published": "2026-01-31T21:10:56.315565"
         },
         {
-            "title": "'운전대는 필요없다'…120만 운송 노동자의 '예고된 실직'? - 네이트",
+            "title": "첫 '비트코인 지지' 연준 의장 나올까… 워시 지명에 시장 술렁 - tokenpost.kr",
             "points": [
-                "자율주행 기술의 발전이 120만 명에 달하는 운송 노동자들의 대규모 실직으로 이어질 수 있다는 사회적, 경제적 파급 효과를 다루는 기사입니다.",
-                "AI와 자동화 기술이 노동 시장과 산업 구조에 미치는 근본적인 변화와 이에 대한 사회적 대비의 필요성을 강조하며, 미래 경제 및 고용 정책에 중요한 시사점을 제공합니다."
+                "이 뉴스는 비트코인에 우호적인 인물이 연방준비제도(Fed) 의장으로 지명될 가능성에 대한 소식으로, 이는 미국 통화 정책 및 글로벌 금융 시스템에 암호화폐가 통합될 수 있는 중대한 변화를 예고하는 메이저한 소식입니다.",
+                "세계 경제의 핵심 기관인 연준의 수장이 비트코인을 지지하게 된다면, 암호화폐의 제도권 편입과 규제 환경에 혁명적인 변화를 가져와 금융 시장의 판도를 근본적으로 뒤바꿀 수 있습니다."
             ],
-            "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE9CV0RHSmg1b0VINjRfOUhFal8tQkZGWE1VT3ZWQkl1alpTNXNqSVcwSUpQQldGWmdIY3V2cFJLNWFTZjYxTTRBV2VsV0xFRVo2R2d3?oc=5",
+            "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTFAzTGo3SFlXWVJ6RUdTYUY5Z1lfX1dqbUF2TFBrQlFIemxlWFB1VHlQQVRDblBQTEZLWmprR3ZLYlBBZGt6MW5DdzhTd1pBUWNfamE3MkNaUTg5VHpaREdiVtIBZkFVX3lxTE1MZDhBOFYxNzl0U1hlQkItVU1rVE1VYVdqaVNOLVU3RHFHb1ZyWDNrUnlTRFIxWnQteWxESjFpVFdyUnlIUmw4MklBVUQ3Q2ZQNm1IVFRWSl93Z3lmNS11SEdid2I2QQ?oc=5",
             "category": "IT_Biz",
-            "published": "2026-01-30T21:17:13.827275"
+            "published": "2026-01-31T21:10:56.315566"
         },
         {
-            "title": "[르포] 용접면 벗고 태블릿 들었다… 작업자 1명이 로봇 8대 지휘하는 HD현대重 조선소 - 조선비즈 - Chosunbiz",
+            "title": "1억 1,000만 달러 규모 실물자산 토큰화… XRP, '결제 그 이상' 실현되나 - tokenpost.kr",
             "points": [
-                "HD현대중공업 조선소에서 작업자 한 명이 태블릿으로 로봇 8대를 제어하며 생산성을 혁신하는 현장을 보여주는 르포 기사입니다.",
-                "전통 제조업 분야에서 AI 기반 로봇 및 자동화 기술이 실제 산업 현장에 적용되어 생산 방식과 노동 환경을 근본적으로 변화시키는 대표적인 사례로, 산업 전반의 디지털 전환 가속화를 보여줍니다."
+                "이 뉴스는 1억 1,000만 달러 규모의 실물자산(RWA) 토큰화가 진행되고 XRP가 결제 수단 그 이상으로 활용될 가능성을 보여주는 소식으로, 블록체인 기술이 실제 경제 시스템에 깊이 통합되는 중요한 진전을 의미하는 메이저한 소식입니다.",
+                "부동산, 예술품 등 전통적인 실물자산을 블록체인 기반으로 토큰화하는 것은 자산 유동성을 높이고 거래 효율성을 개선하여 금융 시장의 혁신을 이끌며, 블록체인 기술의 적용 범위를 확장하는 핵심적인 변화입니다."
             ],
-            "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxQUWc0Qy1ZU0tkTTZfb1JMTGFzc2xaQUdtWmNkWVhrOU5kWlRLN1VWUXVJLS12Q21VSk9JcjhjZmk2VnRwQUxBclB6Yk9IUHpJS21Bc2s0d1VaNk01SEkyaEkwaFJKaXBtbWp0NTVYTXY0Rng1czNoeWwzemVVQWJnVVltQkjSAZgBQVVfeXFMTW5CSFpqNkpjejJYWU01WkhrVnhkWTdsamdoUDZpSjZwU05neU9va0lqR2tmQkozZTN3NU1PMnpPY3k0ajJSYWJ5aXNWZkVsbkl1NGJSaW1qenM3ektOSGRPMVpNcUlWREpMcHJodnM3U25CeXUxVU5XWHEtVklrSnFFWTYxTllMOUdTVk1mUFJNZEJNd0NCM2w?oc=5",
+            "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFBtVTNjaEsxSkx2VThoSXFZQkNmU0NYclNvQkZFTldVeDZUMGtkMFNOUFQ2UFc0YjEzaEdiU2hCME5jSlpUWlFHQTRNUnlhU0dYenJpSVBDRWVkYVHSAWBBVV95cUxOUXJpTVQ3b0tNYkRQWWtEcXVGemNYMzlObnFrR3BjdmlLV2lZMW1QV0FtQTN0dHBSLVVoT2RubVREWHFKS3ZteGY3eDZ4Mk5aU3dfTlc4dnVoYWQtaU82Qkg?oc=5",
             "category": "IT_Biz",
-            "published": "2026-01-30T21:17:13.827276"
+            "published": "2026-01-31T21:10:56.315567"
         }
     ],
     "Economy": [
         {
-            "title": "스페이스X, IPO 전에 xAI 합병 추진할 듯…테슬라와의 합병 소문도 - 디일렉",
+            "title": "워시 연준의장 후보, 인준돼도 달성 어려운 3가지 임무 직면",
             "points": [
-                "일론 머스크의 주요 기업인 스페이스X와 xAI의 합병 추진은 인공지능, 우주, 자율주행 등 미래 핵심 산업의 판도를 바꿀 수 있는 대규모 기업 결합 소식입니다.",
-                "이는 AI 기술과 우주 탐사 역량의 결합을 통해 새로운 시너지를 창출하고, 테슬라와의 잠재적 합병 가능성까지 언급되며 관련 산업 전반에 막대한 영향을 미칠 수 있습니다."
+                "미국 연방준비제도(Fed) 의장 후보 지명은 글로벌 통화 정책, 금리 방향, 금융 시장 안정성에 막대한 영향을 미치는 핵심 경제 뉴스입니다.",
+                "새로운 연준 의장의 정책 방향은 전 세계 경제 성장률, 인플레이션, 환율 변동에 직접적인 영향을 미칠 수 있습니다."
             ],
-            "link": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE55M05POWh1bkVvUS1kTWZpLTAwM1V1NEJlMzJvT1VuaDBiMF9aWjRvSlM2ZnNZalBkY1Q0LVNTVWhwTGhXVG1yeWNUM04tUnFRVWdENFd3ZWZzZWNNaW43NEIycTlxQQ?oc=5",
+            "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTE9OOUJ4Q08zZ2RsN0Y4REJKaEVjLXlHSENZR1ZPOTg1bHJVbDZZYXo2c0EzV0NtWDBJNTlvcmVaVTNLc1c4emNSaDY3YXVfSGFsYzVwc2h5bmlWR0ZUeHd1azlnOHVZc3JlcUgxaDY0RHM5UmJz?oc=5",
             "category": "Economy",
-            "published": "2026-01-30T21:17:54.541494"
+            "published": "2026-01-31T21:11:31.669695"
         },
         {
-            "title": "SK하이닉스, 엔비디아 '루빈' 탑재 '9부 능선' 넘었다 - 한국경제",
+            "title": "SK하이닉스, 엔비디아 '루빈' 탑재 '9부 능선' 넘었다",
             "points": [
-                "SK하이닉스가 엔비디아의 차세대 AI 칩 '루빈'에 고대역폭 메모리(HBM)를 탑재하는 데 성공했다는 소식은 AI 반도체 시장의 주도권 경쟁에서 중요한 이정표입니다.",
-                "이는 SK하이닉스의 기술 리더십을 재확인하고, 글로벌 AI 인프라 구축에 필수적인 HBM 시장에서 한국 기업의 핵심적인 역할을 강화하며 관련 산업의 성장을 가속화할 것입니다."
+                "SK하이닉스가 엔비디아의 차세대 AI 칩 '루빈' 플랫폼에 핵심 부품을 공급하게 된 것은 글로벌 반도체 및 인공지능(AI) 산업의 판도를 바꿀 중대한 기술 혁신 및 투자 소식입니다.",
+                "이는 AI 반도체 시장에서의 기술 리더십을 강화하고, 글로벌 IT 공급망에 큰 영향을 미치며, 국내 기업의 세계 시장 경쟁력을 입증하는 사례입니다."
             ],
-            "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE4taWEzcjRuQUpIb1RtS2h1NFNyTUtTWDRCclpkTG4zWWMyUDg3Vkh2OThvLWZPXzhCV0ZkYmZIc0MyVUhBV0ZzaGRFVndtTHdKaDZhSmxTbHZfZ9IBVEFVX3lxTE1RZFRmVm92SjJwazV3UVRTSHBZUnNUc2R0bU15VkNWcEY4cFZKaTFlaVFUWGUxTEFfTHQ0VWljbmJuaDV2OE1udnBaYW1kS3FyYWlDZg?oc=5",
+            "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE4taWEzcjRuQUpIb1RtS2h1NFNyTUtTWDRCclpkTG4zWWMyUDg3Vkh2OThvLWZPXzhDV0ZkYmZIc0MyVUhBV0ZzaGRFVndtTHdKaDZhSmxTbHZfZ9IBVEFVX3lxTE1RZFRmVm92SzJwazV3UVRTSHBZUnNUc2R0bU15VkNWcEY4cFZKaTFlaVFUWGUxTEFfTHQ0VWljbmJuaDV2OE1udnBaYW1kS3FyYWlDZg?oc=5",
             "category": "Economy",
-            "published": "2026-01-30T21:17:54.541500"
+            "published": "2026-01-31T21:11:31.669703"
         },
         {
-            "title": "매파인가 비둘기인가…차기 연준 의장 ‘워시’를 둘러싼 엇갈린 시선 - 마켓인",
+            "title": "[마켓뷰] 반도체 랠리에 코스피 또 사상 최고치…하이닉스 5% 급등",
             "points": [
-                "미국 연방준비제도(Fed) 차기 의장 인선은 글로벌 통화 정책 방향과 금리 결정에 지대한 영향을 미치며 전 세계 경제와 금융 시장의 불확실성을 해소하거나 증폭시킬 수 있는 핵심 사안입니다.",
-                "차기 의장의 통화 정책 스탠스(매파적/비둘기적)에 따라 인플레이션, 고용, 경제 성장률 등 거시 경제 지표와 주식, 채권 등 금융 자산 시장에 광범위한 파급 효과가 예상됩니다."
+                "코스피 지수가 반도체 산업의 강세에 힘입어 사상 최고치를 경신한 것은 국내 경제 전반의 활력과 주요 산업의 성장세를 보여주는 중요한 경제 지표입니다.",
+                "이는 투자 심리 개선과 함께 반도체 산업이 국내외 경제 성장을 견인하는 핵심 동력임을 시사하며, 대규모 자금 유입을 유발할 수 있습니다."
             ],
-            "link": "https://news.google.com/rss/articles/CBMic0FVX3lxTFA4UHlNS0ZQNjZUZzlVd3hLTHAxUF83R3VDOTVfa0JzZGtONkJLOGl0ZktIcVBrV2hhTTJPQVh6T0gyWHJQS1EydDljalZnMk15czI1WFFoZWFjUk1NdWc3YzBHQW5RWnd3elJZa0hTTUFfd1k?oc=5",
+            "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPUzQxdXpTc053REFsOVNPUUU1MWJYSVVFLVg0Z0xhVl83dDJHNV9jejVsMGlpZVN3SG02S2l4NTREQVBYa3Nwcmx6c3doRlZRMWJSYV9JbXd5XzRFMEloZHRKaTF5ZmRXQ21HRkZmODA4RjJKc2hXa2tLdzRUbTBoTTcxRDRDdHRl0gGcAUFVX3lxTE1IS2NrdUN0VEZFeUxwMzNhSTdNN2VYRktqRFZobnVGcUozdVhQa0N4bVRQM3Fkd0NaNUdiOWxoZXh0cHMwT1l0Q3JFbkQ5Rk0tRHE1ZjFVcWJaWjVxUkNsRXVuT1JwY0s5Zm1kNzVaZURsbnpLOWxxaDIxcDBnbFNiQXNGMHNkajZJbng1RlBzeFhrd3Y1NmttSEZqRg?oc=5",
             "category": "Economy",
-            "published": "2026-01-30T21:17:54.541502"
+            "published": "2026-01-31T21:11:31.669704"
         },
         {
-            "title": "역대급 호황에도 불안…반도체도 관세가 발목? - KBS 뉴스",
+            "title": "트럼프, 한국 사례 들며 “내 관세 정책이 미국 살려” 자화자찬 기고",
             "points": [
-                "글로벌 반도체 산업의 호황 속에서도 관세 부과 가능성이 제기되는 것은 국제 무역 갈등이 핵심 산업의 성장과 글로벌 공급망에 미치는 중대한 영향을 보여줍니다.",
-                "반도체는 현대 경제의 핵심 동력으로, 관세는 생산 비용 증가, 가격 경쟁력 하락, 투자 위축 등으로 이어져 관련 기업들의 실적뿐 아니라 국가 경제 전반에 부정적인 파급 효과를 초래할 수 있습니다."
+                "도널드 트럼프 전 미국 대통령의 관세 정책에 대한 언급은 향후 미국 대선 결과에 따라 글로벌 무역 질서와 각국 경제에 막대한 영향을 미칠 수 있는 중요한 정책 변화 예고입니다.",
+                "특히 한국을 사례로 들며 보호무역주의를 강조하는 것은 한국의 수출 산업 및 대미 무역 관계에 직접적인 경제적 파급 효과를 가져올 수 있습니다."
             ],
-            "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE0zTVZtZE1PcUhDN05VZWVidWNoNVdwcUdyMHNaWXliVXhRU2dxOUR5ODV3aER0VkFGdERkTFhfWURYRDU3ejnueXhsQmlqUWNadnBzVmFSMEUzNWc?oc=5",
+            "link": "https://news.google.com/rss/articles/CBMiggFBVV95cUxORzBmZzNCOFFRZlJqc1hiMWpLSzJMZ2pjSmNaZHhNazQtZU9KTGdfZ2d0SF9QcUxxYmFvdlNMelVqVDZSLUlleTI3TG43eUM4V3RBd1A5V0w4OWZxZGFNWEpKQ0oxNnpzaTZXUmJPYWJFZWpna2dIOGQyd1kyVDBvclZ3?oc=5",
             "category": "Economy",
-            "published": "2026-01-30T21:17:54.541503"
+            "published": "2026-01-31T21:11:31.669705"
         },
         {
-            "title": "TV 부진에 방향 튼 LG전자…전장·HVAC로 체질 전환 가속 - 지디넷코리아",
+            "title": "“월급만으론 안돼” 쇼츠 끊고 주식 앱… 지옥철서 ‘7.8조 뭉칫돈’ 터졌다",
             "points": [
-                "LG전자가 전통적인 TV 사업 부진을 극복하고 전장(자동차 부품) 및 HVAC(냉난방 공조) 사업으로의 체질 전환을 가속화하는 것은 글로벌 가전 기업의 핵심 성장 전략 변화를 의미합니다.",
-                "이는 미래 모빌리티 및 스마트 홈 솔루션 시장의 성장 가능성에 대한 대규모 투자로, LG전자의 사업 포트폴리오 재편을 통해 새로운 성장 동력을 확보하고 관련 산업 생태계에 영향을 미칠 것입니다."
+                "개인 투자자들이 주식 시장에 7.8조 원 규모의 대규모 자금을 투입한 것은 현재 경제 상황에서 나타나는 중요한 투자 트렌드이자 자본 시장의 활력을 보여주는 지표입니다.",
+                "이는 저금리 및 자산 증식 욕구 증대 등 거시 경제 환경 변화에 따른 개인의 투자 행태 변화를 반영하며, 주식 시장의 변동성과 유동성에 큰 영향을 미칠 수 있습니다."
             ],
-            "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE01a2xHckFucVRPN05sWnFQLVJPc212UnI3eGJYUlg5S0pGWG4xNy1FTmpQeTV2RVRtQ3VUMGlRVUdtdm1mM0NqMDhOVlRnQVEwYnAtVVR3?oc=5",
+            "link": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE5KUjRNMlh2UmdUT3dNaXprOW5TQWx5N0JBMkRDTUptYXpyNEZzeWZ3ZXpfd3JnaDJKZWlWTWU2R2ZZRVBuUURpWEZ4b1ZYdjJLU1RyUXNGaELSAVRBVV95cUxNWWNXRTh3V0lWTnp2LUhxaW9KMG9oWk9qQlZlYU94RWwxT3A1bE1jVTVjbURYRzZmb3pWckJxTzZuUEdVaGliZ2E2ZE1nYzNybFhWaGg?oc=5",
             "category": "Economy",
-            "published": "2026-01-30T21:17:54.541504"
+            "published": "2026-01-31T21:11:31.669706"
         }
     ],
     "World": [
         {
-            "title": "트럼프, 연준의장에 '후원자 사위' 워시 지명 …금리인하 주장(종합)",
+            "title": "트럼프 “계획은 이란과 대화하는 것”… 협상 좌초 땐 군사 행동 시사",
             "points": [
-                "미국 연방준비제도(Fed) 의장 지명은 미국의 통화 정책 방향을 결정하며, 이는 글로벌 경제에 막대한 영향을 미칩니다.",
-                "트럼프의 지명은 금리 인하 압력으로 이어질 수 있으며, 이는 금융 시장과 기업 투자 환경에 큰 변화를 가져올 수 있습니다."
+                "미국과 이란 간의 외교적 긴장 완화 또는 군사적 충돌 가능성을 시사하는 중대한 국제 뉴스입니다.",
+                "중동 정세의 불안정성 및 국제 유가 등 전 세계 경제에 막대한 영향을 미칠 수 있는 정책 변화의 기로에 서 있습니다."
             ],
-            "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTE12WTVUWkNSRmNYQmV6SW4td0hTaHBKN0VmS0oxS3VMOUhqSkF0a0pPNGVHbF9STnFpRnBwUkc0d3R4NTZKSWc2OXhmWUs0QXZiZmtxOXhRZUdVd0o0d0Y2NGNQcG1WNlhsdXozR01hMEZFUjFF?oc=5",
+            "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxPcTVxcHpqNmRXc1RUdHhUU2dkQ0FZWHNUa0o1UzdqTVBrLWNjcjhYaDJ1NTdIcTU3UTJCUzhNbUZwQy15amNDU2NLRGNsbGx0TS1EeHRqOUpZNEFZdElHMncwS0NXeUU3SjFKN0dKeTVpS2l2V0FwZ1BMcHVmN05wX2ZzTmPSAZgBQVVfeXFMUHFCS2ZNV3d4SDd0NjNhb1VkMWt1bVBjUEpsOEF2d0JMQmZweWtHajNHQmtDSUUyV0JndjVnUDZETVp2b3BKVllhcHpXV25RWGJYSDF0Y3FyZ29iNVZwTVlLNGY0WmlFUjRhZUlsc1RXOG1JdkFqYUNFTkJBLVZCX2ZiZkxldmJDOUt6bG5qTWJNX3IxT1Y0N2N?oc=5",
             "category": "World",
-            "published": "2026-01-30T21:18:25.040081"
+            "published": "2026-01-31T21:12:14.498499"
         },
         {
-            "title": "이스라엘 \"가자 라파 국경검문소 내달 1일 양방향 개방\"",
+            "title": "베네수엘라 대규모 사면... 차베스 시절 정치범도 풀어준다",
             "points": [
-                "가자지구 라파 국경검문소 개방은 인도주의적 지원 물품의 유입과 주민 이동에 직접적인 영향을 미치는 중요한 조치입니다.",
-                "이는 이스라엘-하마스 분쟁의 인도적 측면에서 중대한 변화를 의미하며, 향후 분쟁 해결 노력에도 영향을 줄 수 있습니다."
+                "베네수엘라 정부의 대규모 정치범 사면은 국내 정치적 화해를 시도하고 정세 불안을 해소하려는 중요한 정책 변화입니다.",
+                "이는 남미 지역의 정치적 안정과 인권 상황에 큰 영향을 미치며, 국제 사회의 베네수엘라 정책에도 변화를 가져올 수 있습니다."
             ],
-            "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE53anFwMUZpcEw1OEhWdHlCZ0RSclpmZkZFdmdEWWlybV9EcFN6OEdncmJ4aXZiUkNsbEItWVVZTDZCWlpRYTQwenhEdTl3eXNRVnVFUEx4QjM2ZEXSAWBBVV95cUxOaHdNalVsczhGTGFJXzFNc2hWdEt1V0FxbHM4Tzl4X0JzOGRYcGEtVXRCdHo4RXdCdGlCVTVBVzl5OEdPTDBmX0o1c0ktZ2ZKMlVveDVUYWtMV0FzTUREMVo?oc=5",
+            "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxQZ0FWV2F5VXhHVmYzQ3BuS3VVSEJXREo4dWQ5cDhNdkhtYjM2aGZCQldkN0lMREVTenJYdEdJVXZBaHlrQmppeFZJUDFhSzd2V0hpc182bGNTSzFWNmZjb3FRcDl3b2FLWDcwdzlIRnlGd1IwdExuemFhUUdlYnZNcFZReVUxem9VRnJKWHJpZGVCd1hhSm5RVDdjbkhMUdIBsgFBVV95cUxNNUJ0Um5HUWQzdzFVM3hoRHVCSDhnNXpueHo4NU5mTzU5VFpjUXowNUdQM1N3SmJQSk9VTEl2SFRVal_3UmVKWXFoV1ZOejR1bWFSRmVjQ0N2T1dJNmJvdTlfTzVkUU5PMlpOMjRYaHcwU3J0Mlh4bElkOHBOcEhudVpONFpRYzdvWF9wNEd0cjZZMzEtY1loUEMyV2VlRk9MWUVWMWd5VXIxNkhPUW1LQnhB?oc=5",
             "category": "World",
-            "published": "2026-01-30T21:18:25.040087"
+            "published": "2026-01-31T21:12:14.498505"
         },
         {
-            "title": "트럼프, 국가비상사태 선포… 쿠바 석유 거래국에 '관세 폭탄' 명령",
+            "title": "트럼프 2기 두번째 셧다운... 이민 단속 갈등에 예산 공백",
             "points": [
-                "트럼프의 국가비상사태 선포와 쿠바 관련 관세 부과는 미국의 대외 정책 기조를 보여주며, 국제 무역 및 외교 관계에 큰 파장을 일으킬 수 있습니다.",
-                "이는 쿠바 경제뿐만 아니라 관련 국가들의 에너지 수급 및 무역에도 직접적인 영향을 미쳐 글로벌 경제에 불확실성을 더할 수 있습니다."
+                "미국 정부의 셧다운은 이민 정책 갈등으로 인한 예산 공백으로 발생한 중대한 국내 정치 위기입니다.",
+                "정부 기능 마비는 경제적 불확실성을 증대시키고, 미국 국내외 정책 추진에 광범위한 영향을 미칩니다."
             ],
-            "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE5CUlh1RmxPdzE0TlFGNHdhRm1xX2VjMWtBSzFENExEa0M5X1M3dkIzdE5vZmRwWEJUeUIwNHJmUnhKb3hjc2RQVjNBRVNRai1rdGowdW4xNEk4Z9IBVEFVX3lxTE8zd0lWaUNhOWs3NkVOT1dqaFBSYzItdHBQMG01SXZKVWRpQTlmVXY5U3ZrQWdzZEFCQzRia3NzNk00QXpSVTFLdFF3Z0l5WXB1NTdsYw?oc=5",
+            "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxNTVRvVS1LUEVzUGk3dkFJX3QzeFVTOEE4RFJ2Y3FPdGdDSmRFaG1JWjhqanN5UFpEUGhGQk5aanBuMzRMZ2M5T2hnS0hYM1JWNkpWb29oTHYxV0NxS3RreFZCbTRheGQ4OEszcVRHbThCM1BWcXpiZElVR2tocVBVUDc5bVlvbFdOVTlNUmxwUzNCdXBlbEJkZllZOGRHQdIBsgFBVV95cUxPaTloQUhYRE9VNmRUTjFVQnUwM25jVjZMbDhPajRWR1pza0ZXQWZsNkVHSjRFclJGaktIUDE0NHRMeHNvOWRXQ05qUDdmLVRmTHR6bmh1RUhZcE95N0RlR3JLcmlSYl85QkRzT2FkVG5TTEFoZkY1MU42b2NTNktQeDQ0ZHlxUUh3RnlsVE5ZelJvRUJtWGFEVzRkbnp6S2pGZThRSzhGd1ZKc0Yzb01CaHN3?oc=5",
             "category": "World",
-            "published": "2026-01-30T21:18:25.040088"
+            "published": "2026-01-31T21:12:14.498506"
         },
         {
-            "title": "트럼프 압력 통했나? 파나마 대법원, 홍콩 기업의 파나마 항구 운영권 박탈",
+            "title": "러시아 \"2월 1일까지 키이우 공격 중단\"…트럼프 요청 일부 수용",
             "points": [
-                "파나마 대법원의 홍콩 기업 항구 운영권 박탈은 미국의 대중국 견제 정책이 중남미 지역까지 확대되고 있음을 보여주는 중요한 사례입니다.",
-                "이는 파나마 운하의 지정학적 중요성과 맞물려 국제 물류 및 무역 경로에 영향을 미칠 수 있으며, 미중 간의 경제적 패권 다툼을 심화시킬 수 있습니다."
+                "러시아-우크라이나 전쟁에서 키이우 공격 일시 중단은 국제 정세의 중요한 전환점이 될 수 있는 소식입니다.",
+                "주요 강대국의 개입으로 인한 휴전 가능성은 전쟁의 양상과 국제 외교에 큰 영향을 미치며, 에너지 시장 등 세계 경제에도 파급 효과를 가져올 수 있습니다."
             ],
-            "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxPODRvQ0xYU0Y1ZFhYZVdDbUJyLU13S1I1eWRNbFJxMUdhSFVhdFpTaDNpVHZYUVlkaUgyWFR2MGNRWGEzMkttXzljVnpPNHlhdFBPNnpfbnNZQ0RwRnpWV3lQTmhNU0pJSnlHT2VfN3NYRHdNVElsSVZYQURBT1c3TC1mQV9WTER5YXllWThkZVZtQmVCb3BUd3VhaTlsUdIBsgFBVV95cUxOYjFnM3R4Z3RFZVQyRU5EbzNOZHVTVTNHcVhLbEdtYWxMQVZmYVpIdW5CZWxtbmFkZDlFX214azhxQ2FTMEpaWjA0enhpeC1U09sZnZtYU5VeUVPM2RINUtveW5DUnMtVEk1THBwS0Y0bS1CVFpBRHVQU01KYm5EdGZtekJIX0FJb204S1UzZV9LaGk4Y1N4SmliR0k5ZnNYclFYbGxqdUJSUmpmQ0F1YXB3?oc=5",
+            "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE05dUVEVGpINGctU3ozUWRSU1JXQUZ2TFdXcVNRcV9FRDlWem9jSXlka0ZqUWotUE9iWk5IMUhiZ2U1b3VoWGFpNGNuc2ZLM0txbTc4Q2NBbWNMRFR2ODNYclIzUWRIVGM?oc=5",
             "category": "World",
-            "published": "2026-01-30T21:18:25.040089"
+            "published": "2026-01-31T21:12:14.498508"
         },
         {
-            "title": "미 상원, 셧다운 30시간 전 예산안 합의…이민단속국 예산은 분리",
+            "title": "강훈식 \"노르웨이와 1.3조 천무 계약 체결…북유럽 진출 교두보\"",
             "points": [
-                "미국 상원의 셧다운 직전 예산안 합의는 정부 기능 마비라는 초유의 사태를 막았다는 점에서 국내외 경제 및 정치 안정에 중요한 영향을 미칩니다.",
-                "이민단속국 예산 분리 합의는 이민 정책에 대한 여야 간의 첨예한 대립을 보여주며, 향후 이민 정책의 방향과 관련 예산 집행에 변화를 예고합니다."
+                "한국의 대규모 방산 수출 계약은 국내 방위 산업의 성장과 국제적 위상을 높이는 중요한 경제적 성과입니다.",
+                "이는 한국의 기술력과 경제적 영향력을 확대하고 북유럽 시장 진출의 교두보를 마련하는 계기가 되며, 국제 방산 시장의 판도에도 영향을 줄 수 있습니다."
             ],
-            "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTE16WVZQY0R4eFJGc0NfeVJ6MEdoZWdUT3NNWmQ2UFpzYW40YkxMcmMxV3JRYTM1XzV3RmVoelpPVGZ2U0s2RldoOS1HUklEWWpRUDJTRm41eHE4Z1Y5M0dGM2g3SVVoVTNINlptUDNKYw?oc=5",
+            "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTFBNWTFQTUR0RU40MkZ5M0V3ZWlURThqVGhEZ0ptN3k1Y09KSmdHUXZrVVdqNzI2ODlJMmUxaVRLWW1TNWJ1WGlVei1FdTBXZmJYMUt3Q2p4YkVwSEdtbFFDS2REQmVjcjA?oc=5",
             "category": "World",
-            "published": "2026-01-30T21:18:25.040090"
+            "published": "2026-01-31T21:12:14.498508"
         }
     ]
 }
