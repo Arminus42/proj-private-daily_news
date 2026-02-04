@@ -1,111 +1,210 @@
 {
     "AI_Tech": [
         {
-            "title": "AGI로 가는 새로운 길?…LLM 아닌 ‘EBM’",
+            "title": "르노코리아, 필랑트 '팁스'에 챗GPT 기반 생성형 AI 기술 적용",
             "points": [
-                "이 뉴스는 현재 AI 연구의 주류인 대규모 언어 모델(LLM)의 한계를 넘어, AGI(범용인공지능)에 도달하기 위한 새로운 패러다임인 EBM(에너지 기반 모델)을 제시하며 AI 연구의 근본적인 방향 전환 가능성을 논합니다.",
-                "EBM은 LLM이 데이터 패턴 학습에 집중하는 것과 달리, 세상의 복잡한 규칙과 상호작용을 에너지 함수로 모델링하여 더 깊은 이해와 추론 능력을 목표로 합니다. 이는 인공지능이 단순한 예측을 넘어 실제 세계를 이해하고 상호작용하는 능력을 갖추는 데 중요한 기술적 돌파구가 될 수 있습니다."
+                "글로벌 AI 선두주자인 OpenAI의 챗GPT 기술이 자동차 산업에 본격적으로 적용되는 사례로, AI 기술이 단순한 소프트웨어를 넘어 일상생활 속 제품으로 확산되는 중요한 트렌드를 보여줍니다.",
+                "차량 내 대화형 AI 비서 기능을 통해 운전자의 편의성과 정보 접근성을 혁신하며, AI가 개인화된 경험을 제공하는 '대화형 AI' 시대의 도래를 알리는 상징적인 발전입니다."
             ],
-            "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTFBUY3NUVnZFVC1fdzVvbERwdXM3U2VPR21WRWNGTGh6Z3VrQzlXaGFqWHF4aEM3bU05TG9GbXZRaXJSQUdKQTB4bFNMUlJjTU41eXdJQUEwTkpXYUVRd2NCeExDQl9GV19rYm5fR2wxUkg?oc=5",
+            "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE5LWGU1T0UycWgxUUxydzQwai1fRTdWdmJoZ3FKMHBFejAzT3V6MlVNY0pCYkhMWjNxUmpzSzNLWWZ5aXpBTkU5VTNoaUQxcXFHZmJQeHlKVMcG81cXZJNXFDWnQyNGpqVEE?oc=5",
             "category": "AI_Tech",
-            "published": "2026-02-03T21:23:02.800378"
+            "published": "2026-02-04T21:23:10.213927"
         },
         {
-            "title": "KAIST, AI로 물질의 ‘빛의 지문’을 실시간으로 읽다",
+            "title": "김익재 한국과학기술연구원 AI·로봇연구소장 - 피지컬 AI 시대의 도래, AI와 휴머노이드 로봇으로 ‘행동하는 지능’의 미래를 설계하다",
             "points": [
-                "국내 최고 과학기술 연구기관인 KAIST가 AI를 활용해 물질의 고유한 '빛의 지문'(분광 정보)을 실시간으로 분석하는 획기적인 기술을 개발했습니다. 이는 AI가 과학 연구의 난제를 해결하는 중요한 사례입니다.",
-                "이 기술은 기존에 수많은 시간과 비용이 들었던 물질 분석 과정을 AI로 단축시켜 신소재 개발, 신약 탐색, 환경 모니터링 등 다양한 과학 및 산업 분야에서 연구 속도를 비약적으로 높일 수 있는 핵심 기술적 돌파구입니다. 마치 사람의 지문을 순식간에 판독하듯, 물질의 특성을 즉시 파악하게 됩니다."
+                "한국과학기술연구원(KIST)과 같은 권위 있는 연구기관의 리더가 제시하는 AI의 미래 비전으로, 소프트웨어 중심의 AI를 넘어 물리적 세계와 상호작용하는 '피지컬 AI'와 휴머노이드 로봇의 중요성을 강조합니다.",
+                "이는 AI 연구의 새로운 방향성을 제시하며, 로봇이 단순 반복 작업을 넘어 복잡한 환경에서 스스로 판단하고 행동하는 '행동하는 지능'으로 발전할 가능성을 보여주는 획기적인 관점입니다."
             ],
-            "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTFBhRmhna0VzYTBWZEtVaGZGNEd0Q1hxVTJ0NlJmM3ladmZGZHNmTjNxVFNRN2tkZDM2SG9DNlVGUlVLTVhBb0Y1RXJ5YmFaNDk5MW5ZZEd6WXpDRHQwVlFsYWZwZFNUeGtZUzlidnpWOVd3OWVIaw?oc=5",
+            "link": "https://news.google.com/rss/articles/CBMickFVX3lxTFBfa3FvTWRjYnZBaFk3aWZLZlE5eG1lVmt1TEVLMmpxY0cyQTc3TlJwUjV5TkJoQTI3bXpqUDNlQmxld05mV0dGc3JZaUhGS2lrQVJaTGFteW5IVlIxcFl6czgyTS1sRWl5MVRQRDhCa0ZPQdIBdkFVX3lxTE83RGNzZ1M2UG5GVXBQUVhHVGV2dVk1S0tIazN4cEtBQ2x2QkhYRUgyTXgxWUFmT1Mtd0JQWm02U3dyRXQtbkloaW1OSm1vS0RKRmc3VFRXM29oODRZY0JYajE5TzNpZFMxRE9NMVFhWlZVeGlSOGc?oc=5",
             "category": "AI_Tech",
-            "published": "2026-02-03T21:23:02.800385"
+            "published": "2026-02-04T21:23:10.213934"
         },
         {
-            "title": "LG AI연구원, 신소재·신약 설계하는 ‘AI 연구 동료’ 특허 등록…“기술 주도권 선점”",
+            "title": "연세사랑병원, 스카이브·세브란스 공동연구로 AI 기반 무릎 연골 3차원 재현 기술 국제학술지 게재",
             "points": [
-                "국내 주요 AI 빅테크 기업인 LG AI연구원이 신소재 및 신약 개발 과정을 혁신적으로 가속화하는 'AI 연구 동료' 기술 특허를 등록하며 이 분야의 기술 주도권을 확보했습니다. 이는 AI가 실제 산업에 적용되어 막대한 경제적 가치를 창출할 수 있음을 보여줍니다.",
-                "이 AI는 기존에 수개월에서 수년이 걸리던 신물질 및 신약 후보 물질 탐색, 설계, 검증 과정을 단 며칠 또는 하루 만에 수행할 수 있게 하여, R&D 효율성을 극대화하고 새로운 물질 및 의약품 상용화를 앞당기는 데 결정적인 역할을 할 것입니다. 마치 숙련된 연구원이 수십 년간 할 일을 AI가 단숨에 해내는 것과 같습니다."
+                "연세 세브란스병원과 같은 국내 주요 의료기관이 참여한 공동 연구로, AI 기술이 의료 진단 분야에서 실제적인 '기술적 돌파구'를 만들어내고 있음을 보여줍니다. 국제 학술지 게재는 연구의 신뢰성과 파급력을 입증합니다.",
+                "AI를 활용해 무릎 연골을 3차원으로 정밀하게 재현하는 기술은 기존 진단의 한계를 뛰어넘어, 환자 맞춤형 치료 계획 수립과 질병 조기 발견에 혁신적인 기여를 할 수 있습니다."
             ],
-            "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTFB5emQ4aVBXQWZYU0dQam1KYWJwNk03N3RWVjAxVEpQUV8zZnZCQW9Xc19DNzU2cmdoZ0d0RDZmVTgzWW9GbFlLX3FZakwwS1UzZnRpZU9lbmoyT1pFM09DWTlWU19sNTFnMDgw?oc=5",
+            "link": "https://news.google.com/rss/articles/CBMiZkFVX3lxTFBWODdZZGpGa2gzektzeHlTeWJpTC1qOHNCNUFMY2NQZHJja1Y4NEs4SG13SkcxdXBXVnVHZjFCSDFSc1dKTDZ1TUVHaW9YZ0xrSDBqVlNfaVJFSDRWcUxnOXpUeE5DQQ?oc=5",
             "category": "AI_Tech",
-            "published": "2026-02-03T21:23:02.800386"
+            "published": "2026-02-04T21:23:10.213936"
         },
         {
-            "title": "카카오 LLM 오케스트레이션 평가 기술, 세계적 학회서 '엄지척'…깃허브에 오픈소스로 공개",
+            "title": "국립암센터 - 빅데이터·AI 기술과 근거 기반 연구로 암으로부터 국민의 건강과 삶의 질 지키는 국가 암관리의 컨트롤타워",
             "points": [
-                "국내 주요 빅테크 기업인 카카오의 AI 연구 성과가 세계 3대 인공지능 학회 중 하나인 ICLR(국제학습표현학회)에서 인정받았으며, 관련 기술이 깃허브에 오픈소스로 공개되어 글로벌 AI 생태계에 기여하고 있습니다. 이는 국내 기업의 AI 기술력이 세계적인 수준임을 입증하는 중요한 소식입니다.",
-                "이 기술은 복잡한 대규모 언어 모델(LLM) 기반 애플리케이션을 효율적으로 설계하고 평가하는 '오케스트레이션' 기술로, 다양한 AI 서비스의 안정성과 성능을 향상시키는 데 필수적입니다. 마치 지휘자가 오케스트라를 조율하듯, 여러 LLM 구성 요소를 최적으로 조합하고 관리하는 핵심 기술이며, 오픈소스 공개를 통해 전 세계 개발자들이 LLM을 활용한 혁신을 가속화할 수 있도록 돕습니다."
+                "국가 차원의 암 관리 컨트롤타워인 국립암센터가 빅데이터와 AI 기술을 '근거 기반 연구'에 적극 활용한다는 점에서, AI가 공공 보건 및 의료 정책 결정에 미치는 영향력을 보여줍니다.",
+                "이는 AI가 단순한 진단 보조를 넘어, 방대한 데이터를 분석하여 암 예방, 진단, 치료 및 관리 전반의 효율성과 정확성을 높이는 핵심 도구로 자리매김하고 있음을 의미합니다."
             ],
-            "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTE11eXZCdGExOGIweHFHRzYxXzZFS0dJNWFTYkExOWo3WVd0LTc2SndlT0Q1Qng3aTlvbG03QzItNU1YYW0zUEhtM0tWcWhubWFZbDBEclg0WUdBbEY5WVhGQlB3WllDVWpEd0lpVzZn0gFyQVVfeXFMTXgzdF9CZ2hfbDRuU05ablpaemkyMS1KeFE3ZWZfeFhnRWhCdzdOUFNOZFBCQWpoVERyVGFSSVVnXzFzVHFHajRNYUVaMDhXWnhNQnJGUk5LbEFEcjVhakVhN2w2aXNRSkZfM0oyajZzck5n?oc=5",
+            "link": "https://news.google.com/rss/articles/CBMickFVX3lxTE5BOHVfN25fT3E3MGJnRFA0TERwQzlsNk5NR0hZdElRUGdFWERZN1Nrc0dMT1NFaERmV1NSMFNPNVVqNGVEQzhJZjZHZmk3U0sxcVZLUE5fUnFMSlI5TjNnVGhTYXhCbzJPQUNfUk5FX1dUUdIBdkFVX3lxTE1VeFg3Ri1sUEtlek5xM1ctQW9CN1ZHeXQwbFJsUUV4UFVfdWJNQlRyTGtZZWEzb3AwQ2tGQlVqZi1HM2h0aHJmeC0wa3E5MmdpN0ViS2V4SGpCeUlIa3I4Rm53R1V2WDByTC1XeXpCVVVSS3pGTkE?oc=5",
             "category": "AI_Tech",
-            "published": "2026-02-03T21:23:02.800388"
+            "published": "2026-02-04T21:23:10.213937"
         },
         {
-            "title": "구광모 회장의 결단이 이끈 엑사원의 성과…'LG AI'는 무엇이 다른가",
+            "title": "배민, 생성형 AI 기반 기술로 영어·중국어·일본어 지원",
             "points": [
-                "이 뉴스는 LG그룹 구광모 회장의 강력한 리더십 아래 LG AI연구원이 개발한 초거대 AI '엑사원(EXAONE)'의 성과와 LG AI의 차별점을 조명합니다. 이는 국내 대기업의 AI 전략과 비전이 어떻게 구체적인 기술 성과로 이어지는지를 보여주는 중요한 사례입니다.",
-                "엑사원은 단순히 언어를 이해하는 것을 넘어 이미지, 영상 등 다양한 데이터를 학습하여 산업 현장의 난제를 해결하는 데 특화된 LG의 핵심 AI 플랫폼입니다. 이는 특정 애플리케이션을 넘어 기업의 전반적인 AI 역량을 강화하고 미래 성장 동력을 확보하는 데 기여하는 기반 기술로서, LG의 AI 기술 리더십을 공고히 하는 중요한 기술적 진전입니다."
+                "국내 대표 테크 기업인 배달의민족(우아한형제들)이 생성형 AI를 활용해 다국어 지원 서비스를 확대하는 사례로, AI가 언어 장벽을 허물고 글로벌 서비스 확장에 기여하는 중요한 추세를 보여줍니다.",
+                "이는 생성형 AI가 단순한 텍스트 생성 기능을 넘어, 실시간 번역 및 다국어 소통을 지원하며 사용자 경험을 혁신하고, 국내외 사용자들에게 더욱 편리한 서비스를 제공하는 핵심 기술로 부상하고 있음을 의미합니다."
             ],
-            "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE02QURyZlZQVE1HNDZlVXMzOUZMRjBCZ3NjRlk0SmFkal9jOFVya2tJRU5ZSm1abEc1YV83ajZkS2ZvejFkamtPRkp2TTFXV0FnTXZ0MzFrelThOW03R2lNV29RQUpEcXd4LS1UYXJaVE8?oc=5",
+            "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE5WSFdzUUEwRG1Mb2JrTzgzVVlYeHE2aTQ1YjRYX0ppUnJodjQyMU9FR3dOd1p5dTRPWWxucV9sSmUzYk5lRm1ZVmdZbmJKaUVFUE9oM2I1N1IzY1MtMHBWcm5aZWMxc2JIY2c?oc=5",
             "category": "AI_Tech",
-            "published": "2026-02-03T21:23:02.800389"
+            "published": "2026-02-04T21:23:10.213937"
         }
     ],
     "IT_Biz": [
         {
-            "title": "'아틀라스' 배 속엔 배터리‥피지컬AI 따라 'K-배터리' 뜬다",
+            "title": "새 AI 도구에 잔뜩 겁먹은 증시…WSJ “소프트웨어·데이터 시총 435조원 증발”",
             "points": [
-                "보스턴 다이내믹스의 최신 로봇 '아틀라스'의 혁신적인 디자인과 성능에 K-배터리 기술이 핵심적으로 적용됨을 보여주는 소식입니다. 이는 피지컬 AI 로봇 기술 발전과 한국 배터리 산업의 글로벌 위상을 동시에 조명합니다.",
-                "피지컬 AI 로봇의 소형화, 경량화, 고성능화에 필수적인 배터리 기술의 중요성 부각.",
-                "한국의 배터리 기술이 AI 로봇 등 첨단 산업의 핵심 부품으로 자리매김하며 새로운 성장 동력을 확보할 가능성."
+                "새로운 AI 기술의 등장이 전 세계 증시에 미치는 막대한 경제적 파급력을 보여주는 소식입니다. 특히 소프트웨어 및 데이터 산업의 시가총액이 대규모로 증발했다는 점은 AI가 기존 산업 구조에 근본적인 변화를 가져올 수 있음을 시사합니다.",
+                "AI 기술 발전이 특정 산업의 가치를 재편하고, 투자 심리에 직접적인 영향을 미쳐 대규모 자본 이동을 유발할 수 있음을 보여줍니다. 이는 AI가 단순한 기술 혁신을 넘어 경제 전반의 판도를 바꿀 수 있는 핵심 동력임을 의미합니다."
             ],
-            "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE1MUUlodUU2aDZCUS0yMVlhOHVpWkNkeGhRYW9GbC15dHV0UG1EZ2VHMmZJSE9KVUd5RFhwV29OZG1FRDlwOEJ5Q0dvajN5VGc?oc=5",
+            "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxNZmZHWVJNWW1zWllUXzlGX3hUd1M0M0k5M2pDb1J3dlE2cXBKb010VXh5d1oyeElpaUNsRUcxSHl4NW9uMER5OG9RZEhaVGpNR3JHUTROT3pWWW1VbW1GbDRCMEZLdTBiTWk1dzFIYkhudm5ocjFZS180N2tUVkNqS2xmVlFVaFdTZUZCUnZTVF9FNTZSeGdFekpmWFJ0QdIBsgFBVV95cUxOX1dPUDNLTHlEbXo0TzN2SjcwTlhSQjRkQ0JxRHc3SDRid2JmNzEyZm1Ld0VYWjJvZ1F0dW4tNjdhemZvUDJpSmR1Xzg0N2stVXJtWF9BWWViVGg5c3RocEpDZktQNUlLWjhrZUw1SDdveUZiVVNiVGhHTkZmNE9telZOOTNGMEg3MTlkRVhEMm9zME9hSVhPalNlNXczQnQ1NEdiaVk5LW0wcE8xdGc0MnNB?oc=5",
             "category": "IT_Biz",
-            "published": "2026-02-03T21:23:34.853334"
+            "published": "2026-02-04T21:24:01.576739"
         },
         {
-            "title": "“그록, 비키니 입혀줘” 순식간에 300만장…선 넘은 머스크의 ‘딥페이크 돈벌이’",
+            "title": "인텔까지 脫엔비디아 가세... ‘AI 칩 제국’의 위기?",
             "points": [
-                "일론 머스크의 AI '그록'을 활용한 딥페이크 이미지 생성 및 수익화 논란은 AI 기술의 윤리적 문제, 오용 가능성, 그리고 거대 기술 기업의 사회적 책임에 대한 중요한 논의를 촉발합니다. 이는 AI 산업의 미래 방향성에 큰 영향을 미칠 수 있습니다.",
-                "AI 딥페이크 기술의 확산과 이로 인한 사회적, 윤리적 문제(저작권, 초상권 침해, 가짜뉴스 등) 심화.",
-                "AI 서비스 제공 기업의 콘텐츠 관리 및 윤리적 가이드라인 수립의 시급성 대두."
+                "AI 시대의 핵심 인프라인 AI 칩 시장에서 엔비디아의 독점적 지위에 대한 도전이 시작되었음을 알리는 소식입니다. 인텔과 같은 거대 반도체 기업의 참전은 AI 칩 시장의 경쟁 구도를 근본적으로 변화시킬 잠재력을 가집니다.",
+                "AI 칩 시장의 경쟁 심화는 기술 혁신을 가속화하고, AI 서비스 비용에 영향을 미치며, 장기적으로는 AI 기술의 대중화에 기여할 수 있습니다. 이는 AI 산업 전반의 발전 방향과 주요 기업들의 전략에 중대한 영향을 미칠 것입니다."
             ],
-            "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTFByRDdwdVR2N1JuSWxiVWppdFNNcTBERC1lZDVwTmRxNF9hSzJfNjQ1N29IRFJ5ZkNnQ3NLcnh2UTBjY2ZhZ2V4QlBNVTJDVVFEcEdzbHNZSlJBVm9telR4UG1TaV9BUnpIWmVnaDVldw?oc=5",
+            "link": "https://news.google.com/rss/articles/CBMigwFBVV95cUxQTmJSS0JqZlhKUHdfUmZvMzNsYlRNemZQSXFFdFNGUUljQkR5dG52dGE5QklOSnJ4cWdjaG1Ca0hGb29fTGY2Tm84Ujl1ZFVJM05RR1prQ0tlVlBOc05xcTNLcXQ3ejZ2TGxrbG1TWmp3S25JaXl3WHJtUnA4TExKM0VGVdIBlwFBVV95cUxNRGNmSnZkNXpHTFFaYUNyMzlFX0pDbW9ETGEyb0MtZ2ZjRi1HU0RiSjQtVkhGb1ItQ0d4d19OdDhONHZkSE01RFktVkhPS0JLODJBUnJXc2xDR2dra01zY1F4NkxmSkROUDdFb0llbHQtLWNNOC0zVFdhcVdPY1J3cEZVWjV0RWhkaVM4Q0dzOFJjSUVlSW9v?oc=5",
             "category": "IT_Biz",
-            "published": "2026-02-03T21:23:34.853341"
+            "published": "2026-02-04T21:24:01.576746"
         },
         {
             "title": "[단독] ‘수퍼 을’ 된 삼성 메모리... 엔비디아 “공급 당겨달라” 부탁",
             "points": [
-                "AI 시대의 핵심 부품인 고대역폭 메모리(HBM) 시장에서 삼성전자의 위상이 강화되고 있음을 보여주는 단독 보도입니다. 엔비디아와 같은 AI 반도체 선두 기업이 삼성에 공급을 요청하는 상황은 글로벌 반도체 공급망과 AI 산업의 판도 변화를 시사합니다.",
-                "AI 반도체 시장의 폭발적 성장과 함께 HBM의 중요성이 극대화되며, HBM 기술력을 가진 기업의 시장 지배력 강화.",
-                "삼성전자와 엔비디아 간의 협력 및 경쟁 관계 변화가 글로벌 반도체 산업 생태계에 미칠 영향."
+                "AI 기술 발전의 핵심 요소인 고성능 메모리(HBM 등)의 중요성이 부각되며, 삼성전자와 같은 메모리 제조사의 위상이 크게 상승했음을 보여주는 소식입니다. 엔비디아와 같은 AI 선두 기업이 삼성에 공급을 요청하는 상황은 AI 시대의 새로운 공급망 역학 관계를 나타냅니다.",
+                "AI 시대에는 고대역폭 메모리(HBM)와 같은 특정 반도체 부품의 공급 능력이 AI 산업의 성장을 좌우하는 핵심 병목이 될 수 있습니다. 이는 메모리 반도체 시장의 가치와 전략적 중요성을 재평가하게 하며, 관련 기업들의 투자 및 생산 전략에 큰 영향을 미칩니다."
             ],
-            "link": "https://news.google.com/rss/articles/CBMigwFBVV95cUxPWUFSaHhRYXdUdmRNZmhiMm9pNXk1cHlldzRtR1Y0MU9nNnMtRXJCeEZBSk1jTmY5UUZ6YzVVY1RsYzAtdmFVZWlheUVZUFhNcGgtQko3S1BsOTUxV1UtS1dzaFFUMVd1Mk9pWmxtMGEzZ1I0dzجامepYkdLMWpocklxUdIBlwFBVV95cUxObnVvajRCU21LTVY1SlFxTFpEdGRvaVhFcGpyUlJzTlRZWDN1QlZwZnZMYjU1M0lRT2pTQkFqU21kblFyWXNmaUlkSTJ0MDg0Tk5kMURHaXdMakJuUHV0V0c1SldLQ3pIV2dwT0ZTTVFKbF9tRHFJTzExUHhkTWpxaWVaLWsyUUZNUjlETDlSVjk0MDRUZVVr?oc=5",
+            "link": "https://news.google.com/rss/articles/CBMigwFBVV95cUxPWUFSaHhRYXdUdmRNZmhiMm9pNXk1cHlldzRtR1Y0MU9nNnMtRXJCeEZBSk1jTmY5UUZ6YzVVY1RsTzAtdmFVZWlheUVZUFhNcGgtQko3S1BsOTUxV1UtS1dzaFFUMVd1Mk9pWmxtMGEzZ1I0dzdiamVwYkdLMWpocklxUdIBlwFBVV95cUxObnVvajRCU21LTVY1SlFxTFpEdGRvaVhFcGpyUlJzTlRZWDN1QlZwZnZMYjU1M0lRT2pTQkFqU21kblFyWXNmaUlkSTJ0MDg0Tk5kMURHaXdMakJuUHV0V0c1SldLQ3pIV2dwT0ZTTVFKbF9tRHFJTzExUHhkTWpxaWVaLWsyUUZNUjlETDlSVjk0MDRUZVVr?oc=5",
             "category": "IT_Biz",
-            "published": "2026-02-03T21:23:34.853343"
+            "published": "2026-02-04T21:24:01.576747"
         },
         {
-            "title": "트럼프, 백악관서 비트코인·암호화폐 제도 관련 회의…“건설적 논의”",
+            "title": "금융권 “1400조 시장 잡아라” K-스테이블코인 도입 초읽기",
             "points": [
-                "미국 대선 주자인 도널드 트럼프 전 대통령이 백악관에서 비트코인 및 암호화폐 제도 관련 회의를 개최했다는 소식은 미국의 암호화폐 정책 방향에 중대한 변화가 있을 수 있음을 시사합니다. 이는 글로벌 암호화폐 시장과 관련 산업에 막대한 파급력을 가질 수 있습니다.",
-                "미국 정부의 암호화폐에 대한 정책적 스탠스 변화 가능성, 이는 규제 완화 또는 제도권 편입 가속화로 이어질 수 있음.",
-                "정치권의 암호화폐 수용 움직임이 글로벌 금융 시장 및 투자 환경에 미칠 영향."
+                "국내 금융권이 1400조 원 규모의 거대한 스테이블코인 시장에 진출하려는 움직임을 보여주는 소식입니다. 이는 디지털 자산이 금융 시스템에 본격적으로 편입되고, 새로운 금융 서비스 및 비즈니스 모델이 창출될 수 있음을 시사하는 중요한 정책 및 시장 변화입니다.",
+                "스테이블코인의 제도권 도입은 금융 시장의 디지털 전환을 가속화하고, 블록체인 기술을 활용한 새로운 결제 및 송금 시스템을 구축할 수 있습니다. 이는 기존 금융 산업의 경쟁 구도를 변화시키고, 핀테크 혁신을 촉진하는 계기가 될 것입니다."
             ],
-            "link": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE1lNEdpdHdFazg1YktQcFl1ck5ybVo0WFJORHBmeExwUzRwZTJRMWxBTHRpMHBKdWlPVlFNWVdBNHZLcFZ1TmdXMUZ6ZmpUblp5MGtESjg0ejLSAV5BVV95cUxPM18yaC1MWUNpemZlSEpsVkpSZ3EzVkdINFlYNU9zYjlDbWJCRmdicXVKajNCWnkzQ0lMTExyQVBXOUFJXzFkQkdXNXRZZWtFZDdGN2J0NnNTNGt5dF9R?oc=5",
+            "link": "https://news.google.com/rss/articles/CBMigwFBVV95cUxOYXpTMVoxamtBT09TaERuYXJLR1VBdEVvdFVxWDBOUXQ1Wi1lYmFqWTRETUJTMERzaXVkSENMdF9rOVJsRkJ1ZTVrQnZYS3ZmZzVhU0FkcXMzNm5hR1hrRjNrd1kwckJTRVZ2Nl9nRlhmU1ZCU3Z1UjhhcV9OQW54LUo3b9IBlwFBVV95cUxPTzJRdVBJVFBVYXJiM2Ffd3gzMXhiaFFQMzdlOGhVbjBILVNwbUlNU3dzeG9lUE80clhSdkhtcjFRdXluZHE1RWpUTW9ISFM3bFpPa3E4Sm9odGVveVRqU3B5WnZZTWFmRlNhckE4OWQ4a2VVaUFOUjlka2JRZjJFR1FfX0lISmlyTkhPSklsLXlISzFuaW5N?oc=5",
             "category": "IT_Biz",
-            "published": "2026-02-03T21:23:34.853344"
+            "published": "2026-02-04T21:24:01.576748"
         },
         {
-            "title": "'삼성 밥그릇 뺏기나'…머스크 '폭탄 선언'에 업계 초긴장 [강경주의 테크X]",
+            "title": "현대차, '트럼프 관세' 정면 돌파…미국 공장에 AI 로봇 3만 대 전격 배치",
             "points": [
-                "일론 머스크의 발언은 종종 특정 산업 분야에 큰 파장을 일으키며, 특히 삼성과 같은 거대 기업의 사업 영역에 영향을 미칠 경우 산업 전반의 경쟁 구도와 기술 개발 방향에 중대한 변화를 가져올 수 있습니다. 이는 IT/테크 산업의 주요 이슈입니다.",
-                "일론 머스크의 새로운 사업 구상 또는 기술 발표가 삼성전자 등 기존 강자들의 시장 점유율 및 사업 전략에 미칠 직접적인 위협.",
-                "AI, 반도체, 자율주행 등 첨단 기술 분야에서 거대 기업 간의 경쟁 심화 및 새로운 기술 표준 경쟁 촉발 가능성."
+                "현대차가 미국의 무역 정책 변화(트럼프 관세)에 대응하여 미국 현지 공장에 대규모 AI 로봇을 도입하는 전략적 투자를 단행하는 소식입니다. 이는 글로벌 기업들이 무역 장벽을 극복하고 생산 효율성을 높이기 위해 AI 기반 자동화 기술을 적극적으로 활용하고 있음을 보여줍니다.",
+                "AI 로봇의 대규모 도입은 제조업의 생산성 혁신을 가져오고, 인건비 절감 및 품질 향상에 기여할 수 있습니다. 또한, 이는 글로벌 공급망 재편과 함께 각국의 무역 정책이 기업의 기술 투자 및 생산 거점 전략에 미치는 영향을 명확히 보여주는 사례입니다."
             ],
-            "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE1aSmxXSkNFX0RPNzU4N1BXd04xX09wcWE4Q0x0dmVPQl83dlY4RVV5WDdBNFdwMnVJVzNXdndBMDVSQlpaTmp2cGVwcm9UZnQtRi1pUDRQNnNSd9IBVEFVX3lxTE02QkR0UEtIeW44a21LNGtrMElmMU1mV2VqWnVjWlR0ODZqMDR4VDZfaXA5X0NTNjZwRzh6QTY5QVZETmowU3ExVWdwR2hYSnA4bTgzQg?oc=5",
+            "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxOTnQ2S1hockY1TmVCTHBJcnNQbU5XQUNMRkZqQjhDVVpteTQzQjdZMVhnQTdFZm96LTZDVnpEdlo0SXNVWlVoZzZwOUF0R3Y1OTVaTU9PczdyRUJsb2FaWTJJVHYxaHk2Zi1lWlhQYng2YWtUQzdoSHlQY0o3TEkwQXRITm1ObkhX?oc=5",
             "category": "IT_Biz",
-            "published": "2026-02-03T21:23:34.853346"
+            "published": "2026-02-04T21:24:01.576749"
+        }
+    ],
+    "Economy": [
+        {
+            "title": "다주택자, 부동산 시장 ‘태풍의 핵’이 되다 - KBS 뉴스",
+            "points": [
+                "부동산 시장의 주요 변동 요인인 다주택자 관련 정책 및 시장 동향을 다루는 거시 경제 뉴스입니다.",
+                "정부의 부동산 정책 변화(세금, 대출 규제 등)가 주택 시장 전반의 가격 변동, 거래량, 양극화 심화 등 광범위한 경제적 파급 효과를 가져올 수 있습니다."
+            ],
+            "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE5yZGFyMDM1d3VLS2t3amdSd0J2NmQydEF6bmQ2VXNPb0pvUFRlYVlmaXN3N1Jfc1ltT3dtQ2pueDUyZ1J4S0ItNlhQZ2tNaHNLOGlLT2ZpclI2Qm8?oc=5",
+            "category": "Economy",
+            "published": "2026-02-04T21:24:36.749090"
+        },
+        {
+            "title": "[단독]‘쉬었음’ 청년 작년 71만명… 대졸 등 고학력 이상이 절반, 3년새 9%P 늘어 - 동아일보",
+            "points": [
+                "청년층의 경제활동 참여 감소 및 고학력자의 비경제활동인구 증가 현상을 다루는 중요한 사회경제적 지표 뉴스입니다.",
+                "노동 시장의 구조적 문제와 미래 경제 성장 동력 약화 가능성을 시사하며, 정부의 청년 고용 및 교육 정책 방향에 중대한 영향을 미칠 수 있습니다."
+            ],
+            "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTE5EMUNNOGJIX2VrVGt3VFZBNXBPVHVTTWdVMGl3Y1NZRFRRb0J1cEZDUkg1RVRMZW5fMkFJUnRpMHg0YXVST2lJMzNvU24yTW9rVWxLdjB3VDBaOGhRaDZKUXNaelBCSlZKRlo4a195RHFOVnh6dmfSAWZBVV95cUxOLTFpeWdZYmNNeUZxUk5TWk5BWmlIUzQwbDNrV3hsakF6VmZaYWhlZl9vUVVDZlBRelAtU2NTb2Z4dXBtTmVwOTFabE8tVGtfNDZYMzdkMC04WmRwS25jTldCRFFIV1E?oc=5",
+            "category": "Economy",
+            "published": "2026-02-04T21:24:36.749097"
+        },
+        {
+            "title": "[AI픽] 국산 AI 반도체 공공 분야서 판로 확보 물꼬 튼다 - 연합뉴스",
+            "points": [
+                "국산 AI 반도체가 공공 분야에서 시장을 확대하는 중요한 정책적, 산업적 소식으로, 국내 AI 기술 자립 및 산업 생태계 강화에 기여합니다.",
+                "정부의 공공 조달을 통한 초기 시장 형성 및 AI 인프라 구축 가속화는 관련 산업의 성장 동력을 확보하고 기술 경쟁력을 높이는 계기가 됩니다."
+            ],
+            "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE1uSEpuSXA2X0JncFVNbURHbXhPc2drLTJTN0FiVTVqLXdnRFFyZWhTTER1OVAzSG1fUTF5Mk9wTF81bGV2Rk9yMUk1ZFpEWW9Ibl9QN21hLVFzcUnSAWBBVV95cUxQWFRyWXp5N0R1YV9hejNGXzg1VGlCUEF4b2VOVWEwcUN1U1YwdUxiVDRjeGRNeGRMNVEzTkFoR1AwblR1SS1IZEFFbjZPTktHNE1INzd6d0lPWTJxTnduNmo?oc=5",
+            "category": "Economy",
+            "published": "2026-02-04T21:24:36.749098"
+        },
+        {
+            "title": "FKCCI 규제 업데이트 - 한국, AI 규제 분야에서 세계 최초의 이정표 수립 - Chambre de Commerce et d'Industrie franco-coréenne",
+            "points": [
+                "한국이 AI 규제 분야에서 세계 최초의 이정표를 수립했다는 소식으로, 글로벌 AI 산업의 윤리적, 법적 프레임워크 형성에 선도적인 영향을 미칩니다.",
+                "AI 기술 개발 및 상용화에 대한 새로운 기준을 제시하며, 관련 기업들의 전략 수립과 국제적인 AI 거버넌스 논의에 중대한 변화를 가져올 수 있습니다."
+            ],
+            "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxPdEcxTHlJU2RkVXRNUjVNb2tYbWtYOThnX0xkVEZ6aVpjajN3ZmFxcjJEOTd5cHJQeDRaZEEycFpDUTNQU0U5Qi1uZ2g1SlBXZ1h3cGVaVUxIaFc3REZFZWMwQzE1SkdWLVNkdnpGVGpNNjdrLXh0aTZCOHBIR3RXallEeml3S2h3M0w2OGFvUjRaWENPSmJ1dWppdWZ1WG54Z0l5RHh3cWNqekxaUVlCejNZUUlEdw?oc=5",
+            "category": "Economy",
+            "published": "2026-02-04T21:24:36.749099"
+        },
+        {
+            "title": "스페이스X 업은 xAI, AI 챗봇 판도 흔드나 - 마켓인",
+            "points": [
+                "일론 머스크의 xAI가 스페이스X의 지원을 받아 AI 챗봇 시장에 진출하며 기존 판도를 흔들 수 있다는 소식으로, AI 산업의 경쟁 구도와 기술 혁신에 큰 영향을 미칠 수 있습니다.",
+                "거대 자본과 기술력이 결합된 새로운 플레이어의 등장은 AI 서비스의 발전 방향과 시장 점유율에 중대한 변화를 가져올 잠재력을 가집니다."
+            ],
+            "link": "https://news.google.com/rss/articles/CBMic0FVX3lxTE1RZGh4cmRqaHh6c1Z4LS1FUkFqREl2MnFRRmJwZDFkVnViREdBeEY5d19WSFlJSlJxSFF4emhBcDRHNlBabmFqdXQxaXphR29OUXRqNUZFU204ZEdGblFLUTRpbDZCcURITUlib3NjRk1tWDQ?oc=5",
+            "category": "Economy",
+            "published": "2026-02-04T21:24:36.749100"
+        }
+    ],
+    "World": [
+        {
+            "title": "‘핵무기 족쇄’ 사라졌다…미·러 핵군축조약 ‘뉴스타트’, 5일 종료 - 한겨레",
+            "points": [
+                "이 뉴스는 미국과 러시아 간의 마지막 핵군축 조약인 뉴스타트의 종료를 다루며, 이는 세계 안보 질서에 중대한 변화를 가져올 수 있는 핵심적인 소식입니다.",
+                "조약 종료는 양국 간의 핵무기 경쟁 재발 가능성을 높이고, 국제적인 핵 확산 통제 노력에 부정적인 영향을 미쳐 전 세계적인 군사적 긴장을 고조시킬 수 있습니다."
+            ],
+            "link": "https://news.google.com/rss/articles/CBMiggFBVV95cUxOdFdMcFJSNThySGNiU01KalVFX0tacVc0WUpNZTZ3TTkyLUlCV24ya3dOeVpjbU9jNlFMRUtmbjNNaG9wdFRlRVBCZDkzVFdxeGo2YnU2NU03MjFNTE93S0ZSSTg0M00tVGZnUkZhTHpSLVUxcFRTUEZSR3dLLTB3cE9n?oc=5",
+            "category": "World",
+            "published": "2026-02-04T21:25:08.333482"
+        },
+        {
+            "title": "영하 20도인데…러, 종전협상 하루 앞 우크라 에너지시설 공습 재개 - 한겨레",
+            "points": [
+                "러시아가 종전 협상을 앞두고 우크라이나 에너지 시설에 대한 공습을 재개한 것은 전쟁의 장기화와 인도주의적 위기 심화를 예고하는 매우 비중 있는 소식입니다.",
+                "에너지 시설 공격은 우크라이나 민간인에게 치명적인 영향을 미치고, 유럽의 에너지 안보를 위협하며, 국제사회의 러시아 제재 및 외교적 노력에 큰 영향을 미칩니다."
+            ],
+            "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTE5KMGVaNzEtelB5alBQMGNjSDZXLWUyMl9WUFZPakFrOC1ibmstV3ByT0RUR3RYbF9Zb1loTTRMWGlTVFlGcXJBVExtQ3NzWVdWOFVOLWdrOHdjUFhMOGw2amVFeHZlaEhEcU1vLXFB?oc=5",
+            "category": "World",
+            "published": "2026-02-04T21:25:08.333489"
+        },
+        {
+            "title": "나토 \"종전 즉시 우크라이나에 병력 전개\" - 대경일보",
+            "points": [
+                "나토(NATO)가 우크라이나 전쟁 종전 즉시 병력 전개를 시사한 것은 유럽 안보 지형에 근본적인 변화를 가져올 수 있는 매우 중요한 군사적, 외교적 발표입니다.",
+                "이는 러시아와 서방 간의 군사적 긴장을 최고조로 끌어올리고, 우크라이나의 전후 재건 및 안보 보장 방식에 대한 국제사회의 논의를 촉발하며, 나토의 역할 확대를 의미합니다."
+            ],
+            "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTFBkRmZsQlJNMkNVcVMtdG02T2JHaFphQjRvTi1CQ1gyd256TWk3dnpyNl9uamdUNGdPS3I3ZEVwRVA4a2N6Z1F1NTFyYmlpcUE3ck5yVjEyV3hDMGJaSzFXLTFtVXF1clRS?oc=5",
+            "category": "World",
+            "published": "2026-02-04T21:25:08.333490"
+        },
+        {
+            "title": "트럼프 \"미국서 석유사라\"…시진핑 \"대만에 무기팔지 말길\" - 연합뉴스TV",
+            "points": [
+                "도널드 트럼프 전 미국 대통령과 시진핑 중국 국가주석의 발언은 각각 글로벌 에너지 시장과 대만 해협의 지정학적 긴장에 직접적인 영향을 미치는 최고위급 정책 시사입니다.",
+                "트럼프의 발언은 국제 유가 및 에너지 공급망에 변화를 줄 수 있으며, 시진핑의 대만 관련 발언은 미중 관계와 동아시아 안보에 심각한 파장을 일으킬 수 있습니다."
+            ],
+            "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTFBOa2RxMTZOSUxQN2VURVB4ZGFndTF4OE1nTk9ZanQ5XzNtZjBHeHVQbGdjbjg5bzBMQnA1dXRJcW9HSlBVVWthTnZTM1FwVEdQYU1xcTdiWVltQXpwUzIwelFqSExsamM?oc=5",
+            "category": "World",
+            "published": "2026-02-04T21:25:08.333491"
+        },
+        {
+            "title": "러 돈줄 끊고 中 견제…'트럼프판 오일로드'로 세계질서 흔든다 - 한국경제",
+            "points": [
+                "이 기사는 트럼프 전 대통령의 잠재적 '오일로드' 구상이 러시아와 중국을 견제하고 세계 에너지 및 경제 질서를 재편하려는 미국의 전략적 움직임을 분석하는 중요한 내용입니다.",
+                "이러한 정책은 글로벌 에너지 시장의 판도를 바꾸고, 주요 강대국 간의 경제적, 지정학적 경쟁을 심화시키며, 새로운 국제 동맹 관계 형성에도 영향을 미칠 수 있습니다."
+            ],
+            "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE5Lbnd1aWZaRl8wR2VmekY0czhOQWpjYzVzeUhaX0FLNTlCdmYxYlktS2kzbDFGbnB2dmFXT0dNRlNadWdxdmZwZk5NclhnbkNRVVhwYklBUTRmd9IBVEFVX3lxTE11SlRiWEtvbnl4Q3VrZTA0N3ZDdHNTWVdkNGt0TzFIaVBDZVJ0elVzNXdKOEF0SVhlbThhNkExWk9sc0pMUXMyYjVxbmJIaTBJVktfRw?oc=5",
+            "category": "World",
+            "published": "2026-02-04T21:25:08.333492"
         }
     ]
 }
