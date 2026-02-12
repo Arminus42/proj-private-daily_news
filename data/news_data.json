@@ -1,210 +1,210 @@
 {
     "AI_Tech": [
         {
-            "title": "SKT·크래프톤, 독자 AI 파운데이션 모델 개발 인턴 모집… LLM 실전 R&D 참여",
+            "title": "초미세 공정 한계에 다다른 반도체, SK하이닉스의 해법은 'AI'",
             "points": [
-                "이 뉴스는 국내 대표 빅테크 기업인 SKT와 크래프톤이 자체적인 AI 파운데이션 모델(거대 언어 모델, LLM) 개발에 나선다는 점에서 매우 중요합니다. 이는 글로벌 AI 기술 경쟁의 핵심인 '초거대 AI' 분야에 국내 기업들이 본격적으로 뛰어든다는 신호탄입니다.",
-                "파운데이션 모델은 마치 AI의 '뇌'와 같아서, 이 모델을 잘 만들면 다양한 AI 서비스와 애플리케이션을 효율적으로 개발할 수 있습니다. 이번 R&D 참여는 한국어 기반의 고성능 AI 모델 개발을 가속화하여, 글로벌 AI 시장에서 국내 기술의 경쟁력을 높이는 데 기여할 것입니다."
+                "SK하이닉스는 세계적인 반도체 제조 기업으로, AI 기술을 통해 반도체 산업의 핵심 난제를 해결하려는 시도는 글로벌 기술 트렌드를 선도하는 중요한 움직임입니다.",
+                "반도체 미세화 공정의 물리적 한계에 직면하면서 생산 효율성과 수율 개선이 어려워지고 있습니다. SK하이닉스가 AI를 활용해 이 문제를 해결하려는 것은, AI가 단순한 소프트웨어 영역을 넘어 하드웨어 제조 공정 혁신에 필수적인 도구임을 보여주는 기술적 돌파구입니다. 이는 반도체 생산 비용 절감과 성능 향상에 직접적인 영향을 미쳐 글로벌 IT 산업 전반에 파급 효과를 가져올 것입니다."
             ],
-            "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE1BX1E5Mk5tQzBuYWhHM0pCR2JtZG5fQWZPb0J2OGMzdVFQendHTExQV3JsWW5INWhmWERGOUM4NS1fZXJFaE41ZDlrSDFOSWNzV0xZVE43RVdVME1pZUplTmhHb0NjdXc?oc=5",
+            "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE14U3ktNEVGeTRfUndjWlRCMEEtV0lDMlR6ZWpEZ2tPMm1BMXdRS0ZJN3JMSlhDdWlGOHNmT2NlRzllT2xnbEQ3cHJKUzhQanJlcTczblAyOHRsdzkxbXBv?oc=5",
             "category": "AI_Tech",
-            "published": "2026-02-11T21:24:10.509953"
+            "published": "2026-02-12T21:22:30.853562"
         },
         {
-            "title": "엔씨AI, `K-피지컬 AI 얼라이언스’ 컨소시엄 구성…53개 기관 참여",
+            "title": "PFCT, 서울대 컴퓨터공학 연구팀과 AI 신용평가 공동 연구 성과 공개",
             "points": [
-                "엔씨소프트의 AI 연구 조직인 엔씨AI가 53개 기관과 함께 'K-피지컬 AI 얼라이언스'를 결성한 것은 국내 AI 기술이 단순 소프트웨어를 넘어 '현실 세계와 상호작용하는 AI'로 확장되고 있음을 보여주는 중요한 소식입니다. 이는 로봇, 자율주행 등 물리적 세계에서 작동하는 AI, 즉 '몸을 가진 AI' 분야의 국내 연구 및 개발을 가속화할 것입니다.",
-                "피지컬 AI는 AI가 가상 공간을 넘어 실제 환경에서 보고, 듣고, 움직이며 문제를 해결하는 능력을 의미합니다. 이 컨소시엄은 한국이 이 분야에서 글로벌 경쟁력을 확보하고, 미래 산업의 핵심 동력을 마련하는 데 중요한 역할을 할 것으로 기대됩니다."
+                "서울대학교 컴퓨터공학 연구팀은 국내 최고 수준의 연구 역량을 보유하고 있으며, 이들과의 공동 연구 성과 공개는 학계와 산업계의 중요한 협력 사례입니다. AI 기반 신용평가는 금융 분야의 혁신을 이끌 핵심 기술로 주목받고 있습니다.",
+                "기존 신용평가 방식은 데이터 부족이나 복잡한 비정형 데이터 처리의 한계가 있었습니다. AI 기반 신용평가는 방대한 데이터를 분석하여 더 정확하고 공정한 평가를 가능하게 하며, 금융 소외 계층에게도 기회를 제공할 수 있습니다. 이는 금융 시장의 투명성과 효율성을 높이고, 새로운 금융 상품 및 서비스 개발을 촉진하는 중요한 기술적 진전입니다."
             ],
-            "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE5rNzViRzZiY0ZPek4wME9kdDFKS1BGNXdCNEI3RzctYW5QWFU4c1MzeGhiNFF5X2NoQmVwOTdMVlpxM3hYVnpHM0k0d0FDZGpwRzhSQ2ZhXzM5Nk9fa05BWU1BVUQ?oc=5",
+            "link": "https://news.google.com/rss/articles/CBMic0FVX3lxTE9heVJkT1lMakh2eGQzNm0xZWZ5OFJqai02RTVIM1UzdHpsUmY1NUpNT3hKVjJtSVptcjBNWUR6aWpROFdqM1ppdnVXVDdWWjJLdTUzNmtwZVd2NW5CbDZvcTNlNDYzRkthZ3dNVGRCZkc1YTA?oc=5",
             "category": "AI_Tech",
-            "published": "2026-02-11T21:24:10.509960"
+            "published": "2026-02-12T21:22:30.853568"
         },
         {
-            "title": "“가짜뉴스 작성” 한 번에 안전성 붕괴…주요 AI 모델 15개 취약성 드러나",
+            "title": "한국에너지공대, 한국전력과 에너지 인공지능 공동 연구 협약 체결",
             "points": [
-                "이 뉴스는 구글, OpenAI 등 주요 기업의 AI 모델 15개에서 '가짜뉴스 생성'과 같은 유해한 콘텐츠를 쉽게 만들 수 있는 취약점이 발견되었다는 점에서 매우 파급력이 큽니다. 이는 현재 상용화된 AI 모델들의 근본적인 안전성 문제와 윤리적 사용에 대한 경각심을 높이며, AI 기술 발전의 이면을 보여줍니다.",
-                "AI 모델의 안전성 문제는 단순히 기술적 결함을 넘어 사회적 신뢰와 직결됩니다. 이번 발견은 AI 개발자들이 더욱 견고하고 책임감 있는 AI를 만들기 위해 어떤 기술적 보완과 윤리적 가이드라인이 필요한지 고민하게 만드는 중요한 계기가 될 것입니다. 마치 강력한 도구가 오용될 수 있음을 경고하는 것과 같습니다."
+                "한국전력은 국내 최대 공기업이자 에너지 인프라를 총괄하는 핵심 기관이며, 한국에너지공대는 에너지 분야 AI 연구를 선도하는 주요 대학입니다. 이들의 공동 연구 협약은 국가 에너지 시스템의 AI 전환을 위한 중요한 발판을 마련합니다.",
+                "에너지 분야는 효율적인 생산, 송배전, 소비 관리가 필수적입니다. AI는 전력 수요 예측, 발전량 최적화, 설비 고장 진단 등 다양한 영역에서 에너지 효율을 극대화하고 안정적인 공급을 가능하게 합니다. 이 공동 연구는 에너지 시스템의 지능화를 가속화하여 탄소 중립 목표 달성과 에너지 비용 절감에 기여할 기술적, 경제적 파급 효과를 가져올 것입니다."
             ],
-            "link": "https://news.google.com/rss/articles/CBMiugJBVV95cUxNaTM4MjM4dmFtc19qMGNZV3lYcmpqV2M3Y01ZYzNlMGRNd21OUXZ3X3FlSmtqXzlhRHVtMlMxVGswREg4X1g5UDVkY3ptbjFXU1pLZVd0YXFaNUR6Uy1XYXFqSjdzQVU2ZHVob0EwQ0dCbEhOSkdiQTkzNUtTX19qaDRCeWJpZE9vUGlRZF9QQVV1Y1FDckpoQTljREVRVUdNZ2R6OGFaVG1jbjlpZVhDUHVQT2czdHlxQkI0c1pKTjMweDlGaV9qbWtvdG5qZEVucGxQb1AxbmN1cE0wZllfTU82WDFPbE45ZU5acmNwcTFBWVlRbkRxVEJKZjI4eDVqNktPdFM4UV9PSVE2bVRQZ2gydldlbndQMFZ1X3I5d2ZXNGFvcDNmaV9tNWdiX1YwZG5tdU5sOW9XQQ?oc=5",
+            "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE9jY2VXdG9Ub0Z3NXNVMjBuUFQ1c2NtdFVtcXh0YnlaMkFYNzVmcVd3R1dXWVJDb0syUjhhN295VjU0TGVZRHV3YWYxLXdOWllqTXlIdtIBVEFVX3lxTE9jY2VXdG9Ub0Z3NXNVMjBuUFQ1c2NtdFVtcXh0YnlaMkFYNzVmcVd3R1dXWVJDb0syUjhhN295VjU0TGVZRHV3YWYxLXdOWllqTXlIdg?oc=5",
             "category": "AI_Tech",
-            "published": "2026-02-11T21:24:10.509962"
+            "published": "2026-02-12T21:22:30.853569"
         },
         {
-            "title": "AI 최적화 기술 ‘돈벌이 효자’ 됐다...노타 작년 매출 130억 사상 최대",
+            "title": "DGIST, 간송 '미인도'를 생성형 AI로 재해석하여 새로운 예술적 경험 제공",
             "points": [
-                "이 뉴스는 AI 모델을 더 작고, 빠르고, 효율적으로 만드는 'AI 최적화 기술'이 상업적으로 큰 성공을 거두고 있음을 보여줍니다. 이는 AI 기술이 단순히 개발되는 것을 넘어, 실제 제품과 서비스에 적용될 때 얼마나 효율적으로 작동하는지가 중요해지고 있음을 의미하며, AI 상용화의 핵심적인 기술 트렌드입니다.",
-                "AI 최적화 기술은 마치 무거운 트럭을 경차처럼 만들어서 더 적은 연료로 더 빨리 달리게 하는 것과 같습니다. 이 기술은 고성능 컴퓨팅 자원이 부족한 환경에서도 AI를 활용할 수 있게 하여, AI의 대중화와 확산에 필수적인 역할을 합니다."
+                "DGIST(대구경북과학기술원)는 국내 주요 과학기술 연구기관으로, 생성형 AI 기술을 활용한 예술 작품 재해석은 AI의 창의적 활용 가능성을 보여주는 중요한 사례입니다. 이는 기술과 예술의 융합을 통해 새로운 가치를 창출하는 트렌드를 반영합니다.",
+                "생성형 AI는 텍스트, 이미지, 오디오 등 다양한 형태의 콘텐츠를 새롭게 만들어내는 기술입니다. '미인도'를 AI로 재해석하는 것은 AI가 단순히 데이터를 분석하는 것을 넘어, 인간의 창의적 영역에까지 확장될 수 있음을 보여줍니다. 이는 예술, 디자인, 미디어 등 창작 산업 전반에 걸쳐 AI의 활용 가능성을 넓히고, 대중에게 AI 기술을 통한 새로운 문화적 경험을 제공하는 중요한 기술적 시도입니다."
             ],
-            "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTE8wdE9wTVZfb1ZETDhIcDNrNVdhTENQZUVoRTVfYXFKM3dtWWhBcGVMbWxLRlZTZ3RnSVd0YnRQWk5Ua0xBSnZ5MHotYkQ2YzQtMjR2eGxzM3dxUS1iQ1h6S2ZzSUNITmZ0NzE4YUpMd9IBc0FVX3lxTE5PV2dfRV9zUktTajJ1MHhuVmFxVlpMRDF4T3BYLTQxeWdxQmJ1ZURjQ3kwM05HSE12OHFnclNGOVpFMVNmU1p1Nks0MWJ0SkFhQ0VBMm9YN1BqRGQ0R0R0M0pBbkwwei1OdVNhQWlwd3o3bmM?oc=5",
+            "link": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE5ReXBYNkd3MGhDeTloQlUydmFiaGRVYm43eVdhSUVzSS1wbnVYNlNhZl9XNGlEVlNIOGNTRHkwQ3JxcWhjQndFQzhNdFdTdVZVaG9VNklEcmg?oc=5",
             "category": "AI_Tech",
-            "published": "2026-02-11T21:24:10.509963"
+            "published": "2026-02-12T21:22:30.853570"
         },
         {
-            "title": "이종하 바텍 연구소장 \"치과도 '보는 AI'→'에이전트 AI'로…기술로 니즈 만...\"",
+            "title": "KTC, AI 기반 디지털 의료제품의 안전 및 신뢰성 확보 연구 추진",
             "points": [
-                "이 뉴스는 AI 기술의 패러다임이 단순히 정보를 '보고' 인식하는 수준을 넘어, 스스로 판단하고 '행동하는' 에이전트 AI로 진화하고 있음을 시사합니다. 이는 특정 산업(치과)의 사례를 통해 AI가 수동적인 도구를 넘어 능동적인 조력자로 발전하는 글로벌 AI 트렌드를 보여주는 중요한 관점입니다.",
-                "에이전트 AI는 마치 의사가 환자를 진단하고 치료 계획을 세우는 것처럼, AI가 복잡한 목표를 이해하고 여러 단계를 거쳐 자율적으로 문제를 해결하는 능력을 의미합니다. 이러한 AI의 발전은 의료뿐만 아니라 다양한 산업에서 인간의 업무를 보조하고 혁신하는 데 핵심적인 역할을 할 것입니다."
+                "KTC(한국산업기술시험원)는 산업기술 분야의 시험·인증 및 연구개발을 담당하는 공신력 있는 기관입니다. 의료 분야는 인간의 생명과 직결되므로, AI 기반 의료제품의 안전성과 신뢰성을 확보하기 위한 연구는 매우 중요하며, 이는 글로벌 AI 윤리 및 규제 트렌드와도 맞닿아 있습니다.",
+                "AI가 의료 진단, 신약 개발, 맞춤형 치료 등 다양한 의료 분야에 도입되면서 그 효과는 크지만, 오작동이나 오류 발생 시 치명적인 결과를 초래할 수 있습니다. KTC의 연구는 AI 의료제품의 성능 검증, 오작동 방지, 데이터 보안 등 신뢰성 기준을 마련하는 데 중점을 둡니다. 이는 AI 의료기술의 상용화를 가속화하고, 환자 안전을 보장하며, 궁극적으로는 AI 의료 시장의 건전한 성장을 위한 필수적인 기술적, 사회적 기반을 다지는 것입니다."
             ],
-            "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTE1WX081VldkOEFYYmgyUE15Mmt60NkWklfV0lheVQza09JS040MllxY3pDcTBaR1pwODVzRXAyRDZRUGo0VXBPMmRfMFhocmxXYU9NeGtBQjdhMFVQYmVIYkZXeGhodDhybHRrZ0p3?oc=5",
+            "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE15RktpdHhXZjFrSktBZThIaFpIbXNRaUI2bkMzby10b0w2RG8zMFRxTjhNd2U3ck15OTRGQmFNdjNIcUUycUFDcDhHcm11bkFLRWpYVTk3SnNPMTZKT18zT1c0YXhROWw5aVlybm4ySUjSAXRBVV95cUxQTjZKSmRRTWV4T3B3ZlJESFBkMUYxcXF4LUpZRUF1b1lfRGNONmItMGxsaHJJRUF4cUY2dnl5WUg4cmE0SnUyV1oyZmRtZzZuY0xEZks2RWdTZmdFV1lrNnlDSlJkUGR0bDk2Y2tGRnRZQVNVYQ?oc=5",
             "category": "AI_Tech",
-            "published": "2026-02-11T21:24:10.509964"
+            "published": "2026-02-12T21:22:30.853571"
         }
     ],
     "IT_Biz": [
         {
-            "title": "밤 7시 오픈AI 본사 식당엔 긴 줄... ‘코드 레드’에 밤낮없이 일한다 - 조선일보",
+            "title": "[속보] 가상화폐 \"자금인출 전면금지\"....파이낸셜타임스(FT)",
             "points": [
-                "인공지능(AI) 분야의 선두 주자인 오픈AI의 '코드 레드' 상황은 중대한 기술적 돌파 또는 위기 상황이 임박했음을 시사합니다.",
-                "이는 AI 산업 전반의 판도 변화를 예고하며, 차세대 AI 서비스 및 기술 개발 방향에 큰 영향을 미 미칠 수 있는 핵심적인 동향입니다."
+                "글로벌 주요 금융 미디어인 파이낸셜타임스(FT)에서 보도한 가상화폐 자금 인출 전면 금지 소식은 암호화폐 시장에 심각한 위기 상황을 알리는 중대 보도입니다.",
+                "이는 가상화폐 거래소의 유동성 문제 또는 규제 당국의 강력한 개입을 시사하며, 투자자 신뢰 하락과 시장 전반의 대규모 자금 이탈을 초래할 수 있는 핵심 경제적 변화 포인트입니다."
             ],
-            "link": "https://news.google.com/rss/articles/CBMigwFBVV95cUxNdDU1ODY2d2hrWU5iRFhPZHphbEh3bkJlaDBkRGhKN1NEdWRVcWcxMl96dUxhcVR4cE1FR0lsSGo0RHpIYU9tNWJDdDZ6cHkycjdoUTd2cWNCWWpvMTlQMjF5TFJ5X2VBUlBiNmw5Y3ZTQ0lKR1JXdFYwMGtScTZLbWMxTdIBlwFBVV95cUxPb1pkb09LN3JjQXEwWkRsNmp6Ylczek1SalJXUHYwODFwX2JBNHZ1VUlfUjhrRGNiTHVCamZqTFlOM3Zaem1wTDU1b1JDSndHYkk0RWZNc3lCNUUwUFhZa0RoM28weEg1TlJPcEhrakg1WGQ4VWdMaEJjTjQ1V3VKMGRzTmpVSG9lcUthUERrQ3NtanhNbmdZ?oc=5",
+            "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPREZzWmJRb3NsMzFwVzlEQ2YyQk11UzRqODdueFZBWER6X2YzbTFFeUJqalNVei0xLUdiSGQ1SmExTEFCQUpNVnZQbzBYUG1GaFVMdHR0cXR6TDEzMlVwSHVWYWJLTl9TQzliMEFrTFd2QTNjNFpCUFR3RmdZZnh2Ym1VRmpyVTMy?oc=5",
             "category": "IT_Biz",
-            "published": "2026-02-11T21:24:38.325475"
+            "published": "2026-02-12T21:23:04.477062"
         },
         {
-            "title": "삼성, 26일 샌프란서 갤럭시 S26 출격 - 조선일보",
+            "title": "미국 고용 예상밖 폭발 \"연준 FOMC 금리인하 전면재조정\" ... 뉴욕증시 · 비트코인 와르르 급락",
             "points": [
-                "삼성전자의 플래그십 스마트폰 '갤럭시 S26' 출시는 글로벌 모바일 시장의 트렌드를 주도하고, 경쟁사들의 전략에 영향을 미치는 대규모 신제품 발표입니다.",
-                "새로운 하드웨어 및 소프트웨어 혁신, 특히 AI 기능 강화가 예상되며, 이는 스마트폰 시장의 기술적 변화와 소비자 경험에 중대한 영향을 미칠 것입니다."
+                "예상치를 뛰어넘는 미국 고용 지표는 연방준비제도(Fed)의 금리 인하 정책에 대한 기대를 크게 흔들며, 글로벌 금융 시장의 주요 변동성을 야기하는 메이저한 경제 뉴스입니다.",
+                "이러한 거시 경제 지표 변화는 뉴욕 증시와 비트코인 등 위험 자산의 급락을 직접적으로 초래하여 IT 및 금융 시장 전반의 투자 심리와 자금 흐름에 막대한 영향을 미치는 핵심 경제적 변화 포인트입니다."
             ],
-            "link": "https://news.google.com/rss/articles/CBMigwFBVV95cUxQaTc2SjhjZEdoV3B0bGxEUS16d2xsQTZPdGZNWlo4Q0JOeW9meEdxMXBMSUFLcHNkTDBCbTFXMTlyeXVWQ25GWWVvZEI3TXhJYWZQcVlHMUlPNWxPTHg3NWotMS1UanZZWVdjVE4tSF9CWXo0Ulc0UklGS04xZjhhcjRZVdIBlwFBVV95cUxObDA1TVpHV2tQZ3FEN0VnWkZ3cUkzampzcTU1Wk93aU1WWUZJckRaUERxalJZV1pEMGZ2OEdQVlhIUTdGUmtmcF9hWGhzNkVvR08wYTYySXZxS040SlRHd1JQNU8wTjZuNDF6Q2dvWUV1a194cWdzTjBNZkJsZzVrMGtkemU5YmpXX3NaRmd3VXdoY0pJWEpr?oc=5",
+            "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPU3BjNlgwbkhtVUlpOUQzMTN2ODZ2MEx6U2NRMEFlNHpEb3dTVGlMNFFJbUY3bkRxdmFVU0Q0Wlo0YXlzbzhQZExyRldrTjQxeGt2dkk3Sl9hc2JqQS1ZbFozT0g5MU56LXhZSFg3d2RfNzdTa0swQzZCWERDek9GRG9UR29RV3p5?oc=5",
             "category": "IT_Biz",
-            "published": "2026-02-11T21:24:38.325483"
+            "published": "2026-02-12T21:23:04.477068"
         },
         {
-            "title": "\"러 암호화폐 통로 완전히 끊는다\" EU, 전면 거래 전면 금지 '초강수' - v.daum.net",
+            "title": "CPU 하나에 전력 700W ‘비명’… 인텔 1.4나노 공정, ‘자기 발열’에 사활 걸렸다",
             "points": [
-                "유럽연합(EU)의 러시아 대상 암호화폐 전면 거래 금지 조치는 국제 제재의 일환으로, 암호화폐 시장의 규제 환경과 지정학적 리스크에 대한 인식을 크게 변화시킬 수 있는 정책적 결정입니다.",
-                "이는 글로벌 암호화폐 시장의 유동성, 거래 방식, 그리고 규제 준수 요구 사항에 중대한 경제적 영향을 미칠 것입니다."
+                "인텔의 차세대 1.4나노 공정 CPU 개발 과정에서 발생하는 심각한 전력 소모 및 발열 문제는 반도체 산업의 미래 기술 혁신에 중대한 도전 과제를 제시하는 메이저한 소식입니다.",
+                "이는 미세 공정 한계와 물리적 제약을 극복하기 위한 새로운 냉각 기술 및 아키텍처 혁신이 필수적임을 보여주며, 향후 고성능 컴퓨팅 및 데이터센터 산업의 발전 방향을 결정할 핵심 기술적 변화 포인트입니다."
             ],
-            "link": "https://news.google.com/rss/articles/CBMiRkFVX3lxTE5RV2liMUwzelZFM0lJV0ZVdWNyTGY1VkVGTW5rcDZmeHhzbmMxc2tFTHJGUlYyVkp0aDF4WGxfbEo1Vno3WHc?oc=5",
+            "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxQSGZKaHJnZUs1NDRLbjl3RThacHZzV1FpSDI3TkhOd3UzUEU4SkFYU0FVUTVQUk1sZVUtaE9tSjNQX0htbm9Fclo0U2VuRmF4blZ1M0RWSUtkMkxBa3NrOTZneEp1c0RSRTlzOG9TQlE4eXE4Vl9oU2JZTTMtSG5VU29Eb3oxRlgx?oc=5",
             "category": "IT_Biz",
-            "published": "2026-02-11T21:24:38.325484"
+            "published": "2026-02-12T21:23:04.477069"
         },
         {
-            "title": "CPU 하나에 전력 700W ‘비명’… 인텔 1.4나노 공정, ‘자기 발열’에 사활 걸렸다 - 글로벌이코노믹",
+            "title": "구글 손잡은 카카오...뭘 하려는 걸까",
             "points": [
-                "인텔의 1.4나노 공정에서 발생하는 전력 소모 및 발열 문제는 차세대 반도체 기술의 한계를 보여주며, 컴퓨팅 성능 향상을 위한 근본적인 기술적 난제를 제시합니다.",
-                "이는 반도체 산업의 미래 발전 방향, 공정 기술 투자 전략, 그리고 고성능 컴퓨팅 및 AI 칩 개발에 큰 영향을 미치는 핵심 기술적 변화 포인트입니다."
+                "글로벌 IT 공룡 구글과 국내 대표 플랫폼 기업 카카오의 전략적 제휴는 양사의 사업 확장 및 신규 서비스 창출 가능성을 시사하는 메이저한 비즈니스 뉴스입니다.",
+                "이번 협력은 인공지능, 클라우드, 콘텐츠 등 다양한 분야에서 시너지를 창출하여 국내외 플랫폼 시장의 경쟁 구도와 서비스 생태계에 큰 변화를 가져올 핵심 경제적 변화 포인트입니다."
             ],
-            "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxQSGZKaHJnZUs1NDRLbjl3RThacHZzV1FpSDI3bkhOd3UzUEU4SkFYU0FVUTVQUk1sZVUtaE9tSjNQX0htbm9Fclo0U2VuRmF4blZ1M0RWSUtkMkxBa3NrOTZneEp1c0RSRTlzOG9TQlE4eXE4Vl9oU2JZTTMtSG5VU29Eb3oxRlgx?oc=5",
+            "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTFBtdjRfZTU4bkdvY1VXTUNnX2ZCY19IY1V1ZldWRHVDd3VlWmJpVXRIdFRVbXZOcWVibVFaSXhXT0VOd2RzdTlIaWpiWG12Q3Z6eHl4NTJn?oc=5",
             "category": "IT_Biz",
-            "published": "2026-02-11T21:24:38.325485"
+            "published": "2026-02-12T21:23:04.477070"
         },
         {
-            "title": "마이크론, 엔비디아 HBM4 ‘초기 공급’ 실패설… 한미반도체, TC본더 사업 영향은 지켜봐야 - 조선비즈 - Chosunbiz",
+            "title": "“원전업계 숙원 풀렸다” SMR 특별법 통과",
             "points": [
-                "마이크론의 엔비디아 HBM4(고대역폭 메모리) 초기 공급 실패설은 인공지능(AI) 반도체 핵심 부품의 공급망 불안정성을 드러내는 중대한 소식입니다.",
-                "이는 엔비디아, 마이크론 등 주요 반도체 기업의 전략과 AI 산업 전반의 발전에 영향을 미칠 수 있는 기술 및 공급망 이슈이며, 관련 장비 업체인 한미반도체 등에도 경제적 파급 효과가 예상됩니다."
+                "소형모듈원전(SMR) 특별법 통과는 차세대 원전 기술 개발 및 상용화를 위한 제도적 기반을 마련하며, 에너지 산업 및 관련 기술 분야에 대규모 투자와 혁신을 촉진할 메이저한 정책 변화입니다.",
+                "이는 국내외 SMR 시장 선점 경쟁을 가속화하고, 탄소 중립 목표 달성에 기여하며, 관련 산업 생태계 전반에 걸쳐 새로운 비즈니스 기회를 창출할 핵심 경제적/기술적 변화 포인트입니다."
             ],
-            "link": "https://news.google.com/rss/articles/CBMiggFBVV95cUxNcW9xck9ZOGMxSjdxUmw4QVpqOWxnU21BWjJZMERuYmFHdjlfc1RqVEVCRkR3dWcycTN6VzRnV0ZEMkJaTG1zRjd0RGZqTl83NkRiV1RBRzlxV3d2QUhqTklEazB6RFVQbjBfam1QMWRQQWk4WW9WTGdDZ21vMTlRcTV30gGWAUFVX3lxTE5wWFMybWNBZ2QtU1FJUnBZQXAzRXFCYkNlaVE3UEROV2VCZzAxd1U5Q0wtN1hDR3ZmVENpWm01aW4ySjFTVkpjazZGR1ZiNmlucXAxRHYtSkhBX201bVprVGU4a2hvM0FBcjdjYU9xajV3MHZMSmtVSHBTc2w3X3hXSUlkXzdzOVJuQkVwMjI3Qmxmclg5dw?oc=5",
+            "link": "https://news.google.com/rss/articles/CBMigwFBVV95cUxNRF9ZNU9hWGs4NmdhWG1FV1JZRDlVRGVIbWZSU3lrT3FTcy1ISHQtbkJoTHB1TndRbUJRd0JlZDFBUWRrdlBJeUNRLUhoUVpEdnJtTkx3RUxZNk5ibHVjOTRzb3Z2b3VRY3I5TkdtTFdta2prRXZCRGpMNjdQZHU1V3huTdIBlwFBVV95cUxOTG53N1RnaFVxQzBWUjJFUUp1YmY4dTNrR2d4aVd1a0N6UE42U1JQN3hyQ0ZDNHdPODdCTThPbW80T3MyN0NGUXVnT1BDMDZHaDBzWlRRNm94MFFwaXFGMGpmamtOT1QzaWJJVHNSYzhYZHZ1ZzBfRjVkMEJwZG1pWXdjRExMRjRtbjcyUG5rRGoxV3NTdWRz?oc=5",
             "category": "IT_Biz",
-            "published": "2026-02-11T21:24:38.325486"
+            "published": "2026-02-12T21:23:04.477071"
         }
     ],
     "Economy": [
         {
-            "title": "반도체 전시회서 만난 삼성전자·SK하이닉스…“HBM4 기술 우리가 주도할 것” - v.daum.net",
+            "title": "TSMC, 한 분기에 65조 원 '역대급' 투자 승인…AI 반도체 공급망, 미국으로 대이동 - 글로벌이코노믹",
             "points": [
-                "글로벌 반도체 선두 기업인 삼성전자와 SK하이닉스가 차세대 고대역폭 메모리(HBM4) 기술 주도권을 선언한 것은 인공지능(AI) 시대 핵심 기술 경쟁의 서막을 알리는 중대한 소식입니다.",
-                "HBM4 기술 선점은 AI 칩 성능과 효율을 결정하며, 이는 전 세계 IT 산업의 판도를 바꿀 기술적 변화이자 국가 경제 경쟁력에 직결되는 핵심 포인트입니다."
+                "세계 최대 파운드리 기업 TSMC의 대규모 투자 결정은 글로벌 AI 반도체 생산 및 공급망 재편에 결정적인 영향을 미칠 것임.",
+                "미국 중심의 반도체 산업 재편 움직임이 가속화되며, 이는 기술 패권 경쟁과 국가별 경제 전략에 중대한 변화를 야기할 수 있음."
             ],
-            "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE5RNjRabkFKQUpMMGxIU2g4eTRSd3p3elk2RFZvVnRvYW5ILUNYcm9uN1gwcnUyVW95R0ptbnQ1NU1HdTR6aWtiaGdWanplcmM?oc=5",
+            "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxOSnRfVktjc1QtZXFlaFU0b2lHTUctbHNzN2UxSjRaNTh3YTVrMHlTMUw5eDlIbFVfZTVYYWxVS09TUXNUWWlZTWRjd3UwZFI3Q2hac3FONGFmUjVoZWY3cVItVWtCdWZiZWp6VzNucXZ6QmdoeHAtTDE3UW5RVTlOT1lsSk9GYzJj?oc=5",
             "category": "Economy",
-            "published": "2026-02-11T21:25:03.779890"
+            "published": "2026-02-12T21:23:36.430597"
         },
         {
-            "title": "K-의료기기 육성위한 통 큰 투자… 예산 지속성 관건 - 히트뉴스",
+            "title": "삼성전자의 반격… ‘최고 성능’ HBM4 세계 첫 양산 - 조선일보",
             "points": [
-                "정부가 K-의료기기 산업 육성을 위해 대규모 투자를 단행하는 것은 국가 차원의 전략 산업 육성 의지를 보여주는 중요한 정책 변화입니다.",
-                "이 투자는 국내 의료기기 기술 혁신과 글로벌 경쟁력 강화에 기여하며, 관련 기업들의 성장과 수출 증대에 직접적인 경제적 영향을 미칠 것입니다."
+                "삼성전자가 차세대 고대역폭 메모리(HBM4)를 세계 최초로 양산하며 AI 반도체 시장에서의 기술 리더십과 주도권 경쟁을 강화함.",
+                "이는 인공지능, 고성능 컴퓨팅 등 미래 핵심 산업의 발전을 가속화하고 글로벌 반도체 공급망에 중요한 변화를 가져올 혁신적인 기술 발전임."
             ],
-            "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTFBxNDAxT1VtSXVZN2xnM1pjUngwNVVlVl9zX0pJZlNYa3FTc2xKWVdrUlJiSE40dExfbzhlbmhnRFNYcEhBbmY5amFiOUxuVmZuVWVoWE9URFc4Ykh0ZHkzT3lLWmltb1NBMEd3?oc=5",
+            "link": "https://news.google.com/rss/articles/CBMigwFBVV95cUxQUzBQU1Q0YjVOQktyNTJ3aFpna1hOSkhEdUhyTlFnQmhvbnlHT1N6QjlkOHdPRGo2Um14M2JSWlRYZi1tX2ZhREpKNE42TGpSTTBvQngwMGRjWDY2S25EVUlFdlNOR09ZQk9MdjdSRENpYXoxU1FfOGtydXluX0ppQTNXMNIBlwFBVV95cUxMajBPMkJ0OFZWNl9xZklfQ0hJbEpKQnprZ2JfMUlLN0xjMnNQMzFCTGRMT1JwcEhTUEdUYnUweWtPZDhrenB5ZHdXX05ja0w4UTB1TXFmV2lnRXczNUhxTmdSUzlScFp4RDg4dWMxWlpsMmJwTTk1WFhPZWJRRlNvZnR1dXQwa0FlQjR4Q2JURFQyb2FpV3Rz?oc=5",
             "category": "Economy",
-            "published": "2026-02-11T21:25:03.779898"
+            "published": "2026-02-12T21:23:36.430602"
         },
         {
-            "title": "政, 다국적사들과 'K-바이오파마 넥스트 브리지' 런칭 - 메디칼업저버",
+            "title": "“전세 낀 매매 한시적 허용”…다주택자 양도세 중과 4년만 부활 - KBS 뉴스",
             "points": [
-                "정부가 다국적 제약사들과 협력하여 'K-바이오파마 넥스트 브리지'를 런칭하는 것은 국내 바이오파마 산업의 글로벌 경쟁력을 강화하기 위한 대규모 국제 협력 및 투자 유치 정책입니다.",
-                "이 프로젝트는 국내 바이오 기업들의 기술 개발 및 해외 시장 진출을 가속화하고, 글로벌 신약 개발 생태계에 한국의 위상을 높이는 중요한 경제적, 기술적 변화를 가져올 것입니다."
+                "다주택자 양도세 중과 정책의 부활은 국내 부동산 시장의 거래량, 가격 변동성 및 투자 심리에 광범위한 영향을 미칠 주요 정책 변화임.",
+                "'전세 낀 매매'의 한시적 허용은 특정 유형의 주택 거래를 활성화하거나 시장의 급격한 경색을 완화하려는 정부의 시도로 해석될 수 있음."
             ],
-            "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTFBBRnh1azJpWVVaQXd5WlV4cEdmcEc4Z2NaZHZWSnJnNXhrVzZhN0R4dWFTS3dfZEpFTlFTTTA5UnhuWElYc0lueU5MeUVTVjRkb0huUmhQaHpoYTluNDk5N1lqbllYX0xtWkEw?oc=5",
+            "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE1IeTdBUjFaU000RnoyV2d1cHFpT0ZEYVdzOFJfMFAyNHM3ZmpBd1F6VVpOSUE2dEo3aS1fSmlNb0FwaVE4ZTktY2VyY1U3OFJfZDVTVHlKTHJCTUE?oc=5",
             "category": "Economy",
-            "published": "2026-02-11T21:25:03.779899"
+            "published": "2026-02-12T21:23:36.430603"
         },
         {
-            "title": "“탄소국경조정제도 대응 기업 지원 강화된다” - 에너지데일리",
+            "title": "주병기 위원장 \"생활물가 흔든 구조적 카르텔\"...설탕 담합에 4083억 철퇴 - 오마이뉴스",
             "points": [
-                "탄소국경조정제도(CBAM)는 전 세계 무역 및 산업 구조에 큰 영향을 미치는 주요 환경 정책으로, 이에 대한 정부의 기업 지원 강화는 국내 산업의 경쟁력 유지와 전환을 위한 필수적인 정책 변화입니다.",
-                "이는 수출 중심의 국내 기업들이 새로운 무역 장벽에 효과적으로 대응하고, 친환경 기술 투자 및 생산 방식 전환을 가속화하는 중요한 경제적, 산업적 변화를 의미합니다."
+                "공정거래위원회의 대규모 담합 제재는 시장의 공정 경쟁 환경을 저해하고 소비자 물가에 악영향을 미치는 구조적 카르텔에 대한 정부의 강력한 대응 의지를 보여줌.",
+                "이는 특정 산업의 독과점 행태를 개선하고, 장기적으로는 소비자 후생 증진 및 시장 효율성 향상에 기여할 수 있는 중요한 조치임."
             ],
-            "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTFBreEdxSVNmSTNRS0VXbXhKSk5fSURpb2hkajg4WVBNUElCT0phSjc3Zy1KMGE2VllXSkVpLXFmMWpaYzhEbHNTYjlEOG9XTDBDZ3dLT3Q5amFVQXhkOTZkUzVSQUNsZ0V3bUFOSGpSVU8?oc=5",
+            "link": "https://news.google.com/rss/articles/CBMid0FVX3lxTE1IdzBFekJqOXZqVE5WU2RQMWwzWWEteTUzc01nTDdjMUcycFZfMkpfMFB2RGhZRG1xbVBld0R3MkVQdGdibzlRVENXYVFReFdNSEZ3bV9yeXdVa1loUUktd21hbFdmQm9xdzgwc0lqb29vVm82U3BN?oc=5",
             "category": "Economy",
-            "published": "2026-02-11T21:25:03.779900"
+            "published": "2026-02-12T21:23:36.430604"
         },
         {
-            "title": "과기부, 'AI 민생 10대 프로젝트' 시동…국산 NPU 활용 - 한국무역협회-KITA.NET",
+            "title": "카카오, 'AI 수익화 원년' 칼 뺐다...구글·오픈AI 스킬 장착 - 지디넷코리아",
             "points": [
-                "과학기술정보통신부가 'AI 민생 10대 프로젝트'를 시작하고 국산 NPU(신경망처리장치)를 활용하는 것은 국가 AI 경쟁력 강화를 위한 대규모 정책 투자이자 기술 자립 의지를 보여주는 핵심 소식입니다.",
-                "이 프로젝트는 AI 기술의 실생활 적용을 가속화하고, 국내 NPU 산업 생태계를 활성화하여 AI 분야의 기술적 혁신과 경제적 파급 효과를 창출할 것입니다."
+                "국내 대표 IT 기업 카카오가 AI 기술을 활용한 수익화 전략을 본격화하며, 국내외 AI 서비스 시장의 경쟁 구도와 혁신을 촉진할 것으로 예상됨.",
+                "구글, 오픈AI 등 글로벌 선두 AI 기술과의 연계를 통해 새로운 서비스 모델을 구축하고, 이는 사용자 경험 및 산업 전반에 걸쳐 AI 활용도를 높이는 계기가 될 수 있음."
             ],
-            "link": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxPMGtIeU9SeTZmd1piYUtMTXluVWlNcjBVeV9iMGVISWYzNVc1bnBDYmlzT1I3cU9OUDdvYS1wQ3RyUDdQYVd1TExJRjdjQW9qMThnblFmbWtiaWEyOHg0aW1NNklZM3lWbk1vbWlrc3RpQjBMNDdaMHlkNDkzRWJ1UGRyMzludGNOZ21sSFliMFkxRGtmRlF0S01kODczcFkzaEdVRDJfbFVVODBJNW5FSV9qUXFSNFplSDJRaEQ2dHFEUnBHRXdHUHpzMkhXQWtxbTRBYg?oc=5",
+            "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE5QMFBkRVRnNWNjbnRLVzFDNFZadHk4SEhWckd5Q3F3QXRWR0VXTmQ1Y3dhRFNFZEVmbUpVOW1lRFN0Zi1IQk9td0Flam9DcjVTVko2NXNn?oc=5",
             "category": "Economy",
-            "published": "2026-02-11T21:25:03.779901"
+            "published": "2026-02-12T21:23:36.430605"
         }
     ],
     "World": [
         {
-            "title": "트럼프, 이란 주변 패트리엇 배치…“항모 추가 파견 가능” 핵협상 압박 - 동아일보",
+            "title": "국정원 “김주애 후계자 내정 단계…시책에 의견 내기도” - 동아일보",
             "points": [
-                "미국과 이란 간의 군사적 긴장 고조 및 핵 협상 압박 상황을 보여주는 주요 국제 뉴스입니다.",
-                "미국의 중동 지역 군사력 증강(패트리엇 미사일, 항공모함)은 역내 안보 환경 및 국제 유가 등 경제 전반에 큰 영향을 미칠 수 있습니다."
+                "북한 김정은 위원장의 딸 김주애가 사실상 후계자로 내정된 단계라는 한국 국정원의 발표는 북한의 미래 권력 승계 구도에 대한 중대한 변화를 시사합니다.",
+                "이는 동북아시아 안보 지형에 막대한 영향을 미치며, 국제사회의 대북 정책 및 한반도 비핵화 논의에 새로운 변수로 작용할 수 있습니다."
             ],
-            "link": "https://news.google.com/rss/articles/CBMic0FVX3lxTFBDUlZfU2plT2ZYQ2pFb2ZlNURvdVdZTldnOGg5SHFTaGtvaXNYWGlySWhYdE5sRmZabF8zU1VMTkNZUFJwaE9aa3IxZXhNVDFic2FCZnpRNTVIbEZQci1SRTNDbnVNcjJWWUI3c29fZThPQWPSAWZBVV95cUxPaGNlR3ZLTlBmWC04aVh6bDhBeHcyYmNPNHhLWFZUd2Z4QTU2eVVhb2pqLTJPS1UycjNFUG1Felp6dGc1OEhWc3BRNHhkQ1BQMVB6QjJsdW1QdjNBZ3FKMlZMZXJXSWc?oc=5",
+            "link": "https://news.google.com/rss/articles/CBMid0FVX3lxTFBNR050WkdKUDhlV1RkbnB0R2VqWlZaeU9TR2xxcWtoUWNUMXFiMjJsODRkWkpkUWtaVElZcEliZE1keXd1bW8yMGpQYjgwNWg2VU1IM1QzSU84dkJHT0lMSTBGekxITlVGU1J1bWdXanQ0UWx4Sm0w0gFmQVVfeXFMUHJvZk9KSWdpTlNBY0FLWVRHeFlMaS1CNkxGVVMtQ0FrUS1BQy1oSDlUTHRiSXJzSUZDSEFDdFk2Q0FnaWpwaDdlclVvQjlVcnFYRUdTNmlFX1k5dzg5Zm93SkExeWtB?oc=5",
             "category": "World",
-            "published": "2026-02-11T21:25:31.643804"
-        },
-        {
-            "title": "네타냐후 만난 트럼프 \"이란과 핵협상 계속…결과 보겠다\"(종합) - 연합뉴스",
-            "points": [
-                "미국과 이란 간의 핵 협상 지속 의지를 보여주는 외교적 움직임으로, 중동 정세의 향방을 가늠할 중요한 소식입니다.",
-                "미국 대통령과 이스라엘 총리의 회동은 중동 정책의 주요 변화 가능성을 시사하며, 국제 안보 및 에너지 시장에 영향을 줄 수 있습니다."
-            ],
-            "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE96QmJaWEd4eTB0MWg1OGhjWm94am9EV0hmYmJQTVZXVjFYZkV0MTdSSExEOG5LU0JmYnlWLUFWLVM4U1N0cVpyWEZkRHhHTXpWQ2Q1S0syXzFVdmPSAWBBVV95cUxOcEJTcHVZeTROWE14Z29OX2ZjSllqaHRRQm9DMVVtci15S1h2Zks0NWJlOURudU1UR3NUc0JPME42Ty1wR1c1dVV5aGI0LUZHWnIxdG1wV0MwY2FNSzVQN3A?oc=5",
-            "category": "World",
-            "published": "2026-02-11T21:25:31.643813"
-        },
-        {
-            "title": "트럼프, 캐나다가 7조원 들인 다리 “절반 내놔”…러트닉-재벌 ‘로비’ 의혹 - 한겨레",
-            "points": [
-                "미국과 캐나다 간의 주요 경제 및 통상 분쟁을 다루는 소식으로, 양국 관계 및 북미 경제 협력에 중요한 영향을 미칩니다.",
-                "대규모 인프라 프로젝트를 둘러싼 이권 다툼과 로비 의혹은 국제 통상 및 투자 환경에 대한 불확실성을 높일 수 있습니다."
-            ],
-            "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTFBZS2xMMmx5RzhyellmcElVMGpfTFdJUWNDb0E0ZEQyU09Xc0JBQ0dxeXdpYTIxNUdNUEdYeVMySGt1UDVmQ05qdjczTUt3X1FNNTdxa2I4SGd4eXNzdy11dk80bWJPUEhBRlUxOXdMdw?oc=5",
-            "category": "World",
-            "published": "2026-02-11T21:25:31.643814"
-        },
-        {
-            "title": "“트럼프, 투자 지연에 격노”…日, 부랴부랴 장관 파견 - 조선일보",
-            "points": [
-                "미국과 일본 간의 경제 협력 및 투자 관련 고위급 외교 움직임을 보여주는 소식입니다.",
-                "미국 대통령의 투자 관련 압박과 일본의 대응은 양국 간의 무역 및 투자 정책 변화를 야기하며, 글로벌 공급망 및 경제에 영향을 줄 수 있습니다."
-            ],
-            "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxOblV0NWVCdkR5T3dZbnNrM1N0V2pUODI1VF_wcTFQQ0d0XzBmalJiaDJBajJDMFdqd0cySFAxNWpzS3Yweml4Qk03b3pHSDZPVUNrMVdjc2MxWnE0S3laZnNJTklYNjBuRU1KellYYWZaZDlTZ2kzV3VSV19uUURSOXZOeWpWMU5KaVMzb2JmbzZCTTdGR1V5QmdHRXlVQdIBsgFBVV95cUxQdnpIZUp0dV9fS1hWM1Q0WFZmSHl3V2I3SzBHMGRQdFpZT2JDSGM2cGRLYlNkUW1SYzZ6TFNDcGd3RWRMVXMzX1hwWjdOdXg0VG1OXzNLYzNnZW1pX1lGemNJYk82SV9VamgweXRNeEVoS2Q0NW53YW9qSnpCTkRVZzhCYXphbVozWnktcGNVa3c3ZFpqd0pEN1luVHptSjJQUWx4dDZIb1hJVVpEdwZPeUNR?oc=5",
-            "category": "World",
-            "published": "2026-02-11T21:25:31.643815"
+            "published": "2026-02-12T21:24:13.172239"
         },
         {
             "title": "푸틴의 ‘10만 대군’ 몰려온다…“러 총공세 준비, 목표는 우크라 지상군 섬멸” [핫이슈] - 나우뉴스",
             "points": [
-                "러시아-우크라이나 전쟁의 중대한 국면 전환 가능성을 시사하는 소식으로, 국제 안보 및 지정학적 판도에 막대한 영향을 미칩니다.",
-                "러시아의 대규모 총공세 준비는 전쟁의 장기화 및 확전 가능성을 높이며, 에너지 시장, 식량 안보, 국제 외교 관계에 광범위한 파급 효과를 가져올 수 있습니다."
+                "러시아가 우크라이나에 대규모 총공세를 준비하고 있다는 보도는 현재 진행 중인 전쟁의 중대한 전환점이 될 수 있음을 의미합니다.",
+                "이는 우크라이나 전황과 국제 안보에 막대한 영향을 미치며, 서방 국가들의 추가 지원 및 러시아에 대한 제재 강화 등 국제사회 대응에 변화를 가져올 수 있습니다."
             ],
             "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE5kZmV1M2wxZHZsM1RKd190UWxPejlxTGZsa3ZYcHQzbGZQX3MyR2l3dFp2OWtVMWlsclB3azkxYVQta2lFdDhzRzl6SFdJcm8taUx1RHNhcDRmbjBLWWY3ZDhuZGVkamU5Uk04TmtNank?oc=5",
             "category": "World",
-            "published": "2026-02-11T21:25:31.643816"
+            "published": "2026-02-12T21:24:13.172245"
+        },
+        {
+            "title": "트럼프 \"이란에 한 달 시한…불발시 충격적 상황\" - 연합뉴스TV",
+            "points": [
+                "도널드 트럼프 전 미국 대통령의 이란에 대한 '한 달 시한' 발언은 중동 정세의 불안정성을 극대화하고 국제 유가 및 에너지 시장에 큰 영향을 미칠 수 있는 매우 위협적인 메시지입니다.",
+                "이는 이란 핵 문제와 중동 지역의 군사적 긴장 고조 가능성을 다시 부각시키며, 국제 외교 및 안보 정책에 중대한 변화를 요구할 수 있습니다."
+            ],
+            "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTFA5QWJXY1Z4Z0tlS2FxWjYzQ2NIVERhWGhfbnZJUzFNTGg4NlhWWmstbFlmaUktZkszeU4waUdSdFJVZ0xDNkdfU2R5MXMwVkhVeXNLNmhzaTBMS2lfYnNYUjNmd0VheUk?oc=5",
+            "category": "World",
+            "published": "2026-02-12T21:24:13.172246"
+        },
+        {
+            "title": "공습 대비 나섰나…美싱크탱크 “이란 핵시설 입구 흙으로 덮였다” - 조선일보",
+            "points": [
+                "미국 싱크탱크의 이란 핵시설 입구 은폐 정황 포착은 이란의 핵 프로그램 진행 상황과 잠재적 군사적 위협에 대한 국제사회의 우려를 증폭시키는 중요한 정보입니다.",
+                "이는 이란 핵 문제의 긴장 고조 가능성을 시사하며, 국제사회의 이란 제재 및 군사적 대응 옵션 논의에 직접적인 영향을 미칠 수 있습니다."
+            ],
+            "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxQYkFLclZkSms5Wnp1cVluOU91dE0tNmlpaGNfdU95a1VZX2N2bHhteGV4MnRDU2dBZTFzN09iaDVBLXNQcDdNc2daN2xYMnhBM1FPWkVoVmJCNE1IeFNRY3FqU2xuU2dHM2tKTWpFWk1jdTZCYi1aYmJiVWtZVi0xUW9sdVpITk5DVVhWZlZPMEZVTW9zdnFKZURmUGM5Z9IBsgFBVV95cUxPREtaY0R5ck5KMF9JLW5jYm9TNk9pZHdqUzk1aEhpVFZXQXctSWQ3S190TWkzM3ZuREczZ2xXWE1MV0RHcnBtOVNjTDZfS3RmOEU4TElQb0tDbTNBdWtEWVEtUEFYQ0ctSnRtX0pvekNPN1pwZ3NuM1dZTkdwWlZvRnczSXpOdURxN2Vtdm9FelRGZzZlWk91dzhlMmRhZVBnalFRa0syREhXcWhhRWsc?oc=5",
+            "category": "World",
+            "published": "2026-02-12T21:24:13.172247"
+        },
+        {
+            "title": "러에 ‘인간 지뢰탐지기’로 팔려가는 동남아 청년들 - 조선일보",
+            "points": [
+                "동남아시아 청년들이 러시아에 '인간 지뢰탐지기'로 팔려간다는 보도는 러시아-우크라이나 전쟁의 비인도적인 측면과 심각한 인권 유린 문제를 전 세계에 알리는 충격적인 소식입니다.",
+                "이는 국제사회의 전쟁 범죄 및 인신매매에 대한 강력한 비판과 인도주의적 개입의 필요성을 제기하며, 국제법 및 인권 보호 노력에 중대한 영향을 미칠 수 있습니다."
+            ],
+            "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxNR1FPM0o1UHdrbnVVVWZaRHFTS1J4MU56SG55NEtMdlc0RXM5dkx5a1ZtTlpWYS1haDMtODE5d01zY3FXaU5lcV8yOThyQTBDYjVibXNvaVhycnNxaFVFX3Fidlk1UXl1eDhXckZUZy02cnV5T1BSeGYxa3VQd2k5UTVnelVZWHFrWnNzdWFJN2txV0dyUU1Xc3hDS2VrZ9IBsgFBVV95cUxNUWRHb015WVJJRS1KUlBYcktCTUl2QnNmclRVSnIzcmNwWTBNTG1oeERWNG9CdUNKOFVPWldkSTRqOXV5MVNTcHFBS3FnVDNpMHg2ci0yNnJiNV9GbVhKRmo4WEJ0XzgxOUJDdnB2a2VwMEs2a1ByOEtHeXp1VkU5SjJCNXZBLVRhbGFDdTJrTGdlV0VoOHpKMDNaVGd4MEJVczZSQ19NMkttU0hRZDd5VWR3?oc=5",
+            "category": "World",
+            "published": "2026-02-12T21:24:13.172248"
         }
     ]
 }
