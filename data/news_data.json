@@ -1,210 +1,210 @@
 {
     "AI_Tech": [
         {
-            "title": "세계 최소형 AI 슈퍼컴퓨터 주목…\"인터넷 없이 LLM 실행\"",
+            "title": "KAIST, '알파폴드 한계' 넘는 신약개발 AI…약물 실제 작동까지 예측",
             "points": [
-                "이 뉴스는 인터넷 연결 없이 대규모 언어 모델(LLM)을 실행할 수 있는 세계 최소형 AI 슈퍼컴퓨터의 등장을 알리며, AI 기술의 접근성과 활용성을 혁신적으로 확장하는 중대한 기술적 돌파구입니다. 이는 클라우드 기반 AI의 한계를 넘어선 엣지 AI(Edge AI) 시대의 서막을 알리는 소식입니다.",
-                "기존 LLM은 막대한 컴퓨팅 자원과 클라우드 연결이 필수적이었으나, 이 기술은 스마트폰이나 소형 기기에서도 고성능 AI를 구동할 수 있게 하여 개인 정보 보호 강화, 응답 속도 향상, 그리고 인터넷 접근이 어려운 환경에서의 AI 활용 가능성을 크게 높입니다. 이는 AI 기술의 민주화와 새로운 서비스 모델 창출에 기여할 것입니다."
+                "이 뉴스는 국내 최고 연구기관인 KAIST가 글로벌 제약 산업의 판도를 바꿀 수 있는 획기적인 AI 기술을 개발했다는 점에서 매우 중요합니다. 기존 단백질 구조 예측 AI인 '알파폴드'의 한계를 넘어, 약물이 실제 인체 내에서 어떻게 작용할지까지 예측하는 모델을 제시했습니다.",
+                "이 기술은 신약 개발 과정의 시간과 비용을 획기적으로 단축시킬 수 있는 잠재력을 가집니다. 복잡한 생체 반응을 AI가 미리 시뮬레이션하여 성공 가능성이 높은 약물 후보 물질을 빠르게 선별하고, 부작용 예측 정확도를 높여 인류의 건강 증진에 크게 기여할 수 있는 기술적 돌파구입니다."
             ],
-            "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE9tMW5vbUl3NXdlWnVzd0c3Mkdxbl9KMF9mNmhTaFdkYTVSOHYzUXN6QVlPM1M0cXE0QVdGbDIzYW9GMXlMM0J1NjlnTjMzZjdMS21LaFp3?oc=5",
+            "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxORVdyaUtmTC1DYVcxSzN1SFpaZkdOVXhMOW9URy0xSlBwd1FIT0ZFWndNSTNjUDRFTHRBOGlMaVlYejZadUh6RlcyMnM1cDlLUWNocmtsY25pcU5KTWxyckdPSTRTa3AwTGtVV2ZxZ1AteHRiMEhleWhkbXB4cW03dA?oc=5",
             "category": "AI_Tech",
-            "published": "2026-03-07T21:10:12.881388"
+            "published": "2026-03-08T21:12:21.593215"
         },
         {
-            "title": "삼성서울병원 의사의 술기, 로봇이 학습한다…의료용 피지컬 AI의 미래",
+            "title": "KAIST, 슬럼가 찾아내는 AI 개발…AAAI 2026 최우수논문상 수상",
             "points": [
-                "국내 최고 수준의 의료기관인 삼성서울병원이 의사의 정교한 술기를 로봇이 학습하는 '의료용 피지컬 AI' 기술을 도입한다는 소식은, AI가 단순 정보 처리 단계를 넘어 실제 물리적 세계에서 복잡한 작업을 수행하는 '피지컬 AI' 시대의 도래를 알리는 중요한 이정표입니다.",
-                "이 기술은 숙련된 의사의 노하우를 AI 로봇이 직접 학습하여 수술 정확도를 높이고 의료 오류를 줄이며, 궁극적으로는 의료 서비스의 질을 혁신적으로 향상시킬 잠재력을 가집니다. 이는 의료 분야의 자동화와 정밀화를 가속화하며, 인간과 AI 로봇의 협업 모델을 제시합니다."
+                "KAIST가 세계적인 AI 학회인 AAAI에서 최우수논문상을 수상한 것은 이 기술의 학술적 가치와 혁신성을 입증합니다. 위성 이미지와 AI를 결합하여 도시 내 슬럼 지역을 정확하게 식별하는 기술은 사회 문제 해결에 AI를 적용한 모범 사례입니다.",
+                "이 AI는 기존의 통계적 방식으로는 파악하기 어려웠던 도시 빈곤 지역을 신속하고 객관적으로 분석하여, 정부나 NGO가 자원 배분 및 정책 수립을 더욱 효과적으로 할 수 있도록 돕습니다. 이는 AI가 단순한 기술 발전을 넘어 사회적 불평등 해소에 기여할 수 있음을 보여주는 중요한 기술적 진보입니다."
             ],
-            "link": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE1HRmk0dGtlTmhYZWJrd3JDNk1zQURKa3BYWE90dkdVdkRObllCUkFzc1ZSSW04a202SzkxX2V6ZWdhZVdiWVRWS0FYckxweGNxN1lfQUFlVQ?oc=5",
+            "link": "https://news.google.com/rss/articles/CBMickFVX3lxTE9Ca2dLcGkwMm9sWk9MX3k3dmtOTTJJcjdrbEJfT1lfeUxTSU1hcEk4NzA3MVZjZER0a0NCUUs0Zlh4M0o4X0RjUXJtZ04yRmhxNDQ0RTNNYUZkRzJxU043ZGx1V1ZJUkFfaWpHY3lFeHpsdw?oc=5",
             "category": "AI_Tech",
-            "published": "2026-03-07T21:10:12.881395"
+            "published": "2026-03-08T21:12:21.593222"
         },
         {
-            "title": "[인공지능 줌인] 금융권 AI 경쟁 본격화…JP모건 2026년 기술 투자 200억 달러 규모로",
+            "title": "수백만 장 야생동물 사진, AI가 분석...구글 ‘SpeciesNet’ 연구·보존 혁신 가속",
             "points": [
-                "세계적인 금융 대기업 JP모건이 2026년까지 AI 기술에 200억 달러(약 27조 원)를 투자하겠다는 발표는, AI가 금융 산업의 핵심 경쟁력으로 자리매김했음을 보여주는 강력한 신호입니다. 이는 단순한 기술 도입을 넘어 산업 전반의 디지털 전환을 가속화하는 글로벌 트렌드를 반영합니다.",
-                "이 막대한 투자는 금융 서비스의 개인화, 리스크 관리, 사기 탐지, 자동화된 거래 등 다양한 영역에서 AI 기술의 혁신과 적용을 촉진할 것입니다. 이는 금융 산업의 효율성을 극대화하고 새로운 비즈니스 모델을 창출하며, AI 기술 개발 기업들에게도 거대한 시장 기회를 제공할 것입니다."
+                "글로벌 빅테크 기업인 구글이 'SpeciesNet'이라는 AI 모델을 통해 야생동물 연구 및 보존 분야에 혁신을 가져온다는 점에서 주목할 만합니다. 이는 AI가 환경 보호와 생물 다양성 유지라는 인류의 중요한 과제에 어떻게 기여할 수 있는지를 보여주는 사례입니다.",
+                "수백만 장의 야생동물 사진을 AI가 자동으로 분석함으로써, 연구자들은 방대한 데이터를 효율적으로 처리하고 개체 수 변화, 서식지 이동 등 중요한 생태 정보를 신속하게 파악할 수 있게 됩니다. 이는 야생동물 보호 정책 수립과 멸종 위기종 관리에 필수적인 기술적 진보입니다."
             ],
-            "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTE5KSWtTUm40bkZKNHI1U283T1dBWHlsckk3aTFoRDB5UkNnQzVVWjdkMGNNZ21HTXFibk1laFRjRk9UejhYRnlmNnY0bFcyZ2tiRmpwemhwWGQ5Q0E0bkgxU0pvTHJxMjhUdnR2SmJVbw?oc=5",
+            "link": "https://news.google.com/rss/articles/CBMickFVX3lxTE02X2xiTXlzZG9LMFNEa0t0UThHd3FVM0w3TUEwVkpHOVA2VDVMdzZkZHFXR2k5N2QzbU8ySy1nMWVEekJNWkRsNHJYRlRzdFdvcHlDV3ZpckQtQUQyM2hHbml3d21ubTMxU0p3MGZhY1JfUdIBckFVX3lxTE02X2xiTXlzZG9LMFNEa0t0UThHd3FVM0w3TUEwVkpHOVA2VDVMdzZkZHFXGk5N2QzbU8ySy1nMWVEekJNWkRsNHJYRlRzdFdvcHlDV3ZpckQtQUQyM2hHbml3d21ubTMxU0p3MGZhY1JfUQ?oc=5",
             "category": "AI_Tech",
-            "published": "2026-03-07T21:10:12.881396"
+            "published": "2026-03-08T21:12:21.593223"
         },
         {
-            "title": "중국 연구진, AI 기반 ‘특허 청구항 탐색’ AAAI 구술 발표 선정",
+            "title": "현대차 휴머노이드, AI 학습 체계 핵심…피지컬 AI 산업 전망",
             "points": [
-                "중국 연구진이 세계적인 인공지능 학회인 AAAI에서 AI 기반 특허 청구항 탐색 기술을 구술 발표했다는 소식은, AI가 법률 및 지식재산권 분야의 복잡한 문서 분석과 검색 효율성을 혁신적으로 개선하고 있음을 보여주는 중요한 기술적 진전입니다.",
-                "이 기술은 방대한 특허 문헌에서 핵심 청구항을 정확하게 찾아내고 분석하는 데 AI를 활용하여, 특허 심사, 침해 분석, 기술 동향 파악 등 지식재산권 업무의 시간과 비용을 획기적으로 절감할 수 있습니다. 이는 법률 AI 분야의 발전과 함께 기업의 R&D 및 특허 전략 수립에 큰 영향을 미칠 것입니다."
+                "글로벌 자동차 기업인 현대차가 휴머노이드 로봇 개발에 AI 학습 체계를 핵심으로 삼는다는 것은, AI 기술이 단순 소프트웨어를 넘어 물리적 세계와 상호작용하는 '피지컬 AI' 분야로 확장되고 있음을 보여줍니다. 이는 미래 산업의 핵심 동력이 될 로봇 공학 분야에서 AI의 중요성을 강조합니다.",
+                "휴머노이드 로봇이 실제 환경에서 복잡한 작업을 수행하기 위해서는 고도화된 AI 학습 능력이 필수적입니다. 현대차의 이러한 접근은 제조, 서비스, 물류 등 다양한 산업에서 로봇이 인간의 역할을 보완하거나 대체하는 미래를 가속화할 기술적 기반을 마련하는 중요한 움직임입니다."
             ],
-            "link": "https://news.google.com/rss/articles/CBMiSEFVX3lxTE54R25nakRIOUZXR3JubWs1MzNvQVA0dXUwb2hVbnZVVG9OOThoZFRYWjBZUDVJZ3o2Y2VSUWhod1hxeEY0Vll6cA?oc=5",
+            "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTFBnMlp3ZXZtZTB5MFMxV0dsQm5zYTM5UDdoT2lMTTdIX3VLTWF5ZnNxMkRJSGREYVlKQmkzUF9QQjc5QV83TTN5RzlsaWNyMmFwd2d3SWR3ZGdzR3NfWEhVQUJRTFNZTWExWm1OR2ZDWdIBb0FVX3lxTFBnMlp3ZXZtZTB5MFMxV0dsQm5zYTM5UDdoT2lMTTdIX3VLTWF5ZnNxMkRJSGREYVlKQmkzUF9QQjc5QV83TTN5RzlsaWNyMmFwd2d3SWR3ZGdzR3NfWEhVQUJRTFNZTWExWm1OR2ZDWQ?oc=5",
             "category": "AI_Tech",
-            "published": "2026-03-07T21:10:12.881397"
+            "published": "2026-03-08T21:12:21.593224"
         },
         {
-            "title": "\"퇴사욕구 치솟네\" 익명 커뮤니티에 올렸더니…수 분 만에 '나'를 찾아내는 AI",
+            "title": "AI 에이전트, 대출 승인 '수일에서 수분'으로 단축… 금융 서비스 미래 재구성",
             "points": [
-                "익명 커뮤니티 게시글만으로 개인을 식별해내는 AI 기술의 등장은, AI의 강력한 데이터 분석 및 패턴 인식 능력이 개인 정보 보호와 익명성 유지에 심각한 위협이 될 수 있음을 경고하는 매우 파급력 있는 소식입니다. 이는 AI 윤리 및 규제 논의를 가속화할 것입니다.",
-                "이 기술은 겉으로는 익명으로 보이는 데이터 속에서 개인의 고유한 특징(글쓰기 스타일, 언급 내용, 시간 패턴 등)을 조합하여 신원을 추적하는 능력을 보여줍니다. 이는 온라인 활동의 익명성 보장이 더욱 어려워짐을 의미하며, 기업과 정부의 데이터 활용 방식, 그리고 개인 정보 보호 정책에 대한 근본적인 재검토를 요구하게 될 것입니다."
+                "이 뉴스는 AI 에이전트 기술이 금융 서비스 전반을 어떻게 혁신하고 재구성할 것인지를 보여주는 중요한 트렌드입니다. 대출 승인 시간을 획기적으로 단축하는 것을 넘어, 위험 모니터링, 투자 연구, 고객 서비스 등 금융의 핵심 기능들이 AI 에이전트들의 협업을 통해 고도화될 것이라는 전망은 글로벌 금융 시장에 큰 파급력을 가집니다.",
+                "AI 에이전트들은 마치 각자의 전문 분야를 가진 똑똑한 비서들처럼 작동하며, 서로 정보를 주고받아 더욱 빠르고 정확한 의사결정을 가능하게 합니다. 이는 금융 서비스의 효율성을 극대화하고 고객 경험을 향상시킬 뿐만 아니라, 금융 산업의 경쟁 구도와 비즈니스 모델 자체를 변화시키는 핵심적인 기술적 변화입니다."
             ],
-            "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTE9ldTdtQlFQMmhqU0o0bVpoQlZ3SW4xbm5Hd0pnRlJKdmZWS1pBUnhpYlZhQlJFTzdpU0FKSUtDOGY3d1lQUld2TDJXN3BOVkhxeWJGUjY5RXZ2eUtXeW9tSVRRVmFSV0JRcC1DTTFsaFdGMzFPRUhQM9IBeEFVX3lxTE9ldTdtQlFQMmhqU0o0bVpoQlZ3SW4xbm5Hd0pnRlJKdmZWS1pBUnhpYlZhQlJFTzdpU0FKSUtDOGY3d1lQUld2TDJXN3BOVkhxeWJGUjY5RXZ2eUtXeW9tSVRRVmFSV0JRcC1DTTFsaFdGMzFPRUhQMw?oc=5",
+            "link": "https://news.google.com/rss/articles/CBMiQEFVX3lxTE5wNmQ3QnNOX0F1SmdyVVpMYXpUbVNPcWhha2puSU5RMGE1UktCalZNeFd0QURwd1Q3SVNJb0FaZS0?oc=5",
             "category": "AI_Tech",
-            "published": "2026-03-07T21:10:12.881398"
+            "published": "2026-03-08T21:12:21.593225"
         }
     ],
     "IT_Biz": [
         {
-            "title": "日언론도 아틀라스에 ‘눈독’…로봇 판 뒤흔드는 현대차그룹",
+            "title": "“제미나이가 내 아들을 죽였다” 소송 제기… 무슨 사연? - 조선일보",
             "points": [
-                "현대차그룹이 보스턴 다이내믹스의 '아틀라스' 로봇을 통해 글로벌 로봇 시장에서 강력한 영향력을 확대하고 있음을 보여주는 소식입니다. 이는 단순한 기술 개발을 넘어 산업 판도를 바꿀 수 있는 전략적 움직임으로 평가됩니다.",
-                "현대차그룹의 로봇 기술력(특히 아틀라스)이 세계적으로 인정받으며, 로봇 산업의 경쟁 구도 변화와 미래 모빌리티 및 자동화 시장의 성장을 가속화할 잠재력을 시사합니다."
+                "AI 기술의 사회적 책임과 윤리적 문제에 대한 중요한 법적 선례를 만들 수 있는 소식입니다.",
+                "구글의 AI 모델 '제미나이'와 관련된 소송으로, AI 개발 및 서비스 제공 기업들의 정책과 기술 개발 방향에 큰 영향을 미칠 수 있습니다."
             ],
-            "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE0yMkt3TnBucTVsWmR0U2RQaDhkVWZsU3RCM0ZEZmt5M252alpRQTBjWXhaZjYtdlo3blBzYlRYdVY4UXlpbFJVTlVxTjJsNzA?oc=5",
+            "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTE5QSDF4Y21zSGQ0aTVuZlJxdUNNQ2YtcjlaZVc0Z1l1eUJjMzgwZWdTM1hscHRZT0NDQ0RlT3diSC00WmhYTk5LY2lYSGQtZ0RUYWRWSnVPS0lhZGYtOE9HVjdtbEw2UUx6M2tOX2NoeHVodGJQdlE?oc=5",
             "category": "IT_Biz",
-            "published": "2026-03-07T21:10:49.608532"
+            "published": "2026-03-08T21:12:50.529812"
         },
         {
-            "title": "[AI 반도체 패권] 삼성전자 2나노·HBM 동시 돌파구… 낸드 가격 분기 연속 100% 인상, AI 수혜 극대화",
+            "title": "“엔비디아의 시대는 끝났다”... 젠슨 황을 공포에 떨게 한 한국발 ‘지능 소재’의 정체 - 글로벌이코노믹",
             "points": [
-                "삼성전자가 AI 반도체 핵심 기술인 2나노 공정 및 HBM(고대역폭 메모리)에서 중요한 진전을 보이고, 낸드플래시 가격이 급등하는 등 AI 시대의 반도체 시장 주도권 경쟁에서 한국 기업의 위상과 수익성 개선을 보여주는 소식입니다.",
-                "AI 반도체 시장의 핵심인 초미세 공정 기술(2나노)과 고성능 메모리(HBM)의 발전은 AI 기술 발전의 기반을 제공하며, 낸드 가격 상승은 반도체 기업들의 실적 개선과 투자 확대로 이어져 산업 전반에 큰 영향을 미칩니다."
+                "AI 반도체 시장의 독점적 지위를 가진 엔비디아에 대항할 수 있는 혁신적인 '지능 소재' 기술의 등장을 시사하는 소식입니다.",
+                "한국발 신소재 기술이 AI 반도체 산업의 판도를 변화시키고, 차세대 컴퓨팅 기술 발전에 핵심적인 역할을 할 가능성을 보여줍니다."
+            ],
+            "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNVWFhTDdfN1NicVZBV3F0OFVucnpHbGl6SXhTcG02LXB0azcxcnJTdVJaVFQzeTItN1ktTks0TGEwYWFnbUpqbmJ3bXRuekNCcHBaVERvcEtydHBXbElKVWxGd0I2bDJKdThmRVlHMVltdFFsSVJSQ2VhVWt0c2M2TkRCOXZrS3Zl?oc=5",
+            "category": "IT_Biz",
+            "published": "2026-03-08T21:12:50.529817"
+        },
+        {
+            "title": "[AI 반도체 패권] 삼성전자 2나노·HBM 동시 돌파구… 낸드 가격 분기 연속 100% 인상, AI 수혜 극대화 - 글로벌이코노믹",
+            "points": [
+                "삼성전자가 AI 반도체 핵심 기술인 2나노 공정 및 HBM(고대역폭 메모리)에서 중요한 돌파구를 마련하며 AI 반도체 시장의 주도권 경쟁에 큰 영향을 미칠 소식입니다.",
+                "낸드플래시 가격의 급격한 인상은 AI 산업의 폭발적인 성장에 따른 메모리 수요 증가를 반영하며, 반도체 시장 전반의 경제적 변화를 보여줍니다."
             ],
             "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE1fakxvYm5JTTEtUjBOWk9lTmVOdTQ4RDJiYmtVLXpjYld3QTZYY0pOTGxtWXk5WVJSdENjbGhpTFM4Z24xWHZTTmlZWVdEVDZ2QlpYVnFYT2FoM0FiNXIzS0lkYUkwNUNYWF9mcDZLdWk?oc=5",
             "category": "IT_Biz",
-            "published": "2026-03-07T21:10:49.608539"
+            "published": "2026-03-08T21:12:50.529819"
         },
         {
-            "title": "오픈AI 신모델 GPT-5.4 공개…\"이젠 제미나이에 안되네\"",
+            "title": "“몸값 2500조” 머스크 스페이스X, 상장 초읽기…증시 잭팟 터트리나 - 매일경제",
             "points": [
-                "인공지능 분야의 선두 주자인 오픈AI가 새로운 대규모 언어 모델 GPT-5.4를 공개하며 AI 기술의 발전 속도와 경쟁 구도를 보여주는 소식입니다. 이는 AI 서비스의 성능 향상과 적용 범위 확대를 예고합니다.",
-                "GPT-5.4와 같은 최신 AI 모델 출시는 자연어 처리, 콘텐츠 생성, 자동화 등 다양한 산업 분야에 혁신적인 변화를 가져오며, AI 기술 경쟁 심화와 새로운 비즈니스 모델 창출을 촉진합니다."
+                "일론 머스크의 우주 탐사 기업 스페이스X의 상장 임박 소식은 우주 산업 및 글로벌 증시에 막대한 파급력을 가질 대규모 투자 이벤트입니다.",
+                "2500조 원에 달하는 기업 가치는 우주 기술 산업의 성장 잠재력과 미래 경제의 핵심 동력을 보여주며, 관련 기술 투자 및 시장 변화를 촉진할 것입니다."
             ],
-            "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE5VTm9pclUzQS1lWURsYkVGelE0eWJvUkpCNEVDdVQzMkpIclB3c1lLZkgzcHJ1SURpRkhrTWJXS1V4czFHMHF2QkstNHd1TzVTV3lNMzJnVVZlUdIBVEFVX3lxTE5yOVlINDVLa2ZTUXpTYV8weDlnNFJnZnBQLXVwZ2xYUzMxdXJmMjFzdkphb0lIVlUtOG8tNG83UkVMWGEyOWxTQzNLMF9aOFFlWUl2Zg?oc=5",
+            "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE5wOGJyUFlFa09pVTZVT2duVy1iT2VINVVWSDdtYm80Z0NXMkstU0xQMHR3UDAyamlBem9sQjlQRkl2VTFfNmJ3R3d5V1pvV2hKV2c?oc=5",
             "category": "IT_Biz",
-            "published": "2026-03-07T21:10:49.608540"
+            "published": "2026-03-08T21:12:50.529820"
         },
         {
-            "title": "삼성·SK하이닉스의 ‘역전 시나리오’… 엔비디아 천하 끝낼 5대 비밀 병기 공개",
+            "title": "트럼프 ‘국가 사이버 전략’에 암호화폐 보안 명시…‘양자 위협’ 대비도 포함 - tokenpost.kr",
             "points": [
-                "AI 반도체 시장에서 엔비디아의 독점적 지위에 도전하려는 삼성전자와 SK하이닉스의 전략적 움직임을 다루는 소식입니다. 이는 글로벌 반도체 시장의 경쟁 구도 변화와 새로운 기술 혁신을 예고합니다.",
-                "한국 반도체 기업들이 HBM, 차세대 패키징, AI 가속기 등 '비밀 병기'를 통해 AI 반도체 시장에서 주도권을 확보하려는 시도는 엔비디아 중심의 시장에 변화를 가져오고, AI 기술 발전의 다양성과 경쟁을 촉진할 것입니다."
+                "미국 정부의 국가 사이버 전략에 암호화폐 보안 및 양자 위협 대비가 명시된 것은 블록체인 및 사이버 보안 산업에 대한 정책적 중요성을 강조하는 소식입니다.",
+                "특히 '양자 위협 대비'는 미래 컴퓨팅 환경 변화에 대한 선제적 대응을 의미하며, 관련 기술 개발 및 보안 표준에 큰 영향을 미칠 것입니다."
             ],
-            "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxOZlpic1AxYmpnN0JWbFl0SjFCT2ViTXlCdjRqZzRCUmhNYlMzSWt0b2FKQ2hwQVl5bzMwaDRGa1pCODItbnBqQ05qRXYteS1kSkRBNmhPMFFBNmhqTVI0bEM1Y1Nocm5PTG5jakFFSDBQeDktcVFJMlFBS0hoVHEzazh4MnRnRzZ2?oc=5",
+            "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE94QUQ3Z3lGbnA1bHM5MHA3S3U5c1hrczE2Umd2YkJUbGxCZjdMeEpmbDZDdTJsVGxpcW9fa1NQeHFYWGsxMlVQdnMteTc1d0xJbjlPaXR30gFbQVVfeXFMT2tRV2c4V3BBQktKRlduOUN2V1hsNGNpNjFkT21fWFZ1QWd3ZUZwcjU4RTVtMXZ3YUNIbVNYZlNraGRyUnNSVmVNQ3FyVk9CeTJNU0pKdDJLbGowOA?oc=5",
             "category": "IT_Biz",
-            "published": "2026-03-07T21:10:49.608541"
-        },
-        {
-            "title": "[사설]美 상업용 SMR 허가… 세계 최고 기술 갖고도 시간 허송한 韓",
-            "points": [
-                "미국에서 상업용 소형모듈원자로(SMR)가 허가된 것은 차세대 에너지 기술의 상용화가 임박했음을 알리는 중요한 정책적, 기술적 이정표입니다. 이는 에너지 산업의 패러다임 변화를 가져올 수 있는 소식입니다.",
-                "SMR은 안전성, 경제성, 유연성 측면에서 기존 대형 원전의 한계를 극복할 잠재력을 가지며, 탄소 중립 목표 달성과 에너지 안보 강화에 기여할 수 있는 혁신 기술입니다. 미국의 허가는 SMR 시장의 본격적인 개화를 알리고, 관련 기술 개발 및 투자 경쟁을 심화시킬 것입니다."
-            ],
-            "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTE9fY3ZKTVM0eWctYWZkZWY3LUpJdVFxMk9WVHRKdnNDYWpFcHFXTDJza1JWbkQtNllxOGhZSWJlQTVTekZOc3U1cUFieTIxemRUX05KekhxYjJJRHF1T1VRSHdNYm5UdWU0MFhvWllydGU5R1dJeGfSAWZBVV95cUxNSGhFSHFCZFpqa3YzRG5FU2NUd2laY0RCU0xhWDZaWUNyeUZnZXZmVE9xeU1vR1U5dHdlamJ0VFZWcHhVdmJjbW95eUVlNnQ5aWlHbTEyWDQwaFBCMk5wQ0tBaFdkWlE?oc=5",
-            "category": "IT_Biz",
-            "published": "2026-03-07T21:10:49.608542"
+            "published": "2026-03-08T21:12:50.529821"
         }
     ],
     "Economy": [
         {
-            "title": "국제유가 90달러 돌파에 70년대식 오일쇼크 우려…세계 경제 흔드나 - 문화일보",
+            "title": "중동 사태가 주는 경고…기름값 등 높아지는 물가 상승 압력 - 노컷뉴스",
             "points": [
-                "국제유가 급등이 과거 오일쇼크와 같은 전 세계적인 경제 위기를 촉발할 수 있다는 우려를 제기하며, 인플레이션 및 경기 침체 가능성을 시사한다.",
-                "에너지 가격 변동은 각국의 경제 정책, 기업 활동, 그리고 소비자의 구매력에 광범위한 영향을 미쳐 세계 경제의 주요 불안 요인으로 작용한다."
+                "중동 정세 불안이 국제 유가 상승을 촉발하여 전 세계적인 물가 상승 압력으로 작용하는 거시 경제 이슈입니다.",
+                "국제 유가 변동은 에너지 비용, 생산 원가에 직접적인 영향을 미쳐 인플레이션 심화 및 소비 위축으로 이어질 수 있습니다."
             ],
-            "link": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE1qOWN4WHR0blJsdm9qVkRYaXk5YTk2ZndERkpMTERGN1JKc3ZSZHh2bWdlVmZPUU1DUHlMZ2xwVlhfZWt1bExBZERHUzlDN2hE?oc=5",
+            "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE43VnJacFFvMXFvNTZ5TnRidGxPZG10YjdiSGVlQWxqUzFFeVFvdUszS1lSNGZhVzE2TmVxeWNyc1VZV3RMWkthSThXMENvbzA3b0E?oc=5",
             "category": "Economy",
-            "published": "2026-03-07T21:11:18.364920"
+            "published": "2026-03-08T21:13:17.918810"
         },
         {
-            "title": "美 에너지장관, 국제유가 급등에 \"우려할 이유 없어\" - 연합인포맥스",
+            "title": "\"전기만으론 한계\"…철강 '징검다리 기술'로 탄소감축 속도낸다 - 한국경제",
             "points": [
-                "미국 에너지 장관의 발언은 국제유가 급등에 대한 미국 정부의 공식적인 입장과 시장 안정화 의지를 보여주며, 글로벌 에너지 시장의 불확실성을 완화하려는 시도로 해석될 수 있다.",
-                "주요국의 정책 결정권자 발언이 국제 유가 및 세계 경제 심리에 미치는 영향력을 보여주며, 향후 에너지 정책 방향을 가늠하는 중요한 지표가 된다."
+                "철강 산업의 탄소 중립 목표 달성을 위한 핵심 기술 개발 소식으로, 전 세계적인 기후 변화 대응 및 ESG 경영 트렌드와 맞물려 중요성이 큽니다.",
+                "전기 제강의 한계를 보완하는 '징검다리 기술' 도입은 철강 생산 방식의 혁신과 산업 구조 변화를 이끌 잠재력을 가집니다."
             ],
-            "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE0ydDhwQkY3MHdtanQtdWNpZU80Qk5tQkZfQ2ZiRm9udXJ1bGVGTUN1b3NNVGp4YWZIcnJhbmtubGFfczNjdHdFZktqbEF6UnhuOWtEbTRlcEJudHBXTGh5WEk5NHZydTFiNTJ3cDE4Q1jSAXRBVV95cUxNT01Qd1hON3ByQWc3R3hOSXM0UVZZWjFKdGdJemFNMzVrZ0RvVHE3bnZUakF2U3JLTm1aTUNLanM2LTRBMTdMMWRXczJkeHFfLW5qR0I2UnhyVk16ZGJGdjl4VlQ1NHhtTFRleWJGbzFweUVtSw?oc=5",
+            "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE12bXlMTGhGdU1PQl9vWjZVeEp2YkhyRFNycHhLOTZsWC10SHFvUkNCcDBjbWotNW1Xb05KaWwzcmEyaDRKS1lwbDJibDhweWUzOFNVWUowUXhJZ9IBVEFVX3lxTE83N1p0c0JlUnhfUWd0RUc1akdEd2loWVZxZnc1ZjV0a05MMkVPeWxCcHRXZXBxb25OV3I4SVVLUXgtNWFCazFGTnQ5Q01DaUtDbEoyVA?oc=5",
             "category": "Economy",
-            "published": "2026-03-07T21:11:18.364927"
+            "published": "2026-03-08T21:13:17.918816"
         },
         {
-            "title": "[산업영향점검] 전쟁도 '메모리 슈퍼사이클'은 못 흔든다 - 연합인포맥스",
+            "title": "단백질 고수 '알파폴드' 한계 넘어섰다 [지금은 과학] - 아이뉴스24",
             "points": [
-                "메모리 반도체 산업의 장기적인 호황(슈퍼사이클)이 지정학적 불안정 속에서도 지속될 것이라는 분석으로, 글로벌 IT 및 경제 전반에 긍정적인 신호를 준다.",
-                "전쟁과 같은 외부 충격에도 불구하고 반도체 수요가 견고하며, 이는 관련 기업들의 투자 및 생산 전략에 큰 영향을 미칠 수 있음을 시사한다."
+                "인공지능 기반 단백질 구조 예측 기술인 알파폴드의 한계 극복 소식은 생명공학, 신약 개발 등 바이오 산업 전반에 혁신적인 파급 효과를 가져올 수 있습니다.",
+                "정확한 단백질 구조 예측은 질병 메커니즘 이해, 신약 후보 물질 발굴 시간 단축 등 막대한 경제적, 의학적 가치를 창출합니다."
             ],
-            "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE5VN2hkT3B1MFNoMzBRM3Z2Sk40cWxhUEhRRHdHZF9Qem9leTRoZUgwTGxqNExhVlAycVUtUHJ4T0ZrTmlkbVM4RjlMTUVVTlpMMjRLX2xFdW8yMUV4cFdPOW4yalA1Q1N3RXgwM3lUVWo?oc=5",
+            "link": "https://news.google.com/rss/articles/CBMiTEFVX3lxTE9NQlk3NzlOa0p1V1JhUENiR2tLVjV4N3VCZnRPUmsyX3FBYjFuSm9IS0RtN2I2S0lIeE1OeVlKQlNTR0w2VXVuczhSRk0?oc=5",
             "category": "Economy",
-            "published": "2026-03-07T21:11:18.364929"
+            "published": "2026-03-08T21:13:17.918817"
         },
         {
-            "title": "비트코인, 미국 고용지표 악화로 7만달러 선 깨져 - 지디넷코리아",
+            "title": "이란發 퍼펙트스톰, 한국 반도체 산업마저 덮쳤다 - 뉴데일리 경제",
             "points": [
-                "비트코인 가격이 미국 고용지표 악화에 반응하여 하락한 것은 암호화폐 시장이 거시 경제 지표에 민감하게 반응하며 주류 금융 시장과 연동되고 있음을 보여준다.",
-                "미국 고용지표는 연방준비제도(Fed)의 통화정책 결정에 중요한 영향을 미치므로, 이는 암호화폐뿐 아니라 전반적인 금융 시장의 변동성을 예측하는 데 중요한 단서가 된다."
+                "이란발 지정학적 리스크가 한국의 핵심 산업인 반도체 공급망과 수출에 미치는 영향에 대한 경고로, 국가 경제 및 글로벌 기술 시장에 중대한 파급력을 가집니다.",
+                "반도체는 글로벌 경제의 핵심 동력으로, 공급망 불안정은 생산 차질, 가격 상승, 기술 경쟁력 약화 등 광범위한 경제적 혼란을 야기할 수 있습니다."
             ],
-            "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTFB3Rm9JZEI1el84MjQwbkxUbVdzT3Z1T2UwYVN6UjktbkEwbDE1NDhaa3JaX3E2YzJHMG9wSmhIYk1mVTJpUWlFVG95ZllwZlRHenN2RTl3?oc=5",
+            "link": "https://news.google.com/rss/articles/CBMie0FVX3lxTFBGdngxZVJDSXBiaVNUNHpKbUN6QndOWncwdjZaNm5XVzB3S3dmT3Mydmg1ekFET2dOYVVGam5KWkMyZm52enpBZy1pemU0aTZEMHctbm55c0NDejVhbk05R3dEM2YtZXh3UHBZRXFsbHBobjQ5VW5fMHdwWQ?oc=5",
             "category": "Economy",
-            "published": "2026-03-07T21:11:18.364930"
+            "published": "2026-03-08T21:13:17.918818"
         },
         {
-            "title": "2월 소비자물가 2.0%↑‥가공식품 상승폭 14개월 만에 최저 - MBC 뉴스",
+            "title": "[뉴욕증시-주간전망] 유가 향방이 최대 변수…때마침 나오는 CPI - 연합인포맥스",
             "points": [
-                "소비자물가 상승률이 둔화되고 특히 가공식품의 상승폭이 최저치를 기록한 것은 인플레이션 압력이 완화될 수 있다는 신호로, 중앙은행의 통화정책 결정에 영향을 미칠 수 있다.",
-                "물가 안정은 가계의 실질 구매력과 기업의 생산 비용에 직접적인 영향을 미치며, 전반적인 경제 활력에 중요한 요소로 작용한다."
+                "뉴욕 증시의 주간 전망에서 국제 유가와 소비자물가지수(CPI)가 핵심 변수로 지목된 것은 글로벌 경제의 인플레이션 압력과 통화 정책 방향에 대한 중요성을 시사합니다.",
+                "유가와 CPI는 중앙은행의 금리 결정에 직접적인 영향을 미치며, 이는 기업 투자, 소비 심리, 증시 전반에 광범위한 영향을 미치는 거시 경제 지표입니다."
             ],
-            "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTE01NkZhdXcxYjlwM1lfaHpWZUUxMzQwZ3VRc3MzckZfRmhyUDJJU0JRR3Q5V29lVlplcVNTZmFoSU5qeEd6RU55Y2VrMm9wenhxMjZ4TXRIeFJmakFsdEd1Uml6QzF2eWh3ZWViRDQ5RzJDQlQ00gF0QVVfeXFMTkxIaXVITnZOeW5sQ3JNeWFoY1c5SnBNd2V2VVBvQ25NcW8ycmgwWlAyVkxkZE1SOFN4UGtaMnhMckZKTHE0X0xQYmhrQ1hGdTgwZGl2ZXBfNklVMEpyQ3Jvcmk4ejljdVR6T2paeDFRSUxBSUQ?oc=5",
+            "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTFBjckdISjJVVTl3el_5ZVh4OFdNeTBGUGRlZzhXT0tIamc0VnNxaTdEVjJxVVowV3ZhV3FZUElGLVk0cGhyYXlNcWRjVmc0UTFCdEd0SkhjS3liSUpXVWNEQU9iR0dKeERjMk5FQlgtZ1k?oc=5",
             "category": "Economy",
-            "published": "2026-03-07T21:11:18.364931"
+            "published": "2026-03-08T21:13:17.918819"
         }
     ],
     "World": [
         {
-            "title": "미·이스라엘 ‘200곳 타격’ vs 이란 ‘엿새째 보복’…코카서스까지 긴장 확산 - 한겨레",
+            "title": "네타냐후 “이란 정권 뿌리뽑을 것” 테헤란 석유시설 첫 공습 - 조선일보",
             "points": [
-                "중동 지역의 군사적 긴장 고조와 확전 가능성을 보여주는 핵심 뉴스입니다.",
-                "미국-이스라엘의 구체적인 공격 계획과 이란의 보복 조치가 맞서며, 코카서스 지역까지 긴장이 확산되는 국제 정세의 불안정성을 나타냅니다."
+                "이스라엘이 이란 수도 테헤란의 핵심 석유 시설을 직접 공습하며 양국 간 전면전 가능성이 고조되고 있습니다. 이는 단순한 보복을 넘어 이란 정권의 근간을 흔들겠다는 의지를 표명한 것으로, 중동 정세의 판도를 바꿀 중대한 사건입니다.",
+                "이란의 주요 경제 동맥인 석유 시설 타격은 이란 경제에 막대한 영향을 미치며, 국제 유가 및 에너지 시장에 즉각적인 파급 효과를 가져올 것입니다. 또한, 이스라엘의 공격 범위가 이란 본토 깊숙이 확대되면서 지역 내 군사적 긴장이 최고조에 달하고 있습니다."
             ],
-            "link": "https://news.google.com/rss/articles/CBMic0FVX3lxTE1tTjhlOGxER3BvZjJQc1h1OWRoS0Mwd2xpY1lYUmlteFVqNi1saWIwamx2NVBFTTczMjl5WHZIX09Yc3pTMEhHdjJHOTl4OEFxNjNVNV80eGsyaXFBMkQ2aWdwRTN5bGhUN2JZT3J1dkpZMk0?oc=5",
+            "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxOY2tIMFJKNUpBUWZxVDhhYVV2TTdXM1B3N2JpanNPUzM3ck5yZU1kd2o3NjNHMUN6NkFuWGgtRVlGYUFGYmtpRkVmS0c1Nl83S1lNY2ZHRF83TUZJZzhyWjU3Z1o1X3V5V1BaanlhVUlWSFg0Z0RKaTlpSzh3M19ubWtWWHZJRHk1YlRtYXZEZmVkVzNUMFg4RmpTN2ZnZ9IBsgFBVV95cUxQMXBuYUl2aWNSOWNRWjkzNnhheGJ2WHB3aFNOQ0UzbDJ0MWp4aHFmaEEtRWZINk5fVl94d3lOSWRQdXlkZ0tleUR4VVg2X0lZVUo4d0lUSXNZRVlpYU04d1V1RngxMEQ0U3hnM3N1UlVxa1gzUTVJRXR2RWhEaXY0M3ZjdlZfRkJnaVNxT0FGdWxsc2dnb1kxdGhxN0lTOXRKc1VfT2FoXzdWbUpiaFFVeFJn?oc=5",
             "category": "World",
-            "published": "2026-03-07T21:11:49.111355"
+            "published": "2026-03-08T21:13:56.312592"
         },
         {
-            "title": "최정예 美공수부대 돌연 훈련 취소…‘이란 지상전’ 임박? - 동아일보",
+            "title": "이스라엘 매체 \"UAE, 이란에 첫 공격…담수화 시설 타깃\" - 연합뉴스",
             "points": [
-                "미국 최정예 부대의 훈련 취소는 중동 지역에서의 군사적 개입, 특히 이란과의 지상전 가능성이 임박했음을 시사하는 중대한 징후입니다.",
-                "이는 국제 안보 환경에 심각한 영향을 미칠 수 있는 군사적 움직임으로, 전 세계의 이목이 집중되는 사안입니다."
+                "이스라엘 매체를 통해 아랍에미리트(UAE)가 이란에 직접 공격을 감행했다는 보도는 중동 분쟁의 확전 가능성을 극대화하는 매우 중대한 소식입니다. 이는 이스라엘-이란 대결 구도를 넘어 걸프 국가들이 이란에 대한 군사적 행동에 동참하기 시작했음을 시사합니다.",
+                "담수화 시설은 국가의 생존과 직결된 핵심 인프라로, 이를 타깃으로 한 공격은 인도주의적 위협과 함께 이란의 보복을 유발할 가능성이 큽니다. 이는 지역 내 동맹 관계와 군사적 균형에 근본적인 변화를 가져올 수 있습니다."
             ],
-            "link": "https://news.google.com/rss/articles/CBMic0FVX3lxTFBNZ1czQjJRNWtOb3ZEUDIxMkxQMWJBMFlFUmtuU0lpMm53QVIzTk94Z1hrSjVfQVZ0N2RPRWstTkpmOXp0NXR3aTFqb3l6TkVPQVlTRkZFMlo4d1BZc2JVeFBjS0NXYW5ZYnYzMndOdEJ2anfSAWZBVV95cUxNUTJnQ3phX1NmcVZKOUJieFl6REw1Ylh5VUVMbi1FTlQ3aFlXRzNTX3V0SjRXUmVkXzdWTlRoTVVQSnR4LVRpMkFfZ0NVUUd3S1hqWEQtOXc0eW5zS09Va0h2dEQ3Y1E?oc=5",
+            "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE5UQ0pQYW9td29aeXhVSk1yak1IekpOUks2SFlXX2tFeXVFZmE0M0JwaW01WHBnUjZBQjE3Y1hfMjJFc29ONmxIZmdBWmh1VjRnWnVUTzVvMm9FTm_SAWBBVV95cUxPOW8zZjlXZmphRFpsLXltajMzMkJKWDJaQmJGX3dEQ3RIYTIyQlc5V3M0X2NGZm9zZW4xMGdwNENtbkhTLXg0LWlJNE1fVTJnaGtGSEk3aDFXQ1J5V3JoTUg?oc=5",
             "category": "World",
-            "published": "2026-03-07T21:11:49.111362"
+            "published": "2026-03-08T21:13:56.312599"
         },
         {
-            "title": "국제유가 배럴당 90달러 돌파…호르무즈 막히고 산유국 감산 여파 - 한겨레",
+            "title": "[속보] 정부, 중동 7개국 여행경보 '철수 권고'로 상향 조정 - MBC 뉴스",
             "points": [
-                "중동 정세 불안과 주요 산유국의 감산 조치로 국제유가가 급등하여 배럴당 90달러를 돌파한 소식입니다.",
-                "이는 전 세계 경제에 인플레이션 압력을 가하고 에너지 시장의 불안정성을 심화시키는 중요한 경제적 변화입니다."
+                "한국 정부가 중동 7개국에 대한 여행경보를 '철수 권고' 단계로 상향 조정한 것은 해당 지역의 안보 상황이 매우 심각하며, 자국민의 안전을 더 이상 보장하기 어렵다는 판단을 내렸음을 의미합니다. 이는 중동 분쟁의 심각성을 국제적으로 인지시키는 중요한 조치입니다.",
+                "여행경보 상향은 해당 지역에 체류 중인 교민 및 기업 활동에 직접적인 영향을 미치며, 국제 항공 및 물류에도 차질을 야기할 수 있습니다. 또한, 이는 다른 국가들의 유사한 조치를 유발하여 중동 지역에 대한 국제적 고립을 심화시킬 수 있습니다."
             ],
-            "link": "https://news.google.com/rss/articles/CBMid0FVX3lxTFBuaC1tLW94TkY1aFZsUlVuWE5DaDVIb2RWY1BCTlZnNlBZMWZxRW1IdGpocUc5eG02Ukw4cE1YZnFmcEdrWlZMcmZUWmdGdkw1THNJdzZZbUFQZDRTTkVVSkdrenFlOEVWdFowa0pfZ2ZNNF9TZjVv?oc=5",
+            "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTFA1UXVfV2JJY1FxZmc2dXhrTTBZdDIzUHd2OUZ1WTVTU2VNRDFTZmpuQWNrcnV1cVVZNkZmck91Rm9sMHhyNEZqb1AzTWhnaWlfRVBkVEtUVS1mcGJOSjU5YkhHcXFpNmtpeEdrcmQ5X0JBWWk0VGJnQdIBeEFVX3lxTE4yVzN2aEo4aDVXZUJ0RDZDS0N0aEVvZnRKN2NwRDJheEpOTkU0Vno2MGpoS0E1SUszSVRmRnFjNGlLeGR1ZHAyRHhjdnRCN0kwcHd6US1sS1RxaXRvSW1sZ1ZyT3FuTW15ZWFBTm0wOVkzVkhncDBFNg?oc=5",
             "category": "World",
-            "published": "2026-03-07T21:11:49.111363"
+            "published": "2026-03-08T21:13:56.312600"
         },
         {
-            "title": "美 “러시아가 이란에 미군 위치정보 넘겼다” - 조선일보",
+            "title": "中왕이, 이란전쟁에 \"군사행동 즉시 중단·외부확산 방지 호소\" - 한국경제",
             "points": [
-                "러시아가 이란에 미군 위치 정보를 넘겼다는 의혹은 중동 분쟁에 러시아의 개입 가능성을 시사하며, 국제 정세의 복잡성을 심화시키는 중대한 외교적, 군사적 문제로 부상했습니다.",
-                "이는 미국-러시아-이란 간의 삼각 관계를 통해 글로벌 안보 질서에 큰 영향을 미칠 수 있는 파급력 있는 소식입니다."
+                "중국 외교부장이 이란 전쟁에 대해 군사 행동 즉시 중단과 외부 확산 방지를 호소한 것은, 중동 분쟁이 국제 질서에 미치는 영향이 심각하다는 인식을 보여줍니다. 이는 유엔 안전보장이사회 상임이사국으로서 중국의 책임 있는 역할과 국제 사회의 평화 유지 노력을 대변하는 중요한 외교적 메시지입니다.",
+                "중국의 이러한 입장은 분쟁 당사국들에게 외교적 압력으로 작용할 수 있으며, 향후 국제 사회의 중재 노력이나 평화 협상 과정에서 중국의 역할이 확대될 가능성을 시사합니다. 이는 중동 정세의 군사적 해결보다는 외교적 해결을 모색하는 데 중요한 전환점이 될 수 있습니다."
             ],
-            "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxPeGpnVk9lcGhLOEZ1LVBoM0VLbUE4cU9OWlR6dDBSNmZPZXpvUGxNdlZpSUE5QTRfREtmR3kxRFFvTHlvaENSZUNJMXZuRFFKSUtqMkNJTUpZWW9qdEMtcTQyNGJMWHRqY05PN1NtWXNQeXhuN1JGQWpaTHBIWktBODdUbXVOajRCZjRnV3RXZWtDaU40NHRYS245WVJNQdIBsgFBVV95cUxQendrZHAyM3BlMVp3R2ZlajdvajlrTk5wRkNYZi1WR1JvOXhNNmRBeFc3Njh0YVdCZ1lGbjM3NEdZVkFYTGZCcWZ3eG9lYjlSNFhDX19ZSmZMeUxtMTFYdnkwWC0zYVd2dHZTNlJ1T1JlMnF6QXJFYU1fRURXVTlKVUVCVGRLVkdtRjFYQ1dFZlVscllQV3FXYWt3VE5oY1hMaXBkbUdCaGhVaTJ2Yms1SDNR?oc=5",
+            "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFA2bHRzTGJSZERuV2NfVEJOUXRmWHNHVzY4eGNMU1Bxc2ZPVmN5WjdLYUl3YU1Ick1KelNjWElFLWhWTVpqRlJHRkppei0yZzlLbjVUakFjd1VMd9IBVEFVX3lxTFBDcUtQSUUtMVp1cUI3dnl0YnBkeXFpMmd5YmFES1ZjanQySlV0ajR3MmdtS0ZyVWw3S2ZUeHdfTFJlallfNlN4eDJNNUtYeVZvT3dwQw?oc=5",
             "category": "World",
-            "published": "2026-03-07T21:11:49.111364"
+            "published": "2026-03-08T21:13:56.312601"
         },
         {
-            "title": "美서 '살 떨리는' 보고서 나왔다 \"北핵탄두 소형화 이미 성공 가능성\" - 아시아경제",
+            "title": "호르무즈 해협서 예인선 미사일 맞고 침몰... 인도네시아 선원 3명 실종 - 조선일보",
             "points": [
-                "북한의 핵탄두 소형화 성공 가능성에 대한 미국 보고서는 동북아시아 및 전 세계 안보에 심각한 위협을 제기하는 중대한 소식입니다.",
-                "이는 핵 확산 우려를 증대시키고 국제사회의 대북 정책에 큰 변화를 요구할 수 있는 핵심적인 안보 이슈입니다."
+                "세계 에너지 공급의 핵심 통로인 호르무즈 해협에서 예인선이 미사일 공격으로 침몰하고 선원들이 실종된 사건은 중동 분쟁이 해상 안보와 국제 무역에 직접적인 위협이 되고 있음을 보여주는 심각한 사태입니다. 이는 단순한 교전을 넘어 국제 해상 운송의 안전을 위협하는 행위입니다.",
+                "이 사건은 국제 유가 상승 압력으로 작용하여 글로벌 경제에 부정적인 영향을 미칠 수 있으며, 해상 운송 보험료 인상 등 물류 비용 증가로 이어질 수 있습니다. 또한, 이는 해당 해역을 지나는 선박들의 안전에 대한 국제적 우려를 증폭시키고, 해상 순찰 강화 등 군사적 대응을 촉발할 수 있습니다."
             ],
-            "link": "https://news.google.com/rss/articles/CBMiYAFVX3lxTFBxd0VrRl9SdGxXU0xWcDNyNWJ3bkNrdTlqdHhPLXQzREkyMnloRDVCaFNlU0JQQ2FTN0JGUk9nbWc5RTdiTVJuZGtFSlpaWmQ2ZVVvWTJPeFhtdHhNdG0waQ?oc=5",
+            "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxOLVRfTUxydlZyVk82TEppSFZ2NHZxbDlDa0VXYlhkaDhxSEZCSzl5NVcxenNkNndjX1RoUTJSY3V3MFBDTC1JZzl1Sm5KNHU2T2hpNW9uSnBOWHdNV3Bsd25tYjJrdUJTam1SRDl6N3BsUTI4TWo4M0ZXSW9kQ2U3azZzT0NxMUZ0TUZneF9YX195dVVwQVl2M1pjWWYxQdIBsgFBVV95cUxORXZWOF9kS0pQOFI3RWYtMFpmU09iaDFGTGRhaFRMMGJ4eldmT0RRRVpMelkzallCTnJPU2o5RmMtWGl4Z25JSllpRGhCTlJkcm1ObFplOFY5ZEJlM1ZWbmtlTnZLQXpjMkVRZjh6cFplenFNQ0lya1p3VU9McldteGo0MDY3WTZYUWJPT1Y2Q0YwVWtGejdmcjhnaGgMaHNPUWhfcnZSRXlOdGg1YzVfTGtR?oc=5",
             "category": "World",
-            "published": "2026-03-07T21:11:49.111365"
+            "published": "2026-03-08T21:13:56.312602"
         }
     ]
 }
