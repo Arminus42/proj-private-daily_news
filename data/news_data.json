@@ -1,215 +1,210 @@
 {
     "AI_Tech": [
         {
-            "title": "GIST, 사람 손끝의 '힘 감각'까지 배우는 정밀 작업 로봇 AI 기술 개발",
+            "title": "현실 이해하는 AI\"...LLM 이후 '월드 모델' 선점 경쟁",
             "points": [
-                "국내 최고 과학기술원 중 하나인 GIST(광주과학기술원)의 연구 성과로, 로봇 공학 및 AI 분야의 중요한 기술적 진보를 의미합니다.",
-                "로봇이 사람의 손끝처럼 미세한 '힘 감각'을 학습하여 정밀한 작업을 수행할 수 있게 하는 AI 기술입니다. 이는 로봇이 단순히 정해진 동작을 반복하는 것을 넘어, 물체의 질감이나 무게 변화에 반응하며 섬세한 조작을 가능하게 합니다. 마치 사람이 계란을 깨뜨리지 않고 집는 것처럼, 로봇도 섬세한 힘 조절이 가능해지는 획기적인 발전입니다.",
-                "이 기술은 정밀 수술, 반도체 제조, 섬세한 예술품 복원 등 고도의 정밀성이 요구되는 다양한 산업 분야에서 로봇의 활용도를 극대화할 수 있습니다. 인간과 로봇의 협업 환경을 더욱 자연스럽고 효율적으로 만들 잠재력이 큽니다."
+                "이 뉴스는 Google DeepMind, Meta, OpenAI 등 글로벌 AI 선두 기업들이 LLM(거대 언어 모델)의 다음 단계로 '월드 모델(World Model)' 개발에 집중하고 있다는 점에서 매우 중요합니다. 이는 단순한 언어 이해를 넘어 AI가 현실 세계를 인지하고 시뮬레이션하며 예측하는 능력을 갖추게 되는 기술적 패러다임 전환을 의미합니다.",
+                "월드 모델은 AI가 마치 사람처럼 주변 환경을 이해하고 미래를 예측하며 행동 계획을 세울 수 있도록 하는 핵심 기술입니다. 이는 자율주행, 로봇 공학, 과학 연구 등 다양한 분야에서 AI의 활용 범위를 혁신적으로 확장할 수 있는 획기적인 기술적 돌파구로 평가됩니다."
             ],
-            "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTE9OOW1ualpva1ZFTXFuZEVzSFp1OGNijanBuZTMtVUQyamJvaW9SWENxek9jYTA1dFJqOFRMVG8wdktjQmY1V0VlOEJubEJNNWRMeDVZTlFVbVk3eFlpeUZDOWZzQjFCcG54anM?oc=5",
+            "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE5jb1JCSWFBUW9SbWtETWNQWTFhczA0UGxMSTRfTUw2OE9ZdGRSc0ZIT0dSUkR5cTRoU2s2elR6bTR0azJ5MjQtQUVpSF9LdktubFJZdjAwdUhkbmRYT2RBQzZsX2I?oc=5",
             "category": "AI_Tech",
-            "published": "2026-03-10T21:19:24.824795"
+            "published": "2026-03-11T21:20:06.414594"
         },
         {
-            "title": "중앙대 김호기 교수팀, 산업 AI '머신 언러닝' 기술 제안...\"데이터 안전 제거\"",
+            "title": "세계적 AI 석학이 말하는 피지컬 AI \"미래 경쟁력은 지능형 시스템 통합이 결정한다\"",
             "points": [
-                "국내 명문 대학인 중앙대학교 연구팀의 성과로, AI 시스템의 윤리 및 데이터 관리 분야에서 중요한 기술적 제안입니다.",
-                "'머신 언러닝(Machine Unlearning)'은 AI 모델이 학습했던 특정 데이터를 마치 처음부터 학습하지 않았던 것처럼 완전히 지워버리는 기술입니다. 기존에는 특정 데이터를 제거하려면 모델 전체를 처음부터 다시 학습시켜야 했지만, 이 기술은 효율적으로 특정 정보만 '잊게' 할 수 있습니다. 이는 마치 뇌에서 특정 기억만 선택적으로 지우는 것과 같습니다.",
-                "개인정보 보호 규제(GDPR 등) 준수, 민감 데이터 유출 방지, 그리고 AI 모델의 공정성 및 투명성 확보에 필수적인 기술입니다. 특히 산업 AI 분야에서 데이터 보안과 규제 준수의 새로운 표준을 제시할 수 있습니다."
+                "세계적인 AI 석학의 인터뷰를 통해 '피지컬 AI(Physical AI)'의 중요성을 강조하는 이 뉴스는 AI 기술의 미래 방향성을 제시한다는 점에서 파급력이 큽니다. 이는 단순히 소프트웨어적 지능을 넘어 로봇과 같은 물리적 실체에 AI를 통합하여 현실 세계와 상호작용하는 능력을 키우는 것을 의미합니다.",
+                "피지컬 AI는 로봇이 복잡한 환경에서 인간처럼 유연하게 움직이고 작업하며, 예측 불가능한 상황에 대처할 수 있도록 하는 핵심 기술입니다. 이는 제조업, 물류, 서비스 로봇 등 다양한 산업 분야에서 AI의 실질적인 적용과 경쟁력을 결정짓는 중요한 기술적 변화를 예고합니다."
             ],
-            "link": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE44eHEtcnpLWF9hRXRWUnNzaXBBOHJ1NXJ1VmlWRzdBNk9qdl9xcmJyaGlFaW9DaDVKQ1lKcldUWmFsSkFFWVN1NHlJZU5UMG01eG0wYmJtUlA0M1JN?oc=5",
+            "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE1SS2pOTG04ZW5iY2xUNjNrNE1oSVEyMkhXajRuYk9wbDliOW9zdFpQLTVMZ0owd2lNTUlfMlBfanVUcnJtZXZUbHExMmxLeXNpa0FLWi1HQzdoS0JYWmtzQ0hRS2R1MTlaTGhSdTVLNkU?oc=5",
             "category": "AI_Tech",
-            "published": "2026-03-10T21:19:24.824801"
+            "published": "2026-03-11T21:20:06.414600"
         },
         {
-            "title": "[이효정의 메디컬로드] AI에 꽂힌 병원… 한국형 LLM부터 AI 수술까지 진료 혁신",
+            "title": "두산, AI 대부 얀 르쾽 스타트업 ‘AMI 랩스’에 투자…차세대 AI 기술 확보",
             "points": [
-                "AI 기술이 의료 분야 전반에 걸쳐 혁신을 가져오고 있다는 광범위한 트렌드를 다루며, 한국형 LLM(거대 언어 모델) 개발 및 AI 수술 도입 등 구체적인 적용 사례를 포함합니다. 이는 AI의 가장 중요한 응용 분야 중 하나입니다.",
-                "한국어 의료 데이터를 학습한 LLM은 의무 기록 분석, 진단 보조, 환자 상담 등에서 효율성을 높일 수 있습니다. AI 수술은 로봇 팔 제어, 실시간 영상 분석 등을 통해 수술의 정확도와 안전성을 향상시킵니다. 이는 AI가 의료진의 '두뇌'와 '손'을 보조하며 더욱 정밀하고 개인화된 의료 서비스를 가능하게 하는 변화입니다.",
-                "의료 서비스의 질 향상, 진료 효율성 증대, 의료 비용 절감, 그리고 궁극적으로는 환자 치료 결과 개선에 크게 기여할 수 있는 파급력 높은 소식입니다."
+                "AI 분야의 세계적인 권위자이자 'AI 3대 대부' 중 한 명인 얀 르쾽(Yann LeCun)이 설립한 스타트업 'AMI 랩스'에 국내 대기업 두산이 투자했다는 소식은 글로벌 AI 기술 트렌드에서 매우 주목할 만합니다. 이는 단순한 기업 투자를 넘어, 최첨단 AI 연구와 기술 개발에 대한 전략적 중요성을 보여줍니다.",
+                "얀 르쾽 교수의 비전이 담긴 AMI 랩스는 차세대 AI 기술, 특히 '월드 모델'과 같은 인간 수준의 지능을 목표로 하는 연구를 진행할 것으로 예상됩니다. 이 투자는 두산이 미래 AI 기술 선점에 참여하고, 글로벌 AI 기술 혁신에 기여할 수 있는 중요한 발판이 될 것입니다."
             ],
-            "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE1pZV9RYl85ajFRNndjbWNQUzZEc0ZmVVFwSkREM211enlOTk1oVVF1QnJWSmlaRVZLLTFuMExiWXQyZm95MHNTMEhBT1d3V3c5TWNHTGlIZnkzd9IBWEFVX3lxTE1ObzdPb2ZiZjZMWm5Xcnk4STFzZnBIdXN3TmkwR1prZllzX0I5Y2FET051N1BNa2xVNUI3VVU4aVdPQUx2WlNKYVM2NEtadHp6b2lFdEhHWkQ?oc=5",
+            "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE53Q0dHT05NOTU4aVdacm9hbTc3WEIxaDhWeEk5cWtPczI1WVZub1M4a1Aza3gwTjNVcm9odFl0WUpsWGJkVGM1WnkwMmR3MFVaa3dUZkx2NDI4NDBQVTl4NFZRM2ZacUU?oc=5",
             "category": "AI_Tech",
-            "published": "2026-03-10T21:19:24.824802"
+            "published": "2026-03-11T21:20:06.414601"
         },
         {
-            "title": "PCN, '공감지능 AI' 위한 대규모 멀티모달 감정 데이터셋 R&D 확대",
+            "title": "LG에너지솔루션 김제영 CTO “R&D에 AI 에이전트 도입…배터리 연구개발 패러다임 바꾼다”",
             "points": [
-                "'공감지능 AI' 개발을 위한 대규모 멀티모달 감정 데이터셋 R&D 확대는 AI가 인간의 감정을 이해하고 반응하는 다음 단계로 나아가기 위한 핵심적인 기반 기술 개발입니다. 이는 AI의 지능을 넘어 '감성' 영역으로 확장하는 중요한 트렌드를 반영합니다.",
-                "멀티모달 감정 데이터셋은 텍스트, 음성, 표정, 제스처 등 다양한 형태의 데이터를 통합하여 AI가 인간의 복합적인 감정을 더 정확하게 인지하고 해석할 수 있도록 돕습니다. 이는 AI가 단순히 정보를 처리하는 것을 넘어, 사람의 미묘한 감정 변화까지 읽어내어 더 자연스러운 상호작용을 가능하게 하는 '감성 지능'의 토대가 됩니다.",
-                "고객 서비스, 교육, 헬스케어, 엔터테인먼트 등 인간과의 상호작용이 중요한 모든 분야에서 AI의 활용도를 혁신적으로 높일 수 있으며, 더욱 인간 친화적인 AI 시스템 개발의 초석이 됩니다."
+                "글로벌 배터리 시장의 선두 주자인 LG에너지솔루션이 연구개발(R&D) 과정에 'AI 에이전트'를 전면 도입하여 배터리 개발 패러다임을 바꾸겠다고 선언한 것은 매우 중요한 소식입니다. 이는 AI가 단순한 보조 도구를 넘어 복잡한 연구 과정을 주도하고 혁신을 가속화하는 핵심 주체가 될 수 있음을 보여줍니다.",
+                "AI 에이전트는 방대한 데이터를 분석하고, 새로운 물질 조합을 탐색하며, 실험 결과를 예측하는 등 배터리 개발의 전 과정을 최적화하여 연구 기간과 비용을 획기적으로 줄일 수 있습니다. 이는 AI가 실제 산업 현장에서 기술 혁신을 이끌어내는 강력한 도구로 자리매김하고 있음을 증명하는 사례입니다."
             ],
-            "link": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE1DdlRaS2NrbXpqeGVBU3RZbTBmRUZ5RFNPWUVKeW9mNTQzbk9rTmU3UkRkX2dvanhQeTNERFUzMnYzWTQ0Zm1YRlFoOUtoUQ?oc=5",
+            "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE1FbFZLVndJN29MalFuZEprSW9EN0JFWE8yUnF1bTAydzZ4NzhCYVZJWmFYMDlqMlhmU3J0ZzdFai1HX0VaSVRTa3p6MTVybG4xUHJKYjRaY01SN3RrejNab0hhR1V4aVU?oc=5",
             "category": "AI_Tech",
-            "published": "2026-03-10T21:19:24.824803"
+            "published": "2026-03-11T21:20:06.414602"
         },
         {
-            "title": "AI, 광고 도구 넘어 크리에이티브 파트너로…뜨거운바다, 생성형 AI 필름 '아우라' 공개",
+            "title": "‘영상언어모델(VLM) 기술 콘퍼런스’에서 생성형 AI·멀티모달 기술 동향 논의한다",
             "points": [
-                "생성형 AI가 단순한 도구를 넘어 창의적인 작업의 '파트너'로 진화하고 있음을 보여주는 사례입니다. 이는 AI가 예술, 디자인, 미디어 등 창작 산업에 미치는 영향과 그 잠재력을 명확히 보여주는 중요한 트렌드입니다.",
-                "생성형 AI는 텍스트, 이미지, 영상 등 다양한 형태의 콘텐츠를 새롭게 만들어내는 능력을 가지고 있습니다. 이 기사는 AI가 광고 필름 제작 과정에서 아이디어 구상부터 실제 영상 구현까지 전반적인 창작 과정에 참여하여, 인간 크리에이터와 협력하는 새로운 패러다임을 제시합니다. 이는 AI가 인간의 창의성을 보조하고 확장하는 '디지털 조수' 역할을 수행하는 것입니다.",
-                "창작 산업의 생산성을 혁신하고, 새로운 형태의 예술적 표현과 콘텐츠 제작 가능성을 열어줍니다. AI가 인간의 창의성을 대체하기보다 증강시키는 미래를 보여주며, 다양한 산업 분야에서 AI 협업 모델의 확산을 예고합니다."
+                "이번 콘퍼런스에서 '영상언어모델(VLM)'과 '멀티모달 AI' 기술 동향이 집중적으로 논의된다는 점은 현재 AI 분야의 가장 뜨거운 기술적 흐름을 반영합니다. 이는 AI가 텍스트뿐만 아니라 이미지, 비디오, 오디오 등 다양한 형태의 정보를 동시에 이해하고 생성하는 능력을 갖추는 방향으로 발전하고 있음을 보여주는 중요한 지표입니다.",
+                "VLM과 멀티모달 AI는 인간처럼 여러 감각을 통해 세상을 인지하고 소통하는 AI를 구현하는 핵심 기술입니다. 이는 자율주행, 스마트 로봇, 콘텐츠 생성, 의료 진단 등 광범위한 분야에서 AI의 활용도를 극대화하고 새로운 서비스와 제품을 창출할 수 있는 잠재력을 가지고 있어 미래 AI 기술의 핵심 동력이 될 것입니다."
             ],
-            "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE9wdEtPZ0FtXy1iakFBZGtKS3JsMlpXa09hLU8zUkRfaThlZTFMbThHV2RTTjVMVS03N0pqOHRka1dlYlF3NFByOTV5VzFfdzNpV0RNOW9mc0JxSnozOHJiVjh3NU0wYUE?oc=5",
+            "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE96Sm4tMzQ3V1BmZGRJWUxnaDgxcmdVek96NmdHNDRQRG9Ccmd6elRoTUtuSGwzZk1NS00wYl9yanpQR3dubGpjR3lCYzNtREE?oc=5",
             "category": "AI_Tech",
-            "published": "2026-03-10T21:19:24.824804"
+            "published": "2026-03-11T21:20:06.414603"
         }
     ],
     "IT_Biz": [
         {
-            "title": "삼성전자, R&D 37조7000억 ‘역대 최대’ 투자…AI 반도체 경쟁력 강화",
+            "title": "일론 머스크 xAI, 미시시피 발전소 41기 짓는다",
             "points": [
-                "이 뉴스는 삼성전자가 AI 반도체 분야에 역대 최대 규모의 R&D 투자를 단행한다는 소식으로, 글로벌 IT 산업의 핵심 경쟁력인 AI 반도체 시장의 판도를 바꿀 수 있는 대규모 투자입니다.",
-                "삼성전자의 AI 반도체 기술력 강화는 미래 컴퓨팅 및 데이터 산업 전반에 걸쳐 큰 영향을 미치며, 글로벌 반도체 시장의 경쟁 구도와 기술 표준에도 변화를 가져올 수 있습니다."
+                "일론 머스크의 AI 기업 xAI가 대규모 AI 데이터센터 운영을 위해 자체 발전소 건설을 추진하는 소식입니다.",
+                "이는 AI 연산에 필요한 막대한 전력 수요를 보여주며, AI 인프라 구축의 새로운 패러다임을 제시하는 대규모 투자입니다."
             ],
-            "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTFBRR3laaDE1Q05iZzBDX1Q5TUZOVDBBTHQ3bk5QbUhaeDhIWGJzbVlNUHR3TWRLcUZwOWh0VjRGQ3ZzaWVYSnpsaFJid0VhREk?oc=5",
+            "link": "https://news.google.com/rss/articles/CBMic0FVX3lxTFBrN0NKbW1xRmtQQ3huRnhxN19JQmlHMy1IV3J6YlBkS2ZtNllkbnVTSUo0amZCQWswVndPaDA1MXJIQWN3UmYwZWNDcG9Xc3N2aXhSdURxN3Ewekc3OVhhMW95bUhucGVfNlZyaGhHRkRmVm8?oc=5",
             "category": "IT_Biz",
-            "published": "2026-03-10T21:19:57.642488"
+            "published": "2026-03-11T21:20:36.190733"
         },
         {
-            "title": "미국-이란 전쟁 \"트럼프 종전 선언... 뉴욕증시 비트코인 환호 폭발",
+            "title": "‘AI 대부’ 얀 르쿤 설립 AMI랩스, 10억달러 투자 유치",
             "points": [
-                "이 뉴스는 미국과 이란 간의 지정학적 긴장 완화가 글로벌 금융 시장에 미치는 즉각적인 영향을 보여주며, 특히 비트코인과 같은 디지털 자산 시장의 변동성에 큰 영향을 주어 IT_Biz 분야의 간접적인 파급력을 시사합니다.",
-                "국제 정세 변화가 전통 금융 시장뿐만 아니라 암호화폐 시장에도 직접적인 영향을 미치며, 이는 IT 기술 기반의 금융 상품 및 투자 심리에 중요한 경제적 변화를 가져옵니다."
+                "AI 분야의 권위자인 얀 르쿤이 설립한 AMI랩스가 10억 달러 규모의 대규모 투자를 유치한 소식입니다.",
+                "이는 AI 스타트업에 대한 막대한 자본 유입과 함께, 차세대 AI 기술 개발 및 상용화에 대한 기대감을 높이는 중요한 투자 사례입니다."
             ],
-            "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPOG9DTkF2VUdpLWJjSklrdDBQMmhDMWVqQUJWdHB6UkVaNDlJcGFhanpZYmE5Z056SXpFbHRnZ2wwbG4yZnFlMUdSTFppakdFTk5TbzdRbW5Dd0JNeXkzb2twX21JYk8tdGNsYk5UZHg0cVhBcTFLZnN2ZXpFOFZLdVdnWDc3SjFp?oc=5",
+            "link": "https://news.google.com/rss/articles/CBMigwFBVV95cUxPRlVXWHVxbVE3THF3WmtIN0dDdzB5anFTNjc0VUxUcU16eHJLNXNMcHI1SjJ0Y2N6VDJXN19wMjVHMHRsMWpwS3RVNmp6aE8tZ0FsR1JNTHQ0dVo5ejhRXzZNQ1N5dDRsdk50QXlYS21wMUtNNHVWT1dzOFRuWnVoTmpWZ9IBlwFBVV95cUxQWDlma2xYZnloLVRaZVQwbi0tLU40dGt2YmZFaXBHT0lsWU50Vl9ieWFjZzhNR0JJYXI1WlRsakZrVGxZUnZ3Nm1VZmM1RmQxOHp3eWJvZWVia1Z5VkpuZ2FWa0N6WDBLZUp4eC1iaUNTMVF0SVBlUkd1cFVjVmtfd1luSC1kNVAyMzc3SWNoWEZrdjJSeGtN?oc=5",
             "category": "IT_Biz",
-            "published": "2026-03-10T21:19:57.642495"
+            "published": "2026-03-11T21:20:36.190740"
         },
         {
-            "title": "일주일 앞으로 다가온 엔비디아 GTC...인근 호텔은 10배 치솟아",
+            "title": "[단독] 엔비디아 맞수 AMD, 한국에 러브콜…리사 수 방한해 이재용과 회동",
             "points": [
-                "이 뉴스는 AI 반도체 시장의 선두 주자인 엔비디아의 주요 기술 컨퍼런스(GTC)에 대한 높은 기대감을 보여주며, 이 행사에서 발표될 혁신적인 AI 기술 및 제품들이 향후 IT 산업의 방향을 제시할 수 있습니다.",
-                "GTC는 AI 하드웨어 및 소프트웨어 생태계의 주요 이정표가 되는 행사로, 새로운 AI 칩, 플랫폼, 솔루션 발표를 통해 AI 기술 발전과 시장 경쟁에 큰 영향을 미칠 것입니다."
+                "엔비디아의 주요 경쟁사인 AMD의 CEO 리사 수가 한국을 방문하여 삼성전자 이재용 회장과 회동한 소식입니다.",
+                "이는 AI 반도체 시장의 주도권을 위한 전략적 협력 가능성을 시사하며, 글로벌 반도체 산업의 판도에 큰 영향을 미칠 수 있는 중요한 움직임입니다."
             ],
-            "link": "https://news.google.com/rss/articles/CBMigwFBVV95cUxOTWJnOFlWTFdQOXlKaVlOdlZPOXNtVklidGRkSi05bUxhU1pZMEVvRHhf0kI3MjdnTV9iX01pOTFRYklBemF3WEZ1TWtsTm1ZNmZSMXRiQ194OU1RT0JUVFhhMVpDeDhqanF2bUMtaHRDYU5VeTZxM01FQVBheTFwRk1hTdIBlwFBVV95cUxQSURZX3l3aXhKbGt4UnBtUGF3cG85YWtfcXFOLTFmMHUxcDJHUlM2MjdxWThITGdiU3ZRYUZVVlN6WUR3MHpxWjRBNzRVekdSNjNKMXFSTjFHZnJwRGlxZ3I4TFE3SjIycXVGUmF3UElZaXV6UmdYN1JRUVVHVEhyUjN2Ym5ZX1hzbnJPZXp5TkMxRlcyTE93?oc=5",
+            "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE56cVhnZ2pGVHJQcDQwZW4wY2ppdnp2aUhNaVRRZDFoZHo4LUoydS1HTkVVV1B2emQzUWRPcEphOGJUYVQ1VEpoTnA3TWdzWlczZnV4VXp3?oc=5",
             "category": "IT_Biz",
-            "published": "2026-03-10T21:19:57.642496"
+            "published": "2026-03-11T21:20:36.190741"
         },
         {
-            "title": "반도체가 바꾼 에너지 지도… 대만 정부의 ‘원전 유턴’ 전말",
+            "title": "자율주행에서 로봇·서버까지… 삼성전기, 테슬라 AI 칩 양산에 기판 공급 ‘탄력’",
             "points": [
-                "이 뉴스는 대만 정부가 반도체 산업의 안정적인 전력 공급을 위해 원전 정책을 재검토하는 것으로, IT 핵심 산업인 반도체가 국가 에너지 정책 및 지정학적 전략에 미치는 막대한 영향력을 보여줍니다.",
-                "반도체 생산의 중요성이 에너지 안보와 직결되면서, 글로벌 공급망과 에너지 정책의 변화를 유도하는 중요한 경제적, 정책적 변화의 신호탄입니다."
+                "삼성전기가 테슬라의 AI 칩 양산에 핵심 부품인 기판을 공급하며 협력을 강화하는 소식입니다.",
+                "이는 자율주행, 로봇, 서버 등 AI 핵심 분야에서 대규모 AI 칩 생산이 본격화되고 있음을 보여주며, 관련 공급망 및 기술 경쟁력에 큰 영향을 미칩니다."
             ],
-            "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxORDhpU29YNzhyaU1mc21ldzhLcFZ3emRERllvbHlabThJX0tTTjVva2dxRm1CLWQtUDREdEp3djlyODJTZTVVV3kyUHlxbU5FMnBIaUhlWkYwQmFnckFPN0IyZEJKd1FremJFRDUzdVpfUEZndTBkRDZ0MUR3alJONlRuck56d2Fk?oc=5",
+            "link": "https://news.google.com/rss/articles/CBMiggFBVV95cUxNVnBEVHgzQjdiOFJ5am4zNVRyUXdBMkVsdVFBLU5fV0dPX291azVIMGkzdlMzT1JoZVd6S0tuMUNqRk1LdktHZnphME4xN3NiS1BuMG1WVlJHMDFXUXRQUmtUT1N4Qjd6M2dqZ3NjZXMwYXdYbUFqb0VWaHRQZlJfN19R0gGWAUFVX3lxTE01WEs4VzRvRDh4bEpnWUdBU0t1eExHdHRvZDQ5clZVS1ZSUjl4VEFvSm5YTFljSXQxajRBc2NuSHFCNXZqLXBnN0lBQ3U0WU1QWjd6cGZXYm51bTFhQS16NjdzNklYWlhRNmZwUmdTQUhvaV9fWjVCMXBqQjB1X0RyYkhvWlJ2U2gzZ2NIc1hPQzYzclBoQQ?oc=5",
             "category": "IT_Biz",
-            "published": "2026-03-10T21:19:57.642497"
+            "published": "2026-03-11T21:20:36.190742"
         },
         {
-            "title": "“독점적인 엔비디아보다 비싸면 안 산다”…회의론 나오는 오픈AI, 왜?",
+            "title": "“말 몇 마디로 포토샵 수정 끝”...어도비, 대화형 AI 편집 기능 공개",
             "points": [
-                "이 뉴스는 AI 서비스 시장에서 오픈AI의 가격 정책과 엔비디아의 독점적 지위에 대한 시장의 회의론을 다루며, AI 기술 상용화와 비즈니스 모델의 지속 가능성에 대한 중요한 논의를 촉발합니다.",
-                "AI 기술의 발전과 함께 서비스 비용, 하드웨어 의존도, 시장 경쟁 구도가 어떻게 변화할지 보여주는 핵심적인 경제적, 기술적 변화 포인트입니다."
+                "어도비가 포토샵에 대화형 AI 편집 기능을 도입하며, 사용자가 자연어 명령으로 이미지를 수정할 수 있게 된 소식입니다.",
+                "이는 AI가 콘텐츠 제작 및 편집 도구에 깊이 통합되어 사용자 경험을 혁신하고, 크리에이티브 산업의 생산성을 크게 향상시킬 잠재력을 보여줍니다."
             ],
-            "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE9FcXFtZDFjY3B3Z1lSOUN5Q1dNMWROYjRKSmhZYnBkbEtDdERJZDI3aDFIVVl1aUJQajNyNHpvazRBMU10ay1oOHgyN05SWUVCeUE?oc=5",
+            "link": "https://news.google.com/rss/articles/CBMiTkFVX3lxTFBGa28xN3hnRlp5QzFadzR1MFlteDNxS1JuYUU0eWl1R2s1SWJYek9EajRFNWdydUUwa1BfVVZQbzRXWU5JREZtUkxRNW9Tdw?oc=5",
             "category": "IT_Biz",
-            "published": "2026-03-10T21:19:57.642498"
+            "published": "2026-03-11T21:20:36.190743"
         }
     ],
     "Economy": [
         {
-            "title": "석유 최고가격제 눈앞… 정유사·주유소 중 어디를 묶을지가 관건 - 조선일보",
+            "title": "‘현대차 새만금 9조 투자’ 추진 본격화…5월 중 범정부 지원계획 발표 - 조선일보",
             "points": [
-                "정부가 유가 안정을 위해 '석유 최고가격제' 도입을 검토하는 중대 정책 변화 가능성을 다루고 있습니다.",
-                "이는 국내 정유사 및 주유소의 가격 결정 방식에 직접적인 영향을 미쳐 관련 산업의 판도를 바꿀 수 있으며, 소비자 물가와 서민 경제에 광범위한 파급 효과를 가져올 핵심 경제 정책 변화입니다."
+                "현대차의 9조원 규모 새만금 투자는 국내 최대 규모의 투자 중 하나로, 지역 경제 활성화와 미래 모빌리티 산업 발전에 크게 기여할 핵심적인 국가 프로젝트입니다.",
+                "이번 투자는 전기차 및 관련 부품 생산 기지 구축을 목표로 하며, 정부의 전폭적인 지원 계획 발표를 통해 국가 산업 정책의 방향성을 제시하고 대규모 일자리 창출 효과를 기대할 수 있습니다."
             ],
-            "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxOamZVdXdyaG5Pa1h4YXZfRnZQWHFtai04TUxzVUdtZmhxOWRzVmJBY19qTHphZGRhR2VkNzNvV3VSdkZQZVhYSko5d2hkeTNaYXZPQUtLTnkzejdsNW5ZVFlWWVdmSF95VnE1ZnFyMVl2RmdSRUM4aXM1eEpvV3BJMGFGNURPYUJqUXJKTWpn0gGiAUFVX3lxTE1IWWtPY0s3dHhzcXZyYnFuSjFnYTZiRDNUQzZyOUVVaFhIMEZCY1ZsUkFYSmdKbF9nbGFDTng5RDVndHhqUEw2aWVfZGFEQnJCeE9uRHctSUZoUGU0WC05ZW1IWXdLbnJRZG8yTzFuRm9saU0zN2xGOGJjMGpjTUJrOU4wcEtjQXBpVU1lby04QUJUR2FXdmN3c1dQVFZnekw0QQ?oc=5",
+            "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE40MlNTSXlFZXZWSnZudzlfU2wyTWRxWUctWmcwSmFjSmFYREZ5WWJjMTdmNktURFJvcUVsRDE5SUNCM1RKNG94bmc5VEIxTUxjcDRFbDJOSk11dzVXenBNUGV2ei0zMUtoMjJRVVlaZ1M5N05NVVl0ODdpVjVOLXPSAZMBQVVfeXFMTTNTZElzdWI2U0ZmMHJ5Wm5pZFpRY1o1eTZ6U1NaVEEzTW40OVVCY0doYXl0MlBremxGYjVXT0psYmhhX3I2YkRwUk9ndXlhdU9XVGJYeWpwbEhwVkc5NjJmZzlEaU40WjRZenZwajFIVU5uSEthMG1fdkNqZ1pSR1BUcGFyaFpMc0g0UENNMElzbmpv?oc=5",
             "category": "Economy",
-            "published": "2026-03-10T21:20:32.838498"
+            "published": "2026-03-11T21:21:13.570462"
         },
         {
-            "title": "UAE·사우디에 묶인 26조 은행 자금 … 중동 리스크 '째깍째깍' - 뉴데일리 경제",
+            "title": "국제유가, 다시 4%대 올라…IEA 비축유 방출도 '안통해'(종합) - 마켓인",
             "points": [
-                "중동 지역의 지정학적 리스크가 국내 은행권에 미치는 직접적인 금융 위협을 다루고 있으며, 26조 원에 달하는 대규모 자금이 묶여있어 국내 금융 시스템의 안정성에 대한 우려를 제기합니다.",
-                "이는 단순히 특정 기업의 문제가 아닌 국가 경제 전반의 금융 안정성과 대외 리스크 관리의 중요성을 부각시키는 거시 경제적 이슈입니다."
+                "국제유가의 급등은 전 세계 경제에 직접적인 인플레이션 압력을 가하고 있으며, 주요 에너지 소비국들의 경제 성장 둔화 우려를 증폭시키는 핵심적인 글로벌 경제 뉴스입니다.",
+                "IEA의 비축유 방출에도 유가 상승세가 꺾이지 않는 것은 공급망 불안정, 지정학적 리스크 심화 등 근본적인 에너지 시장의 구조적 변화를 시사하며, 각국 정부와 기업의 에너지 정책 재편을 요구합니다."
             ],
-            "link": "https://news.google.com/rss/articles/CBMie0FVX3lxTE5wd0ozVC1WajhOYmdxNkJmOVR1M0cyVlY1bnRSaHg5OEpQZ0VraDREOXZ5LU5Mb3pjRUlEbnRNR19qd1FrUE1tcGVkdS0wYTRkVm9BLTFkSEdkSWdmTkItRlVnYTJ3NkVUVWJZbEtONzNMOTVORmd3QU5wOA?oc=5",
+            "link": "https://news.google.com/rss/articles/CBMic0FVX3lxTE5KQm5GR3ZfcjhyTjFuTHNYeVVHUTI4c2xqTHBIVi0wVEh4WEZxOUNCM3UzSGw5Uy03WElzdFBQWExEVVc3anhqZDBnQk54cmtSZUJfbmdVcmtJQUJ4RXdNY2NlcTBaTW5weDZ4ZGkxUm9HQ2c?oc=5",
             "category": "Economy",
-            "published": "2026-03-10T21:20:32.838506"
+            "published": "2026-03-11T21:21:13.570467"
         },
         {
-            "title": "로슈 이어 릴리도 거액 ‘한국 투자’…펩트론 등 주목 - 데일리메디",
+            "title": "정부, 4대 과기원 중심 '지역 AX 혁신 생태계' 조성한다 - 대한민국 정책브리핑",
             "points": [
-                "글로벌 제약사 로슈와 릴리가 한국에 대규모 투자를 단행한다는 소식으로, 이는 국내 바이오·제약 산업의 성장 잠재력과 글로벌 경쟁력을 입증하는 중요한 지표입니다.",
-                "외국인 직접 투자(FDI) 확대는 국내 관련 기업들의 기술 개발 및 고용 창출에 긍정적인 영향을 미치며, 한국이 글로벌 바이오 허브로 도약하는 데 기여할 수 있는 핵심 경제적 변화입니다."
+                "정부가 4대 과학기술원을 중심으로 지역 AX(AI 전환) 혁신 생태계를 조성하는 것은 국가 차원의 미래 성장 동력 확보를 위한 핵심 정책으로, 지역 균형 발전과 AI 기술 경쟁력 강화에 중대한 영향을 미칩니다.",
+                "이 정책은 AI 기술의 산업 전반 확산과 인재 양성을 목표로 하며, 이를 통해 국내 산업의 디지털 전환을 가속화하고 글로벌 AI 시장에서의 주도권 확보를 위한 기반을 마련할 것입니다."
             ],
-            "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTFBHR3dpX1oyVjc2SG5lNDUxQkFMenJJX3Z5bDYtM2l0SlZuSkFIUGk5NmZqdnFHYkk5bVBxQUZzSjFXM3RDMGthbEZ1ZlFvanFBTW5jR3o2emwxNWNjd1RVc3pJdnFkQXFC?oc=5",
+            "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTFBTSJzNzd6MkhQbDRfRjh4QlI0Qm92bXRralJRME01OTVUdVp4eG5CSlUtdWI3VjladVlLdzFVYUh3TlFXR2pKR2E4dTJ5cUNubXl1ZFJwM3A5Y0FzUGd0b2s4THJjREQ5Y0xnaQ?oc=5",
             "category": "Economy",
-            "published": "2026-03-10T21:20:32.838507"
+            "published": "2026-03-11T21:21:13.570469"
         },
         {
-            "title": "삼성SDI, 로봇 특화 '파우치 전고체' 배터리 공개한다 - 지디넷코리아",
+            "title": "33조 역대급 ‘빚투’ 주의보...금감원 “리스크 관리” 강조 - 매일경제",
             "points": [
-                "삼성SDI가 로봇에 특화된 '파우치형 전고체 배터리'를 공개한다는 소식으로, 이는 차세대 배터리 기술의 상용화 가능성을 보여주는 혁신적인 기술 발전입니다.",
-                "전고체 배터리는 기존 리튬이온 배터리의 한계를 뛰어넘어 전기차, 로봇 등 다양한 산업 분야의 판도를 바꿀 잠재력을 가지고 있으며, 삼성SDI의 기술 리더십을 강화하고 미래 산업 경쟁력을 좌우할 핵심 기술적 변화입니다."
+                "금융감독원이 33조원에 달하는 '빚투'에 대한 경고를 발표한 것은 국내 금융 시장의 과열 양상과 가계 부채 리스크에 대한 심각한 우려를 반영하는 중요한 경제 뉴스입니다.",
+                "이는 개인 투자자들의 무리한 대출 투자를 억제하고 금융 시스템의 안정성을 확보하기 위한 규제 당국의 강력한 의지를 보여주며, 향후 대출 규제 강화 및 시장 건전성 확보를 위한 정책 변화로 이어질 수 있습니다."
             ],
-            "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTFBVSkxNVFZiZ21td25JTmFFZmhOb0stV0tFbzNTZFZQUDVPam5lZDhJR2lqVjlwZDNhV09JVFJCTnJfSU5DZFUwaG13N2ZCSGRMS2xlZGV3?oc=5",
+            "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE1pZzhuekptSUZVYUdDckRlSUYzeTM1b1FoTUNxN0kyLWxhV3k4SkJTLWQ5RFc2Ul9QMTIwaW5fRWxDU1NKa1Nnemh1cDJuRTlmelE?oc=5",
             "category": "Economy",
-            "published": "2026-03-10T21:20:32.838508"
+            "published": "2026-03-11T21:21:13.570470"
         },
         {
-            "title": "1인당 국민총소득 12년째 제자리…日·대만에 추월당했다 - 동아일보",
+            "title": "서울 마곡에 ‘반값 아파트’ 나왔다… 국민평형 분양가 ‘4억원’ - 조선비즈 - Chosunbiz",
             "points": [
-                "한국의 1인당 국민총소득(GNI)이 12년째 정체 상태이며 일본과 대만에 추월당했다는 분석은 국가 경제의 장기적인 성장 동력 약화와 구조적 문제점을 지적하는 매우 중요한 거시 경제 지표입니다.",
-                "이는 국가 경쟁력 하락, 잠재 성장률 둔화 등 광범위한 경제적 함의를 가지며, 향후 정부의 경제 정책 방향 설정에 큰 영향을 미칠 수 있는 핵심 경제적 변화입니다."
+                "서울 마곡지구에 '반값 아파트'가 4억원대에 분양된다는 소식은 고질적인 주택 가격 문제에 직면한 서민들에게 희망을 주며, 부동산 시장의 새로운 공급 모델과 정책 방향을 제시하는 중요한 변화입니다.",
+                "이는 정부의 주택 공급 확대 및 가격 안정화 정책의 일환으로 해석될 수 있으며, 향후 다른 지역으로의 확산 가능성과 함께 부동산 시장 전반에 걸친 가격 형성 및 주거 문화에 영향을 미칠 수 있습니다."
             ],
-            "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTE05NEdRWXNWUjZqTlVJSWVOSldpM0pTRFN1RnRPbGxPemVvN21UNXZuUE51M0MtNE1MeEctdElwbUd6czMzT2s1UXJucDlCU0tCbl9oQktVRGRWbi0xYWJxT2J6Nl9BMFFJaGpidGtZQzFaNjgxWHfSAWZBVV95cUxQZ0VmQXRUSzFieWltUkZMVVhoemNSNlBXcERGRlJMbDU3Rm5ueHVEZVhQUGFuNWJHU19BTVBxclk5djV1VUhGNmR5cFdrMDR1Y0lnNnpvNnNuSmR4UVNuZEJkQjdjRGc?oc=5",
+            "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxNVVRUTFB0VWc5YzJmbmR4MzhRUk9WZmZ6TDJWeXpTbHVSUGItb0piWW5fYVc2SnA1RmJKRGh3NkRmaW1kMnNFalhrTUFhekVIM3VuVlhHd0ZOWThRME15aXFRUXhOZEl1amR0ZXpXZkFsM21nOU9lNGVRUHMyS3dPSlV4ZXV1RkdsTEtqSVhCUUtTUnhDbGp3b9IBrAFBVV95cUxOcnIwN2RaRDhvYlRmSGF1RFFOX3I0elhiejdIVVhjdDctRFlTaHFBeDhkZDQyaUNUdS1kaTAxOGFXM21uVWJvZzh5ZzB5TGtlTHlhMzdCWTFfWUJ5cmU1akEwOEVKb002M2hVTG9QbWdITTBYZ0U1aVdMSTFQU3RRMEpzSFpBTTZwOVVLX1pTTFlfYjRUZzhBUHVFdW45VnFkSlV6c3dJaE1VZFdz?oc=5",
             "category": "Economy",
-            "published": "2026-03-10T21:20:32.838510"
+            "published": "2026-03-11T21:21:13.570471"
         }
     ],
     "World": [
         {
-            "title": "이스라엘 \"이란 탄도미사일 개발시설 타격…새로운 전쟁 단계\" - 연합뉴스",
+            "title": "IEA, 4억 배럴 비축유 방출 권고할 듯…사상 최대",
             "points": [
-                "이스라엘이 이란의 핵심 군사 시설을 직접 타격하며 중동 분쟁이 새로운 단계로 접어들었음을 알리는 중대한 군사적 조치입니다.",
-                "이번 공격은 이란의 보복을 유발하고 역내 긴장을 최고조로 끌어올려 국제 안보와 에너지 시장에 즉각적인 영향을 미칠 수 있습니다."
+                "국제에너지기구(IEA)가 사상 최대 규모의 비축유 방출을 권고하는 것은 중동 정세 불안으로 인한 국제 유가 급등에 대응하기 위한 전 세계적인 경제적 조치입니다.",
+                "이는 글로벌 에너지 시장의 안정화를 목표로 하며, 유가 상승 압력을 완화하여 세계 경제에 미치는 부정적 영향을 줄이려는 시도입니다. 대규모 비축유 방출은 단기적으로 유가를 하락시키고 인플레이션 압력을 완화할 수 있습니다."
             ],
-            "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE40MXk0ZEY3dkx2emRuVm1yQUNkTTBhUE9tUl9QbXRfVXE2UXNrNmlBcnFla2xmX19panlqVU1BZVNkUFlZdHhiajBaeHZhSHkwWXQ3c1pkOEhRNXPSAWBBVV95cUxNMEVPeHV4Y3M0Y25yZzFxRmFfd1FWZjdqbHpHNl85Tkw2eFlHTm5qbEpYWDUwcGpjS1QzWjVNa21VMFB6NldfT25xV0hWR3JPUEE3S0ZOZDBRSHlydWN5TWw?oc=5",
+            "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTFBtdzRuVHF3bXh2ZElJSGpCVTVhMFRFODFDMTVRUklGcUhkeGMxSThVX0FCV1A5ZlA5bnFvc3M1dlZwVHNWQlp6RkZsVmMxX0doTjV3Z2Z6LUR6ZUpDTjczU2NJaE0?oc=5",
             "category": "World",
-            "published": "2026-03-10T21:21:06.112765"
+            "published": "2026-03-11T21:21:45.004496"
         },
         {
-            "title": "이란, ‘호르무즈 해협 통과’ 조건 내놨는데···“미·이스라엘 외교관 쫓아내면” - 경향신문",
+            "title": "호르무즈해협서 태국·일본 선박 등 4척 피격···이란 “배럴당 200달러 각오하라”",
             "points": [
-                "이란이 세계 원유 수송의 핵심 통로인 호르무즈 해협 통과에 조건을 제시하며 국제사회에 강력한 외교적, 경제적 압박을 가하고 있습니다.",
-                "이는 글로벌 에너지 공급망에 직접적인 위협이 되며, 국제 유가 변동성 확대 및 중동 지역 외교 지형 변화를 초래할 수 있습니다."
+                "세계 원유 수송의 핵심 통로인 호르무즈 해협에서 상선 피격 사건이 발생하고 이란이 유가 200달러를 경고한 것은 중동 분쟁이 글로벌 에너지 안보와 경제에 직접적인 위협이 되고 있음을 보여줍니다.",
+                "이 사건은 국제 유가 급등을 야기하고 글로벌 공급망에 심각한 차질을 초래할 수 있으며, 전 세계적인 인플레이션 압력을 가중시키고 경기 침체 우려를 심화시킬 수 있는 중대한 경제적 변화 포인트입니다."
             ],
-            "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFBlUDhhVllVZUFNMTEyS3Vac19oNEtxcEQ0Wm9Pd3hQMWZaYkpnYVo1TjNXSXBpSXBGYV9leTdCbG1GSnozOFJHYzR6UVpzRy1OdVNLdEZUNmlnQdIBX0FVX3lxTE80ci0xazNyYS0yYW4wRzRpVUpaM2FsMWZvbTFfWk8wU2hhT3J0aGk5Z1pZVNqVVBRT1dXbUJiMWlHNG9YUXAzZ0xmNVRPY19tMzBjdUU2bkFnRG56dmZ3?oc=5",
+            "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE5VemptXzI5c21aUDJqa0tNUlJVRW83V0RUUzkxRlZyNmFWMXBtR09hNk5KZ3pIaWpaWTBYQTQ5VHFEQXk4SjFJX3dSRUZjdk1nZWZmNHRreThDQdIBX0FVX3lxTFBLQXRwOE41OTRMQkh2bi1JM2xud2ViNHE3VmZTVVpCMm1HR1M0V3RZWGstR1lTOXNDZlliVV9wNXlEYlNRZEZuaTNvcDhTWjRqMGk3LVNTVkc0ZkFsOURZ?oc=5",
             "category": "World",
-            "published": "2026-03-10T21:21:06.112773"
+            "published": "2026-03-11T21:21:45.004501"
         },
         {
-            "title": "1978년 이란혁명 버금가는 ‘오일쇼크’…아시아 사재기 에 유가 ‘들썩’ - 매일경제",
+            "title": "트럼프, 이란 전쟁 출구 찾나... “내가 끝내고 싶을 때 끝날 것”",
             "points": [
-                "중동 분쟁 심화로 1970년대 이란 혁명 당시와 유사한 대규모 오일쇼크 발생 가능성이 제기되며 전 세계 경제에 심각한 위협이 되고 있습니다.",
-                "국제 유가 급등은 글로벌 인플레이션을 가속화하고 경기 침체를 유발할 수 있으며, 특히 아시아 국가들의 에너지 안보에 큰 영향을 미칠 것입니다."
+                "도널드 트럼프 전 대통령의 이란 전쟁 종결에 대한 발언은 미국 대외 정책의 방향성과 중동 정세의 향방에 결정적인 영향을 미칠 수 있는 주요 정치적 메시지입니다.",
+                "이는 이란과의 긴장 완화 또는 재고조 가능성을 시사하며, 미국의 중동 개입 전략 변화에 대한 국제사회의 주목을 받습니다. 트럼프의 발언은 향후 외교적 협상이나 군사적 행동의 기조를 형성할 수 있습니다."
             ],
-            "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTFB1R0Q4X1FkeFlLbGdKQmlueTR1NmVvLTlOanp4azU0NEc4SE5VTVFsUmlJYVZTQmhCdHVtQ2lKUi1ia1Rzb19KX1JJcjB2VHZFOUE?oc=5",
+            "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxQQWpVQmFmZEtKdTJ2ZlhRTGJDMndZbElvQWk4RnJyd0xWYmtycjctZmVpck5aOEVWWk1KOGd2MlNjeDJkZnhpbkZlWTBpaWp4cUI5dDFIT0ZkSkhrSUNYQllqdWFXUkZhUnJSYlc5QnVuck1JSzYzQ3FrcnQ1Z2h5QVZLemjSAZgBQVVfeXFMTndYdlhwSTBHdUozRTZPNnlPZ05fUU5oNkhvS1NOeXE5RTRIM2g1Z1R2alNzc0lFREFqcy1XWGp4ektkWHBicXFqUmNKeXF2Q2hYdkNwZGQxb2FRTDE1d0hYOHVHSS00ZUxrU1ppTWo1ZmVab2MtM0ZlV2U0bDlWdTZHRTB0NVhJdkV4ZktvSFRTUFJiYmVTQW8?oc=5",
             "category": "World",
-            "published": "2026-03-10T21:21:06.112774"
+            "published": "2026-03-11T21:21:45.004503"
         },
         {
-            "title": "묶인 푸틴 돈줄 풀릴까…트럼프 \"일부 국가 원유 제재 해제할 것\" - JTBC",
+            "title": "[美 이란 공습] 중동 전쟁에 원유 우려 고조된 亞…휴교령에 주4일제 전환도",
             "points": [
-                "도널드 트럼프 전 대통령이 집권 시 일부 국가에 대한 원유 제재 해제를 시사하며 글로벌 에너지 정책 및 국제 제재 체계에 중대한 변화를 예고했습니다.",
-                "이는 러시아 등 제재 대상국의 경제 회복에 영향을 미치고 국제 유가 및 에너지 시장의 판도를 뒤흔들 수 있는 파급력 있는 발언입니다."
+                "미국-이란 공습으로 인한 중동 전쟁의 여파가 아시아 지역의 원유 수급 불안과 사회적 혼란(휴교령, 주4일제 전환)으로 이어지는 것은 분쟁의 파급력이 전 세계 경제와 일상생활에 미치는 광범위한 영향을 보여줍니다.",
+                "이는 국제 유가 상승이 단순한 경제 지표를 넘어 각국의 에너지 정책, 산업 생산성, 심지어 교육 및 노동 시스템에까지 직접적인 변화를 가져올 수 있음을 의미하며, 글로벌 경제의 불확실성을 증대시키는 요인입니다."
             ],
-            "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE9MbXNncUFmRUhpRUxJd2VBM2pYamt4UnI3NDluMjBlY2ZVWjR3VWl4WmZhVHREY291NG1KZjk3N0lrNnNhS0N2THB3Q0RjcDJVWHpEcQ?oc=5",
+            "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxOeHpXUFpTXzRnQ1Q3dzlQXy11bU1FMkZ0N1ltenJBeWRIX2dkYlBOWHNnSVBpUHpoUVMzYnN3LVlaUlVuN3ZtVzhFRWpoRHMtRHF6ZGVSWldaMVRWVkpZTEw4RnFVZFVCVkpGd0dya2JiYjJ4THl1VDVmczUwalAtb3F6X19Zb09ZZW1vNGExcHVvQm1nTm0xSndmTFJlQdIBsgFBVV95cUxQUnRsOHkxNDl2ZldQaHpORkdwOHBwQlh5NXlodm8zSGZpR3Y3bW9aWklfT1pjVVVSaktDalhXMUN0YWNWaEcyR2N2amJwMGhWM2VmeDJ2VzN6b2xkdGpyY1VGV3lNckZIZVdaandRcTlQcjh3UW1pRG9MZFIwLVpwRFNMSkJ1RFB5akNXeUJwdmdodG5BTENxY1FpYURNYXZuVW5hTDJCVS1BRFVMdEZtbkJ3?oc=5",
             "category": "World",
-            "published": "2026-03-10T21:21:06.112775"
+            "published": "2026-03-11T21:21:45.004504"
         },
         {
-            "title": "日, 사거리 1000㎞ 미사일 기습 반입…‘반격 능력’ 첫 실전 배치 - 동아일보",
+            "title": "김정은, 김주애 대동 전략순항미사일 시험발사 참관",
             "points": [
-                "일본이 사거리 1000km급 미사일을 실전 배치하며 전수방위 원칙을 넘어선 '반격 능력'을 확보, 동아시아 안보 지형에 근본적인 변화를 가져오고 있습니다.",
-                "이는 역내 군비 경쟁을 촉발하고 주변국과의 외교적 긴장을 고조시킬 수 있으며, 일본의 군사적 역할 확대에 대한 국제사회의 논의를 심화시킬 것입니다."
+                "김정은 위원장이 딸 김주애를 대동하고 전략순항미사일 시험발사를 참관한 것은 북한의 핵·미사일 개발 의지를 재확인하고, 김주애의 후계자로서의 위상을 강화하려는 의도가 담긴 중대한 정치적, 군사적 메시지입니다.",
+                "이는 한반도 및 동북아시아 안보 정세에 긴장을 고조시키고, 북한의 군사적 위협과 미래 권력 구도에 대한 국제사회의 우려를 심화시키는 핵심적인 변화 포인트입니다."
             ],
-            "link": "https://news.google.com/rss/articles/CBMic0FVX3lxTE0xZktzNGZfTDU4U3R2ZGpMdDhkcmlOSGZjMnZYblNUUDdJcTR5bTJRdlJ3aUp2cVhoWW1mYmFKV2pMOHRHeTlnb25SdWNfS1BWdjI0WHhiZDhkbFIzMmRtbnhDM29xUkZKVS1pbU1UWkVqUXPSAWZBVV95cUxObnc5czJkLUZQa2ZreFg5WkpidUlhNUxkbkJBVDQ0RHVoMkdCWnk3clJkMkFid1pWZlVLbjhXUW1EM1ZnZkFpN1NzY0gySWdDRHBzZGtNSFhid1Zsd2lEbVZhVlYtelE?oc=5",
+            "link": "https://news.google.com/rss/articles/CBMiigFBVV95cUxNWG1oVVZ6UlYwNlcxd0djT0VITkFHVFlfUjVSMVJpLW1tSmgydWVjQ1pxRWFIbGZQd3MzaHZ4b3VaRHNuVmV1T1lHODJhVHFSTnhIM0NENGhlS2ZiRWgxZ0pWbTBhN09Well5RXVRZXhsU2h2TmhQMGx1blEwVkVZdUtRMGdXa0FVbWfSAZ4BQVVfeXFMUDdFWGpRVEMxU2ZGRGMxMWZYVHJiN3hWODI0U1kxb3o2bVJQVkNub0hWSjl6b09wSVJpRF9kT3BobjQ5YzFmZklGSEVFRnVmQXVzd3BkeG5paURkdkNmVllFNDhTb2NkODdJblFyaEdDeF9HekdvYkhLWXA4WGNqZG1yX09RakpkNkIybE5YcS1mb3hPMmpYdUZ0YVBWUFE?oc=5",
             "category": "World",
-            "published": "2026-03-10T21:21:06.112777"
+            "published": "2026-03-11T21:21:45.004505"
         }
     ]
 }
