@@ -1,158 +1,54 @@
 {
-    "AI_Tech": [
-        {
-            "title": "LG에너지솔루션, 연구·전문위원 17명 선임… AI 인재 첫 발탁",
-            "points": [
-                "글로벌 배터리 선두 기업인 LG에너지솔루션이 역대 최대 규모의 AI 및 소프트웨어 전문가를 연구위원으로 대거 영입한 것은 AI가 미래 산업 경쟁력의 핵심임을 보여주는 대표적인 사례입니다.",
-                "이는 단순한 인력 충원을 넘어, AI 기술을 배터리 개발, 생산 효율화, 품질 관리 등 전 사업 영역에 깊이 통합하여 기술 리더십을 선점하려는 전략적 움직임으로, 전 세계 주요 산업 기업들이 AI를 통해 혁신을 추구하는 트렌드를 반영합니다."
-            ],
-            "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTE4xYk9KMGlNMDJ4TnF6dEEtSWExeHJkN290a2ZESzk5eXMtVm1pRklwSDA1S0hwWUh2MGFrNUNJOHZvX1I5cGNpaXExZmZfNnFYVmw3dS15Z3NJNWk0T25pcjlqV0hOY2dYdTFEWEN1by1MRlNTZnfSAWZBVV95cUxOWGhhdkViUnNNX0t2TVhHNG5jQTdIaXpueUFmanVVNURUMXU1Y2dxdlNGUDhPaTFKN2ZSYktQc3EwanFJR2Zjamg4dlVLYW14S01KQUhRd3g1dUVFUzNRbFRsQm9fRUE?oc=5",
-            "category": "AI_Tech",
-            "published": "2026-04-15T21:40:05.146175"
-        },
-        {
-            "title": "충남대 \"피지컬 AI 기업 어플라이드인투이션 협력 강화\"",
-            "points": [
-                "충남대학교가 미국의 자율주행 AI 소프트웨어 선도 기업인 '어플라이드 인투이션(Applied Intuition)'과 협력을 강화하는 것은 글로벌 AI 기술 생태계에서 중요한 파트너십의 한 예입니다.",
-                "특히 '피지컬 AI' 분야는 로봇, 자율주행차 등 물리적 세계와 상호작용하는 AI 시스템 개발에 필수적인 기술로, 이번 협력은 실제 환경에서의 AI 적용 및 고도화를 가속화하며 미래 모빌리티 기술 발전에 기여할 잠재력이 큽니다."
-            ],
-            "link": "https://news.google.com/rss/articles/CBMiYAFVX3lxTE05X2NYNFRGRkx2aUwxNU9jV21uN1F6UDVMNkk1YjBOaXpmNVhIcDR4d2w4T09hWnBlMVAzU0ZEdE1CV3hGa3EwanBjYjEwQk5YVkVjV1E4Zm4zSFNZYXdiLdIBeEFVX3lxTE91V1RPRXRPUWVZOWw5aXNGZTQ2UGNsMHVUdWNoRk1kTmR5RExLUkZoLWx6d2xRR1VmVnBWOXZNNWREQ2paVTlwd3NIMHBIaDVFYTAxMlBuajc2eWlWdTFRbVU5NFlMMXpTYjN1bUh4MTVJYlhXLXBEMQ?oc=5",
-            "category": "AI_Tech",
-            "published": "2026-04-15T21:40:05.146181"
-        },
-        {
-            "title": "나무기술, 240억 규모 GPU 오케스트레이션 공동연구기관 선정... AI 인프라 경쟁력 확보",
-            "points": [
-                "나무기술이 240억 원 규모의 GPU 오케스트레이션 공동연구기관으로 선정된 것은 AI 기술 발전의 핵심 기반인 컴퓨팅 인프라의 중요성을 보여줍니다.",
-                "GPU 오케스트레이션은 수많은 GPU 자원을 효율적으로 관리하고 분배하여 AI 모델 학습 및 추론 성능을 극대화하는 기술로, 이는 마치 복잡한 교통 체계를 원활하게 운영하여 자율주행차가 더 빠르게 목적지에 도달하도록 돕는 것과 같습니다. AI 개발 비용 절감 및 효율성 증대에 필수적인 글로벌 기술 트렌드입니다."
-            ],
-            "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTE1MQU9nWmVxdG5UMV9IZEU4M3laNmxiazB3VVllYkhzaU9RaUFnV3dyX1RqdDhrSlZNbHFLS0Y5ZHh6cmE0bVdWcTN1ZzkzcjNmZmJWX1gzSjN3ZjRkNkxwSGUwX0tLMFFxR3Rr0gFrQVVfeXFMTUxBT2daZXF0blQxX0hkRTgzeVo2bGJrMHdVWWViSHNpT1FpQWdXd3JfVGp0OGtKVk1scUtLRjlkeHpyYTRtV1ZxM3VnOTNyM2ZmYlZfWDNKM0Z3ZjRkNkxwSGUwX0tLMFFxR3Rr?oc=5",
-            "category": "AI_Tech",
-            "published": "2026-04-15T21:40:05.146183"
-        },
-        {
-            "title": "과기정통부, ICT 연구개발 민간 PM 체제 강화…AI 3대 강국 도약한다",
-            "points": [
-                "대한민국 정부가 'AI 3대 강국(G3)' 도약을 목표로 ICT 연구개발 체계를 개편하고 민간 전문가의 참여를 강화하는 것은 글로벌 AI 경쟁 시대에 국가적 역량을 결집하려는 중요한 전략입니다.",
-                "이는 단순히 기술 개발을 넘어, AI 생태계 전반의 혁신을 촉진하고 글로벌 AI 리더십을 확보하기 위한 국가 차원의 투자와 정책 방향을 제시하며, 전 세계 주요국들이 AI 주도권을 잡기 위해 경쟁하는 거시적 트렌드를 보여줍니다."
-            ],
-            "link": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE1KenNiaGJROFhSU0w5RnFFTDNYY2Q3VnJVNU5PbmNkMDRkZ3RKZFN5M052UFIwV3Y3WjM3dXhUZy1CWVdSOU13Rms0WV84RURRcl9PanFOaEfSAVhBVV95cUxNSnpzYmhiUThYUlNMOUZxRUwzWGNkN1ZyVTVOT25jZDA0ZGd0SmRTeTNOdlBSMFd2N1ozN3V4VGctQllXUjlNd0ZrNFlfOEVEUXJfT2pxTmhH?oc=5",
-            "category": "AI_Tech",
-            "published": "2026-04-15T21:40:05.146184"
-        },
-        {
-            "title": "CJ올리브영, 전사 업무 환경에 생성형 AI 기술 본격 도입",
-            "points": [
-                "국내 대표 헬스앤뷰티 기업인 CJ올리브영이 전사 업무 환경에 생성형 AI 기술을 본격 도입하는 것은 AI가 특정 기술 기업을 넘어 일반 기업의 생산성과 효율성을 혁신하는 글로벌 트렌드를 보여줍니다.",
-                "이는 마치 개인 비서가 복잡한 문서 작업을 대신해주듯, AI가 마케팅 콘텐츠 생성, 고객 응대 자동화, 데이터 분석 등 다양한 업무를 지원하여 기업의 디지털 전환을 가속화하고 새로운 비즈니스 가치를 창출하는 중요한 변화입니다."
-            ],
-            "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE5lSDFRTFUyZVZNT0dkUjNrLThzdWlTTEs1UVhFTGh1LXNJN0lJLWRodW11SVF5S3UyZmhIcUMzemUyZlNtVDRESnJTcHJPem5FQ2MzdlRFZm5xUXJvdXRwS2o4M01NUTQzSjZTUg?oc=5",
-            "category": "AI_Tech",
-            "published": "2026-04-15T21:40:05.146185"
-        }
-    ],
     "IT_Biz": [
         {
-            "title": "우크라 드론·로봇만으로, 러시아군 진지 첫 점령 - 조선일보",
+            "title": "[단독] 오픈AI CFO, 삼성전자와 ‘HBM4’ 공급망 논의… ‘AI 메모리 주도권’ 재편 신호",
             "points": [
-                "우크라이나 전쟁에서 드론과 로봇이 실제 전투에서 러시아군 진지를 점령하는 데 성공하며 미래 전쟁의 양상을 보여주는 중요한 사례입니다. 이는 군사 기술의 발전이 전술과 전략에 미치는 막대한 영향을 시사합니다.",
-                "무인 시스템(드론, 로봇)이 인간 병력을 대체하여 위험한 임무를 수행하는 기술적 진보를 입증했습니다. 이는 국방 산업의 투자 방향과 기술 개발 경쟁을 가속화할 것입니다."
+                "AI 산업의 핵심인 고대역폭 메모리(HBM)의 차세대 기술(HBM4) 공급망 논의로, AI 하드웨어 시장의 주도권 재편 가능성을 시사하는 중대한 소식입니다.",
+                "세계적인 AI 선도 기업인 오픈AI와 글로벌 메모리 반도체 강자인 삼성전자의 협력 논의는 AI 기술 발전과 반도체 산업의 미래 방향에 막대한 영향을 미칠 것입니다."
             ],
-            "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxOcUJRdW94OGc3TWRQcXpVNDkxbGlzbWpQMFFZTGFhYUVQM3dBejB3azZza3pLVUhfX0FzanpaS2VGNFlzNWVYcUhhd3VTSFd4M0h4U0dBOU9qQjA4Mll0MktUN1ltRm1oMnY3eVJrY1Q5M21JQndFU0w1UGk4WGJLcEs4dHdkUTJPelMwek9LaElCTzZUd1JCR0xFYzVyQQ?oc=5",
+            "link": "https://news.google.com/rss/articles/CBMiggFBVV95cUxQQTFUN09rRkNIOEhTb2ZaSVdWa19SMkppa2NJeTUxSVRiN2J2MXRsMHRnbUhBcUFfSGhsRGtSMFdsLVd1cXNGYk9KWC1PeloxWUIzMkhHa3R1bWVQTGVodlZwZDZzVU5fMVhuZ0tTc3Jzd1p1NVlSeldSUUVvTEZFZ3Z30gGWAUFVX3lxTFAwRWJvZVRsem1ZcVg2NTFmbElQZU9JRlgzMkN2VzlCS2xQUjh1dzRsMmVQbkRkZERxV3A0Sl9fYjZzRWRXMU1LWWRXcm53VHBocVhCTXVhOW9HVmpqOTVXOXVVbEtZXzIzNG16alR0d0lNN2h3NGJTY0dVVVlXaGhGVzRrWGhtcEJ3NVF1T2g5OERkd0s5Zw?oc=5",
             "category": "IT_Biz",
-            "published": "2026-04-15T21:40:42.442369"
+            "published": "2026-04-16T21:32:35.688480"
         },
         {
-            "title": "[단독] K배터리 3사, 美 ‘금지외국기관’ 확정 앞두고 공동 의견서 제출 - v.daum.net",
+            "title": "테슬라 \"AI6는 삼성, AI6.5는 TSMC\"...차세대 2나노 칩도 이원화",
             "points": [
-                "한국의 주요 배터리 3사가 미국의 '금지외국기관' 지정 움직임에 공동 대응하는 것은 글로벌 공급망 재편과 미중 기술 패권 경쟁 속에서 한국 기업들의 생존 전략과 직결되는 매우 중요한 사안입니다.",
-                "미국의 정책 변화가 K-배터리 기업들의 해외 투자 및 사업 전략에 직접적인 영향을 미치며, 글로벌 전기차 배터리 시장의 판도와 공급망 안정성에 큰 변화를 가져올 수 있습니다."
+                "테슬라가 차세대 AI 칩 생산에 삼성전자와 TSMC를 모두 활용하는 이원화 전략을 채택하며, 첨단 반도체 파운드리 시장의 경쟁 구도와 AI 반도체 공급망의 중요성을 부각합니다.",
+                "2나노 공정 도입은 반도체 기술의 최전선에서 벌어지는 혁신 경쟁을 보여주며, AI 및 자율주행 기술 발전에 필수적인 고성능 칩 생산의 방향을 제시합니다."
             ],
-            "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE9uSVFiUTBwOFc2Q1VkWUZfY3lqY1lEd0J2NjZnZVcyMm42SUY2bWxqc0dyeWZMVzlJa0pJeElyb3djU3FVbnhVTzZHRklxeUU?oc=5",
+            "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE1PaEZwcTdUREtsbVc1V2dUTk5aZVk5aFVoMTNRakl6Z0ZFQjR3THhWcC1OX1RoWUhSOVRjcldSN0YxanFoYWR3RkRmd0dKc2s?oc=5",
             "category": "IT_Biz",
-            "published": "2026-04-15T21:40:42.442375"
+            "published": "2026-04-16T21:32:35.688487"
         },
         {
-            "title": "\"삼성전자 땡큐\"…머스크, AI 칩 'AI5 설계 완료' 선언했다 - v.daum.net",
+            "title": "[비즈톡톡] 벼랑 끝에서 돌아온 인텔, 생존과 부활 사이 줄타기",
             "points": [
-                "일론 머스크가 자체 AI 칩 'AI5' 설계를 완료하고 삼성전자에 감사를 표한 것은 AI 반도체 시장의 경쟁 심화를 알리는 동시에, 삼성전자가 AI 반도체 파운드리 시장에서 핵심적인 역할을 할 수 있음을 보여주는 중요한 소식입니다.",
-                "테슬라와 xAI의 AI 칩 개발은 엔비디아가 주도하는 AI 반도체 시장에 새로운 경쟁 구도를 형성하며, 삼성전자의 파운드리 기술력이 글로벌 AI 생태계에서 더욱 부각될 경제적 기회를 창출합니다."
+                "한때 반도체 시장의 절대 강자였던 인텔의 부활 노력과 전략은 글로벌 반도체 산업의 경쟁 구도와 기술 혁신 방향에 지대한 영향을 미칩니다.",
+                "인텔의 성공 여부는 PC, 서버 시장을 넘어 AI, 파운드리 등 미래 핵심 기술 분야의 판도를 바꿀 수 있는 중요한 변곡점으로 평가됩니다."
             ],
-            "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE1TYXFBTmVkNWdaMmljZjJyZWw2VGhzb25mS04ySE5CamVZZzJUV3EybExid0EwWVpibjd1Z3hYT25QcGFfYzBWM2NQQ3ZMQ0k?oc=5",
+            "link": "https://news.google.com/rss/articles/CBMiggFBVV95cUxNRVZxZFJCTzRoYm9zTENDR3hMSHdRLWZmSzYzLVh2MWxuNURnbzl3ZnNxMW80dHVXclFabk42a0RvZ0hNMmtWcDYyblZpRTgxcjk3V240bWF0bTdTRXkzdVRON09GYkdocno2VmgxNmRjdkxia05nNUFzU3pnbDBDSUFR0gGWAUFVX3lxTE80SzFia2ZfVl9JOEpMU2o5YXR2UEFUeW1NN1g0VTJKeVlTOV9CM2ZPc0VPQk9jaGgyVXhZQURrcS1ZRXVDdnYwTUJNelMzV201ZnlMU1FocDRXTVlYb2pkem85NDB0d1BDWU5lSXNJMlJpcG1iSU5UNUV2STJWMm50aXdVZlh1cUJJM2Y0Rmc0c0M2enB3Zw?oc=5",
             "category": "IT_Biz",
-            "published": "2026-04-15T21:40:42.442376"
+            "published": "2026-04-16T21:32:35.688488"
         },
         {
-            "title": "[르포] 사람없이 로봇으로 용접·생산 '척척'…테슬라 상하이 공장 - v.daum.net",
+            "title": "폴더블폰, 이제는 넓어진다...삼성·애플·화웨이 ‘와이드폴드’서 격돌",
             "points": [
-                "테슬라 상하이 공장의 고도화된 로봇 자동화 생산 시스템은 미래 스마트 팩토리의 청사진을 제시하며, 제조업 혁신과 생산 효율성 극대화의 가능성을 보여주는 대표적인 사례입니다.",
-                "인간 개입을 최소화한 로봇 기반의 완전 자동화 생산 라인은 인건비 절감, 생산 속도 향상, 품질 균일화 등 제조업 전반에 걸친 경제적 파급 효과를 가져오며, 로봇 및 자동화 기술 투자를 가속화할 것입니다."
+                "삼성, 애플, 화웨이 등 주요 스마트폰 제조사들이 '와이드폴드' 형태의 폴더블폰 개발에 집중하며, 모바일 기기 시장의 혁신 방향과 미래 경쟁 구도를 제시합니다.",
+                "폴더블폰 기술의 발전은 사용자 경험을 변화시키고 새로운 폼팩터 시장을 창출하며, 스마트폰 산업의 성장 동력으로 작용할 잠재력이 큽니다."
             ],
-            "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE5CaDJLOFlSaHlNQWxaNVVhRElkZVJHT1JhLWY1c3lweDhjeWtQVDA0TTRnT0w4RnN0QzBkenF3eFhySnRianlXYThfQUNydms?oc=5",
+            "link": "https://news.google.com/rss/articles/CBMigwFBVV95cUxOY09nMDFIV2R4QmVpTnJOcWo2ek8wRzY5SUwtYU9BcmY0YS1ORmNSMEZZM2xZSWczWkhQdHRsR1J1cHRZOWhUeVVvbTFIYlczVEJzWjU0bEdBY0lseVFOU2N2amlLNlozT050dmgzQW1qZWFiQ1hOd3lxX29oLWZFbzdyWQ?oc=5",
             "category": "IT_Biz",
-            "published": "2026-04-15T21:40:42.442377"
+            "published": "2026-04-16T21:32:35.688489"
         },
         {
-            "title": "[단독] OCI홀딩스, 스페이스X에 폴리실리콘 공급 - 매일경제",
+            "title": "[노트북 너머] 구글에 현관 비밀번호 알려주고 “거실만 써달라”는 정부",
             "points": [
-                "OCI홀딩스가 일론 머스크의 스페이스X에 핵심 소재인 폴리실리콘을 공급하는 계약을 체결한 것은 한국 기업이 글로벌 우주 산업의 핵심 공급망에 진입했음을 의미하며, 첨단 소재 기술의 중요성을 부각합니다.",
-                "폴리실리콘은 태양광 및 반도체 산업의 핵심 소재로, 스페이스X와의 공급 계약은 우주 항공 및 위성 산업의 성장에 따라 첨단 소재 시장의 새로운 수요를 창출하고 관련 기술 개발 경쟁을 촉진할 경제적 파급 효과를 가집니다."
+                "정부의 데이터 활용 정책과 빅테크 기업(구글)의 역할에 대한 비판적 시각을 제시하며, 디지털 시대의 개인 정보 보호와 데이터 주권이라는 중요한 사회적, 정책적 이슈를 다룹니다.",
+                "이는 기술 기업의 영향력 확대에 따른 규제와 윤리적 문제, 그리고 국가의 데이터 거버넌스 방향에 대한 심도 깊은 논의를 촉발할 수 있는 중요한 내용입니다."
             ],
-            "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE8ydGkyZHM4MW5uY2ZoNHM2YWt6azJ6NFF0M2JaVTVJTTVMVlpHU0xPQVlKbmcyMjVIRlo1eEE1QWljeVlTcGNoZGJKN2x0Qm1oQ3BVYg?oc=5",
+            "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE9xTVYySDdOQ0RyQVdhNlpDQ2FUQkE3dGtCeGVjSjd5QzVET2h0WTFqNkl4M2JncnhVZ0Juand0UTRxUE9FaWxhNXVpS3V6dVk?oc=5",
             "category": "IT_Biz",
-            "published": "2026-04-15T21:40:42.442378"
-        }
-    ],
-    "World": [
-        {
-            "title": "[속보] 이란군 홍해 봉쇄 ‘첫 경고’···“페르시아만·오만해·홍해까지 봉쇄할 것” - 경향신문",
-            "points": [
-                "이란이 홍해, 페르시아만, 오만해 등 주요 해상 무역로 봉쇄를 경고하며 중동 지역 긴장이 최고조에 달하고 있음을 보여주는 핵심 소식입니다.",
-                "이러한 봉쇄는 전 세계 원유 및 가스 공급망에 심각한 차질을 초래하여 국제 유가 급등과 글로벌 경제 불안을 야기할 수 있습니다. 국제 무역 및 에너지 안보에 직접적인 영향을 미칩니다."
-            ],
-            "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE5BVENHdHZoQ2ZRQ0ZxVi1fRWdzczdCTGRtSkxMekF0UWIycDJhRllqRG10T3NUdm5TMk9xd1hZLXdrdUdZREFXX0c4MEJRcGZudWxxbTdsQmFwZ9IBX0FVX3lxTE9fZVh4TnpzZmFCZFpuQXF0LVFvNVJ5MnZyT0xlU0JEX0hrNWJXMFZxMDJ3MjAxanYzOTVYZnpfRFFqczA0N0NCWU92RmE0a3Exc0NzaWVCcVNlNjVZbHZv?oc=5",
-            "category": "World",
-            "published": "2026-04-15T21:41:15.150103"
-        },
-        {
-            "title": "베센트 美 재무장관 \"'트럼프 관세' 7월부터 부과 가능\" - 한국경제",
-            "points": [
-                "미국 차기 행정부에서 트럼프 전 대통령의 관세 정책이 재개될 가능성을 시사하는 발언으로, 글로벌 무역 질서에 중대한 변화를 예고합니다.",
-                "광범위한 품목에 대한 관세 부과는 글로벌 공급망 재편을 가속화하고, 주요 교역국 간의 경제적 마찰을 심화시켜 세계 경제 성장에 부정적인 영향을 미칠 수 있습니다."
-            ],
-            "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFA0RmhhVmRlMmFpZnRjYm9hVFJydURtTmwxUFRYZ1hMNHhWXzZQbFVud2ZXajN4WGxJT3J4VTJQVll6c3cyTWpVVWcyemxYVG94bUo4NzZzLW1NQdIBVEFVX3lxTE1aNFhGOWI1bXROS0N0UXlSREJvV3lUS245MTd5RVlnQ1k3Q2tfcHp4Ul9GeTMwYXVuR2Q4aGd0MVV6QzF2NlRRcjVjbW5OOERSekpDLQ?oc=5",
-            "category": "World",
-            "published": "2026-04-15T21:41:15.150109"
-        },
-        {
-            "title": "이란戰 공조 재확인한 중러… 시진핑 “긴밀한 협력으로 이익 수호” - 조선비즈 - Chosunbiz",
-            "points": [
-                "중국과 러시아가 이란 문제에 대한 공조를 재확인하며 국제 안보 환경에서 주요 강대국 간의 대립 구도가 심화되고 있음을 보여주는 중요한 소식입니다.",
-                "이는 중동 지역의 지정학적 긴장을 고조시키고, 서방 국가들과의 외교적 갈등을 심화시켜 국제 정세의 불안정성을 증대시킬 수 있습니다."
-            ],
-            "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxQYWxqSGczc2U4U0R2ZmhkdFBaWXJVWkRtcDIwQllOQjJIOEpaRnl4d3ZTOGxXVXh2QlEyY0xoRzlWajZtTmNRRkg3RGp5R0d5QUtpbE5Rckc5c3RxRWFVSnNmOXBWMXFvRWx1WEJxaHBuRWlpNVBWNGxYOVlGY09GdF9PTDhwWXNyYjNEVllOZEtJOXFGR0Y5TFFKVlRLZ9IBsgFBVV95cUxNTDV1VXg2eXlrN0lLMzR0WVEyWnphRjZDVThma0hwVGJ2VjRUWFpLd3JYNTJVZzk5OFJvRzd2dm1GeVRhSnV2N1BMSTd0OXpweWQ4ZVJjOURXNkZZOUJ2c0hlellMMnFOeFpkUXRnOVNjb0txOENlaUVLTkR2RXp6VGNJcnplYzlLWDh2N3AwSEF6MUNzdXVDdHEyTHhtTmFBcmdxSnEzTnhkRTRSbTN5emx3?oc=5",
-            "category": "World",
-            "published": "2026-04-15T21:41:15.150110"
-        },
-        {
-            "title": "美 NBC \"이스라엘·레바논, 헤즈볼라 완전 무장 해제에 동의\"(상보) - 연합인포맥스",
-            "points": [
-                "미국 NBC 보도에 따르면 이스라엘과 레바논이 헤즈볼라의 완전 무장 해제에 동의했다는 소식은 중동 지역의 오랜 분쟁 해결을 위한 중대한 외교적 돌파구가 될 수 있습니다.",
-                "이 합의가 현실화될 경우, 레바논 남부와 이스라엘 북부 국경 지역의 안정화에 기여하고, 중동 전체의 평화 프로세스에 긍정적인 영향을 미칠 수 있습니다."
-            ],
-            "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE52X3o4ei0wSC1EbUh1c0pMeDNDd3lKeU1SblBEZEJrcXNSc2VINUZhMXBpZFdPTUJWbEhnMXVGa05GbFlyRzlGTTZ2eGh1RFBPRUJwVXg4X0dWMWdUOWtCa3RXSVlnUlZLWFNSa1Z4MWg?oc=5",
-            "category": "World",
-            "published": "2026-04-15T21:41:15.150111"
-        },
-        {
-            "title": "트럼프 “시진핑에게, 이란에 무기 주지 말라 했다” - 한겨레",
-            "points": [
-                "도널드 트럼프 전 미국 대통령이 시진핑 중국 국가주석에게 이란에 무기를 제공하지 말 것을 직접 요구했다는 발언은 미국이 이란의 군사력 증강을 억제하려는 강력한 의지를 보여줍니다.",
-                "이는 미국-중국-이란 간의 복잡한 외교적 역학 관계에 영향을 미치며, 이란의 핵 프로그램 및 중동 지역 무력 분쟁의 향방에 중요한 변수가 될 수 있습니다."
-            ],
-            "link": "https://news.google.com/rss/articles/CBMiggFBVV95cUxNUXR3by01eWlWcm1Tb0ltb0x1VjYzVWVpcjltdkxaTkxadktDNVRSOUJRZlNJQ3BmWFY2WWRQOUY3ZEk0dVQ4QWVITUp6dml1eDRhN3FZUmo0ZG4xcnNSOWZVcFlMN1lsR3FZcG9GbG9NOWl1X0RzZVlwQmZKMm1tZDBR?oc=5",
-            "category": "World",
-            "published": "2026-04-15T21:41:15.150112"
+            "published": "2026-04-16T21:32:35.688490"
         }
     ]
 }
