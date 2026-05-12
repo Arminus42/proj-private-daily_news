@@ -1,210 +1,210 @@
 {
     "AI_Tech": [
         {
-            "title": "스탠퍼드대, '인간 중심 AI(HAI)' 중심으로 AI 및 데이터 사이언스 연구 역량 통합",
+            "title": "구글, 양자컴퓨팅·AI로 생명과학 판 바꾼다",
             "points": [
-                "세계적인 AI 연구 선도 기관인 스탠퍼드 대학이 AI와 데이터 사이언스 연구를 '인간 중심 AI(HAI)'라는 통합된 기구 아래 결집합니다. 이는 AI 개발이 기술적 진보뿐만 아니라 윤리적, 사회적 영향까지 고려해야 한다는 글로벌 AI 연구의 새로운 방향성을 제시합니다.",
-                "AI가 사회에 미치는 영향이 커지면서, 기술 개발 초기부터 인간의 가치와 안전을 최우선으로 고려하는 접근 방식이 중요해지고 있습니다. 이번 통합은 이러한 책임감 있는 AI 개발의 중요성을 강조하며, 미래 AI 연구의 표준을 제시할 수 있는 주요한 변화입니다."
+                "구글이라는 글로벌 AI 선도 기업이 양자컴퓨팅과 AI라는 두 가지 최첨단 기술을 융합하여 생명과학 분야에 적용한다는 점에서 파급력이 매우 큽니다. 이는 단순한 기술 개선을 넘어 과학 연구의 패러다임을 바꿀 잠재력을 가집니다.",
+                "양자컴퓨팅의 엄청난 연산 능력과 AI의 학습 및 추론 능력이 결합되면, 신약 개발, 질병 진단, 맞춤형 치료 등 생명과학 분야의 난제를 해결하는 데 획기적인 돌파구를 마련할 수 있습니다. 마치 기존 컴퓨터로는 풀 수 없었던 복잡한 퍼즐을 새로운 차원의 도구로 풀어내는 것과 같습니다."
             ],
-            "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTFBhUXl3QjFqUDdtUXZKS2ZVSjhLdm5PVkV6ZGFuWTVJR25QYW0tdWlaZ25rTnR1TWlPeVJBaVRMbDhPMmpLOTg5REZuVm9MaUJ1NTFGUWh5b0xMLUw1c1ZHQ2tnZVBYSXc?oc=5",
+            "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTE52ejM2ZTBWYldrc180Q1AxemF0eXRxZkR1X2xwRE9OdWpVTDc5QkJscVV3RVB4Q18yUjFSVmlDQzBSWHlOeEFwVWEzdWxTVDVxTHM0Zjh2NVNzdGFob0ZQTGhkbFlFR2t5T1VmNFdfOA?oc=5",
             "category": "AI_Tech",
-            "published": "2026-05-11T21:56:37.175573"
+            "published": "2026-05-12T21:59:40.705434"
         },
         {
-            "title": "미국 정부, 생성형 AI 모델 출시 전 의무적인 안전성 테스트 실시 발표",
+            "title": "[양자와 보안] 공공기관 양자보안 구축 의무화된다... 양자-AI 융합도 지원",
             "points": [
-                "미국 정부가 OpenAI, Google, Meta 등 주요 생성형 AI 개발사들에게 모델 출시 전 의무적인 안전성 테스트를 요구하기로 했습니다. 이는 강력한 AI 시스템의 잠재적 위험을 관리하고 책임감 있는 개발을 촉진하기 위한 전 세계적인 AI 거버넌스 노력의 핵심적인 진전입니다.",
-                "이 정책은 AI 기술의 급속한 발전에 따른 오용, 편향, 보안 취약점 등의 문제를 선제적으로 해결하려는 시도입니다. 전 세계 AI 기업들은 이 규제에 따라 개발 및 출시 전략을 조정해야 할 것이며, 이는 글로벌 AI 산업 전반에 큰 영향을 미칠 것입니다."
+                "국내 공공기관에 양자보안 구축이 의무화되고 양자-AI 융합 기술 개발이 지원된다는 것은, 미래 보안 환경에 대한 국가적 대비와 함께 양자컴퓨팅과 AI의 시너지를 국가 전략 차원에서 중요하게 다룬다는 의미입니다. 이는 글로벌 기술 경쟁에서 중요한 위치를 차지합니다.",
+                "양자컴퓨터의 등장으로 기존 암호 체계가 무력화될 수 있는 위협에 대비하는 동시에, AI를 활용해 양자 보안 시스템의 효율성과 지능을 높이는 기술적 진보를 이끌어낼 수 있습니다. 마치 미래의 '디지털 금고'를 양자 기술로 만들고, AI가 그 금고를 더욱 안전하고 스마트하게 관리하는 것과 같습니다."
             ],
-            "link": "https://news.google.com/rss/articles/CBMizgJBVV95cUxQd3VVWE5ZcGN5ZTk2YXcydkhiTlFqN05JZUFjV3Bud0Vqczd1djNZV2JTVGhKQVp2OUNJYmxsVXNBaVhGQ0lLbUdhYWFQaFNwdjlNRlpOX0VLVGV1b0ViOU1RN0gtc29fdEVmMkRhVzVzV1kxVTZESTRlcXdoVm52OGpVQ2NaRERYQnBsV2xrUjlhd0ZvcWpiSWctTU9IUkhxMHhidDN6Vk1KSjZjVm1NdWVBZTZpNU9obXc2LVJnanJKNlZDMHd4SXE3YngtN3hHcGRkSExtRG5aM1hWTHZLU2V2cGdUaGkxYW1nOTVjOUE3VFJ2VEF3Rk1SM3pFaDJCVDlBTHFSN0lha3ZlOUFYLU1JOTBuMjB0RTBRZHlTSnhSSnhCNHNnWk5FYmJIOXJMV3BVUHNiUENXLWhWZWVhUjQ1b0tEaHFDNTZZckxR?oc=5",
+            "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE5JQVBoWHVnUlVEZ1hYTm5MdFp4WEtJc2FEZFA3ODFqem8weDRJTTNHUW9vLVJaZkFVNnZCeUwxQ3NqbXhHWkpiZ25sX2Rnb2NrbHEwQjcwWjFsUzBKZGhZ?oc=5",
             "category": "AI_Tech",
-            "published": "2026-05-11T21:56:37.175580"
+            "published": "2026-05-12T21:59:40.705443"
         },
         {
-            "title": "미래컴퍼니, '피지컬 AI 핵심기술 개발' 국책과제 선정으로 수술 로봇 고도화 발판 마련",
+            "title": "사이냅소프트, 과기정통부 ‘생성AI선도인재양성 사업’ 선정… 에이젠틱 AI 기반 고신뢰 기업 공시 데이터 분석 기술 개발",
             "points": [
-                "미래컴퍼니가 수술 로봇 고도화를 위한 '피지컬 AI 핵심기술 개발' 국책과제에 선정되었습니다. 피지컬 AI는 로봇이 물리적 환경에서 상호작용하고 학습하는 기술로, 자율주행, 로봇 공학, 의료 분야 등에서 혁신을 이끌 글로벌 AI 기술의 핵심 분야입니다.",
-                "특히 수술 로봇 분야에서 AI 기술의 발전은 정밀도를 높이고, 복잡한 수술을 자동화하며, 의사의 부담을 줄여 환자 안전과 의료 효율성을 크게 향상시킬 수 있습니다. 이번 과제 선정은 국내 기술이 글로벌 의료 AI 로봇 시장에서 경쟁력을 확보하는 중요한 발판이 될 것입니다."
+                "국내 AI 기술 기업인 사이냅소프트가 정부의 '생성AI 선도인재양성 사업'에 선정되어, 생성 AI 기반의 고신뢰 기업 공시 데이터 분석 기술을 개발한다는 점은 국내 생성 AI 기술의 실용화와 인재 양성이라는 두 마리 토끼를 잡는 중요한 소식입니다.",
+                "생성 AI가 기업 공시와 같은 민감하고 신뢰성이 중요한 데이터를 분석하는 데 활용되면, 정보의 정확성을 높이고 투자 결정이나 규제 준수에 큰 도움을 줄 수 있습니다. 이는 AI가 단순한 정보 생성 도구를 넘어, '신뢰할 수 있는 정보 분석가'로서의 역할을 수행하게 되는 중요한 진전입니다."
             ],
-            "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTE0yd0hWTWFrTU5kSG1ONmtLMlVodktGVzBPNm14MVBXZW9FVHhGMk5WeXJtVGFaYTZoRlluSUhLOGQ0R1VPZUtKdW1ubnU2RGtISFN3bDI1UG4tSXhiNktILVBaYkFFV3BnRlEzY0tB?oc=5",
+            "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE1uS25Rb0FzTDYzQmQ0TmJZX3RtZVVNeHFxYUJ2OUE1U0l1UURKZVpQd25Yc2tqWFJWVmk4STdlT2lWd3c5ZTlYS2pMZzU0bjRCYkZKaDBpUDhwNFpnVU9xRXk3aG5hU3c?oc=5",
             "category": "AI_Tech",
-            "published": "2026-05-11T21:56:37.175581"
+            "published": "2026-05-12T21:59:40.705444"
         },
         {
-            "title": "라온시큐어-한국전자기술연구원, '에이전틱 AI 보안' 및 '문서 자동분류 기술' 공동 연구 추진",
+            "title": "플리토, 피지컬 AI·실시간 통번역 기술 고도화 박차",
             "points": [
-                "국내 보안 기업 라온시큐어와 국책 연구기관인 한국전자기술연구원(KETI)이 '에이전틱 AI 보안' 기술 개발에 나섭니다. 에이전틱 AI는 스스로 판단하고 행동하는 AI 에이전트 기술로, 그 활용이 확대됨에 따라 새로운 보안 위협에 대한 대비가 필수적이며, 이는 글로벌 AI 보안 분야의 중요한 화두입니다.",
-                "이번 공동 연구는 AI 에이전트의 오작동이나 악용을 방지하고, 중요한 문서의 자동 분류 및 보안을 강화하는 데 중점을 둡니다. 이는 AI 시스템의 신뢰성과 안전성을 확보하여 AI 기술의 광범위한 적용을 가능하게 하는 핵심적인 기술적 진보입니다."
+                "국내 대표 번역 기술 기업인 플리토가 실시간 통번역 기술 고도화에 박차를 가한다는 것은, 언어 장벽을 허무는 AI 기술의 발전에 기여하며 글로벌 소통의 효율성을 높이는 중요한 움직임입니다.",
+                "실시간 통번역 기술은 국제 비즈니스, 여행, 문화 교류 등 다양한 분야에서 필수적인 AI 기술입니다. 이 기술이 고도화될수록 마치 '개인 통역사'가 항상 옆에 있는 것처럼, 서로 다른 언어를 사용하는 사람들이 더욱 자연스럽고 정확하게 소통할 수 있게 되어 글로벌 연결성을 강화합니다."
             ],
-            "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE5ITWo4VFVzQzZDUzBXNG52NzZXcENBVEZfWGtTVnlWSkdPOWkwRGtEYXBOd19scU0zODUxQklHTlZUT2ZDNGpZa3J3THhCTHpPZ2gyaGM3ZWFGVnhrMExoZFo2eXl0NlFlNkE?oc=5",
+            "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTE5KeVBVNFBxTm1reFZ0STNJUURUanRmOGNDOWc3ZkhGVnVmRHF4aDJRYnZNWkpyU1VaS1N1NjNlSDFhbUZLLWh5TEd3MFBYVlQyc29GaG1uYkluek5LRnFKQTlZRG9zRmV2Qkl0V3Z3?oc=5",
             "category": "AI_Tech",
-            "published": "2026-05-11T21:56:37.175582"
+            "published": "2026-05-12T21:59:40.705445"
         },
         {
-            "title": "애니파이브, LLM-AI 기반 'IP-R&D 인텔리전스 서비스 플랫폼'으로 기술사업화 선도",
+            "title": "심부전 위험, AI가 먼저 잡는다… 김경희 센터장 국제무대서 주목",
             "points": [
-                "애니파이브가 대규모 언어 모델(LLM) 기반의 AI 기술을 활용하여 지식재산(IP) 및 연구개발(R&D) 분야의 인텔리전스 서비스 플랫폼을 구축합니다. LLM은 현재 전 세계 AI 트렌드의 중심에 있으며, 이 뉴스는 LLM이 특정 전문 분야에서 어떻게 상업적으로 활용되고 혁신적인 가치를 창출하는지를 보여줍니다.",
-                "이 플랫폼은 방대한 IP 및 R&D 데이터를 LLM으로 분석하여 기업과 연구기관이 더 효율적으로 기술을 개발하고 사업화할 수 있도록 돕습니다. 이는 단순한 정보 검색을 넘어, AI가 복잡한 전문 지식을 이해하고 추론하여 의사결정을 지원하는 '지능형 서비스' 시대를 여는 중요한 사례입니다."
+                "AI가 심부전과 같은 중증 질환의 위험을 조기에 예측하고 진단하는 데 활용된다는 점은 AI의 사회적 가치와 의료 분야 혁신 가능성을 보여주는 중요한 사례입니다. 특정 센터장이 국제적으로 주목받는다는 것은 해당 기술의 우수성과 파급력을 시사합니다.",
+                "AI 기반의 심부전 위험 예측은 환자들이 질병이 심화되기 전에 미리 예방하거나 적절한 치료를 받을 수 있도록 돕습니다. 이는 마치 '미래를 예측하는 의사'처럼, AI가 질병의 징후를 미리 파악하여 환자의 생명을 구하고 의료 비용을 절감하는 데 크게 기여할 수 있음을 의미합니다."
             ],
-            "link": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE9SaGVLTDNBOHdpb3NXMHpJUWtscXRTbU5TeV9jandnOEF0Wm5MaTVnSW90LU9FSnJFTGh2cmpOTWJteVFpMERqcjlDRnJFdw?oc=5",
+            "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFBtVGp3d1ZycUhLM3lyczdPTEU3Vkk0WXNVck9iUXZpY0RYM1lVMkFxQ2ZwODM4d1I2ZnNMRl9hN0ZrZFRUaWFaQnEzZ2MxbG9GVTU1aFlKUUtqdw?oc=5",
             "category": "AI_Tech",
-            "published": "2026-05-11T21:56:37.175583"
+            "published": "2026-05-12T21:59:40.705446"
         }
     ],
     "IT_Biz": [
         {
-            "title": "“지구 밖에서 전기 끌어쓴다”… 스페이스X·엔비디아·구글 다음 전장은 ‘우주’ - 조선비즈",
+            "title": "삼성전자 \"AI 데이터센터 시대, 메모리 수요 폭발할 것\"[KIW 2026] - 한국경제",
             "points": [
-                "글로벌 IT 공룡 기업들이 우주 자원 및 에너지 활용을 위한 새로운 전장을 개척하고 있음을 보여주는 중요한 소식입니다.",
-                "스페이스X, 엔비디아, 구글 등 주요 기업의 참여는 우주 경제의 성장과 기술 혁신을 가속화할 잠재력을 시사합니다."
+                "AI 기술 발전이 가속화됨에 따라 AI 데이터센터 구축이 필수적이며, 이에 따른 고성능 메모리 반도체 수요가 폭발적으로 증가할 것이라는 삼성전자의 전망은 글로벌 IT 산업의 핵심 트렌드를 보여줍니다.",
+                "세계 최대 메모리 반도체 기업인 삼성전자의 이러한 예측은 향후 반도체 시장의 투자 방향과 기술 개발 로드맵에 큰 영향을 미칠 정책적, 경제적 변화를 시사합니다."
             ],
-            "link": "https://news.google.com/rss/articles/CBMiggFBVV95cUxPNko4RTZWWVEzcUhpb3YtbmJnNjMxNGxTdlF0VGlEdlhHalBRV0p2NWhBYzF0cWpudXJ5RC1Za2FOMTdneHQxQVZWdzBMS2d4S2RCTS1MN0FQNnJsa1VucU00MFp2OGtuT3loUXEwU2prbk9jSGQ2VlZkSHNrSXUwb3NB0gGWAUFVX3lxTE5Ob2Q4NWI0eDFRMkhjbUhqV1gweUpWbGVFeUlyc29hWWJVSzhrVzNrNlNVazRLQmQzaHBWZW5xS3lwVDhUMHltZU9Pb2NJalo3eTRtQThVUnd0eXUwazdyRkRBLXgzbWlwVzdHUHNGTnBCTkQwNGQtQ1hVVG5OTDI5RlZ2Mk9lX3NzUUsyWE9POVNCQUlKUQ?oc=5",
+            "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE1aWk5kZUdfVy1xbWMwY0VxZGNtaWFtRG5hSzhTVTZSNllKOGNmZ1VUcTQxVElKWU5ENThyanlpODlDNVFYd3Fkd0sxaGZ1TVNBSXpPZ1N2SEw5d9IBVEFVX3lxTE5MTGZWVkI5WlhpVzdlMkxJQ2pWRi0wTEtBaF83ZWQybFJyUDVpV1ctel91ekRQN1JPUkM1V0JnZ29kc2FKRmFjbmJTU2xLc0tJcjRhZQ?oc=5",
             "category": "IT_Biz",
-            "published": "2026-05-11T21:57:04.856564"
+            "published": "2026-05-12T22:00:14.740162"
         },
         {
-            "title": "[단독] 정부, 美 SMR 기업 뉴스케일파워 만나 대미 투자 논의 - 조선비즈",
+            "title": "삼성 반도체 신사업, 투자시계 다시 돈다 - 전자신문",
             "points": [
-                "정부 차원에서 미국 소형모듈원전(SMR) 기업에 대한 투자 논의가 진행되고 있어, 미래 에너지 정책 및 산업 협력의 중요한 변화를 예고합니다.",
-                "SMR 기술은 차세대 원전 기술로, 에너지 안보 및 탄소 중립 목표 달성에 핵심적인 역할을 할 수 있는 대규모 투자 및 기술 협력 소식입니다."
+                "글로벌 반도체 시장의 선두 주자인 삼성전자가 신사업 투자를 재개한다는 소식은 침체되었던 반도체 산업에 활력을 불어넣고, 미래 성장 동력을 확보하려는 대규모 투자 계획을 의미합니다.",
+                "이는 AI, 고성능 컴퓨팅 등 차세대 기술 분야에서의 경쟁력 강화와 함께 국내외 관련 산업 생태계 전반에 긍정적인 파급 효과를 가져올 핵심적인 경제적 변화입니다."
             ],
-            "link": "https://news.google.com/rss/articles/CBMihgFBVV95cUxNOFhmT0RqZC1DRVF4S3pIQWN1cXE5c1BlZkVMRVlzQjJHdFZRUFo0NkpkcWJ6Nmh6LVlscnBhVXFidlJsMmhMbzRnYm9ObHFaY2RkUl9sN2VkaWNlckpRY0RDUXJYTEZvTmxoaElLcE1Ma2VSbGtLT1NDTU1DcUo3RVQyT0l1QdIBmgFBVV95cUxNRVh3bWllRXhNSjk4N3F1NlNFelI3TjE3Y0NYc1JydXAxR3JkSTlOZ2xISzlZeFBtTkliMFYyNlNrYm1SQTNGY3ZOeGxralg5eTZZUjBVcXBndGMzNWVpeHhFUURYdU5fbG85Nm1OSXdNQXhTUFVJb1o2bTlrY1VYQzVYVDFvVGR6YlRSdnJRY0hsQWJBU2dEbUNB?oc=5",
+            "link": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE1JWFl5b1lrMWVOaTg2TC1QNktlMkxnY0k4WlR4RDgxUGpXNkdiZTdWUDVyV3Z6NmFOY2xtMkNBR3B1d3JubVp6WWNXTU5tUQ?oc=5",
             "category": "IT_Biz",
-            "published": "2026-05-11T21:57:04.856571"
+            "published": "2026-05-12T22:00:14.740169"
         },
         {
-            "title": "현대차 로봇이 나라 지킨다…軍 최전방 정찰에 투입 - 한국경제",
+            "title": "‘꿈의 원전’ SMR 2028년 첫 삽… 에너지 안보·내 지갑 지킬 ‘게임 체인저’ 온다 - 글로벌이코노믹",
             "points": [
-                "현대차의 로봇 기술이 군사 분야에 실제 투입된다는 소식으로, 국내 로봇 기술의 발전과 적용 범위 확대를 보여줍니다.",
-                "국방 분야에서의 로봇 활용은 미래 전장 환경 변화와 함께 로봇 산업의 새로운 시장 개척 가능성을 제시합니다."
+                "소형모듈원전(SMR)은 탄소중립 시대의 핵심 에너지원으로 부상하며, 2028년 첫 삽을 뜬다는 계획은 에너지 안보 강화와 전력 시장의 판도를 바꿀 혁신적인 기술 도입을 예고합니다.",
+                "이는 국가 에너지 정책의 중대한 변화이자, 미래 산업 구조와 경제 전반에 막대한 영향을 미칠 대규모 투자 및 기술 혁신을 동반하는 '게임 체인저'급 소식입니다."
             ],
-            "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE1tWWp5X2pXN3NWRDhVT29PdmtCZ01lZV9RWmp0eXNTckxRQ0FxRklhd1B4SVpEQjRSc0gxcTViNENUek9ENWtfNzNtN1pRUFNROWNLRTZlTGFtQdIBVEFVX3lxTE02T1RNUlVKWllJbEdvN2dUdG9CUEd6NFBsZWtCM0dtQXN1Wk1RUEhxVGNoaHVBTl9VTGQ2TlktbldfZnh0ZUdMbmhEYW9GUGlLeTJ4Zw?oc=5",
+            "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNRllQdjl4UmFCT3hCUUV5bXg5aE0xT3JmVU8yMTRQYjhyVlN4NEdSR2p3UHZFZ25wbWdObGtnRlJBR2U2THFLbUxENGVfb2hlSWtBVXJaVVFLcmM4Q0lTM0VPOWoxLUMyM3JxLTBSaXV6MmlGX2YwNVpfQkVSZHBhOV9Hb09qLUZr?oc=5",
             "category": "IT_Biz",
-            "published": "2026-05-11T21:57:04.856573"
+            "published": "2026-05-12T22:00:14.740171"
         },
         {
-            "title": "달러 붕괴 공포에 비트코인 '金 대체자' 급부상… JP모건 \"금에서 BTC로 대전환\" - 글로벌이코노믹",
+            "title": "“요즘 외국인들 어디 투자해?” ‘삼전닉스’는 아니다…1~3위 모두 싹쓸이 ‘로봇주’ [투자360] - v.daum.net",
             "points": [
-                "주요 금융기관인 JP모건이 비트코인을 금의 대체 자산으로 평가하며 대규모 자산 이동을 언급, 암호화폐 시장의 위상 변화를 시사합니다.",
-                "글로벌 경제 불안 속에서 비트코인이 안전자산으로서의 역할을 강화하고 있다는 점은 금융 시장의 판도를 바꿀 수 있는 중요한 흐름입니다."
+                "외국인 투자자들이 전통적인 대형 IT 기업 대신 로봇 관련주에 집중적으로 투자하고 있다는 분석은 글로벌 투자 시장의 새로운 트렌드와 미래 성장 동력으로 로봇 산업이 부상하고 있음을 보여줍니다.",
+                "이는 국내외 로봇 산업의 대규모 투자 유치와 기술 개발 가속화를 촉진하며, IT 산업의 판도를 로봇 중심으로 재편할 수 있는 중요한 경제적 변화의 신호탄입니다."
             ],
-            "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxQcEtmXzI5RHQ4NFppeU1KSVRzeWhtRUxHWDYxaVc1Y0lUeDEtOUlJYndGOFFEMjFtRHVjVnRFY20xRF94YnVzMkNYN2xUeEUtdUdxYmlnRkt1WkJlT1V5TDBwN3pOMk12eVBrYmVtQUhUdGdlVUwycm9mS3pnMVVITWkyMnJOQ1h4?oc=5",
+            "link": "https://news.google.com/rss/articles/CBMiRkFVX3lxTE4taUUxZHBNZjlmNFdJM1NwWHVkMHU2Y0xyR2VuZ0NZd29fYzdLV1FpZ0ZHRnpsYlZudlkxU2Etc2l5NmE2UUE?oc=5",
             "category": "IT_Biz",
-            "published": "2026-05-11T21:57:04.856574"
+            "published": "2026-05-12T22:00:14.740172"
         },
         {
-            "title": "'AI 고속도로 심장부' 국가AI컴퓨팅센터, 삼성SDS가 맡는다 - 머니투데이",
+            "title": "[단독] UAE 투자단, LG전자 평택 칠러공장 찾는다 - 아이뉴스24",
             "points": [
-                "국가 차원의 대규모 AI 인프라 구축 프로젝트인 '국가AI컴퓨팅센터'를 삼성SDS가 맡게 되어, 국내 AI 산업 발전의 핵심 동력이 될 것입니다.",
-                "이는 AI 기술 개발 및 활용을 위한 국가 전략의 일환으로, 관련 산업 생태계에 큰 영향을 미칠 대규모 투자 및 정책적 지원을 의미합니다."
+                "아랍에미리트(UAE) 투자단이 LG전자 평택 칠러 공장을 방문한 것은 대규모 해외 투자를 통한 국내 기업의 성장 가능성을 시사하며, 이는 글로벌 산업 협력의 중요한 사례가 될 수 있습니다.",
+                "데이터센터 냉각 등 첨단 산업에 필수적인 칠러 기술 분야에 대한 투자는 관련 산업의 기술 발전과 시장 확대를 가속화할 잠재적 대규모 투자 소식으로, 경제적 파급 효과가 기대됩니다."
             ],
-            "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE9ldWFxemcyVVBERlRGVmxLWW1GRmZHRUVIREl4bnZON0oyWWsxcjI2REtQdndrWXpqb0dZUEZqd0tPX2pLdDZJSUJ2NUlPNFIyYlNiWUZQdm1WM183YkI3cS0zYlVzZTjSAWxBVV95cUxNcjZETGhWSU1xcGJIZXBnbVlkMG5qYWs1RW16ZlJZTllMbFZBR0RvUE8xS0RPRE9ZY1ZlZG50bkh0cXo3M05HRHdHaDNSNEQ4MnRFNzBnLWJvenVGX3hXLURUdGdFUW1uTG1rSW8?oc=5",
+            "link": "https://news.google.com/rss/articles/CBMiTEFVX3lxTE9IZVJEREtSZVNpd2xBX3BhOWhicXFqNERlc0ZRMTVBRk45eWd5MjdROGdnbjhxNXBlXy1POF9VVmxWaGdjY09sbGIxc0k?oc=5",
             "category": "IT_Biz",
-            "published": "2026-05-11T21:57:04.856574"
+            "published": "2026-05-12T22:00:14.740173"
         }
     ],
     "Economy": [
         {
-            "title": "李대통령 \"비거주 1주택 사면 실거주 의무 유예\" - 한국경제",
+            "title": "美 4월 소비자물가 상승률 0.6%…예상치 부합 - 한국경제",
             "points": [
-                "이 뉴스는 대통령이 직접 발표한 부동산 정책 변화로, 주택 시장에 큰 영향을 미칠 수 있는 중요한 소식입니다.",
-                "비거주 1주택자에 대한 실거주 의무 유예는 부동산 거래 활성화 및 다주택자 규제 완화의 신호탄으로 해석될 수 있으며, 주택 공급 및 가격 변동에 영향을 줄 수 있습니다."
+                "미국 소비자물가 상승률은 연방준비제도(Fed)의 통화정책 결정에 핵심적인 영향을 미치며, 이는 전 세계 금융 시장과 경제에 광범위한 파급효과를 줍니다.",
+                "예상치 부합 여부는 인플레이션 압력과 금리 인상 기대감을 조절하여, 글로벌 투자 심리와 기업들의 자금 조달 비용에 직접적인 변화를 가져올 수 있습니다."
             ],
-            "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE1BeklvZDJTUURkdktWZFVKVDdlQnUxamNlSG9WUEVXQ2pQZVdiVmJGWWsyWjBrWjlTRkZJenROSzhHcC1jSl9tYmwxLVFDd2hZWEZiMjk1cWMxQdIBVEFVX3lxTFB5N1RYclBqdVpOLVFzWlY5S1NVbFJHNDVxWXY5R1c5V2dhVHRKWUdnT2ExMzFlSXJZZDJZdmtMLWNDT2pZSDBpS190LXEyaWYtOVVrdA?oc=5",
+            "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE40OUNHM1ZpNVJZVmt5enNVdXYwc2V5VHBNeU40cmtpMzJQN2VSYktYTzBjaURNMDJaQ3V4blpwbDBUekVRb3dqcFlIVl9IY1l0X2VLNTdIb0h1d9IBVEFVX3lxTE5OejZOamhkVW8wR0VBRl9DeEpJT1NoOVhYN1d2QXppdUVwT2J1ZjlyLUFfWlpxSHQxREJlS2JOZzlkbFRHYk52aDViSmVENnI4dG1UNg?oc=5",
             "category": "Economy",
-            "published": "2026-05-11T21:57:39.321632"
+            "published": "2026-05-12T22:00:44.910545"
         },
         {
-            "title": "靑 \"물가와의 전쟁 이제 시작…과도한 가격 인상 차단\" - 연합인포맥스",
+            "title": "[속보]“버블? 웃기고 있네” 뉴욕증시 또 사상최고 - 문화일보",
             "points": [
-                "청와대(대통령실)가 물가 안정에 대한 강력한 의지를 표명하며, 전방위적인 가격 인상 억제 정책을 예고한 중대한 경제 정책 방향 발표입니다.",
-                "정부의 강력한 물가 개입 시사로 기업의 가격 결정에 직접적인 영향을 미치고, 전반적인 경제 활동 및 소비 심리에 큰 파급 효과를 가져올 수 있습니다."
+                "뉴욕 증시의 사상 최고치 경신은 미국 경제의 견고함과 기업 실적에 대한 긍정적인 전망을 반영하며, 글로벌 투자 심리와 자본 흐름에 큰 영향을 미칩니다.",
+                "이는 기술 혁신 기업들의 성장세 지속 가능성, 기업들의 투자 확대 동력, 그리고 전반적인 경제 회복 기대감을 보여주는 중요한 지표입니다."
             ],
-            "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE5OTWhoU2c3MDh5OEpuWmlCRGFOM2tVNkpmRDFoOXFqbHBDZl92Nm9FdDR6eDVLTnU2VWdVbnR1WVJjeVUzcWkzRnctQlJIQ0N6TkNkTXgxeUFJUmp4VzEyRkNXZEZ4REJuRGdtNWNzSTA?oc=5",
+            "link": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE94cW9uS29oNkotS1Z4eVAxMlpiOWs4Q0xKUlpXSk5JRUpyX3pHcUtFOUZXTGlQUzM2bFNUOWQ1amxYcW9JUThVNEJZV1o0a1BW?oc=5",
             "category": "Economy",
-            "published": "2026-05-11T21:57:39.321639"
+            "published": "2026-05-12T22:00:44.910554"
         },
         {
-            "title": "양도세 중과 시작되자 서울 아파트 매물 2800건 증발 … 거래 절벽 본격화 - 뉴데일리 경제",
+            "title": "삼성전자 노사 성과급 협상 막판까지 진통…‘제도화’ 놓고 팽팽 - 한겨레",
             "points": [
-                "정부의 양도세 중과 정책이 서울 아파트 시장에 미치는 직접적인 영향과 그로 인한 매물 감소 및 거래 절벽 현상을 보여주는 중요한 시장 분석 기사입니다.",
-                "부동산 세금 정책의 실질적인 시장 파급 효과를 보여주며, 주택 공급 부족 심화와 거래 위축으로 인한 시장의 구조적 변화 가능성을 시사합니다."
+                "국내 최대 기업인 삼성전자의 노사 성과급 협상 및 제도화 논의는 국내 주요 기업들의 임금 및 보상 체계에 선례를 남기고, 노동 시장 전반의 변화를 이끌 수 있습니다.",
+                "성과급 제도화는 기업 경영의 투명성을 높이고 근로자 보상 기준을 명확히 하는 구조적 변화를 예고하며, 이는 다른 대기업에도 유사한 움직임을 촉발할 가능성이 큽니다."
             ],
-            "link": "https://news.google.com/rss/articles/CBMie0FVX3lxTE92NE1mY04zQ2dFdTljZHdpVXdvQzBKX0txeTFZVTNyaUVjeDNZYXRLbU9HdjVFNjhxUGlta1BURC1LZTBfTXZRSlBZUm5tWGRiR2o3dW5Ycl9kN25kTWhFbUE4YWpxN3p3NUI5NW1WRVMySEJYc2F4QURmbw?oc=5",
+            "link": "https://news.google.com/rss/articles/CBMickFVX3lxTE13dl9YZXU1Z2RtQXlRS05CQnlsSzdNczNNLXgxSTBSVTl5NTQwbVlQRXNSZ2RUVF8zcjJXcGl4TzA1eGhkdEdjV1hkLVFwM2R1cEtkbmktd0dOVmdKOXNjX1F0LVZrakdrSEtOcFZJOXczQQ?oc=5",
             "category": "Economy",
-            "published": "2026-05-11T21:57:39.321641"
-        },
-        {
-            "title": "코스피 1만 전망 나왔다…JP모건 \"삼전닉스만 있는 게 아냐\" - 연합인포맥스",
-            "points": [
-                "글로벌 투자은행 JP모건이 코스피 1만 시대를 전망하며 한국 증시의 잠재력을 높이 평가한 소식으로, 국내외 투자 심리에 큰 영향을 미칠 수 있습니다.",
-                "반도체 외 다양한 산업의 성장 가능성을 제시하며 한국 증시의 저평가 해소 및 장기적인 상승 동력을 강조, 투자 전략 변화를 유도할 수 있습니다."
-            ],
-            "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE9BMF9uUFBoMnlaRzE2dDc5Z3ZRcXV6SGd5dGhlOVkydEM2c2J2bjdTRFhBM0IwOWZrZ1g2R281ejNUbXlKaUc4VHVJYnpvUEI3NkdnZWNseWoyXzRvN2FDMC1zMnVxbFBTNUh6emNMblY?oc=5",
-            "category": "Economy",
-            "published": "2026-05-11T21:57:39.321642"
+            "published": "2026-05-12T22:00:44.910555"
         },
         {
             "title": "아이오닉5 신차가 2000만원대?…10월부터 ‘전기차 배터리 구독’ - 한겨레",
             "points": [
-                "전기차 구매 부담을 획기적으로 낮출 수 있는 '배터리 구독 서비스' 도입 소식으로, 전기차 대중화 및 시장 판도 변화를 이끌 혁신적인 비즈니스 모델입니다.",
-                "배터리 가격을 제외한 차량 구매를 통해 초기 비용을 대폭 절감, 전기차 보급을 가속화하고 관련 산업 생태계에 새로운 기회를 창출할 수 있습니다."
+                "전기차 배터리 구독 서비스 도입은 전기차 구매 비용 부담을 획기적으로 낮춰 전기차 시장의 대중화를 가속화하고, 새로운 모빌리티 비즈니스 모델을 제시합니다.",
+                "이는 자동차 산업의 판매 방식과 소비자의 전기차 접근성을 근본적으로 변화시키며, 배터리 산업 및 관련 서비스 생태계에 혁신적인 영향을 미칠 것입니다."
             ],
             "link": "https://news.google.com/rss/articles/CBMickFVX3lxTFBLOU5ya2U5VDYwOXYxN2pFMG1VRUVObjV5d19QTGV2Q2tiX0RmUG95aGhHQ3hpLUtJRXNKcnh3NlRiNThGSzJmTURmTEFDUXlNT3gzQzJQSm94T1VlcEpuVTJyZmZZVXhSRTYwQm5lc2h1QQ?oc=5",
             "category": "Economy",
-            "published": "2026-05-11T21:57:39.321642"
+            "published": "2026-05-12T22:00:44.910556"
+        },
+        {
+            "title": "세입자 낀 모든 주택, 올해 말까지 토허제 유예한다···‘똘똘한 한 채’ 내놓기엔 역부족? - 경향신문",
+            "points": [
+                "정부의 토지거래허가제 유예는 부동산 시장의 거래 활성화 또는 특정 지역의 가격 변동에 직접적인 영향을 미치는 주요 정책 변화로, 시장 참여자들의 의사결정에 중요한 변수가 됩니다.",
+                "해당 정책은 주택 소유자의 매매 결정과 시장에 매물로 나올 주택 수에 영향을 주어, 부동산 시장의 수급 균형과 가격 안정성에 변화를 가져올 수 있습니다."
+            ],
+            "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFB1YmU2NG1GUjBpSTZSZlhNYnpIX1RxejA0TmJtdVVfTkhoM01IZ1FMWnB0c3lwS05ZbjRabG43VU9raGlWRFlTWFhJZUFNQ0hyNWk1enlDZndGQdIBX0FVX3lxTE5yRmVHUThLUXFXYV9GVW9tNkx5cjhCYklwOElVZjlEcDFBTlZxY0hjMXZUb1gzaVRmdmNwamM3dm9PV3I5Wmh3ZGNZV0QtRGlET0tJQnFWYUU5a0JidTBz?oc=5",
+            "category": "Economy",
+            "published": "2026-05-12T22:00:44.910557"
         }
     ],
     "World": [
         {
-            "title": "네타냐후 \"이란 우라늄 제거 때까지 전쟁 안 끝나\" - MBC 뉴스",
+            "title": "미 재공격? 응수 나선 이란…“우라늄 90% 핵무기급 고농축도 선택지” - 한겨레",
             "points": [
-                "이스라엘 총리의 직접적인 발언으로 이란 핵 프로그램에 대한 강경한 입장을 천명, 중동 지역의 군사적 긴장과 확전 가능성을 극대화하는 중대 소식입니다.",
-                "이란의 우라늄 제거를 전쟁 종식의 조건으로 내세워, 핵확산 문제와 지역 안보에 대한 국제사회의 우려를 증폭시키고 있습니다."
+                "이란이 핵무기 개발에 근접한 90% 고농축 우라늄 생산 가능성을 언급하며 미국에 대한 강력한 경고 메시지를 보냈다.",
+                "이는 중동 지역의 긴장을 최고조로 끌어올리고 핵확산금지체제(NPT)에 심각한 위협을 가하는 중대한 지정학적 변화를 야기할 수 있다."
             ],
-            "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTFBsWW1QT2FJYlFyZWZzZmNCMDkxd1YzazF4Q0JpcVE0N0hQZUlCZW1WMDlHVm1OYUE2ekFuV0dOX0stRUlvTEg5czVHWUUyRDRvaW1ocDZYWWpndGZCclZ2X0tVbVhFWVBydHFRV3ktTUxfLVBY0gF0QVVfeXFMUGtoNEZXc1I2UjVuSS1BekRpTTQ1bk56aXRCZU9YOVI2MGpMZGhmWl8yS0lsZG14ekpqaHcxOUI4WE52N2NrdW9GTzR0N2dJMGJZdm5FMlhkOUtBN3ptdVF3VUxfVndieVA4a0MwelpLaUNNNWk?oc=5",
+            "link": "https://news.google.com/rss/articles/CBMic0FVX3lxTE9Obm5UbDBLU3lqY3g0Vl9xUTFVOW5GREdGYU1hZDZZSnBxN3l6eDNaY2htc2NTT1Y5aGx3a2J1bGxoYjVpWXJhQWtwMDQ0UmQxb3hBeGxWdjR2Q0swNWh3cjczbVlsZC01UVNuLUE3cS1mRE0?oc=5",
             "category": "World",
-            "published": "2026-05-11T21:58:19.182119"
+            "published": "2026-05-12T22:01:13.857964"
         },
         {
-            "title": "두 달 넘게 행방 묘연한 이란 최고지도자… 협상 국면서 권력 공백 확산 - 조선비즈 - Chosunbiz",
+            "title": "미군, 핵잠수함 위치 이례적 공개···본격적 이란 압박 이어지나 - 경향신문",
             "points": [
-                "중동의 핵심 국가인 이란 최고지도자의 장기적인 행방 묘연은 이란 내부의 권력 공백과 정치적 불안정을 시사하며, 이는 중동 정세에 막대한 영향을 미칠 수 있습니다.",
-                "핵 협상 등 중요한 대외 관계 국면에서 리더십 공백이 발생하여 이란의 대내외 정책 방향에 불확실성을 가중시키고 국제사회에 큰 파장을 일으킬 수 있습니다."
+                "미국이 이례적으로 핵잠수함의 위치를 공개하며 이란에 대한 군사적 압박 수위를 높였다.",
+                "이는 중동 지역의 군사적 긴장을 고조시키고, 이란의 핵 위협에 대한 미국의 강력한 대응 의지를 보여주는 전략적 움직임이다."
             ],
-            "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxNV1hlX1Zvc0otVjRRSEladXNKZFJVNWo3ajNJNnJBYUs2bnhWdkloem53Y1RDVnhVVWFQNFUtMWtwa3lwc0JCSGVRY0M2VGxHbVZ1NjdMUHFOQW81MVlxYmswYkhubHROdFY0S19PWWNncU10aTF5b2xqUW8yTC1VR0hTX0dkMFdNNUZjVEh4MnZNUXhwT0tWVVJ0MWpoQdIBsgFBVV95cUxNbk5URVFkSGgwLW92UnN0Y2w3ZEFyWm9xWUZ6UnlrSDF3dngtTVRRZ2VyVUoyckZ6MWkyT01kS2ozdEx2cTIwc1loZHBXM3RWV1k5c1AxbTZWcFg3MmhWLXhRTU81MzZfVE9uVXJHdEVYZnFhaUZ0MWFPZnBmVS1rRXFhejJmNWpaMUx2a25mclA0QXdwc0lrMFAtN3lkenU1NjVPQlRzcGpCRWo0aEw2eVNR?oc=5",
+            "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE5PVG9FamNmLWpWMXlJMm13QXlzeWRpbkhDTFFfbE5BbE0yQVN2ZnlrWFM3N0pYRXdXUmV0NWFwRTdHU1dpbEtWREU2OFZVUWoxdWtHVS1qWmxvd9IBX0FVX3lxTE52c0pka2czTUllNERMREFYQk10UkhOZ24xRjJzZEw5aTlwOTJzWWU0VG1fLVpnam9KVFhXVW5GWXhBWTA0M2Zia20tTEJVX25EZEpTdkJNaURXdjFRd1hV?oc=5",
             "category": "World",
-            "published": "2026-05-11T21:58:19.182127"
+            "published": "2026-05-12T22:01:13.857971"
         },
         {
-            "title": "트럼프 방중 대표단에 머스크·팀 쿡 등 포함…젠슨 황은 빠져 - 노컷뉴스",
+            "title": "트럼프 “베네수엘라 美 51번째 주 편입 진지하게 검토” - 동아일보",
             "points": [
-                "미국 대통령의 방중 경제 사절단 구성은 미중 관계의 현주소와 미래 방향을 가늠할 수 있는 중요한 지표로, 양국 간 경제 및 기술 협력 또는 경쟁 구도를 보여줍니다.",
-                "일론 머스크, 팀 쿡 등 주요 IT 기업 CEO의 포함 및 젠슨 황의 불참은 글로벌 기술 산업의 판도와 공급망 재편, 그리고 미중 기술 패권 경쟁의 역학 관계를 반영합니다."
+                "도널드 트럼프 전 대통령이 베네수엘라를 미국의 51번째 주로 편입하는 방안을 검토하겠다고 밝혀 국제사회에 큰 파장을 일으켰다.",
+                "이는 라틴아메리카의 지정학적 판도를 뒤흔들고, 주권 국가의 영토와 정치 체제에 대한 전례 없는 개입 가능성을 시사하는 매우 중대한 정책 변화이다."
             ],
-            "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE5zQlJPenpQSFd3VjVGNF9uMVBFR01ya0tKRExGUWc1Q0lZN3dOel85V2c5ZEJxZ2FuOEJkcG9XeEEzUTRCaXJWT0lUTFBkOE0zbnc?oc=5",
+            "link": "https://news.google.com/rss/articles/CBMic0FVX3lxTE5KU2xMd2FEb21CU2FmOTVTY2prMUhtaGMzd3VqTnozVDJONkxQZU0ydGZxMzJIVk1FWi1oUkRsSkpsYmdqRE5RMVlFSV9aUmIwMENOVjVEUl9ISXhMaEdYRGpzQXlxRHVlR29kMGdWR0dGcknSAWZBVV95cUxPdE5rZUhOdnlLLTJQeXd6NDg5Tmo2ZENKMG1KSTR6UW85ZUsxdzRSV1M1NGpKdWFSR0RRMlZQVmN1TFNuMzk4QkJhZ2VDbDA0Yk5fa0pmME1DTFM0c0NYMWxtUXNTZWc?oc=5",
             "category": "World",
-            "published": "2026-05-11T21:58:19.182128"
+            "published": "2026-05-12T22:01:13.857973"
         },
         {
-            "title": "한타바이러스 지상도 덮치나… 프랑스·미국서 확진자 잇따라 추가 - 조선일보",
+            "title": "트럼프 방중 수행단에 테슬라·애플 CEO 합류…엔비디아는 빠져 - 연합뉴스",
             "points": [
-                "프랑스와 미국 등 주요 국가에서 한타바이러스 확진자가 잇따라 발생하며 새로운 글로벌 보건 위협으로 부상하고 있어, 전 세계적인 방역 및 공중 보건 시스템에 비상이 걸렸습니다.",
-                "코로나19 팬데믹 이후 새로운 바이러스의 확산 가능성은 국제적인 이동 제한, 경제 활동 위축 등 사회 전반에 광범위한 영향을 미칠 수 있습니다."
+                "트럼프 전 대통령의 방중 수행단에 테슬라, 애플 등 주요 IT 기업 CEO들이 포함되었으나 엔비디아가 제외된 것은 미중 기술 패권 경쟁의 심화와 향후 무역 정책의 방향을 시사한다.",
+                "이는 글로벌 IT 산업의 공급망 재편과 기업들의 투자 전략에 큰 영향을 미칠 수 있으며, 특히 인공지능(AI) 반도체 분야에서 미국의 대중국 견제 기조가 지속될 것임을 보여준다."
             ],
-            "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxQTnN5cEN5a3BoVXVvZExxOThuUXVNV240ZzhBNE9MT3h4M1dWMjlrVmFCYTNEWkh6YTZxUVI4WnlXXzRieEw1d3hDY2pqRzBvR3Vxem1CMF82OFBDQ01NdmtoMEZWMEZ5cjctN2ZLZHo5Ni1pNE9sRXhLREtWUHp4Z2E3VGhtV2NMbDM5UjJQX3FpUXBMNGJiRkdQOWVKZw?oc=5",
+            "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFBFM2Rjbk9HOUg1TUFNYVJ5bE9KUC1ROHpLbS1JQ094MnE0bEhhYUdWLVhrdF9Ic0E0U0VrcjJUM2NDMXBIdE5aMzYtMWtmT1M3cF9lQzZrSjNMUG_SAWBBVV95cUxNaF85OHZWN3RfaGpwMTc3ZWZlOE9pMVF3cF9VLWMwbEtsYVNhcnVHR0QtSVVmcXppbVJkclQ4V3NMd1F5R2N5dUFKVm1kaGVSZUNONmRic2ZxVG5DQU9uZjk?oc=5",
             "category": "World",
-            "published": "2026-05-11T21:58:19.182129"
+            "published": "2026-05-12T22:01:13.857974"
         },
         {
-            "title": "소련군 얼굴 사이 북한군…北, 러 전승절 열병식에 첫 행진 - 동아일보",
+            "title": "벼랑 끝 몰린 英총리…내각에서도 \"사임하라\" 요구 빗발 - 조선일보",
             "points": [
-                "북한군이 러시아 전승절 열병식에 처음으로 참가한 것은 북한과 러시아 간의 군사적, 정치적 밀착이 심화되고 있음을 보여주는 상징적인 사건입니다.",
-                "이는 국제 안보 질서에 중대한 변화를 가져올 수 있으며, 특히 우크라이나 전쟁과 동북아시아 안보 상황에 새로운 변수로 작용할 수 있습니다."
+                "영국 총리가 내각의 사임 요구에 직면하며 심각한 정치적 위기에 처했다.",
+                "이는 브렉시트 이후 영국 정치의 불안정성을 심화시키고, 주요 7개국(G7) 중 하나인 영국의 국내외 정책 방향에 불확실성을 가중시켜 유럽 및 국제 정세에 영향을 미칠 수 있다."
             ],
-            "link": "https://news.google.com/rss/articles/CBMid0FVX3lxTE00NDFuSGNnQW5ZTzhrVzhkMTRCMmo5Z0lFb0xCTzZIRjJvYXktRHhUalJQek5saUZOWDM5aXkzbDYtZGtmVjZKVWZTdzF0R0NtSVJvNFI0V1I4Ym5rX29IVmdQbWxrV2xyRDBJVF9pU0FGMlhldE9V0gFmQVVfeXFMUFc3aG03VXVsNlNSQ0V3cTZvaEZNWXptSFFuWVJ4R0pud3VzU2phOXF0c0RYRkhjTmVQU0FhMkpncnhJOWZqcW5UUzBqZnA5R2ZKNm1wVjdLR3hDQmRtVGs4N1Fsb2hn?oc=5",
+            "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxNenhIb090MVREbFp2aDl0UE1LNE5lRUp6TVZLbC1iNzRLWVJwWTZHeVg2UEM4cXJJa1RNaGpZUFlWdkFYXzRHbVVpRHVGYlNQbjVhQXMxN29hbGRNSWctUGNUUW9sTkNQRGhJeXFRREk5bVZ1aTlaVzg1Uzc1SmdpWEczZjNVa0hmUl9VX1pQX3NnZ1hNclZxaDVCTWFZZw?oc=5",
             "category": "World",
-            "published": "2026-05-11T21:58:19.182130"
+            "published": "2026-05-12T22:01:13.857974"
         }
     ]
 }
