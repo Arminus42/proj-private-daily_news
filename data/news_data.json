@@ -1,210 +1,138 @@
 {
     "AI_Tech": [
         {
-            "title": "'AI기업 변신' 日히타치, 앤트로픽과 제휴…피지컬AI 연구 맞손",
+            "title": "한화오션, MS·구글과 AI 함정 공동 연구…\"스마트 기술력 강화\"",
             "points": [
-                "앤트로픽(Anthropic)은 OpenAI와 함께 생성형 AI 분야를 선도하는 글로벌 빅테크 기업입니다. 일본의 거대 산업 기업 히타치(Hitachi)와의 제휴는 AI 기술이 단순 소프트웨어를 넘어 로봇, 자동화 등 물리적 세계(Physical AI)로 확장되는 중요한 글로벌 트렌드를 보여줍니다.",
-                "이 협력은 AI가 실제 물리적 환경에서 작동하는 로봇, 자율 시스템 등의 개발을 가속화할 것입니다. 이는 제조업, 물류, 서비스 등 다양한 산업 분야에 혁신적인 변화를 가져올 잠재력이 큽니다. 마치 뇌가 몸을 움직이듯, AI가 물리적 로봇을 더 정교하고 자율적으로 제어하게 되는 시대를 앞당기는 발판이 됩니다."
+                "이 뉴스는 마이크로소프트(MS)와 구글이라는 세계적인 AI 빅테크 기업들이 한화오션과 손잡고 스마트 함정(군함)에 AI 기술을 적용하는 공동 연구를 시작했다는 점에서 매우 중요합니다. 이는 AI가 단순 소프트웨어를 넘어 국방 및 핵심 인프라 분야로 확장되는 글로벌 트렌드를 보여줍니다.",
+                "AI가 적용된 스마트 함정은 자율 운항, 이상 감지, 전투 시스템 최적화 등 복잡한 해양 환경에서 의사결정 능력을 획기적으로 향상시킬 수 있습니다. 이는 해양 방위 산업의 패러다임을 바꾸고, AI 기술의 실질적인 적용 가능성과 파급력을 입증하는 중요한 기술적 진보입니다."
             ],
-            "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE5LaDNCd3R2eTUzNGlqLW80NFpTbTBOdENZODFrSWtaZmJWSVFuS1ZnUDVrWlpVNUtra3BKbWNFbzB4OGVBamkwcnBEampnUEdVNGNRT1hiT1otT1NvQ1F6btIBYEFVX3lxTE5LaDNCd3R2eTUzNGlqLW80NFpTbTBOdENZODFrSWtaZmJWSVFuS1ZnUDVrWlpVNUtra3BKbWNFbzB4OGVBamkwcnBEampnUEdVNGNRT1hiT1otT1NvQ1F6bg?oc=5",
+            "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTE82U2w3QTdzX2FrazZwYkdocTVQM2FFLXNpOTNVN1BGTk1GOXUtOTUyd0t3QVNkRXdHd0d1QmpqYldKWjZoYjN4ejBYblR3QThOb0FONVdYcy11TzNGeUZBcFRrN0E2NWZYU3p5V2ZJZC1oeXJEQkhWR9IBeEFVX3lxTE82U2w3QTdzX2FrazZwYkdocTVQM2FFLXNpOTNVN1BGTk1GOXUtOTUyd0t3QVNkRXdHd0d1QmpqYldKWjZoYjN4ejBYblR3QThOb0FONVdYcy11TzNGeUZBcFRrN0E2NWZYU3p5V2ZJZC1oeXJEQkhWRw?oc=5",
             "category": "AI_Tech",
-            "published": "2026-05-19T22:03:07.975052"
+            "published": "2026-05-20T22:18:37.918941"
         },
         {
-            "title": "더 작고 효율적인 생성형 AI 구현… 서울공대 전기정보공학부 이종호 교수팀, 이미지 생성 핵심 기능 통합한 인공지능 반도체 기술 제시",
+            "title": "매드업·KAIST 공동 연구 AI 모델, ‘ACL 2026’ 구두발표 논문 채택",
             "points": [
-                "서울대학교는 국내 최고 권위의 연구기관으로, 이곳에서 발표된 AI 반도체 기술은 국내외 AI 하드웨어 연구의 중요한 진전을 의미합니다. 특히 '더 작고 효율적인 생성형 AI'는 현재 AI 기술의 가장 큰 과제 중 하나인 막대한 연산 자원 소모 문제를 해결하려는 시도라는 점에서 파급력이 큽니다.",
-                "이 기술은 현재 거대한 데이터센터에서만 가능했던 생성형 AI를 스마트폰, 엣지 디바이스 등 더 작은 기기에서도 효율적으로 구동할 수 있게 합니다. 이는 마치 슈퍼컴퓨터가 필요했던 작업을 노트북에서도 할 수 있게 만드는 것과 같아, AI의 접근성을 높이고 새로운 서비스와 제품 개발을 촉진할 것입니다."
+                "KAIST(한국과학기술원)는 국내 최고 수준의 연구기관이며, ACL(Association for Computational Linguistics)은 자연어 처리 분야에서 세계적으로 가장 권위 있는 학회 중 하나입니다. 이 학회에서 구두발표 논문으로 채택되었다는 것은 해당 AI 모델이 학계에서 매우 혁신적이고 중요한 연구 성과로 인정받았다는 의미입니다.",
+                "이는 특정 AI 기술 분야(예: 자연어 처리)에서 한국 연구진이 세계적인 수준의 기술적 돌파구를 마련했음을 보여줍니다. 이러한 기초 연구 성과는 향후 다양한 AI 서비스와 제품 개발의 기반이 되어 글로벌 AI 기술 발전에 기여할 수 있습니다."
             ],
-            "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE1HRU4yUFEtaUxhallWT0dQNWdUcVFPNE9TbGdMeGc0TVItNzUxVDVZdU1DdnRDVFRWaEhxY2VwRFNLSXB1NkItaUpDQW9faVVXYWstSk9vQm83M1FFeVF3?oc=5",
+            "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTE10T1N2Q0Z4eXA5bVRHUFA2clREclVOVEVUZWUwNzFDQjZ0SV9KWXgzVHBQdEVoQ3JYaUM4ODRVVXUzQm41Y1pQYzViQ0NaXzNrRF8wUWZGdjdxdl9jcVg0UEVxX01TQmNfeUZn0gFrQVVfeXFMTXRPU3ZDRnh5cDltVEdQUDZyVERyVU5URVRlZTA3MUNCNnRJX0pZeDNUcFB0RWhDclhpQzg4NFVVdTNCbjVjWlBjNWJDQ1pfM2tEXzBRZkZ2N3F2X2NxWDRQRXFfTVNCY195Rmc?oc=5",
             "category": "AI_Tech",
-            "published": "2026-05-19T22:03:07.975058"
+            "published": "2026-05-20T22:18:37.918948"
         },
         {
-            "title": "동서발전, 외산 GPU 독점 깬다… “국산 AI 생태계 활성화”",
+            "title": "코난테크·퓨리오사·동서발전, 외산 GPU 대체 국산 AI 인프라 실증",
             "points": [
-                "동서발전이 퓨리오사AI, 코난테크놀로지 등 국내 AI 기업들과 손잡고 국산 NPU(신경망처리장치) 및 LLM(대규모 언어 모델) 기반 AI 인프라를 구축하는 것은 국내 AI 생태계 자립도를 높이는 중요한 전략적 움직임입니다. 이는 특정 외산 기술에 대한 의존도를 줄이고 국내 기술 경쟁력을 강화하려는 국가적 차원의 노력입니다.",
-                "이 협력은 고성능 AI 연산에 필수적인 NPU와 LLM 분야에서 국산 기술의 실증 및 상용화를 가속화할 것입니다. 마치 외산 부품에만 의존하던 자동차 산업이 자체 엔진을 개발하는 것과 같아, 국내 AI 산업의 성장 동력을 확보하고 장기적으로는 경제 안보에도 기여할 수 있습니다."
+                "이 뉴스는 국내 AI 반도체 기업인 퓨리오사AI가 개발한 국산 AI 칩을 활용하여, 엔비디아(NVIDIA) 등 외산 GPU에 대한 의존도를 줄이고 독자적인 AI 인프라를 구축하려는 시도라는 점에서 매우 중요합니다. 이는 글로벌 AI 반도체 시장의 경쟁 심화와 공급망 안정화라는 거대한 흐름 속에서 한국의 기술 자립도를 높이는 핵심적인 움직임입니다.",
+                "AI 시대의 핵심 자원인 고성능 컴퓨팅 인프라를 국산 기술로 대체하려는 노력은 국가 안보와 경제적 독립성 확보에 기여합니다. 이는 단순한 기술 개발을 넘어, AI 기술 주권을 확보하고 미래 산업 경쟁력을 강화하는 중요한 기술적, 전략적 돌파구입니다."
             ],
-            "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFBmS2RqSHNwVGZxZVBFcEE4WE9nZUtYV2F3N3l5aEVFcjdOTU5SQzk0c1p4ckdOY3QzcldRaGU4MnNYWXY4TnkwNUUyb1FodE1vNWpad1IyLWNTZw?oc=5",
+            "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTFBnenBtTmJqcEtxbWpWR3JHeDVkNS0zaGJ1b0pGM2p4NEJSYUYySE4wVzFpaDRudDFtVVBrX21XY3hCYVpwSzByUXk0R0N3SU05Smp0MS1R?oc=5",
             "category": "AI_Tech",
-            "published": "2026-05-19T22:03:07.975059"
+            "published": "2026-05-20T22:18:37.918950"
         },
         {
-            "title": "“AI 다음은 휴머노이드”…여성과총, 인간 중심 기술 리더십 논의",
+            "title": "서울대 의료 AI, 진단에서 신약 개발까지… 할루시네이션 극복 원천기술 확보 나선다",
             "points": [
-                "이 뉴스는 특정 기술 발표는 아니지만, AI 기술 발전의 다음 단계로 '휴머노이드 로봇'을 지목하고 인간 중심의 기술 리더십을 논의한다는 점에서 글로벌 AI 트렌드의 중요한 방향성을 제시합니다. 이는 단순한 소프트웨어 AI를 넘어 물리적 세계와 상호작용하는 AI의 미래에 대한 심도 깊은 고찰을 담고 있습니다.",
-                "휴머노이드는 AI가 실제 환경에서 인간과 협력하거나 대체하는 핵심 플랫폼이 될 것입니다. 이 논의는 미래 AI 기술 개발의 윤리적, 사회적, 경제적 측면을 미리 고민하고 방향을 설정하는 데 기여하며, 궁극적으로는 로봇 산업과 AI 서비스 시장의 새로운 패러다임을 형성하는 데 영향을 미칠 수 있습니다."
+                "서울대학교는 국내 최고 연구기관이며, 의료 분야는 AI의 파급력이 가장 큰 분야 중 하나입니다. 특히, 생성형 AI의 고질적인 문제인 '할루시네이션(환각 현상)'을 극복하기 위한 원천기술 확보에 나선다는 점은 AI 기술의 신뢰성과 안전성을 근본적으로 향상시키려는 중요한 시도입니다.",
+                "할루시네이션은 AI가 사실과 다른 정보를 생성하는 현상으로, 의료 분야에서는 오진이나 잘못된 신약 개발로 이어질 수 있어 치명적입니다. 이를 극복하는 기술은 AI의 신뢰도를 획기적으로 높여 의료 진단, 신약 개발 등 고위험 분야에서 AI의 활용을 가속화하고, 글로벌 AI 기술 발전의 핵심적인 난제를 해결하는 데 기여할 것입니다."
             ],
-            "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE55RF9DbldHR1NqNGVLV2tTdWQ1SHVxR2xGMUdNLXZyZDNLNl9BVC1xLU9mYVdFSUl6Z2xRdkFZNDkwdkxRSTBmZXNIOHNZOEhReGFTSVpiTzBjbGU2R3BkdFVCM09PeWc?oc=5",
+            "link": "https://news.google.com/rss/articles/CBMiQ0FVX3lxTE5McC1Xam9CbnVGTEtlcWRGYjlUZEhvOVlPcWxnN251UE8yMU9GRXQ5d011Tjl6VFhIdUhnZUZMaVNIZjA?oc=5",
             "category": "AI_Tech",
-            "published": "2026-05-19T22:03:07.975060"
+            "published": "2026-05-20T22:18:37.918951"
         },
         {
-            "title": "중동 AI 기술 허브 전환, 한국 기업 시장 진출 기회 열린다",
+            "title": "ETRI, 박세웅 신임 원장 취임…AI·DX 중심 연구 방향 제시",
             "points": [
-                "이 뉴스는 특정 기술 개발이 아닌, AI 기술이 전 세계적으로 확산되고 새로운 경제 허브를 형성하는 '글로벌 AI 트렌드'의 중요한 단면을 보여줍니다. 중동 지역이 막대한 자본을 바탕으로 AI 기술 허브로 부상하는 것은 전 세계 AI 시장의 지형을 바꾸고 새로운 기회를 창출한다는 점에서 파급력이 큽니다.",
-                "중동의 AI 허브화는 한국을 포함한 전 세계 AI 기업들에게 새로운 시장 진출 기회를 제공하며, AI 기술 투자 및 인력 유치 경쟁을 심화시킬 것입니다. 이는 마치 실리콘밸리 외에 새로운 기술 중심지가 생겨나는 것과 같아, AI 기술의 글로벌 표준과 협력 모델에도 영향을 미칠 수 있습니다."
+                "ETRI(한국전자통신연구원)는 대한민국의 대표적인 국책 연구기관으로, 신임 원장이 AI와 디지털 전환(DX)을 핵심 연구 방향으로 제시했다는 것은 국가 차원의 AI 기술 개발 및 산업 전환에 대한 강력한 의지를 보여줍니다. 이는 향후 한국 AI 기술 발전의 큰 그림을 그리는 중요한 발표입니다.",
+                "ETRI의 이러한 전략적 방향 설정은 AI 분야의 핵심 원천 기술 개발, 인력 양성, 그리고 다양한 산업 분야로의 AI 확산에 큰 영향을 미칠 것입니다. 이는 단순한 연구원장의 취임 소식을 넘어, 한국이 글로벌 AI 기술 경쟁에서 주도권을 확보하기 위한 국가적 로드맵의 중요한 이정표가 됩니다."
             ],
-            "link": "https://news.google.com/rss/articles/CBMiTEFVX3lxTE9McmJZZDZDZndUSVBiYTlFT1JQQXlIMkxLLVRuTFJzd0YwOTBPRGtvbEtzenFEdU1ZVGJXVzBJbVg0MmFCLVEyYTJTVzg?oc=5",
+            "link": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE5rV2NFSUw0RVRrdTVybEdPYmgyaXBSSFNHMTY5UUJiR2VBeVpGTUl2SWxHN1JEczN3b1NtYzI3bmpsNXFkVjVkRGVLR1lQcDFxT19qT2ItMVlRLW1RRWhxbnpR?oc=5",
             "category": "AI_Tech",
-            "published": "2026-05-19T22:03:07.975061"
-        }
-    ],
-    "IT_Biz": [
-        {
-            "title": "비수로 끝난 ‘AI 브로맨스’...머스크 vs 올트먼 법정 싸움 승자는 - 조선일보",
-            "points": [
-                "AI 산업의 핵심 주체인 일론 머스크와 샘 올트먼(OpenAI) 간의 법적 분쟁으로, AI 개발의 방향성, 상업화, 비영리 정신 등 근본적인 이슈를 제기합니다.",
-                "이번 소송 결과는 OpenAI의 지배구조와 향후 AI 기술 개발 및 공개 방식에 중대한 영향을 미칠 수 있으며, AI 거버넌스 논의를 촉발합니다."
-            ],
-            "link": "https://news.google.com/rss/articles/CBMigwFBVV95cUxOaUpYTU9hY29uNW1KSTRZMnZRZzRNRDVpU05oallEeGgwcTRKN1RlNHRUVERlTnBmbExwVWt0OVFnTjU0Tjh5Qm9SQUxnT2FYMldRMG1UbzB0YUgzTjBJenl4MEdXUUJPeHJrS3FjTmR5d2JkM0lwZU5hemlIeEtxMEZENA?oc=5",
-            "category": "IT_Biz",
-            "published": "2026-05-19T22:03:45.413338"
-        },
-        {
-            "title": "美 SEC ‘주식 토큰화’ 비밀 카드에 XRP 레저 전격 부상…월가 대격변 예고 - 글로벌이코노믹",
-            "points": [
-                "미국 증권거래위원회(SEC)가 주식 토큰화를 추진할 가능성이 제기되며, 이는 전통 금융 시장과 블록체인 기술의 융합을 가속화하는 중대한 정책 변화입니다.",
-                "XRP 레저를 활용한 주식 토큰화는 월스트리트의 증권 발행 및 거래 방식에 혁신적인 변화를 가져와 금융 산업의 판도를 뒤흔들 잠재력을 가집니다."
-            ],
-            "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxQcjRrcXhmV2lsb2t0Ml9GN08wV1FxUzhremRxUVo3MEh5WEdSM2xuYVdMVG5JRmNlS0RQRWMxdHJkRVZVUUc5aHV3aGR6NGhaSjZyUGRZWElhX0pPMTV4aU1qQ0VnMk50MVNVRTAwcTd0dWlXWE0xdFN1VV9uaF8xQ1BRMzlnZ3ZG?oc=5",
-            "category": "IT_Biz",
-            "published": "2026-05-19T22:03:45.413344"
-        },
-        {
-            "title": "\"제미나이4 나올까\"…구글 I/O 2026 7가지 관전 포인트 - 지디넷코리아",
-            "points": [
-                "구글의 연례 개발자 회의인 Google I/O는 AI, 클라우드 등 핵심 기술의 미래 방향을 제시하는 중요한 행사이며, 특히 차세대 AI 모델 '제미나이 4'의 발표 가능성이 주목됩니다.",
-                "새로운 AI 모델 출시는 인공지능 기술 경쟁의 판도를 바꾸고, 개발자 생태계에 큰 영향을 미치며, 다양한 산업 분야의 혁신을 촉진할 핵심 기술적 변화입니다."
-            ],
-            "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTFBfQjJIaHJIV3Ezcl9Jai1WbW9wMmh6Wk5vLXk0eWtDRTVqSFlnUUQyQ2RBZXV2QVl4X291VW9YUWl1S2FfU0h1NWRPY1NLSV9qLUx1cmpB?oc=5",
-            "category": "IT_Biz",
-            "published": "2026-05-19T22:03:45.413346"
-        },
-        {
-            "title": "보스턴다이내믹스 나스닥 상장 '6월 분수령'… 정의선 20조 실탄 확보 초읽기 - 글로벌이코노믹",
-            "points": [
-                "현대자동차가 인수한 세계적인 로봇 기업 보스턴다이내믹스의 나스닥 상장 추진은 로봇 산업에 대규모 자본 유입을 예고하며, 산업 성장을 가속화할 주요 투자 소식입니다.",
-                "정의선 회장의 20조 원 실탄 확보는 현대차그룹의 로봇 및 미래 모빌리티 사업 확장에 결정적인 동력이 될 것이며, 글로벌 로봇 시장의 경쟁 구도에 큰 영향을 미칠 것입니다."
-            ],
-            "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNTWFGcHhvMVdQcGNaS2tOTEpUZ3FwY0VaaW9MWGNZM003NFZUNzNac0xMLXdSWU45U3RObzkxendlNDZKcVBycmF1NVJmenJUWFM5WWdha3Nwd0R6cXNYZnkyY3BGcU4yWlVlTEFPTEtXTmtCQlhaV1oya2FBMml6Y0RneFpfSE14?oc=5",
-            "category": "IT_Biz",
-            "published": "2026-05-19T22:03:45.413347"
-        },
-        {
-            "title": "IBM “양자컴퓨팅, 이미 산업 활용 '유용성' 단계” - 전자신문",
-            "points": [
-                "글로벌 IT 기업 IBM이 양자컴퓨팅이 이미 산업적 활용이 가능한 '유용성' 단계에 진입했다고 선언한 것은, 이 첨단 기술의 상용화 가능성을 높이는 중요한 이정표입니다.",
-                "이는 양자컴퓨팅이 단순 연구 단계를 넘어 실제 산업 문제 해결에 기여할 수 있음을 시사하며, 관련 기술 개발 및 투자 확대를 촉진하여 미래 컴퓨팅 패러다임 변화를 가속화할 것입니다."
-            ],
-            "link": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE5QdlUzeHpyYmNXcVlXMVhRcGJLUjFWallwYkZEOHcyWTVFVThHakJWUjQ1aFlvUmdLbkJUY3VyYXBVSVF4VVFDUnNQVHR4Zw?oc=5",
-            "category": "IT_Biz",
-            "published": "2026-05-19T22:03:45.413348"
+            "published": "2026-05-20T22:18:37.918952"
         }
     ],
     "Economy": [
         {
-            "title": "[속보] 삼성전자 노사, 최종 합의 못 이뤄 20일 재논의…총파업 D-1 - 한겨레",
+            "title": "삼성전자 노사 파업 1시간여 전 극적 타결…‘사업성과 12%’ 성과급",
             "points": [
-                "국내 최대 기업 삼성전자의 노사 갈등은 생산 차질 및 경영 불확실성을 야기하며, 국내 경제 전반과 글로벌 공급망에 중대한 영향을 미칠 수 있는 핵심 이슈입니다.",
-                "총파업 현실화 시 반도체 등 주요 제품 생산에 차질이 발생하여 글로벌 시장 가격 변동 및 국내외 투자 심리 위축으로 이어질 수 있습니다."
+                "국내 최대 기업인 삼성전자의 노사 간 임금 및 단체협상 타결은 국내 노동 시장과 기업 노사 관계 안정화에 중요한 선례를 남기는 주요 경제 뉴스입니다.",
+                "파업 직전의 극적인 타결은 기업의 생산성 유지와 노사 갈등 최소화에 기여하며, '사업성과 12%'라는 성과급 지급은 향후 다른 대기업의 임금 협상에도 영향을 미칠 수 있습니다."
             ],
-            "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTFBhM3kzWlpibXBxeTllME5QZGo0RjViZ3dza0RDc19YSGNrdGNhUnhjeG04NmJRV1ZPTmozOW9RTzJnZ2JMY1pVRk12MXl4N0pXQjIwbkxZUU9aelhvQjNvQkJ4NEo?oc=5",
+            "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE44Q1Fyai1FQ2xvbmlKUWQwbGN6b2p0UUZaOWhlNzZ0dUZtMlV5ZTNBclZDSmU2UXFTNmFKR3plNEctb0R4YVFEN09pbTl1X2I3VjU5dVlyWGRpZjh4M2h1eGlpSXY?oc=5",
             "category": "Economy",
-            "published": "2026-05-19T22:04:17.142002"
+            "published": "2026-05-20T22:18:57.061039"
         },
         {
-            "title": "현대차그룹, 아틀라스 2.5만대 도입…미국서 핵심 부품 만든다 - 전자신문",
+            "title": "\"美 국채 '위험 지대' 진입…금리가 모든 자산에 압력\"",
             "points": [
-                "현대차그룹의 대규모 로봇 도입과 미국 내 핵심 부품 생산은 글로벌 자동차 산업의 생산 패러다임 변화와 공급망 재편을 가속화하는 중요한 전략적 결정입니다.",
-                "이는 생산 효율성 극대화 및 비용 절감 효과를 가져올 뿐만 아니라, 미국 시장 내 입지를 강화하고 미래 모빌리티 기술 경쟁력을 확보하는 데 기여할 것입니다."
+                "미국 국채는 글로벌 금융시장의 기준 자산으로, 그 위험성 증가는 전 세계 자산 시장과 경제 안정성에 광범위하고 심대한 영향을 미치는 매우 비중 있는 뉴스입니다.",
+                "미국 국채 금리 상승은 주식, 부동산 등 모든 자산의 가치 평가에 하방 압력을 가하며, 이는 글로벌 투자 전략과 자본 흐름에 중대한 변화를 초래할 수 있습니다."
             ],
-            "link": "https://news.google.com/rss/articles/CBMiTkFVX3lxTFBjSXJuZklpcmpPWGhaMG9LcE95V3d0TzhITDh2djNNMzkzNWhCVU1qN29meWdoZFd6Vi04amkwdUFnd0MyR0JpS084RlhUUQ?oc=5",
+            "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE5hZkF6ZWNleU9nLVRHX0FwcVRQRnZ0cTFwZ3JrYTdNbUNNbmVDNlp6ZzI3aUhJZW5JeXdvNjlkdW5iTF83alNXaGE2aVhiclJUZ2VkQnJiVDUwTk1QVUFwdDEyclZhMnVIbVBJNXB5dXk?oc=5",
             "category": "Economy",
-            "published": "2026-05-19T22:04:17.142008"
+            "published": "2026-05-20T22:18:57.061046"
         },
         {
-            "title": "뉴욕증시, 이란전쟁 주시하며 혼조…다우 0.3%↑·나스닥 0.5%↓(종합) - 연합뉴스",
+            "title": "“1억 넣었는데, 지금 팔아야 할까요?”…코스피 짓누르는 악재는? [잇슈 머니]",
             "points": [
-                "뉴욕증시의 움직임은 글로벌 경제의 바로미터이며, 이란 전쟁과 같은 중동 지역의 지정학적 리스크는 국제 유가, 환율, 그리고 전 세계 증시에 즉각적이고 광범위한 영향을 미칩니다.",
-                "중동 불안정은 에너지 공급망 교란을 통해 인플레이션 압력을 높이고, 투자 심리를 위축시켜 글로벌 경제 성장 둔화로 이어질 수 있는 핵심 변수입니다."
+                "국내 주요 주가지수인 코스피를 짓누르는 악재에 대한 분석은 한국 경제의 전반적인 건전성과 투자 심리를 이해하는 데 필수적이며, 국내 경제에 미치는 영향이 큽니다.",
+                "고금리 장기화, 경기 둔화 우려, 지정학적 리스크 등 복합적인 악재들이 국내 증시의 하락 압력으로 작용하며, 이는 기업 실적 및 개인 투자자의 자산 운용 전략에 직접적인 영향을 미칩니다."
             ],
-            "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFAyM0dCQ0o5VW92WUt0ZjdJdVRnc0FZRG9fc0ZfVUprRWtqSG5INGh4dk41N0g4bHdTaVI0YWhfeDFUTkZjbXJ4bmtvblhZakU4d0hOZzBWbkdpeG_SAWBBVV95cUxPRkxKVXNwUXU5aWlSWVUxOW94b1hGd3VNamRrNU8xcXVicmtCQ1ZWZk16UDNsNDJvYVFiSW90TUJ4bTdSNDM5MzdpdUV1ampQS29EOE9iMml4eVVKZHBUUmY?oc=5",
+            "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFBVQUY4VUQwXzJ6OXpRTFdmNEp5YXdNX1JWN1p2VngtdDVRU0lJeEhXUmwtLS01LWdMZkhOSms2dUtzT281ekN3eUFZOW5TQmdKT2NhX0dkXzdGQkU?oc=5",
             "category": "Economy",
-            "published": "2026-05-19T22:04:17.142010"
-        },
-        {
-            "title": "외국인 5.7조 순매도… 주가 급락, 환율도 뛰어 - 조선일보",
-            "points": [
-                "외국인 투자자의 대규모 순매도는 국내 증시의 급락과 원화 가치 하락을 초래하며, 국내 자본 시장의 불안정성을 심화시키는 중요한 경제적 사건입니다.",
-                "이는 국내 기업의 자금 조달 환경 악화, 수입 물가 상승 압력, 그리고 전반적인 경제 심리 위축으로 이어져 국내 경제 성장 동력에 부정적인 영향을 미칠 수 있습니다."
-            ],
-            "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxPVlEtdk9CWkEtbnVzUUNmRDJOY3IzRmZFcUtWMmt0WTVqWVA5TUlTcEpCT3lpcGgzVXAtY1NhSzhJQjJGazR6bXRKX3lLMXVnZTRKRWl4eWxqbXltTi1wRlFCV2RxRjc4RHRWVkJadmF1THd2VzBsNmJQeTdBaU9tc1dWRktpbGp1WmtkQnZn?oc=5",
-            "category": "Economy",
-            "published": "2026-05-19T22:04:17.142011"
-        },
-        {
-            "title": "‘국민참여형 성장펀드’ 10만원부터 가입…22일부터 6천억원 선착순 판매 - 한겨레",
-            "points": [
-                "정부 주도의 6천억원 규모 '국민참여형 성장펀드' 출시는 일반 국민의 투자 참여를 확대하고, 국내 벤처 및 스타트업 생태계에 대규모 자금을 공급하여 혁신 성장을 촉진하려는 중요한 정책입니다.",
-                "이 펀드는 신산업 육성과 일자리 창출에 기여하며, 국민들에게는 안정적인 투자 기회를 제공함으로써 국내 경제 활성화에 긍정적인 파급 효과를 가져올 것으로 기대됩니다."
-            ],
-            "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE5TVE0yczEzbWdZUlNWWVBwbUFCa1g2VlQ2dWZpQm83ZXJSWERVaUY3T3BmbG1jZnN0VmZ4TjRNSWlxSEJUMkVPNWZ4TVF2d3dXYS1HM0RaYXBHTjF3ZllpbERjWC1yOVU?oc=5",
-            "category": "Economy",
-            "published": "2026-05-19T22:04:17.142012"
+            "published": "2026-05-20T22:18:57.061047"
         }
     ],
     "World": [
         {
-            "title": "격화하는 러·우크라 난타전…서로 급소 때렸다(종합)",
+            "title": "트럼프보다 푸틴 의전 높인 시진핑 “내정간섭 말라” 美견제 밀착 - 동아일보",
             "points": [
-                "러시아-우크라이나 전쟁의 최신 상황을 종합적으로 보도하며, 양측의 군사적 공세가 격화되고 있음을 보여주는 주요 세계 뉴스입니다.",
-                "전쟁의 장기화와 확전 가능성을 시사하며, 국제 정세 및 에너지 시장 등 세계 경제에 미치는 영향이 큽니다."
+                "중국과 러시아의 전략적 밀착을 보여주며, 이는 미국 주도의 국제 질서에 대한 도전으로 해석될 수 있습니다.",
+                "글로벌 지정학적 판도 변화와 새로운 냉전 구도 형성 가능성을 시사하며, 우크라이나 전쟁 등 국제 분쟁에도 영향을 미칠 수 있습니다."
             ],
-            "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFBqZWFJR0VxNmNGMlAyZ3RFQWtjbW51T2RLR1E0TVhaMlRsOHhXYjI5NmtQMWxITGNaY1dNNDJPRU1jVFhsY3VGelpVYnlXMnFBZ05wTFdKdXZYaFXSAWBBVV95cUxNRy1oOGsycE5zT0RLM3BQdEJHWnJFOHg1MzVLN2xVQzExS3VheFgyTURNckQ2NnVUV3l6QVZhRGYyamJfVzhzbEtZV2JaNVAxTG5qclpCcHExcVFmYkVhN1M?oc=5",
+            "link": "https://news.google.com/rss/articles/CBMic0FVX3lxTE90UEtEbFdJY1lfS1J0bE53N1ZYRGRSbWNGUzJqWG9DNUNxR0l5aDI2emJlUjVEZG83aHVDS0hURWREckF0M3M3OXB6SmZmTkhNSkdYRThhYXBXWFgwOXR1UHRELWlKUkNjTU9RR05tQjdicFnSAWZBVV95cUxOOEtpR1gxQ3JsV3BjM1phR1RxaDBvMmpGVEwzandhWWVwekFVYlhTSzZFMmNINEZGdVZURTBlTEJseEswRzJkak5wMTNiOHlWX3VIOFVqNldadzJucjFYekVmWGxGNFE?oc=5",
             "category": "World",
-            "published": "2026-05-19T22:04:42.901096"
+            "published": "2026-05-20T22:19:57.637504"
         },
         {
-            "title": "시진핑, 트럼프에게 \"푸틴은 우크라이나 침공을 후회할 수도 있다\"고 말해",
+            "title": "李 \"네타냐후 체포영장 검토하라\" - 조선일보",
             "points": [
-                "미국, 중국, 러시아 세 강대국 정상 간의 우크라이나 전쟁에 대한 비공식적 대화 내용을 보도하며, 복잡한 국제 외교 관계를 보여줍니다.",
-                "중국이 러시아에 대해 미묘한 압박을 가할 수 있음을 시사하며, 우크라이나 전쟁의 향방과 국제 질서 재편에 영향을 미칠 수 있는 중요한 외교적 메시지입니다."
+                "국제형사재판소(ICC) 또는 유사 국제기구가 현직 국가원수에 대한 체포영장을 검토하는 것은 국제법 및 국제 정치에 전례 없는 파급력을 가집니다.",
+                "이스라엘-하마스 분쟁의 국제적 개입을 심화시키고, 중동 정세 및 국제 외교 관계에 중대한 변화를 초래할 수 있습니다."
             ],
-            "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxNN2xhdDNfUk41Z3ZhZHhzaWI0YlVZck82Vm9ZSElCWkNvbjB0Q0x1T052SDlBeUdJSHVVN19nU2xSeG45dFBjN2wyVnpiYW1WdVh6cU1FRDZTcEFiMnlDVXFTSHNwXzNHaksyWFBicUJFb1NLVDgyZmI1R3ZrRHVDWGdraGtPZ0Y0VXdrRmlzeTBKYXROU1I3X3k1NnAzZw?oc=5",
+            "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNeWFaU0hLU2FSZnVtWmdsaVgwYkFleGJ6eWV5MTZaUFQ5d0R5Yjlld2JEQkt3S2NuSHpQRG1lWHVCa0FMcGpmMnpHOEpoLW9sazFsQUw2SERsaFpmMC1GRlpRZTBfWFEtaS1rcGdYR2J3WGJObVRtcmM3emZ0eGx0eWlyYlQ1TXZR?oc=5",
             "category": "World",
-            "published": "2026-05-19T22:04:42.901103"
+            "published": "2026-05-20T22:19:57.637512"
         },
         {
-            "title": "민주콩고·우간다 에볼라 사망 100명 넘어…아프리카CDC도 비상사태 선언",
+            "title": "이번엔 러시아에 기름비가 내린다···이란 전쟁이 바꾼 러·우 전쟁 판도 - 경향신문",
             "points": [
-                "민주콩고와 우간다에서 에볼라 사망자가 100명을 넘어서고 아프리카 질병통제예방센터(CDC)가 비상사태를 선언한 소식으로, 심각한 국제 보건 위기입니다.",
-                "대규모 전염병 확산은 해당 지역의 인도주의적 위기를 심화시키고, 국제 사회의 지원과 방역 노력에 대한 필요성을 강조하며, 잠재적으로 국경을 넘어설 수 있는 위협을 내포합니다."
+                "중동의 이란 관련 분쟁이 러시아-우크라이나 전쟁의 판도에 영향을 미친다는 것은 글로벌 에너지 시장과 지정학적 동맹 관계의 복잡한 상호작용을 보여줍니다.",
+                "국제 유가 변동성 증대 및 주요 국가들의 에너지 전략 변화를 야기하며, 두 주요 분쟁의 전개 양상에 예상치 못한 변수를 추가할 수 있습니다."
             ],
-            "link": "https://news.google.com/rss/articles/CBMic0FVX3lxTFBHUnZzNzZLc3hScmdVV2hndThwdTBnSWJvUDJWdHJibHRuaU15VXJYOWdRWHBSMHp6VnhlOUhmdE5oMWg2bUtueGVtUlBhX2VuWFpUYlkwX0VGYlk1S3ZoRnQyblRmMjRZQzVpck03T29qLXM?oc=5",
+            "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE5Id2hpbkMxOVpIQVNJODlWWUNFbXBYZWhDbXlUaVVLMEl1Vm1WR1ZmQ01QU0V3dFA0TGVaN1o3UHBKbnprX0RlQWpNcEhzc1NkdzhDQ0xXVmliUdIBX0FVX3lxTE9UcVIydXlvbEtlTDExaWwyMEh6NzhoeTRNaDRWNWptRXJLTkxlLWg1SGd2X2ZGblQ3LWZhNmhGWVNlNHdqa1JuR0N6czNPMk1GU2ZHdDIwc0hXeG1aNFQ0?oc=5",
             "category": "World",
-            "published": "2026-05-19T22:04:42.901104"
+            "published": "2026-05-20T22:19:57.637513"
         },
         {
-            "title": "트럼프, 이란 공격 보류에 \"이틀에서 다음주 초까지 일정 기간만\"",
+            "title": "트럼프 \"대만 문제 해결 위해 라이칭더 총통과 대화할 것\" - 조선일보",
             "points": [
-                "미국 트럼프 대통령이 이란 공격을 보류했으나, 일시적인 조치임을 밝힌 소식으로, 중동 정세의 불안정성과 미국의 대이란 정책의 불확실성을 보여주는 주요 뉴스입니다.",
-                "미국의 군사적 행동 여부가 국제 유가, 중동 지역 안보, 그리고 국제 외교 관계에 즉각적인 영향을 미칠 수 있는 매우 민감한 사안입니다."
+                "미국 전 대통령(이자 유력 대선 후보)이 '하나의 중국' 원칙을 정면으로 도전하며 대만 총통과의 직접 대화를 언급한 것은 미-중 관계에 극심한 긴장을 유발할 수 있습니다.",
+                "대만 해협의 지정학적 불안정성을 증대시키고, 글로벌 공급망(특히 반도체) 및 세계 경제에 막대한 영향을 미칠 수 있는 잠재적 분쟁의 불씨가 될 수 있습니다."
             ],
-            "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxNQVBzS3l4cWo3cHJrazR4MmxVRERqSTdUeTdScml3ZU9YNVBtTFhScFNrTXlHR3YyNndBd3dpaFZNam84VC1aQ2tucUVYMHB1TlFxbjVldVRaZTNPbnJCdjNZQlRaZnhoNndmWDR2cFAxckIyVVhaS0hoQm8xYzNtTkQxUE0?oc=5",
+            "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxOeG5oU19zT0ItMy13azNkN1hLUlYwbm94MlRVT2tWRXB5dDVIUnpPX2UxLXBiLU5FT1pzTVVsMU9hcUpmVEs0WnZCNWRlWGNyX0tXSGdWT2dYQmxMQlVEV20ySjVPQ2JhaU9qcC0yUGZHNGZMdy1GejkwV3d0emtzSHZwbmU?oc=5",
             "category": "World",
-            "published": "2026-05-19T22:04:42.901105"
+            "published": "2026-05-20T22:19:57.637514"
         },
         {
-            "title": "中, 미중 정상회담 나흘 만에 서태평양서 항모 훈련",
+            "title": "[속보]중국 상무부 “보잉 항공기 200대 구매…희토류 미국과 충분히 소통” - 경향신문",
             "points": [
-                "미중 정상회담 직후 중국이 서태평양에서 항공모함 훈련을 실시한 소식으로, 미중 관계의 긴장감과 중국의 군사력 과시를 보여주는 주요 뉴스입니다.",
-                "남중국해 및 대만 해협 등 아시아 태평양 지역의 안보 환경에 직접적인 영향을 미치며, 미국의 인도-태평양 전략과 충돌할 수 있는 중요한 군사적 움직임입니다."
+                "중국이 대규모 보잉 항공기를 구매하고 희토류 문제에 대해 미국과 소통하겠다는 것은 미-중 무역 및 기술 전쟁의 완화 또는 새로운 협력 국면을 시사합니다.",
+                "글로벌 항공 산업 및 첨단 기술 공급망에 큰 영향을 미치며, 양국 간 경제 관계의 변화가 세계 경제 전반에 파급될 수 있습니다."
             ],
-            "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxPdlhaRm5NN3QxbTk0OVJ0ekpTVDIwTmtDSTVWa0NGamtnY3FRbXdpSDVBaDJwcTk4SmlkaUN0aEladUttTE5Bck5YSHg3ME5BTHZ6YXpHeGx0VUhyQmd0TXJBUHFfR1Q4R213bGptWWphZVJrMFZ3UkJZUlBRNXhXRGxMY1NwY0M1RzJIMS1PTndNNElmcVJpSUJvWUJtdw?oc=5",
+            "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFBha1E2UlVBWmNMTzQ2bnhfQlk3WW9lQ1R4NWlDOFprdF9Pem9FUVlXQkRVaDFEcm9WdHBtTV9odU5DNFRtSXQyeEFySUVfOGZtMEZDejJTSmxlZ9IBX0FVX3lxTE5sc21jRndDSHFNZE54dWdqcU5yVUh0TnNEUjNSQUxWUThRNmliWERlNXhkV2J2NzBBc0pFU3h6Y3NDdUM2Q21iSm1LdmxpME1wVFZYSUdIenlBd0V4SVBR?oc=5",
             "category": "World",
-            "published": "2026-05-19T22:04:42.901106"
+            "published": "2026-05-20T22:19:57.637515"
         }
     ]
 }
