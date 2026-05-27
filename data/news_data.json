@@ -1,158 +1,106 @@
 {
     "AI_Tech": [
         {
-            "title": "삼성전자, 6월부터 생성형 AI 도입으로 기업 경쟁력 강화",
+            "title": "카카오, ‘카나나 스칼라 콜로키움’ 개최…AI 연구 협력·서비스 고도화 연결",
             "points": [
-                "글로벌 IT 선두 기업인 삼성이 내부 업무에 생성형 AI를 본격 도입하는 것은 전 세계 기업들이 AI를 어떻게 활용하고 혁신할지에 대한 중요한 이정표를 제시합니다. 이는 단순한 기술 도입을 넘어 기업 운영 방식의 근본적인 변화를 의미합니다.",
-                "거대 언어 모델(LLM)과 같은 생성형 AI를 활용하여 문서 작성, 코드 개발, 데이터 분석 등 다양한 업무의 효율성을 극대화하고, 새로운 아이디어 창출을 가속화할 수 있습니다. 이는 생산성 향상과 비용 절감은 물론, 혁신적인 서비스 개발로 이어져 기업의 경쟁력을 한 단계 끌어올릴 것입니다."
+                "카카오는 국내 대표 AI 빅테크 기업으로서, '카나나 스칼라 콜로키움'을 통해 학계 연구진과 최신 AI 기술을 논의하고 자사 AI 모델 '카나나'의 고도화를 모색합니다. 이는 국내 AI 기술 생태계 발전과 카카오 AI 서비스 경쟁력 강화를 위한 중요한 발걸음입니다.",
+                "이번 행사는 카카오의 생성형 AI 모델인 '카나나'의 기술적 진보와 활용 가능성을 심도 있게 다루며, AI 연구 협력을 통해 서비스 품질을 높이는 데 중점을 둡니다. 이는 마치 AI 기술의 '두뇌'를 더욱 똑똑하게 만들고, 그 지식을 실제 생활에 유용하게 적용하기 위한 연구자들의 지식 공유의 장과 같습니다."
             ],
-            "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE03RUpBalJZWC1xd2xidUJQcVQzZC1WZ2c3NkdDLUdtMG40Mjd5azZyZUVoajBILXhNeDBHU0FIX0psVlI0T20yeVlFY1hvUEl5NWEtd0xkbFNKS2hUbHlCTnVrb0pNZ05UYnZJVWRWbm4?oc=5",
+            "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE9vZk5LZHRlSFN6VTY3VVdiSGhUaEV5TDNkZ243YlRxdGtwMTJ2enBYY3BGWUdZYUpnZ2VjOXgwU09iazVGRG81YTNoUXVkRUc3RmpCSHlIa09fcXdZZm4xZWl6Wk96bXh4?oc=5",
             "category": "AI_Tech",
-            "published": "2026-05-26T22:13:53.287346"
+            "published": "2026-05-27T22:24:22.656937"
         },
         {
-            "title": "현대로템, 무인로봇 핵심 국책과제 수주로 K-방산 피지컬 AI 기술 주권 확보",
+            "title": "정부, ‘K-문샷’ 본격 가동…AI로 연구 속도 높이고 국가 난제 해결 나선다",
             "points": [
-                "국내 대표 방산 기업인 현대로템이 국가 주도 무인로봇 개발 과제를 수주한 것은 국방 분야에서의 AI 및 로봇 기술 자립화를 의미합니다. 이는 미래 전장 환경의 변화를 주도하고, 글로벌 방산 시장에서 한국의 기술적 위상을 높이는 중요한 발걸음입니다.",
-                "'피지컬 AI'는 단순히 데이터를 분석하는 것을 넘어, 로봇이 실제 물리적 환경에서 자율적으로 인지하고 판단하며 행동하는 기술입니다. 이는 국방 분야뿐만 아니라 재난 구조, 물류, 건설 등 다양한 산업에서 고위험·고난도 작업을 대체하며 경제적 가치를 창출하고 인명 피해를 줄이는 데 기여할 것입니다."
+                "정부가 'K-문샷' 프로젝트를 통해 AI를 활용하여 과학기술 연구의 생산성을 높이고 국가적 난제를 해결하겠다고 발표했습니다. 이는 AI를 국가 핵심 인프라로 인식하고 대규모 투자를 통해 미래 성장 동력을 확보하려는 국가적 차원의 중대 전략입니다.",
+                "AI가 연구 과정에 깊이 통합되면, 방대한 데이터를 분석하고 새로운 가설을 제시하는 능력이 비약적으로 향상되어 신소재 개발, 질병 치료 등 다양한 분야에서 획기적인 발견을 가속화할 수 있습니다. 이는 마치 과학자들에게 초고속 슈퍼컴퓨터와 수백 명의 보조 연구원을 동시에 제공하는 것과 같아, 인류가 당면한 복잡한 문제들을 더 빠르고 효율적으로 해결할 수 있는 길을 열어줄 것입니다."
             ],
-            "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE9XTDBTTnNCZ0FkekFnR0NSTVRNNXVVNy1qWjZzeTM1Q1NLTkVhU3lqamRXWHZoUkxJTE9iX3hfWFQtTXg1UFlGVHQtemYxQVNrZU1Wcm9pSFdYRVYwX3luaDFBQVZSeE0?oc=5",
+            "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE04QVlMcHd3QVNRR1VCOXRqb1dMeW9lanQ1T0JxV0thWkRVdHR4QkhUeF9zYXRhS1hROU55UG5hUW8ybEsyT0Z3RWhleW5mLUdHeXVjWW10R09meVdFRGhuNEpDT3NjOTBD?oc=5",
             "category": "AI_Tech",
-            "published": "2026-05-26T22:13:53.287353"
+            "published": "2026-05-27T22:24:22.656944"
         },
         {
-            "title": "광주 국가AI데이터센터, 국내 AI 연구 및 산업 발전을 위한 GPU·HPC 자원 제공",
+            "title": "유베이스, 음성 AI 역량 확보…리턴제로 인수",
             "points": [
-                "국가 차원에서 대규모 AI 데이터센터를 구축하고 GPU, HPC(고성능 컴퓨팅) 자원을 제공하는 것은 AI 기술 개발의 핵심 인프라를 마련하는 것입니다. 이는 국내 AI 기업과 연구기관이 글로벌 수준의 AI 모델을 개발하고 경쟁력을 확보하는 데 필수적인 기반을 제공합니다.",
-                "AI 모델, 특히 대규모 언어 모델(LLM) 학습에는 막대한 컴퓨팅 자원이 필요합니다. 이 데이터센터는 마치 AI 연구자들이 마음껏 실험하고 거대한 AI 두뇌를 만들 수 있는 '슈퍼 컴퓨터 놀이터'를 제공하는 것과 같습니다. 이를 통해 AI 기술 개발 속도를 높이고, 새로운 AI 서비스 및 제품 출시를 가속화하여 국가 AI 산업 전반의 성장을 견인할 것입니다."
+                "국내 대표 BPO(Business Process Outsourcing) 기업인 유베이스가 음성 AI 전문 기업 리턴제로를 인수하여 AI 역량을 강화했습니다. 이는 전통적인 서비스 산업이 AI 기술을 적극적으로 도입하여 비즈니스 모델을 혁신하고 경쟁력을 확보하려는 중요한 흐름을 보여줍니다.",
+                "리턴제로의 음성 AI 기술을 통해 유베이스는 고객 상담 자동화, 콜센터 효율 증대, 개인화된 고객 경험 제공 등 다양한 분야에서 혁신을 이룰 수 있습니다. 이는 마치 수작업으로 이루어지던 고객 응대 시스템에 AI 비서를 도입하여, 더 빠르고 정확하며 비용 효율적인 서비스를 제공하는 것과 같습니다."
             ],
-            "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTFA3eHZET3VWdDN3OFR2dnlZTXUyOGlEcVNSR0ktelgzQWtqYm9pVGFUVng2bHNWWXJCNDgtNkt0YzE5Q0dnUUpzOF92UjZUV1Z5RjFCNTJsZkk1N3hTWFdnbjVhTFFQRDA?oc=5",
+            "link": "https://news.google.com/rss/articles/CBMiYAFVX3lxTE5fMGwtMlBGekNma3gtdmJuWDExd1lMX3UyNGdwYW5GRGM5YnZpbnkyN00zSm9sQWVZRDZ6a1RucG1vTWtYRjVDNE1QRnpZZDl6ZU0tUGllMHlfd3V3emdrTNIBYAFVX3lxTE5fMGwtMlBGekNma3gtdmJuWDExd1lMX3UyNGdwYW5GRGM5YnZpbnkyN00zSm9sQWVZRDZ6a1RucGptb01rWEY1QzRNTUZ6WWR5emVNLVBpZTB5X3d1d2drTA?oc=5",
             "category": "AI_Tech",
-            "published": "2026-05-26T22:13:53.287354"
+            "published": "2026-05-27T22:24:22.656945"
         },
         {
-            "title": "부산시-네이버클라우드, 지역 스타트업 AI 역량 강화 협력으로 AI 생태계 확장",
+            "title": "티쓰리큐, '특화형 생성형AI'로 육군 인공지능 공모전 최우수상",
             "points": [
-                "국내 대표 AI 기술 기업인 네이버클라우드가 지방자치단체와 협력하여 지역 스타트업의 AI 역량을 강화하는 것은 AI 기술의 지역 확산과 균형 발전을 촉진하는 중요한 사례입니다. 이는 AI 기술이 특정 대기업이나 수도권에만 머무르지 않고, 전국적으로 혁신을 이끌 수 있는 기반을 마련합니다.",
-                "네이버클라우드와 같은 선도 기업의 AI 기술과 플랫폼(예: 하이퍼클로바 X)을 지역 스타트업이 활용할 수 있게 되면, 초기 투자 부담 없이 혁신적인 AI 서비스를 개발하고 시장에 진출할 수 있습니다. 이는 지역 경제 활성화는 물론, 다양한 산업 분야에서 AI 기반의 새로운 비즈니스 모델을 창출하는 기폭제가 될 것입니다."
+                "티쓰리큐가 '특화형 생성형AI' 기술로 육군 인공지능 공모전에서 최우수상을 수상했습니다. 이는 특정 목적에 최적화된 생성형 AI 모델이 실제 국방 분야와 같은 고도의 전문성을 요구하는 영역에서 그 가치와 기술적 우수성을 인정받았다는 점에서 중요합니다.",
+                "일반적인 생성형 AI와 달리, '특화형 생성형AI'는 특정 산업이나 업무 환경에 맞춰 학습되어 훨씬 정교하고 신뢰도 높은 결과를 제공합니다. 육군 공모전 수상은 이러한 기술이 국방 분야의 정보 분석, 전략 시뮬레이션, 물류 최적화 등 다양한 난제를 해결하는 데 핵심적인 역할을 할 수 있음을 보여줍니다. 이는 마치 만능 도구가 아닌, 특정 작업을 위해 정교하게 만들어진 '맞춤형 전문 도구'가 훨씬 더 큰 효율을 발휘하는 것과 같습니다."
             ],
-            "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTFBJN3IxcVhydVNfRWIzOVd2VFlobzFIM0JoaVc3X0pRSkpIS0ZaUTJiMHBOQ2Eya1BVU0Qydy1WSkVCa1RmQW9XU3FZVUN1MTBHbnZNUnRpSmJ5UnJwWmNUeU5oM3ZmWnRr0gFsQVVfeXFMUGFHdlI0QWhfRmFWeExkT0toeDFHZzZyUmxMbmQwcEQ2RVRtOG1CejhhcEJ6dndERFVkaFREMndpTEo0OWp6c0pUN0R0RkRyR0dRRGFuU0VSbmxtdTd4QjVYQjVvSXF5MXdSWFdT?oc=5",
+            "link": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE9JNXRyc3gzaWpjYVlLV2dZRHI5M3VrZkQyLVI4VXFrajhScWtqTmxHMklwdlhBS2lRVkRiM092MTBCQkd5aElWdk5HYWpyNDJRVEpmQjJ2bVdVZ25pckVCdGhJMDhYdw?oc=5",
             "category": "AI_Tech",
-            "published": "2026-05-26T22:13:53.287355"
+            "published": "2026-05-27T22:24:22.656946"
         },
         {
-            "title": "유전체 기반 AI 예측 연구, 개인 맞춤형 신약 개발 및 치료법 혁신에 주목",
+            "title": "[혁신플랫폼톡] AI 기술에 대한 우려 한 가지",
             "points": [
-                "알츠하이머 신약 '레카네맙'의 한국인 검증 필요성 논의와 함께 '유전체 기반 AI 예측 연구'가 주목받는 것은, AI가 신약 개발 및 개인 맞춤형 의료 분야에서 얼마나 중요한 역할을 하는지 보여줍니다. 이는 전 세계적으로 정밀 의료의 시대를 앞당기는 핵심 동력입니다.",
-                "AI는 방대한 유전체 데이터를 분석하여 특정 질병에 대한 취약성, 약물 반응성 등을 예측하고, 새로운 치료법이나 신약 후보 물질을 발굴하는 데 혁신적인 통찰력을 제공합니다. 이는 기존의 시간과 비용이 많이 드는 신약 개발 과정을 획기적으로 단축하고, 환자 개개인에게 최적화된 맞춤형 치료를 가능하게 하여 의료 산업 전반에 막대한 경제적, 사회적 가치를 창출할 것입니다."
+                "AI 기술의 급속한 발전과 함께 윤리, 안전, 사회적 영향에 대한 논의는 글로벌 AI 트렌드의 핵심 축입니다. 이 기사는 특정 기술 돌파구는 아니지만, AI의 지속 가능한 발전을 위해 반드시 짚고 넘어가야 할 중요한 사회적, 정책적 의제를 다루고 있어 파급력이 큽니다.",
+                "AI 기술의 잠재적 위험에 대한 인식이 높아지면서, '책임 있는 AI' 개발과 'AI 거버넌스' 구축이 전 세계적인 화두가 되고 있습니다. 이는 AI 연구 방향, 기술 표준, 그리고 관련 법규 제정에 직접적인 영향을 미쳐 장기적으로 AI 산업의 성장 방식과 경제적 가치 창출에 큰 변화를 가져올 것입니다. 마치 고속으로 달리는 자동차에 안전벨트와 에어백을 장착하는 것과 같아서, 기술 발전의 속도만큼이나 안전과 윤리적 고려가 중요해지고 있습니다."
             ],
-            "link": "https://news.google.com/rss/articles/CBMickFVX3lxTE1RSnA4d3FXNWhIc1VmOEN0dTNHeW9xckR3SWp0UFgybkVUZnRSMER6cUxrVUFlTURMM0o5VWdpUkNKT1ZjWGFBTVphVVhEeWJVTjBGeFdPdUx5UlRJTG1fTXluT0YwVTdnRjZ0bi1Ebkhsdw?oc=5",
+            "link": "https://news.google.com/rss/articles/CBMiTkFVX3lxTFBsX3dFSVpFVGVNWkdwQzdUNHFqdTVIUk1vZDg2b3Q1OWYyeno5NExTcGJ5OHVuVzdKYkN2TnhjaXJEN0QxRmVwRXBHNExOZw?oc=5",
             "category": "AI_Tech",
-            "published": "2026-05-26T22:13:53.287356"
-        }
-    ],
-    "Economy": [
-        {
-            "title": "마이크론, 사상 첫 시총 1조달러 돌파…목표주가 3배로 상향 - 연합인포맥스",
-            "points": [
-                "글로벌 반도체 시장, 특히 메모리 반도체 분야의 폭발적인 성장을 상징하는 사건입니다.",
-                "AI 시대 고성능 메모리 수요 증가가 기업 가치에 미치는 막대한 영향을 보여주며, 산업 전반의 투자 심리 및 기술 개발 방향에 큰 영향을 미칩니다."
-            ],
-            "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE8zaDBpWHhjbzR5aDZqM1pfV1lZNE85b1B5c3ppay03LXhKNnMtVUJib3ZNY2tZMjFGRzlUbXJDLUhFZVRQQnhtUVhOMTVNa2RZeWhNREhRU0JWLXz2Uk9GRlI0S0gtVWExcy1FakFJTmk?oc=5",
-            "category": "Economy",
-            "published": "2026-05-26T22:14:28.788353"
-        },
-        {
-            "title": "SK하이닉스, 美 빅테크 수십조원 투자 지원 제안에도 ‘마이웨이’… “슈퍼乙 지킨다” - 조선비즈 - Chosunbiz",
-            "points": [
-                "AI 반도체 핵심인 HBM 시장에서 SK하이닉스의 독보적인 기술력과 시장 지배력을 보여주는 사례입니다.",
-                "글로벌 빅테크 기업들과의 관계에서 '슈퍼 을'의 지위를 확보하며, 향후 반도체 공급망 및 기술 협력 구도에 중대한 변화를 예고합니다."
-            ],
-            "link": "https://news.google.com/rss/articles/CBMiggFBVV95cUxQdkVBTFVOdkhUaXNKUWFPc1VPWWRNNTBMSjRPYzQtUmo4LVB3Q3B4SkhTNVNuM1kyV1F1TS1IdXR1R1BTam9RTjRrNG9LcnF1ZTJYWVJNN3VuYzlKbEtRZzVPeGxONmk2YUJ2ZmdYUWxGNFFTcFFxY3dqdEVpclZhRXdR0gGWAUFVX3lxTE1aWVpqWkx3QTRMTHVOWjh2ZURIREVJb1Nnb0YwUGVDQnhqTGlHdHJSYzBMWXRSM2J5TUtpcnlCR00xeHdNcVltbmFFclluT1BNS29nOHJfdW1iV202aXJPY0NvSnF3YTY0bXVMbEd1Rm1QaDZBLXJMdlpXN2JaVDFNWkx4emdBd0phZXRSTGVjVUtJVklyZw?oc=5",
-            "category": "Economy",
-            "published": "2026-05-26T22:14:28.788359"
-        },
-        {
-            "title": "中 화웨이, ‘타오의 법칙’으로 반도체 판 흔들다…TSMC·삼성 맹추격 - 문화일보",
-            "points": [
-                "미국의 제재에도 불구하고 화웨이가 자체 기술력으로 반도체 시장에 재진입하며 글로벌 반도체 공급망과 경쟁 구도에 큰 변화를 가져올 수 있음을 시사합니다.",
-                "TSMC와 삼성전자 등 기존 강자들에게 새로운 도전 과제를 제시하며, 기술 자립 및 국가별 반도체 전략의 중요성을 부각합니다."
-            ],
-            "link": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE1mOHl5V0puU0lFOG44a2laSFFZOW0zX3dRVjdQX2lwcXFOYlZRUmVQUWo4NmhoUzY0REZhSlFfWldvQ1NsclJ0cS0xcFI0SGQ2?oc=5",
-            "category": "Economy",
-            "published": "2026-05-26T22:14:28.788361"
-        },
-        {
-            "title": "호르무즈 갇힌 선박 1500척…해협 열려도 정상통행 ‘수개월 뒤’ - 한겨레",
-            "points": [
-                "글로벌 에너지 공급망의 핵심인 호르무즈 해협의 봉쇄 또는 통행 차질은 국제 유가 급등 및 물류 대란을 야기하여 전 세계 경제에 막대한 파급 효과를 미칩니다.",
-                "지정학적 리스크가 글로벌 경제 안정성에 미치는 심각한 영향을 보여주는 사례로, 에너지 안보 및 무역 경로 다변화의 중요성을 부각합니다."
-            ],
-            "link": "https://news.google.com/rss/articles/CBMic0FVX3lxTE1EanRRdGtJa0JlM3pFSmZMUWxsQjlxTzUzZXRza3dTU1VydTkzWEt2T0llSkJuck5DTTNsbjd5SGxISGFTZjYybW9VSURHblFhRmVPbVdra3FWX2hmd3kwb1lYc0hKSTl6cVFvN3BSRGttRDg?oc=5",
-            "category": "Economy",
-            "published": "2026-05-26T22:14:28.788362"
-        },
-        {
-            "title": "AI 칩 커지자 제조판도 바뀐다… 반도체도 원에서 사각형으로 - 조선일보",
-            "points": [
-                "AI 시대 고성능 칩 요구사항이 증가하면서 기존 웨이퍼 기반의 원형 생산 방식에서 벗어나, 칩렛(Chiplet) 등 새로운 패키징 기술과 사각형 형태의 제조 방식으로의 전환을 의미합니다.",
-                "이는 반도체 설계, 생산, 패키징 전반에 걸친 혁신을 촉발하며, 미래 반도체 산업의 기술 표준과 경쟁 구도를 근본적으로 변화시킬 잠재력을 가집니다."
-            ],
-            "link": "https://news.google.com/rss/articles/CBMigwFBVV95cUxNdjFFM3U4V1h4M0REQW5TODlVYkpNbF9tYnlpNW42SlJXTFNBbER4SWw2N09IRG03VWlxM00zYzBjOXd3SmNGSWljcVZsZXJOeUFRNzlGU0N1bDB5TmRxMU5kVHBGaDBUNXdYcS1JVUo3cGdGYVZ2dGY1RER4ZUpRTXJDNA?oc=5",
-            "category": "Economy",
-            "published": "2026-05-26T22:14:28.788363"
+            "published": "2026-05-27T22:24:22.656947"
         }
     ],
     "World": [
         {
-            "title": "‘딜브레이커’ 네타냐후 “軍에 헤즈볼라 공격 강화 지시” - 동아일보",
+            "title": "이스라엘, 레바논 하루 120회 공습…미·이란 종전 협상 중 - 한겨레",
             "points": [
-                "이스라엘 총리가 헤즈볼라에 대한 군사 공격 강화를 지시하며 중동 분쟁의 확전 가능성이 커지고 있습니다.",
-                "이는 레바논 국경 지역의 긴장을 고조시키고, 역내 안보 환경에 심각한 영향을 미칠 수 있는 중대한 군사적 결정입니다."
+                "중동 지역의 이스라엘-레바논 간 군사적 긴장 고조와 대규모 공습은 역내 불안정성을 심화시키는 주요 사건입니다.",
+                "동시에 미국과 이란 간의 종전 협상이 진행 중이라는 점은 중동 정세의 복잡성과 외교적 노력을 동시에 보여주며, 향후 지역 판도에 큰 영향을 미칠 수 있습니다."
             ],
-            "link": "https://news.google.com/rss/articles/CBMic0FVX3lxTFA1aUpleFpaSTBhdkVBcWtzcDVaMHE1RWFmWVZ4WGtFRXNMc3pwRVFyUlFvcUFqMEZCeVpEazMyeVZ0Wnlpa3hIVUVUVjBUWjlfZy13VFBPbkpWMHU1SDZZSmh0dkV1TUJMamRvRjFuRGJUalHSAWZBVV95cUxOT29IaXRmOVVITzV2dnVDcm1PQXB0Y2t1ZlVmTlNETkNBUzIxX0NUNnJTLWt6ZTBFb0hWLV9MVF9vQ25Yc2RLN0hiamY4bU05TEJBWjBXWGxlNG1PSExwVk14YWNDeUE?oc=5",
+            "link": "https://news.google.com/rss/articles/CBMiggFBVV95cUxNWGFrUTdmd05oVmZsWTBoZXFaVUJya3Raa05TWDNwSGx1VXhBU2M0ZUNtUGxxYnZHcTRzelY4UXg1MGJPTHVWa2NpTEpNX1FQS1lmTXRWUl85RFZpNWZVSGVtUnN0dHAwZ1JCM0FUSnZkdVJ4d1FsYVI3REhCQXF3akFR?oc=5",
             "category": "World",
-            "published": "2026-05-26T22:15:03.421810"
+            "published": "2026-05-27T22:24:59.256467"
         },
         {
-            "title": "트럼프, 캠프 데이비드서 내각회의 개최..이란전 '결정적 순간' 될까[이상은의 워싱턴나우] - 한국경제",
+            "title": "트럼프 ″중·러에 이란 고농축우라늄 못 넘겨…동결자산 해제 논의 안 해″ - 연합뉴스TV",
             "points": [
-                "미국 전 대통령 트럼프가 이란과의 갈등을 논의하기 위해 내각회의를 개최하며, 미국의 중동 정책에 중대한 변화가 있을 수 있음을 시사합니다.",
-                "이는 이란-이스라엘 분쟁의 향방과 미국의 개입 수준을 결정할 수 있는 중요한 외교적, 군사적 결정의 기로에 있음을 보여줍니다."
+                "도널드 트럼프 전 대통령의 이란 핵 프로그램 및 동결자산에 대한 발언은 향후 미국 대선 결과에 따라 이란 핵 합의 및 중동 정책에 중대한 변화를 가져올 수 있는 파급력 있는 소식입니다.",
+                "이는 미국, 이란, 러시아, 중국 등 주요 강대국 간의 복잡한 외교적 역학 관계와 핵 비확산 문제에 직접적인 영향을 미칩니다."
             ],
-            "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE5IQlFjbzFhNUdMMDhPTVFTTWJycGg5emg4STViT2VUY0s3Z0hCeGl5VS0wWDlEUFNlMmRlUUxDR2JxcDk2dU9jNVF3YzZoLUlXa09oaVpCX1duUdIBVEFVX3lxTFBBRV9LWDZYRmpiZWVNUmNiX0RBNjA0WmVNLWhSSnpSLUFhN3c5Nmg1UDFyRGlXRTRwdmVzZTlaMllQTUIyRlV5bFluQWxGR09YUkRGRA?oc=5",
+            "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTFBIN1JhOC1xeTBwTEJ4emRDQ1RHS1k5YlN5U0g4dHoyd0RmYmhJdTlFc0lyRms5NTM3QW1hcGtFY3hZV3k1NGVDZnBYZFQ3Z1NKZWJ5R0NQcnk3VTYtV092dHpqYWh4TmM?oc=5",
             "category": "World",
-            "published": "2026-05-26T22:15:03.421817"
+            "published": "2026-05-27T22:24:59.256474"
         },
         {
-            "title": "이란 최고지도자, 사실상 승리 선언…“중동은 미군 기지 위한 방패 아냐” - 한겨레",
+            "title": "푸틴, ‘13만명분 식량’ 한꺼번에 태웠다…“이스칸데르 미사일이 구호 창고 타격” [핫이슈] - 나우뉴스",
             "points": [
-                "이란 최고지도자가 중동 분쟁에서 사실상 승리를 선언하며, 역내 미군 주둔에 대한 강력한 반대 입장을 표명했습니다.",
-                "이는 이란의 대외 정책 기조와 중동 지역에서의 영향력 확대 의지를 드러내며, 미국과의 긴장 관계를 더욱 고조시킬 수 있는 발언입니다."
+                "러시아-우크라이나 전쟁 중 구호 식량 창고가 미사일 공격을 받아 대규모 식량이 소실된 사건은 심각한 전쟁 범죄이자 인도주의적 위기를 초래하는 중대한 소식입니다.",
+                "이는 전쟁의 잔혹성을 보여주며 국제사회의 비난을 야기하고, 우크라이나 민간인의 생존에 직접적인 영향을 미칩니다."
             ],
-            "link": "https://news.google.com/rss/articles/CBMic0FVX3lxTE83dXZiTHNnTHJMOXdlWW9QWGktSG51WEpZN1lKcWZmcnE3SWtKR2NaRmtCM01zcGJ6M2JNOW1OaDA1LTVUTWJramJpRXAyN3BEeVlMQnlIVEk2eDg4STV2NTRSWmtpdGtKbjBiYTl2aWFRSXM?oc=5",
+            "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE9HYjJvMi1tSjhyM1Q2TDVyTTFJV0RWVUpuaW5VY3VfWUZ2VmQzUHNPa05MdkNVa2dLcThvcTFCV3k2cW5oczVRdGI0ZTVMTENuMml1QVF2blAxWkMxYXBqMkg2OV85Z2ZMUTRZSnlZTU4?oc=5",
             "category": "World",
-            "published": "2026-05-26T22:15:03.421819"
+            "published": "2026-05-27T22:24:59.256475"
         },
         {
-            "title": "러, 중동전쟁 틈타 우크라 연일 폭격… \"외국인 빨리 떠나라\" - 조선일보",
+            "title": "“통제선이 먼저 무너졌다”… 치사율 90% 에볼라 확산, WHO 결국 비상사태 선포 - v.daum.net",
             "points": [
-                "러시아가 중동 분쟁으로 국제사회의 관심이 분산된 틈을 타 우크라이나에 대한 공세를 강화하고 있습니다.",
-                "이는 글로벌 지정학적 위기가 상호 연동되어 있음을 보여주며, 한 지역의 분쟁이 다른 지역의 안보 상황에 미치는 파급 효과를 명확히 드러냅니다."
+                "치사율이 높은 에볼라 바이러스의 확산과 세계보건기구(WHO)의 비상사태 선포는 전 세계적인 공중 보건 위협으로, 국제적인 협력과 대응이 시급한 중대 사안입니다.",
+                "이는 국경을 넘어 확산될 잠재력을 가지며, 글로벌 경제 및 사회 시스템에 광범위한 영향을 미칠 수 있습니다."
             ],
-            "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxPZ1dMbGRBRmU1U191QmZjV0FKa0M3UzBkNTJKdVBGUUc0TlJLUkZ0di1IMDk2VUZOTlRGTGZHMW9tYjNGOG1qYjBkcldkZkYtdFR3c0d0QmdGNm5FTFFfNGV0VXBPU0FhSjE5T1htVmtBWXFuWms0V1FPNy13WjZ6NmRZcVo5V1pmN0JmRVRELXdyY29ndUhSZEo3eXpqQQ?oc=5",
+            "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE1vMGI1SjAxVHliRkQtSjIxdEpuX09zcmxabjJQeWJCMDZVRGo5S3pQOWVBRktqVV9TeV8zcXRIeFg0N2c5c1dJemxrREJscmM?oc=5",
             "category": "World",
-            "published": "2026-05-26T22:15:03.421820"
+            "published": "2026-05-27T22:24:59.256476"
         },
         {
-            "title": "쿼드, 호르무즈 사태 계기 해양안보 공동대응…中·北도 압박 - 연합뉴스TV",
+            "title": "5월부터 펄펄 끓는 지구…유럽 덮친 37도 폭염에 사망자까지[이런일이] - nocutnews.co.kr",
             "points": [
-                "미국, 일본, 호주, 인도의 쿼드(Quad) 동맹이 호르무즈 해협 사태에 대한 해양 안보 공동 대응을 논의하며, 중국과 북한에 대한 압박 수위를 높이고 있습니다.",
-                "이는 인도-태평양 지역의 안보 지형 변화와 주요 해상 무역로의 안정성 확보에 대한 국제사회의 노력을 보여주는 중요한 움직임입니다."
+                "유럽을 강타한 기록적인 폭염과 이로 인한 사망자 발생은 기후 변화의 심각성과 인류에 미치는 직접적인 위협을 보여주는 중요한 소식입니다.",
+                "이는 전 세계적인 기후 위기 대응의 시급성을 강조하며, 농업, 에너지, 보건 등 다양한 산업 분야에 장기적인 영향을 미칠 수 있습니다."
             ],
-            "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTFBxdFk5UG1LcGh5ZXpuR2lkYV9Pa192X01zQ3BDWjNGblRmLWpHS0FTU3NyVUhwdXBtaFoyWjRScjFodGhmMUlFQmtDOXpXWGtvX2xmaXF2NEFENVpqRFFDUTE5QzFudkE?oc=5",
+            "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE85Q3k4LXdUVkhLN3hlYklhX0FvODc4TUFGYXVfd2NLRVdJMFVJdENpNXJOMXNYaGJ6Mnd1Ui1VbzFmU3pITHMtTWMwb2ZNV1JONnc?oc=5",
             "category": "World",
-            "published": "2026-05-26T22:15:03.421821"
+            "published": "2026-05-27T22:24:59.256477"
         }
     ]
 }
