@@ -1,210 +1,210 @@
 {
     "AI_Tech": [
         {
-            "title": "가천대, 생성형 AI 국가사업 합류…'온디바이스 AI' 기술 개발",
+            "title": "AI 에이전틱 시대 선언한 삼성SDS...생성형 AI 넘어 차세대 AX 전략 제시 - 테크M",
             "points": [
-                "이 뉴스는 한국이 글로벌 AI 경쟁에서 핵심 기술인 생성형 AI와 온디바이스 AI 분야에 국가적 역량을 집중하고 있음을 보여줍니다. 이는 정부와 학계가 미래 AI 기술 주도권 확보를 위해 전략적으로 투자하고 있음을 의미합니다.",
-                "생성형 AI는 챗GPT와 같은 대규모 언어 모델의 기반 기술이며, 온디바이스 AI는 AI 모델이 스마트폰, IoT 기기 등 기기 자체에서 작동하도록 하여 데이터 처리 속도 향상, 개인 정보 보호 강화, 클라우드 비용 절감 등 혁신적인 변화를 가져올 핵심 기술입니다."
+                "국내 대표 IT 서비스 기업인 삼성SDS가 단순 생성형 AI를 넘어 'AI 에이전트'라는 차세대 AI 패러다임을 제시하며 기업의 AI 전환(AX) 전략을 발표했습니다. 이는 국내 빅테크 기업의 중요한 기술 및 사업 방향성 전환을 보여줍니다.",
+                "AI 에이전트는 사용자의 의도를 파악하고 자율적으로 복잡한 작업을 수행하는 AI 시스템을 의미합니다. 이는 기존 생성형 AI가 텍스트나 이미지 생성에 머물렀던 한계를 넘어, 실제 비즈니스 프로세스에 깊이 통합되어 자동화 및 의사결정 지원을 혁신할 수 있는 획기적인 기술적 진보를 예고합니다. 기업들이 AI를 활용하는 방식에 큰 변화를 가져올 것입니다."
             ],
-            "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTE12elA2STFmcS1hQnBBZTMtTWZIcWlqX1BfODl0ZFFqOGkzZXZZcjI2SndFS09QdWFMajV4UnJyOGZaWXJCanVCTldYRElkSmYyalJ3OThIYU9LVEt6cDhYU19UYnBGQXQ3WWNxdUlNY9IBb0FVX3lxTE12elA2STFmcS1hQnBBZTMtTWZIcWlqX1BfODl0ZFFqOGkzZXZZcjI2SndFS09QdWFMajV4UnJyOGZaWXJCanVCTldYRElkSmYyalJ3OThIYU9LVEt6cDhYU19UYnBGQXQ3WWNxdUlNYw?oc=5",
+            "link": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE01U0xoem5HRF9tRTkxcjgwdmhhd2hiTnJCODBNQ21KbWRERndtWW9RVnRoQ0oxcjNUWnJDMmpZUWo2UEVkeTZ6SFFlWVhZUEdKbVFBSV81VHR2Q0prdG42Z0JLR1UxZ9IBakFVX3lxTE4yWFg2TFc4UjBDUFFaSERMM1FGcUtVMUhLRTFGUUY3c1JlUVRiWG5LdXBDTlZucC1iZmMzdmdUX1Z6S1ZUaU1ySTVhRDlYa2UxUzRvTmxBTWdDTklfcXJYamVvVUgtT3FJX0E?oc=5",
             "category": "AI_Tech",
-            "published": "2026-05-28T22:24:21.706153"
+            "published": "2026-05-29T22:22:39.150031"
         },
         {
-            "title": "DB도 LLM도 아닌데 AI 핵심 기술 부상...온톨로지의 모든 것",
+            "title": "국세청‧서울대, ‘국세행정 AI전환’ 손 잡았다…국세행정 AI 자문 및 연구 - 조세금융신문",
             "points": [
-                "이 기사는 대규모 언어 모델(LLM)의 한계를 보완하고, AI가 더 정확하고 논리적으로 추론하며 복잡한 지식을 다룰 수 있게 하는 '온톨로지' 기술의 중요성을 조명합니다. 이는 AI의 신뢰성과 활용 범위를 넓히는 근본적인 기술 발전 방향을 제시합니다.",
-                "온톨로지는 AI가 세상의 개념과 관계를 체계적으로 이해하고 표현하도록 돕는 지식 표현 기술로, AI가 단순한 패턴 인식을 넘어 인간처럼 '이해'하고 '추론'하는 능력을 갖추는 데 필수적인 요소로 부상하고 있습니다."
+                "국가의 핵심 행정기관인 국세청과 국내 최고 권위의 서울대학교 AI 연구원이 손잡고 국세행정의 AI 전환을 추진합니다. 이는 공공 부문에서 AI 기술을 적극적으로 도입하려는 정부의 강력한 의지와 국내 최고 수준의 학술 연구 역량이 결합된 사례로, 파급력이 매우 큽니다.",
+                "이번 협약은 국세행정에 AI 기술을 적용하여 세금 신고 및 납부 과정을 효율화하고, 복잡한 세무 데이터를 분석하여 탈세 방지 및 공정한 세정 구현에 기여하는 것을 목표로 합니다. 이는 AI가 단순한 업무 자동화를 넘어, 국가의 중요한 의사결정 및 공공 서비스의 질을 혁신적으로 향상시킬 수 있음을 보여주는 중요한 기술적 적용 사례입니다."
             ],
-            "link": "https://news.google.com/rss/articles/CBMic0FVX3lxTE1qc2dqc2d1WDIxUUlmV2FoNUVtdWR0V3dLbFdacUR6QUhINmYxYkliVW5ZdE40VDVDY2hjY0F0Z0ExT1NOU09wUENWOUZtSWhrU2ZFNGlUOS1RQkQ5OUdzc282SW5DM3RVcDczQWtReU1odHM?oc=5",
+            "link": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE9uc1BsbTN0YllFVVplYVhqYmpNd2J3MTVLa0ZabHJ4NUtJVWpOUkpiMmwxWTR0S19XLWVkbFR1Vkg2Zzg2WlVtU2lmQWhnLTMzNTZLR3NQd1dvZkJYVE1RVTlOUQ?oc=5",
             "category": "AI_Tech",
-            "published": "2026-05-28T22:24:21.706160"
+            "published": "2026-05-29T22:22:39.150037"
         },
         {
-            "title": "게임에서 축적한 AI기술 ‘피지컬 AI’ 로 확장 나선 NC·크래프톤",
+            "title": "LG유플러스, 삼성전자와 6G·AI 기술 동맹… 통신·센싱 융합 검증 나선다 - 리드경제",
             "points": [
-                "국내 주요 게임 기업인 NC와 크래프톤이 게임 개발로 쌓은 AI 기술을 현실 세계와 상호작용하는 '피지컬 AI' 분야로 확장하는 것은 AI가 가상 세계를 넘어 로봇, 자율 시스템 등 물리적 환경으로 진화하는 글로벌 트렌드를 보여줍니다.",
-                "피지컬 AI는 로봇이 복잡한 물리적 환경에서 움직이고 상호작용하는 능력을 학습하게 하는 기술로, 자율주행, 산업용 로봇, 휴머노이드 로봇 등 다양한 분야에서 혁신을 이끌 잠재력을 가지고 있습니다."
+                "국내 통신 및 전자 분야의 양대 산맥인 LG유플러스와 삼성전자가 차세대 이동통신 기술인 6G와 AI 기술 융합을 위한 동맹을 맺었습니다. 이는 두 거대 기업의 전략적 협력을 통해 미래 통신 인프라와 AI 서비스 시장을 선점하려는 움직임으로, 국내외 기술 트렌드에 큰 영향을 미칠 것입니다.",
+                "이번 동맹은 6G 네트워크의 초저지연, 초고속 특성을 AI와 결합하여 통신과 센싱(감지) 기술을 융합하는 데 중점을 둡니다. 이는 자율주행, 스마트시티, 확장현실(XR) 등 미래 핵심 산업에서 AI가 더욱 정교하고 실시간으로 작동할 수 있는 기반 기술을 마련하는 것으로, AI의 활용 범위를 획기적으로 확장하는 기술적 돌파구입니다."
             ],
-            "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTE9LQUo4NUdUMlBQdHR5MUtxNFVhTFEzenlnV3lKcTdnZWd2TWVRZmQ5N1UwNzdaZ25fcG1BZE5oZEpwbnptN2JZQTNTM0NJVzJtaldOMUp6U3Fxc041dFR5ZC0wdmJOZUN1Snk2Umt5SjFidkJ3ZmfSAXZBVV95cUxPS0FKODVHVDJQUHR0eTFLcTRVYUxRM3p5Z1d5SnE3Z2Vndk1lUWZkOTdVMDc3WmduX3BtQWROaGRKcG56bTdiWUEzUzNDSVcybWpXTjFKelNxcXNONXRUeWQtMHZiTmVDdUp5NlJreUsxYnZCd2Zn?oc=5",
+            "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTE9kV3BsaXhLYmd4UEhadmxLa2QyY2lBYnNfSU52dHBzT19wSGJxUHBVSkN0ZkpnV3pRQmhLbVhUZ3ZxY2RpbkVES3lpQWdvUlgxcTF3cGYwT05EYlB2bDlaREx2RUxwaVFoTzJjM1lsVQ?oc=5",
             "category": "AI_Tech",
-            "published": "2026-05-28T22:24:21.706162"
+            "published": "2026-05-29T22:22:39.150038"
         },
         {
-            "title": "삼성서울병원, AI 수술로봇 개발 플랫폼 구축…국비 100억 받아",
+            "title": "배경훈 부총리 \"AI, 국가 총력전…과학기술 전폭 지원\" - 신아일보",
             "points": [
-                "삼성서울병원이 100억 원 규모의 국비 지원을 받아 AI 수술로봇 개발 플랫폼을 구축하는 것은 의료 분야 AI 기술의 상용화와 표준화를 가속화하는 중요한 발걸음입니다. 이는 AI가 정밀 의료와 수술 효율성을 혁신적으로 개선할 수 있음을 보여주며, 글로벌 의료 AI 시장의 주요 흐름과도 일치합니다.",
-                "이 플랫폼은 AI 기반 수술 로봇의 개발부터 인허가, 상용화까지 전 과정을 지원하여, 국내 의료 AI 로봇 기술의 경쟁력을 강화하고 환자 안전과 치료 성과를 높이는 데 기여할 것입니다."
+                "국가 경제 정책을 총괄하는 부총리가 직접 AI를 '국가 총력전'으로 규정하고 과학기술 분야에 대한 전폭적인 지원을 약속했습니다. 이는 정부 차원에서 AI 기술 개발과 산업 육성에 대한 최고 수준의 의지를 표명한 것으로, 국내 AI 생태계 전반에 걸쳐 막대한 파급력을 가질 것입니다.",
+                "이 발언은 단순한 정책적 선언을 넘어, AI 연구개발(R&D) 예산 증액, 인력 양성, 규제 완화 등 구체적인 지원책으로 이어질 가능성이 큽니다. 이는 국내 AI 기업과 연구소들이 더 과감하게 혁신적인 기술 개발에 도전하고, 글로벌 AI 경쟁에서 우위를 점할 수 있는 환경을 조성하는 데 결정적인 역할을 할 것입니다. AI 기술 발전의 기반을 다지는 중요한 소식입니다."
             ],
-            "link": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE9LVXBBUTZZalRPWm44eUtMVTJsQWdvNEYxblJXU3lOR3F3TGRmNGxyRHVhYWxRUnl5Y3hKZWFLOGdlZndiYURjWFNzc2psR0hsc3BNd013ZGVMUlgwM2ZUOTh3?oc=5",
+            "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE5adF9PQ2djUmhQbjR1U2hJQ04zR08xdzNzSE9sZ0wxYXBoSlZ2VnZiY1drOWkyZVpSV1JWd2l1a0xMWDh3eUFSYTZrNXljOHlVb2RCajgyd3ZfWEZ4Zl9MWl9tOHMyemhVZGNsVG1ySjM?oc=5",
             "category": "AI_Tech",
-            "published": "2026-05-28T22:24:21.706163"
+            "published": "2026-05-29T22:22:39.150039"
         },
         {
-            "title": "한국가스학회, 첫 ‘수소·가스 AI 경진대회’ 성료… “산업안전 패러다임 AI로 전환”",
+            "title": "일산백병원 한상엽 교수 연구팀, 과기정통부 'AI 당뇨병콩팥병 연구개발 사업' 선정 - 보건신문",
             "points": [
-                "한국가스학회가 주최한 첫 AI 경진대회가 수소·가스 산업의 안전 관리에 AI를 도입하는 계기가 되었다는 점에서 의미가 큽니다. 이는 AI가 고위험 산업 현장의 안전 패러다임을 혁신하고, 예측 및 예방 중심의 스마트 안전 시스템으로 전환하는 글로벌 트렌드를 반영합니다.",
-                "AI 기반의 산업 안전 기술은 센서 데이터 분석, 이상 징후 감지, 사고 예측 등을 통해 인명 피해와 재산 손실을 줄이는 데 핵심적인 역할을 하며, 이는 다양한 산업 분야로 확산될 중요한 기술적 적용 사례입니다."
+                "인제대학교 일산백병원 연구팀이 과학기술정보통신부의 주요 AI 연구개발 사업에 선정되었습니다. 이는 특정 질병(당뇨병콩팥병) 분야에서 AI 기술을 활용한 혁신적인 의료 솔루션 개발에 국가적 지원이 집중되고 있음을 보여주는 사례로, 의료 AI 분야의 중요한 진전을 의미합니다.",
+                "이번 연구는 AI를 활용하여 당뇨병콩팥병의 진단, 예측, 치료 방법을 고도화하는 것을 목표로 합니다. AI가 방대한 의료 데이터를 분석하여 질병의 조기 발견율을 높이고, 환자 맞춤형 치료법을 제시하며, 의료진의 의사결정을 지원함으로써 난치병 극복에 기여할 수 있는 잠재력을 보여줍니다. 이는 AI가 생명을 살리고 삶의 질을 향상시키는 데 어떻게 기여할 수 있는지 보여주는 중요한 기술적 적용 사례입니다."
             ],
-            "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTFAzS3JMUE1kcmVIZG1jOHlmdWhnWndrS0ZGYXdfS29PT2tuYkV6RklDUTk1eXpTYm9YOHlKS185TmY0SVUtZnpjU0lXQkVpWThxakVvcEZEOTNFNjZGX2FuQ09haXJGQWlVem44NVBoN2o?oc=5",
+            "link": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE43SFdJQy1vOElJYXlneEdSQ3FCSi1XYjFDSWFhMXUzRG5HQ0pRanZHNnJHaEVyWTU1eVNQWDdkSzIwdHppN2pDOUR4WjFucVRRTVNFYUs3cV93RXN4MEExM1B3?oc=5",
             "category": "AI_Tech",
-            "published": "2026-05-28T22:24:21.706163"
+            "published": "2026-05-29T22:22:39.150040"
         }
     ],
     "IT_Biz": [
         {
-            "title": "스페이스X 스타십 ‘V3’ 발사 중단… FAA 조사 착수",
+            "title": "라이다 없이도 자율주행…삼성, LG 손잡고 98조 6G 통신시장 개척한다 - 서울경제",
             "points": [
-                "스페이스X의 차세대 우주선 스타십 발사 중단 및 FAA 조사 착수는 민간 우주 산업의 기술적 도전과 규제 환경의 중요성을 보여주는 주요 소식입니다.",
-                "민간 우주 개발의 진척 상황과 안전성, 규제 당국의 역할에 대한 논의를 촉발하며, 향후 우주 산업 전반에 영향을 미칠 수 있습니다."
+                "삼성과 LG라는 국내 대표 IT 기업들이 6G 통신 및 자율주행 기술 개발을 위해 협력하는 대규모 전략적 제휴 소식입니다.",
+                "98조 원 규모의 6G 통신 시장 개척은 미래 통신 및 모빌리티 산업의 판도를 바꿀 수 있는 핵심 기술적, 경제적 변화를 예고합니다."
             ],
-            "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxOdTRWVWdLYkVSUFJ6cThOblhpOXRnbk9KQTk0WTh1VVJlN0U1eEg1aGJYNGphYlUzWHB3Rzh5eUpkNVBudXl3MzlVX3Y4bzhlVUFmYWZ6bnBISlpnLUpPdkZJNW5nUkM1bUphYnNiM1dURGhCY2tJdXFHeHU1c3hFZThxbml6dWRn?oc=5",
+            "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTFB4MWE2dERkRzFCeGM0bXowWEMzY2RrN04wd3FaMExVbUJyaDFsa3VDRWt5SEE3LW82cVNGVzVHQWowRl9mRkVaSlp1WllTYlVhN0HSAVNBVV95cUxNYWFIZTZLeXVodjlYa0tqa1lkTU5MWGYycnpwV0xTeDRfS05qNWtMODF6d1d6REZ3OFloM25MRkQxLUt6MlE1Z0ZNRmw4Y3pFNlVLNA?oc=5",
             "category": "IT_Biz",
-            "published": "2026-05-28T22:24:57.320308"
+            "published": "2026-05-29T22:23:06.502614"
         },
         {
-            "title": "한국서 점유율 0%, 공짜로 줘도 안쓴다더니…샤오미, 비싼폰은 잘 팔린다? ‘대반전’",
+            "title": "[단독] 2조원 규모 정부 GPU 사업 우선협상대상자에 삼성SDS·네이버클라우드·엘리스그룹 - 전자신문",
             "points": [
-                "샤오미가 한국 시장에서 고가 스마트폰 판매에 성공하며 시장 인식을 전환하는 것은 글로벌 스마트폰 시장의 경쟁 구도와 브랜드 전략 변화를 보여주는 중요한 소식입니다.",
-                "가성비 이미지를 넘어 프리미엄 시장으로 확장하려는 중국 기업들의 전략 변화와 소비자들의 브랜드 인식 변화를 시사하며, 국내외 IT 기업들의 마케팅 및 제품 전략에 영향을 줄 수 있습니다."
+                "정부가 2조 원 규모의 GPU 인프라 구축 사업을 추진하며 삼성SDS, 네이버클라우드 등 국내 주요 IT 기업들이 우선협상대상자로 선정된 소식입니다.",
+                "이는 국가 AI 경쟁력 강화를 위한 대규모 공공 투자로, 국내 클라우드 및 AI 인프라 시장에 막대한 영향을 미칠 정책적, 경제적 변화를 의미합니다."
             ],
-            "link": "https://news.google.com/rss/articles/CBMiRkFVX3lxTFBBTkt3OVVOLWcyc3R4OEN5TjVPN2hPQkd3NV94Um00UlFVLURrQ2FrMDZYbDhGWTE2eFZpME9LNmtrZlBYZWc?oc=5",
+            "link": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE01VVR1czdDTXB4TEJWelRoc1lraVR4QnphTXBXeVJtSUxxSTBBRHFzRE1fRVR4N25VN3lWeUllTUl2cElueUlsa1ZQZGRyZw?oc=5",
             "category": "IT_Biz",
-            "published": "2026-05-28T22:24:57.320316"
+            "published": "2026-05-29T22:23:06.502621"
         },
         {
-            "title": "테슬라 ‘3만달러 모델2’ 실체 드러나나… “사이버캡에 핸들 달면 끝”",
+            "title": "\"제2의 깐부 회동 뜬다\" 젠슨 황, 다음 주 이해진 네이버 의장 만난다 - 머니투데이 - 머니투데이",
             "points": [
-                "테슬라의 3만 달러대 보급형 전기차 '모델 2' 출시는 전기차 시장의 대중화를 가속화하고 경쟁 구도를 뒤흔들 수 있는 핵심적인 소식입니다.",
-                "저가형 전기차 시장의 판도를 바꿀 잠재력을 가지며, 전기차 기술의 발전과 생산 효율성 향상에 대한 기대를 높입니다."
+                "글로벌 AI 반도체 선두 기업 엔비디아의 젠슨 황 CEO와 국내 대표 IT 기업 네이버의 이해진 의장이 만난다는 소식입니다.",
+                "이는 AI 및 클라우드 분야에서 양사 간의 대규모 협력 가능성을 시사하며, 국내외 AI 산업 생태계에 중요한 전략적 변화를 가져올 수 있습니다."
             ],
-            "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxQeXRCNU1WdkJ2aFZQMnQyLTB5b2NFaWoyYk5MczZYcFFCMThIZXdvenVjc29IUEVvVTcxWE8zRFNXTHZMMjNBUm5jRC1hUzFSb253c21lakZIYjdOYzRYVXQwU01EWElHa1gxT3ZvSkZlcEpKdlJocFVyX25GNHBUSXdNOVFvdHlW?oc=5",
+            "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE1nTl9veWMxdlFjbGtGNmVTYWdoZ3k4SzNpNURMNk1VOEhaNVlMM3g3LVlTMEZ6ZUJBeWUxbklGcF9HVkVwM2dNSGczOXBFSUs1ZTNNdl85d0c2aTdMaUs3UTZFTHFMck3SAWxBVV95cUxOTi1HTVE2U3E3RUVjRkNlT01FMmJBUWk2MUFHdUlWemFoT0ljMnZfVlhwZjFTYnUtamM3eEpTRGkyZ1FXQWNkZlpnZHBZZ0o3UHp5S3E5bDdJRDBNc0U2c1NrLXpOVjBGV0FUZU0?oc=5",
             "category": "IT_Biz",
-            "published": "2026-05-28T22:24:57.320317"
+            "published": "2026-05-29T22:23:06.502622"
         },
         {
-            "title": "POS 기기에 은행 들어온다…국민은행·네이버페이 동맹",
+            "title": "보스턴다이내믹스 상장이 ‘트리거’…현대차그룹 지배구조 개편 시동 거나 - 일요신문",
             "points": [
-                "국민은행과 네이버페이의 협력은 금융과 IT 플랫폼의 융합을 가속화하며, 소상공인 및 소비자 결제 환경에 큰 변화를 가져올 수 있는 중요한 소식입니다.",
-                "기존 금융 서비스의 경계를 허물고, 간편결제와 은행 업무의 통합을 통해 핀테크 시장의 새로운 비즈니스 모델을 제시합니다."
+                "현대차그룹이 인수한 세계적인 로봇 기업 보스턴다이내믹스의 상장 가능성이 제기되며, 이는 현대차그룹의 지배구조 개편의 기폭제가 될 수 있다는 분석입니다.",
+                "대기업 그룹의 대규모 지배구조 변화와 로봇 산업의 핵심 기업 상장은 관련 산업의 투자 및 전략적 방향에 큰 영향을 미칠 경제적, 정책적 변화입니다."
             ],
-            "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE1lN0VmRFJVSkp2THhLNmZZMEZIQ1JUeWpia0dYX1hNUm0zc1dXdEZKSXdZV202d3FxM3pPMmhLT1NrQnNKZE5rUnFuOHhNNnE0LXlnMlhOMFNUUdIBVEFVX3lxTE50ZkRQNW9JY2JkSkYyNmJhaHliWnZvNEc2cWF6b2tXc1h5WXRNdGFPY1QwTW5vR1N6dlhwbWpYakQxY1JWNDFXMmRSQXI3N0FnOUVXdw?oc=5",
+            "link": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE9XLW5jaGpmTzEtOHJZeDVsWEcxODRIa0hPanlocDk5ZUxmcU82UFZ3SE5jS2hiWl80LVdULVVzVi1ydFlQU0duQlJ3UXMwOUVRZTR6TWxwMk1GN2pSdlE4TkoyeW1KUQ?oc=5",
             "category": "IT_Biz",
-            "published": "2026-05-28T22:24:57.320318"
+            "published": "2026-05-29T22:23:06.502623"
         },
         {
-            "title": "[단독] 좌절된 부유식 해상풍력 강국의 꿈, 6조 사업 철수 수순",
+            "title": "앤트로픽, '클로드 오퍼스 4.8'로 정상 탈환…'미소스급' 출시도 예고 - AI타임스",
             "points": [
-                "6조 원 규모의 부유식 해상풍력 사업 철수 소식은 국내 신재생에너지 정책 및 대규모 인프라 투자에 대한 중대한 영향을 미치는 경제 뉴스입니다.",
-                "정부의 에너지 전환 정책 방향성, 투자 유치 환경, 그리고 관련 산업 생태계 전반에 걸쳐 파급 효과를 가져올 수 있습니다."
+                "주요 AI 개발사 앤트로픽이 새로운 고성능 AI 모델 '클로드 오퍼스 4.8'을 출시하고, 더 강력한 '미소스급' 모델을 예고했다는 소식입니다.",
+                "이는 생성형 AI 기술 경쟁의 최전선에서 중요한 기술적 진보를 의미하며, AI 서비스 시장의 판도와 기술 표준에 영향을 미칠 수 있는 핵심 변화입니다."
             ],
-            "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE0wbXlaVzlEMEF1Z2J3QUM1Wk5FTW5xLVhCQXR1VkFKX0tiTW5abm53QU4teTBGVmR4Nk9Mdm5zenJydDhJWUl5VXNmR0VpOVZ4cjhGVVhhOXlRUl9SOTBFdkFxeEctNWpmSjdGVtIBcEFVX3lxTE1TVDRrdWFpcnB3WjFQcEFmenRQcVlVYmsxeVFJY3JyXzF5NHB4VXJycWotbkJhY2w3eVU1WGJ0ZjNBZE5PSHpSdE1TVUtxRTJrdjRXeUQ2NXF2UXNKVURxTFNOMVZla2FnMFZzUURXZ2E?oc=5",
+            "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE5VSTRwekpZdVktV3ZpTnByOVBHNkJlUjAxRlY1UllnblNJOUM0NGo3Q0lZcnc5V0VMOE1PWk5vQ1hQRTFJYllqLXB5dmNkVlZ5YXgyNVJYWEdzellmVF9lT2M0SUd6MlJjWUE?oc=5",
             "category": "IT_Biz",
-            "published": "2026-05-28T22:24:57.320319"
+            "published": "2026-05-29T22:23:06.502624"
         }
     ],
     "Economy": [
         {
-            "title": "JP모간 \"한은, 성장의 물가파급 강조…내년 4월 기준금리 3.5%\"",
+            "title": "AI 랠리·이란 휴전 기대에 美증시 또 최고치…S&P500, 9주 연속 상승 - 마켓인",
             "points": [
-                "글로벌 투자은행 JP모간의 한국은행 기준금리 인상 전망은 국내 금융시장과 경제 전반에 큰 영향을 미칠 수 있는 주요 거시경제 소식입니다.",
-                "한국은행의 통화정책 방향에 대한 유력한 예측으로, 기업 투자 및 가계 소비 심리에 영향을 주며, 채권 및 주식 시장의 변동성을 키울 수 있습니다."
+                "전 세계적인 AI 기술 발전 기대감과 중동 지정학적 리스크 완화 기대가 맞물려 미국 증시가 사상 최고치를 경신하며 9주 연속 상승세를 기록했습니다.",
+                "이는 글로벌 경제의 주요 동력인 AI 산업의 성장과 국제 정세 안정화가 투자 심리에 긍정적인 영향을 미치고 있음을 보여주는 핵심 지표입니다."
             ],
-            "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE5Yd2Fiek4xcG9oNG81cTAzQkYyNTl1dmhoWEZobEJaMlJqeGZDTVBTQkk3TzVSaEg2aGtYQ01Nd0VzbXRONWJGVEVvTGl3OWgxSmJGWkFldjRpMXUtNkE2dDZBWDNmMXFpOGFOTkVFQV8?oc=5",
+            "link": "https://news.google.com/rss/articles/CBMic0FVX3lxTE93RzlnM0lIeXJrQW5IMlVZYlFxZUkyR0FVMUYzX1BURmFCWXdDRDVtTG5OYll5amJhOGxkOHRERko5YmhUbGsyQnZpQktGb1QySmg0OWlySF9wZ2llTzdMZ0NEV1hWalJTblFNV0d5UFhUTUU?oc=5",
             "category": "Economy",
-            "published": "2026-05-28T22:25:33.312543"
+            "published": "2026-05-29T22:23:35.622806"
         },
         {
-            "title": "국민연금 국내주식 비중 14.9%→20.8%로 확대…200조원 매도 압력 눌렀다",
+            "title": "앤트로픽, 구글 TPU 확보 위해 54조 초대형 대출 추진...\"사상 최대 규모\" - AI타임스",
             "points": [
-                "국민연금은 국내 최대 기관투자자로, 국내 주식 비중 확대는 국내 증시에 막대한 유동성을 공급하고 매도 압력을 완화하여 시장 안정화에 기여할 수 있습니다.",
-                "약 200조 원 규모의 자금 유입 가능성은 국내 기업들의 자금 조달 환경 개선 및 주가 상승 기대감을 높여 산업 전반에 긍정적인 영향을 미칠 수 있습니다."
+                "주요 AI 기업인 앤트로픽이 구글의 AI 반도체(TPU) 확보를 위해 54조 원 규모의 초대형 대출을 추진하는 것은 AI 인프라 구축 경쟁의 심화와 막대한 자본 투입을 상징합니다.",
+                "이는 AI 기술 개발 및 서비스 확장을 위한 핵심 자원 확보 경쟁이 가속화되고 있으며, 관련 산업의 판도를 바꿀 수 있는 대규모 투자의 흐름을 보여줍니다."
             ],
-            "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE85Z09xY0dLQ3ZlVEwxXzRCQ3ZNTm9IZ05fRnFySmxKWU1vNFFmVHZ6RmMzaE5Da2gzdUREMU5fY1BSRGZOdjc1VVI5aHZCalBBSHBLend2VXZONmFhczlTUUd4T0RHV2c?oc=5",
+            "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE9TZ1N3aC01MTB6TmFFV284bmJCN2g1UzhVRV9CT0t3TjNtN0JfR2FHM2t4VW5kZUFqRlVEY3ZEaTg4LUJjZXVaVm45WDVob1dBVlZueUNWdlFtcFg2cHZvWGxrSkQwVTZwdmc?oc=5",
             "category": "Economy",
-            "published": "2026-05-28T22:25:33.312551"
+            "published": "2026-05-29T22:23:35.622811"
         },
         {
-            "title": "전쟁에 가파른 물가 상승···미 4월 PCE 가격지수 3년 만 최고 수준",
+            "title": "금리인상 공식화한 신현송…7% 넘긴 주담대도 공포 '확산' - 연합인포맥스",
             "points": [
-                "미국의 개인소비지출(PCE) 가격지수는 연방준비제도(Fed)가 선호하는 핵심 물가 지표로, 3년 만의 최고치 기록은 미국 및 글로벌 인플레이션 압력이 심화되고 있음을 보여줍니다.",
-                "이는 미국 연준의 통화 긴축 정책 지속 가능성을 높여 글로벌 금융시장의 변동성을 키우고, 전 세계 경제 성장 둔화 우려를 가중시킬 수 있습니다."
+                "한국은행 고위 관계자의 금리 인상 공식화 발언은 국내 통화 정책의 중요한 변화를 예고하며, 가계 및 기업의 대출 비용 증가로 이어질 것입니다.",
+                "주택담보대출 금리가 7%를 넘어서는 등 고금리 기조가 확산되면서 소비 심리 위축과 부동산 시장에 광범위한 영향을 미칠 것으로 예상됩니다."
             ],
-            "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFBNcXV5X2MxZHdoQVdXNmFTTFRERENlUF9tZTRHT0pFZWtETTRpUUxZV01aNG03dldSM212VkhmZ1hrbkktaVh3SkNxOUJZS3lta0twcUlzSDRSQdIBX0FVX3lxTFBSdEYzZUZ3UHQ0MVM2TG9LMEdWdFdTNDNrX1FBV0h5QU93cFJxMy1sN1lQYmVjdmtnU2RucTltOWRIVF81eVRrN2xUYzAtZEdZVkNaYmtzazBwVzJ4VUJr?oc=5",
+            "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE5pRXYwNTd5aDdPYnlRZXlyWFRFTG9kbFE1eWZHdG1DdWdDZkcwcUh0di1uNXZOQnBPS3dYa0lFWGpGcjIyeVJHQkp4blBGVEVoY3NyazlGOFdVNlZuYTJ2cHFGTDhwUE9RU2lEYVQtYjk?oc=5",
             "category": "Economy",
-            "published": "2026-05-28T22:25:33.312552"
+            "published": "2026-05-29T22:23:35.622813"
         },
         {
-            "title": "국민성장펀드, '국산 AI 반도체' 퓨리오사AI에 8천억 직접투자",
+            "title": "“채권시장 ‘큰손’이 돌아섰다”...국민연금, 국내 채권 점진적 축소 방침 - 조선일보",
             "points": [
-                "국민성장펀드의 8천억 원 규모 AI 반도체 기업 직접 투자는 국가 차원에서 미래 핵심 산업인 AI 반도체 분야의 경쟁력 강화를 위한 대규모 전략적 투자입니다.",
-                "이는 국내 AI 반도체 기술 개발 및 상용화를 가속화하고, 관련 생태계 성장을 촉진하여 한국이 글로벌 AI 반도체 시장에서 주도권을 확보하는 데 중요한 전환점이 될 수 있습니다."
+                "국내 최대 기관투자자인 국민연금이 국내 채권 비중을 점진적으로 축소하겠다는 방침은 국내 채권 시장에 막대한 영향을 미칠 수 있는 중대한 투자 전략 변화입니다.",
+                "이는 자금의 흐름을 주식 등 다른 자산으로 전환하려는 움직임으로 해석될 수 있으며, 국내 금융 시장 전반의 자산 배분과 투자 환경에 큰 변화를 가져올 것입니다."
             ],
-            "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE1aMkRQaVdiRF9QUHNodGpPVks2LUFpTF9NOW1DUWJGam8taEYzSVdMLURubjVNMnZ2LXNXNjFtbXZNREFMT1RTMWhzb1R2RWpZVHJxbm5LbzEtc3PSAWBBVV95cUxQYWhQZHgwUmFwZmxoVlJMS3V2aGZCeUVXRVhMOXJydzBramZvRUdHZnBDT2V2UVFKUmdhNzcyd0VfeXVZNFU0QURtdWlnM0IxQW11cm90cUphVllNMW9IUUg?oc=5",
+            "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxQZWpnMnpKZG5RV3ItYkI2UEVWVlpQajVGRjVSQmVMVGpqcGdYU1JXSTk5WE9ZaDRWVnlzNTQtVHdTbE52MjFRdjM0VlZHX2VYQmNMXy1RWmh1VXJjc0F0Q25sQk5GV0pLc19RQ25PWmUzWkd1NlhYdm5EUGs3ZzlGZA?oc=5",
             "category": "Economy",
-            "published": "2026-05-28T22:25:33.312553"
+            "published": "2026-05-29T22:23:35.622814"
         },
         {
-            "title": "상위 20% 가구 월소득 1200만 첫 돌파… 성과급이 가른 ‘K자형’ 양극화",
+            "title": "\"유럽 의료기기 규제 바뀐다\"… MDR 2.0 시대, 인증보다 '사후관리' - 히트뉴스",
             "points": [
-                "상위 소득 계층의 월소득 1200만 원 돌파는 국내 경제의 'K자형 양극화' 심화를 보여주는 중요한 통계 지표로, 소득 불균형 문제가 더욱 고착화되고 있음을 시사합니다.",
-                "이는 소비 패턴, 자산 형성, 사회 통합 등 경제 전반에 걸쳐 장기적인 영향을 미칠 수 있으며, 정부의 소득 재분배 정책 및 경제 구조 개혁 논의를 촉발할 수 있습니다."
+                "유럽연합(EU)의 의료기기 규제(MDR)가 'MDR 2.0' 시대로 전환되며 인증보다 사후관리를 강화하는 방향으로 변화하는 것은 글로벌 의료기기 산업에 중대한 영향을 미칠 정책 변화입니다.",
+                "이는 유럽 시장 진출을 목표로 하는 국내외 의료기기 기업들에게 제품 개발, 생산, 유통 전반에 걸쳐 새로운 전략 수립을 요구하며, 산업 생태계의 변화를 촉진할 것입니다."
             ],
-            "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE9laTlxQzJzTDg0YzE4UUNVQWFxSFU5eUk1ZExGTGVaNzkwSlN0MnZfVFBJeENFTlNjcXdrN2VmN1pieVRaQ3ZVdXMwbEtvUkRXSEtOOQ?oc=5",
+            "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTFBGWkI2NUpZTzZ1Ylprakp0R2pzOE1VUnJEd0RmNjVLcUwwdmFPWW5ieXh1Nl9sS3hBeS1aTDZnbzlyMWJGUFY3cHdDRkxwODNkSVFKZVNjU2gxSFFwMEJiSkZqOGdwdlNmQVQw?oc=5",
             "category": "Economy",
-            "published": "2026-05-28T22:25:33.312554"
+            "published": "2026-05-29T22:23:35.622815"
         }
     ],
     "World": [
         {
-            "title": "미국, “미-이란 종전 잠정 합의 보도 맞다…트럼프 승인만 남아” - 한겨레",
+            "title": "트럼프 대통령, 이란 합의 조건 공개… “핵무기 영구 포기·호르무즈 해협 통행료 없이 개방” - VOA 한국어 홈페이지",
             "points": [
-                "미국과 이란 간의 종전 잠정 합의는 중동 지역의 오랜 긴장 관계를 해소하고 국제 정세에 중대한 변화를 가져올 수 있는 외교적 돌파구입니다.",
-                "이 합의는 국제 유가 변동, 중동 지역 안보 재편, 그리고 글로벌 동맹 관계에 광범위한 영향을 미칠 수 있으며, 트럼프 전 대통령의 승인 여부가 핵심 변수입니다."
+                "전 미국 대통령의 이란 핵 합의 조건 공개는 중동 지역의 지정학적 안정과 국제 핵 비확산 체제에 막대한 영향을 미칠 수 있는 중대 발표입니다.",
+                "핵무기 영구 포기 및 호르무즈 해협 개방 조건은 이란의 핵 프로그램과 국제 해상 무역로의 안보에 직접적인 변화를 가져올 수 있으며, 이는 국제 유가 및 에너지 시장에도 영향을 미칠 수 있습니다."
             ],
-            "link": "https://news.google.com/rss/articles/CBMic0FVX3lxTE5PbGY0Z1lERVRJWnJoX0dZcWh3N2ZFRkFyRDR2eXg3QV9aTl8xaGQ0ZkxkMkRhZEp5WVhMcDVzbDNlM1RCaDhBT2ZjbFc3X1lKT0xIY2RjYlFUOFM2bWRwcGZVS1dPTjZTbk5sZHBKVTBsV28?oc=5",
+            "link": "https://news.google.com/rss/articles/CBMi_wFBVV95cUxNTEJEWmVOTDI5NXRqY1VnWE1waWxYcXJhXzJSM29STTlURFJUZVhFMjNBby1tU1lOWlNzQzEwdlZpMjJSeFlGNHotNE1GUWZKSEtkSVFSdGk1LUp3ZHc4d0s5ZGVnZFZuUkU0S3h0LWdkZy16Tm5nUmVNbUtySXpwbVRTWUZYZ3FzZE93ZWg5MGQ4UEVGN2Nlb3VkcnpjbFlFLTdBUExDekp4RmVHejhIOUUxNWJ4UVJ4ODF0bHQ1eTF5TElwc3hXeFd0UkxNMUItLVFWLTMyWEI3TFZUNVZmcDBJU29PUGJYcVFhMjBIODczZy1hcjVqOEdDRVJ4MjjSAYICQVVfeXFMTzhxTGdPaTlFUE5KQVcxbWtCVWh2M1NPVl9NR2VKWlBUbzlhek1RVkl1TG5tcjFiejhJenpnd0RFQ2N6QURselE2M0h4VHp0aWI2RzUyaUhJYzQ5UndoZFBhQnoyS2xlT0RxbzJBbXRKcXVWM0phbzVlX3NIMFZCYzB2V3I4bDA1UTBXUWotZHhtVE9TdUd5UWNUaXNrTlpaYW4xd2FmMHpmLVBaU2RoWEpEbFNYd2tsTm1La1E5UlByUXczNWFicE16Y1J6MFBQUFluaF8tNnJ6cGVDOElyQUZaZndYLXN6Y3o5VWxmTnhFNDNQM0J5dlV5U2R3M016RFJB?oc=5",
             "category": "World",
-            "published": "2026-05-28T22:26:11.322088"
+            "published": "2026-05-29T22:24:14.233676"
         },
         {
-            "title": "북한 외무성, ′북 비핵화′ 쿼드 공동성명에 ″비핵화 영원히 없어″ - 연합뉴스TV",
+            "title": "러시아 드론, 루마니아 공격해 민간인 피해…나토 “선 넘었다” 개입 의지 - 한겨레",
             "points": [
-                "북한 외무성의 '비핵화 영원히 없어'라는 강경 발언은 국제사회의 비핵화 요구를 전면 거부하며 한반도 및 동북아시아 안보 환경에 심각한 위협을 제기합니다.",
-                "이는 북한의 핵 보유 의지를 재확인하고, 향후 비핵화 협상 전망을 어둡게 하며 국제사회의 대북 정책 재검토를 촉발할 수 있는 중대한 외교적 선언입니다."
+                "러시아 드론이 나토(NATO) 회원국인 루마니아 영토를 공격하여 민간인 피해가 발생한 것은 러시아-우크라이나 전쟁이 나토 국가로 확전될 수 있는 매우 심각한 지정학적 위기입니다.",
+                "나토의 \"선 넘었다\"는 발언과 개입 의지 표명은 집단 방위 조항(5조) 발동 가능성을 시사하며, 이는 유럽 안보 지형 전체를 뒤흔들 수 있는 중대한 군사적, 외교적 변화를 야기할 수 있습니다."
             ],
-            "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE1tN0JaeDhneTQ4MUhTSTlMS01JdjJpQV9TTmNpclR2R016UGh4alJMVVExajY5alU3S0RkSjJxNG5yb2NFVC1EWjlwZFlBX205OF9GTG8zdkl2c19ERjFwYzZqSDhHbGc?oc=5",
+            "link": "https://news.google.com/rss/articles/CBMiggFBVV95cUxPc25QSnJ4Y0hkN2I5cGE2WkFCQlYtTExJYXRDTXkxME42TGpiRS1xOWhoczFXRkg4R3RtMU9nNldKc0xaWGhMNkJJYjA5LVZvV3ZraE53bWlOQmpfbDRvMnFXdnJXVU9BTGVMMVdXSkVLaTdYU0o5U1lOTm56ZHUtdjhn?oc=5",
             "category": "World",
-            "published": "2026-05-28T22:26:11.322095"
+            "published": "2026-05-29T22:24:14.233682"
         },
         {
-            "title": "“트럼프 승인만 남았다”… 美, 쿠바 공격 위해 카리브해 전력 증강 - 조선비즈 - Chosunbiz",
+            "title": "이란혁명수비대 \"미 공군기지 공격…결과는 침략자 책임\" - 연합뉴스",
             "points": [
-                "미국이 쿠바 공격을 위해 카리브해 전력을 증강한다는 보도는 서반구 안보 지형에 급격한 변화를 가져올 수 있는 매우 중대한 군사적 움직임입니다.",
-                "트럼프 전 대통령의 승인 여부에 따라 미국-쿠바 관계는 물론 라틴아메리카 전체의 정치적, 경제적 안정성에 심각한 영향을 미칠 수 있는 잠재적 분쟁의 서막입니다."
+                "이란 혁명수비대의 미군 기지 공격은 미국과 이란 간의 직접적인 군사적 충돌을 의미하며, 이는 중동 지역의 긴장을 최고조로 끌어올리고 전면전으로 비화될 수 있는 매우 위험한 상황입니다.",
+                "이 사건은 국제 유가 급등과 글로벌 경제 불안을 초래할 수 있으며, 중동 지역의 안보 판도를 근본적으로 변화시킬 수 있는 중대한 군사적, 외교적 위기입니다."
             ],
-            "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxOelRUOEM4aUdzYzhSY2pDdzBVYnNZSnZTWEFIUmtjMWJsSDJfUnVOV1UtSDZGRUdLbmVPM0JqVVFZY0hWNHZaNE9JdlpIejI1Ujd5Wkk5bW16c3JjekNzS2d4ZUc2MVB6R2tMaEloOUwxcDVFNFBYUnVCc3BXc3NPcTBCVjFpTjQtNEpfOWdZaVJWNWgtc2VFdFJBWDUxZ9IBsgFBVV95cUxOeWZFRTd2SkVGVkVWVDFST2pOSUJNWlJmdmNzRF9fVHdQZHIyT0RxejBVMkJWNEd5VkxTNlp5Vk4tUUQ0d3Q1V1BSX0x5ZnluMEhlb18tV0N5TFJaQ1ppZVFVSm1ZRkVlZHBaNzRCMXBhWm8tMG52MzdzeUd5Qk8xYml5c185YXliVWFxWk0xcnE3cHJNYjNSbEpvaWlXTF9ESnFmSmpQZW9qNWpKY2xMVjNB?oc=5",
+            "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFBjX3RKZmtfM1JJMmE4M0RsV3JRR0lVSWtIUTdPR0tMSEtrX2pZa1htZ2VudTJkM1ktRFBYN3J6UGJIa0xDQTRCak4xWkRMSGpuODBmRGNGVFF5RGvSAWBBVV95cUxQV2h1U1RWZFBZYzFKYUJoVFhyU1R1NWYyY05XeXdJRTN4a1Bkd1BOeEc2UHhPZUdGRGx3RlAzMEk1V3dTTDNMTzVfZWRjVUNKQVV0a3pybEhLVU00dmNsd2k?oc=5",
             "category": "World",
-            "published": "2026-05-28T22:26:11.322096"
+            "published": "2026-05-29T22:24:14.233683"
         },
         {
-            "title": "러시아 신형탄도미사일 맞은 우크라이나, 미국에 'SOS' - 연합뉴스",
+            "title": "\"트럼프 승인만 남았다\"… 美, 쿠바 공격 위해 카리브해 전력 증강 - Chosunbiz",
             "points": [
-                "러시아의 신형 탄도미사일 사용과 우크라이나의 미국에 대한 긴급 지원 요청은 러시아-우크라이나 전쟁의 심각한 전황 악화와 국제 안보 위기 고조를 나타냅니다.",
-                "이는 서방 국가들의 추가 군사 지원 결정에 영향을 미치며, 전쟁의 장기화 및 국제 정세 불안정 심화로 이어질 수 있는 중대한 군사적, 외교적 변화입니다."
+                "미국이 쿠바 공격을 위해 카리브해에 전력을 증강하고 트럼프 대통령의 승인만을 남겨두고 있다는 보도는 미국과 쿠바 간의 군사적 충돌 가능성을 시사하며, 이는 서반구의 지정학적 안정에 큰 영향을 미칠 수 있습니다.",
+                "이러한 군사 행동은 카리브해 지역의 안보 환경을 급변시키고, 국제 관계에 새로운 긴장 요소를 추가하며, 잠재적으로 국제 무역 및 에너지 공급망에도 영향을 미칠 수 있습니다."
             ],
-            "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFBMZ3BuVGVPUFlKejJ4NTNxaUpQazNxcHN3b3UxZG1tcDRjQVl1LWdKNV9aWFlBajB1TndraVJvUElzWHVid1dLdDRZeDRYZDQtZTVVYk9URl9oV3fSAWBBVV95cUxNQUlZbGRLU1diYktfSHZpWmVXVnhLbS1HN0NPUTQ2c2pvaHdPVVNMVm9KdHhjWkxOOENDeWFFakhCOHQwcm9tQUgtZFJLN1Z2ZFdPSWR5SUFIcl9pVlh1R3M?oc=5",
+            "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxOelRUOEM4aUdzYzhSY2pDdzBVYnNZSnZTWEFIUmtjMWJsSDJfUnVOV1UtSDZGRUdLbmVPM0JqVVFZY0hWNHZaNE9JdlpIejI1Ujd5Wkk5bW16c3JjekNzS2d4ZUc2MVB6R2tMaEloOUwxcDVFNFBYUnVCc3BXc3NPcTBCVjFpTjQtNEpfOWdZaVJWNWgtc2VFdFJBWDUxZw?oc=5",
             "category": "World",
-            "published": "2026-05-28T22:26:11.322097"
+            "published": "2026-05-29T22:24:14.233684"
         },
         {
-            "title": "에볼라 감염자 1000명 넘어…민주콩고, 실험용 치료제 긴급 요청 - 이투데이",
+            "title": "푸틴 화나겠네…우크라, 러 자금으로 최신형 그리펜 전투기 20대 구매 [핫이슈] - 나우뉴스",
             "points": [
-                "민주콩고에서 에볼라 감염자가 1000명을 넘어서고 실험용 치료제를 긴급 요청한 것은 심각한 국제 보건 위기 상황을 보여주며 전 세계적인 관심과 지원을 요구합니다.",
-                "이러한 대규모 감염병 확산은 국제사회의 인도적 지원 및 방역 협력의 필요성을 증대시키며, 글로벌 팬데믹 가능성에 대한 경각심을 높여 보건 시스템에 중대한 영향을 미칩니다."
+                "우크라이나가 러시아 자금으로 최신형 전투기를 구매한다는 소식은 러시아-우크라이나 전쟁의 전황에 중대한 변화를 가져올 수 있는 군사적, 경제적 의미를 가집니다.",
+                "이는 러시아의 해외 동결 자산 활용이라는 국제 금융 제재의 새로운 국면을 보여주며, 우크라이나의 공군력 강화는 전력 균형에 영향을 미쳐 전쟁의 장기화 또는 새로운 국면 전환을 초래할 수 있습니다."
             ],
-            "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTFBsQzJ2TEdYS0dNUDM5OUZGZWhWYWgtcXhlR0tLNXdVUm1IVHMydkoxdlVXdHZIUHQyZ1JfU0R6MWd3a2ZtMDB0Mjk1QWt0RW1xS2lBcg?oc=5",
+            "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE44dUc1RE94QVZYQWdPdVZ2N0RsWWZIUGRaa0xGX3cwM0RnTVNHdVNGRTZEQ2M5eGswVnBaMjdMRW5kQjJEY0kzV04xSmpzQWMyZjFpTnp0eEM3QlhSaHlqMzY1ZFlVMThBS01oNE0tTFI?oc=5",
             "category": "World",
-            "published": "2026-05-28T22:26:11.322098"
+            "published": "2026-05-29T22:24:14.233685"
         }
     ]
 }
