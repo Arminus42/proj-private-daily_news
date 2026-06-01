@@ -1,210 +1,54 @@
 {
     "AI_Tech": [
         {
-            "title": "NC AI·포스코DX, 범용 로봇 AI 개발 협력…자율 판단 로봇 만든다",
+            "title": "AI 특허전쟁 막는다... Anthropic·MS·Meta 손잡고 ‘공유 특허동맹’ 출범",
             "points": [
-                "이 뉴스는 국내 주요 AI 기술 기업인 NC AI와 산업 자동화 분야의 선두 주자인 포스코DX가 차세대 로봇 AI 개발을 위해 협력한다는 점에서 중요합니다. 이는 국내 AI 빅테크 기업 간의 중요한 기술 동맹입니다.",
-                "핵심은 '범용 로봇 AI 브레인(RFM)' 개발로, 로봇이 스스로 주변 환경을 인지하고 판단하여 복잡한 작업을 자율적으로 수행할 수 있도록 하는 기술적 돌파구입니다. 이는 산업 현장뿐만 아니라 다양한 분야에서 로봇의 활용도를 혁신적으로 높일 잠재력을 가집니다."
+                "AI 분야의 핵심 글로벌 기업인 Anthropic, Microsoft, Meta가 손잡고 AI 특허 공유 동맹을 맺은 것은 전례 없는 협력 사례입니다. 이는 AI 기술 개발의 방향과 속도에 막대한 영향을 미칠 수 있는 중요한 움직임입니다.",
+                "이 동맹은 AI 기술 개발 과정에서 발생할 수 있는 복잡한 특허 분쟁을 사전에 방지하고, 핵심 특허를 공유함으로써 AI 혁신을 가속화하려는 목적을 가집니다. 마치 여러 회사가 함께 도로를 건설하여 모두가 더 빠르게 이동할 수 있게 하는 것과 같습니다. 이는 AI 기술의 상용화와 확산에 긍정적인 영향을 미칠 것입니다."
             ],
-            "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTFB3MEJfRXRSd3dIQURuS0UtUndaLWMyQzJNZFJGZ2RjU29nZElNUmNlSlM2U0FXc0dKOFRWQUo0TG4zcnk3RXUwY0xNcjdGN1BUQnZ3UC1tNW1FWHJnZGtk?oc=5",
+            "link": "https://news.google.com/rss/articles/CBMiSEFVX3lxTE9oVnphbVg2N3F4cXZyWktWSjNkakxtMWlzRXVzTkE1Mlo2d0NuMWxsekpVUTJNSUN2bk53Q2dlazEzQ0Y2OE5yRQ?oc=5",
             "category": "AI_Tech",
-            "published": "2026-05-31T21:44:42.955140"
+            "published": "2026-06-01T22:54:33.147863"
         },
         {
-            "title": "LG유플러스-삼성전자, 통신·센싱 융합 및 AI·6G 연계 기술 공동 연구",
+            "title": "KAIST 'AI대학 비전선포'…인재양성·연구·협력 생태계 구축",
             "points": [
-                "국내 통신 및 전자 분야의 양대 산맥인 LG유플러스와 삼성전자가 미래 핵심 기술인 AI와 6G를 연계하여 공동 연구를 진행한다는 점에서 큰 파급력을 가집니다. 이는 차세대 통신 인프라와 AI 기술 융합의 중요한 이정표입니다.",
-                "이 협력은 통신 기술과 센싱 기술을 융합하고, 여기에 AI와 6G를 접목하여 더욱 지능적이고 효율적인 네트워크 환경을 구축하는 것을 목표로 합니다. 이는 자율주행, 스마트시티, 초연결 IoT 등 미래 사회의 다양한 AI 기반 서비스 구현을 위한 필수적인 기술적 토대가 될 것입니다."
+                "국내 최고 수준의 과학기술 연구기관인 KAIST가 AI 대학의 비전을 선포한 것은 한국 AI 기술의 미래를 위한 중요한 전략적 발표입니다. 이는 단순한 교육기관의 변화를 넘어, 국가 AI 경쟁력 강화의 핵심 동력이 될 수 있습니다.",
+                "KAIST는 AI 인재 양성, 혁신 연구, 그리고 산업 및 사회와의 협력 생태계 구축을 목표로 합니다. 이는 마치 AI 기술의 씨앗을 뿌리고 잘 가꾸어 미래의 풍성한 결실을 맺으려는 노력과 같습니다. 세계적인 수준의 AI 전문가를 배출하고 첨단 연구를 선도함으로써, 한국이 글로벌 AI 기술 트렌드를 이끌어가는 데 기여할 것입니다."
             ],
-            "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE93MUcxMHkzZmt3YWtrQkRndDk2S2JubTB5UTI3OXVtV25WLUdOdEVjR2x3S3pqak0tbWZhT0dZS05nR2h0VEVWZzhPbXlBclJCZl9oWHFKVXpDb08zLWdheFd2TWp3YmFENXc?oc=5",
+            "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTFBpUmNJNFh6Y1J2dUNoeHZwSkZaY0d6SjVna0hIc0VxelExaHp3UDNXTS16R0JVSVFMS0dUZEcwNUJRdXFWVTZ6aU9LNHRJMVJfU3JSLUdkc2VUa3NKTmdOaNIBYEFVX3lxTFBpUmNJNFh6Y1J2dUNoeHZwSkZaY0d6SjVna0hIc0VxelExaHp3UDNXTS16R0JVSVFMS0dUZEcwNUJRdXFWVTZ6aU9LNHRJMVJfU3JSLUdkc2VUa3NKTmdOaA?oc=5",
             "category": "AI_Tech",
-            "published": "2026-05-31T21:44:42.955146"
+            "published": "2026-06-01T22:54:33.147869"
         },
         {
-            "title": "KAIST, LLM 인프라 시뮬레이터 개발…AI 서버 구축 전 성능 검증",
+            "title": "AI기술 발달할수록 LLM의 ‘확증편향’ 강해져?",
             "points": [
-                "국내 최고 과학기술 연구기관인 KAIST가 대규모 언어 모델(LLM) 인프라 구축의 효율성을 획기적으로 높일 수 있는 시뮬레이터를 개발했다는 점에서 주목할 만합니다. 이는 LLM 개발 및 배포의 비용과 시간을 절감하는 데 기여할 중요한 기술입니다.",
-                "이 시뮬레이터는 실제 AI 서버를 구축하기 전에 가상 환경에서 LLM의 성능을 예측하고 검증할 수 있게 해줍니다. 마치 건물을 짓기 전에 모형으로 미리 테스트하는 것처럼, 막대한 자원이 투입되는 LLM 인프라 투자 리스크를 줄이고 최적의 시스템 설계를 가능하게 하는 기술적 돌파구입니다."
+                "대규모 언어 모델(LLM)의 '확증편향' 문제는 AI 기술의 신뢰성과 공정성에 대한 근본적인 질문을 던집니다. 이는 OpenAI, Google, Meta 등 주요 AI 개발 기업들이 해결해야 할 가장 중요한 기술적 과제 중 하나로, AI의 사회적 수용에 직접적인 영향을 미칩니다.",
+                "AI 모델이 학습 데이터에 내재된 편향을 그대로 답습하거나 심화시키는 현상은, 마치 특정 정보만 계속 접하며 자신의 믿음을 강화하는 사람처럼, AI의 판단을 왜곡할 수 있습니다. 이 문제를 해결하기 위한 연구는 AI의 윤리적이고 책임감 있는 개발을 위한 필수적인 기술적 돌파구로 여겨지며, 향후 AI 모델의 설계와 학습 방식에 큰 변화를 가져올 것입니다."
             ],
-            "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE5mZ0ZqS0F0bTNEYWs3MVZMNHZsbmFtX3ByQkJjZkV2ZnFTYU1mb1lIV2JuSjNRSnp0MnRfRXp0ajJ6S3BaemVTWmo2eGl0NmwyZkg5LTBjbTVjMlpKSG1wVWdua05EdXNETlE?oc=5",
+            "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE5QX1FLMXRYNF9rZFRhSExvTlM5STlOMUxJeG0wZ2RlcnAyZWstazlHSjdpVnFJU1BuZDJzbWFUdThJQ2tsMFJwX2Rkd1FZVUVBQlhJOXAxRTRjdWxNYVFLdzNtVTBUMmI3c2JLR0M5REw?oc=5",
             "category": "AI_Tech",
-            "published": "2026-05-31T21:44:42.955147"
+            "published": "2026-06-01T22:54:33.147871"
         },
         {
-            "title": "케이메디허브, AI 기술 고도화로 혁신 신약 개발 선도",
+            "title": "질병 원인도 AI로 찾는다···연구재단, 유전자 분석 기술 개발",
             "points": [
-                "국가 의료 연구기관인 케이메디허브가 AI 기술을 활용하여 혁신 신약 개발을 가속화한다는 소식은 인류 건강 증진에 직접적인 영향을 미치는 중요한 발전입니다. AI가 생명 과학 분야에 미치는 영향력을 보여주는 사례입니다.",
-                "AI 기술을 고도화하여 신약 후보 물질 발굴, 약물 작용 예측, 임상 시험 설계 등 복잡하고 오랜 시간이 걸리는 신약 개발 과정을 효율화합니다. 이는 기존 방식으로는 어려웠던 새로운 치료제 개발 가능성을 열고, 환자들에게 더 빠르고 효과적인 의약품을 제공할 수 있게 하는 기술적 진보입니다."
+                "AI를 활용한 질병 원인 및 유전자 분석 기술 개발은 의료 및 바이오 분야의 혁신을 이끌 글로벌 AI 기술 트렌드의 핵심입니다. 이는 인류의 건강과 수명 연장에 직접적으로 기여할 수 있는 매우 중요한 기술적 진보입니다.",
+                "이 기술은 방대한 유전자 데이터를 AI가 분석하여 질병의 숨겨진 원인을 찾아내고, 개인 맞춤형 치료법 개발의 가능성을 열어줍니다. 마치 복잡한 미로 속에서 길을 찾아주는 나침반처럼, AI가 질병 진단과 치료의 정확도를 획기적으로 높여줄 수 있습니다. 이는 신약 개발 기간 단축 및 의료비 절감 등 경제적 파급 효과도 클 것으로 예상됩니다."
             ],
-            "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE93NGh1RnFJSUwtX05tWXJQR2ozVU56bmViMms3aHhfWjRHMHU2TW1YZEszaDF5ZVZ5SmVzQ0F1eVlFVWI4QnB3NVRLVThnQjk1VTRva0Z5OVhDRUN3LWlrZ2F3RkM1bHM?oc=5",
+            "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE05dkloTHlhQllybzJMM3RWQ0JSOE5BOC14RDdfZ0VWeEpuTFNiblFyYndRS2Y3UnFZbG5TZk81Y290UWp5WlZmMU9DYl9QLWJtOVRnX0dkSm54c3dsdWxTZUxhS3BMZHI5bGc?oc=5",
             "category": "AI_Tech",
-            "published": "2026-05-31T21:44:42.955148"
+            "published": "2026-06-01T22:54:33.147872"
         },
         {
-            "title": "전남대 교수팀, 생성형 AI 프라이버시 보호 기술 개발",
+            "title": "챗GPT가 보도자료 쓰고 법령 해설까지…과기정통부 'AI 공무원' 키운다",
             "points": [
-                "전남대학교 교수팀이 생성형 AI의 핵심 과제 중 하나인 프라이버시 보호 기술을 개발했다는 점은 AI의 윤리적이고 안전한 활용을 위한 중요한 진전입니다. 이는 AI 기술의 사회적 수용성을 높이는 데 필수적인 연구입니다.",
-                "이 기술은 생성형 AI 모델이 학습 데이터에 포함된 개인 정보나 민감한 데이터를 유출하지 않도록 보호하는 데 중점을 둡니다. 마치 AI가 그림을 그리거나 글을 쓸 때, 원본 데이터의 개인 정보를 지우고 핵심 특징만 활용하도록 돕는 것과 같아, AI 서비스의 신뢰도를 높이고 법적, 윤리적 문제를 예방하는 데 기여합니다."
+                "한국 과기정통부가 챗GPT와 같은 생성형 AI를 공공 행정에 도입하려는 시도는, AI가 단순한 도구를 넘어 실제 업무 환경에 깊숙이 통합되는 글로벌 트렌드를 보여줍니다. 이는 AI 기술의 실질적인 활용 가치와 사회적 파급력을 입증하는 중요한 사례입니다.",
+                "AI가 보도자료 작성, 법령 해설 등 복잡한 문서를 처리하는 업무에 투입된다는 것은, AI가 인간의 지적 노동을 보조하고 효율성을 극대화할 수 있음을 의미합니다. 마치 똑똑한 비서가 생겨 업무 부담을 덜어주는 것과 같습니다. 이는 공공 서비스의 질을 높이고 행정 효율을 개선하며, AI가 미래 사회의 필수적인 구성 요소로 자리매김하는 중요한 전환점이 될 것입니다."
             ],
-            "link": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE01ejUzaXRhb0xhNkotOHhIZGQ1dXV4M3o3U1F1NVo1R1Bnek9Xc2xQWk11eHpBSU5zRnVxMWdIdHl2aDBlY0thdFlpUW5tZw?oc=5",
+            "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTE9GODhLdlZ5a21JWUw4cEJ6ZXpHRGMtajFWOVNhNi1UdHNTZk5DX0Y4LTRoTDFab1lPZldvZVVZWnp4THlBRzR0OXo4Q3F3X2d5ZUhQNTBod2Q0SmZJM2hSTDBwQ2l1OHBFdW4zX28zTUxST1lBMGZYd9IBeEFVX3lxTE9GODhLdlZ5a21JWUw4cEJ6ZXpHRGMtajFWOVNhNi1UdHNTZk5DX0Y4LTRoTDFab1lPZldvZVVZWnp4THlBRzR0OXo4Q3F3X2d5ZUhQNTBod2Q0SmZJM2hSTDBwQ2l1OHBFdW4zX28zTUxST1lBMGZYdw?oc=5",
             "category": "AI_Tech",
-            "published": "2026-05-31T21:44:42.955149"
-        }
-    ],
-    "IT_Biz": [
-        {
-            "title": "엔비디아, PC 칩까지...GPU뿐 아니라 CPU·소비자 시장까지 독식 야심 - 조선일보",
-            "points": [
-                "엔비디아가 GPU 시장을 넘어 CPU 및 소비자 시장까지 진출하려는 야심은 인텔, AMD 등 기존 강자들과의 전면적인 경쟁을 예고하며 컴퓨팅 하드웨어 시장의 판도를 뒤흔들 중대한 변화입니다.",
-                "이는 AI 시대에 맞춰 엔비디아가 반도체 산업 전반의 지배력을 강화하려는 전략으로, 관련 기업들의 투자 및 기술 개발 방향에 막대한 영향을 미칠 것입니다."
-            ],
-            "link": "https://news.google.com/rss/articles/CBMigwFBVV95cUxNVjYtTk5raXNidl9HMXoxSmxvZXZJTDQ0anpHaUtRSTR2V3U4OEE3MkJsS2NOdGV4NTVkM19jVlFEclJ2ZVhRLXZ2MjdrV1dsbHlOZmJxMDA1LVhRWWRTUEhMQTI5YWNqOXRCOUM4T1NUSW45SXJkSWFCSWFsSWE4Nk5FNA?oc=5",
-            "category": "IT_Biz",
-            "published": "2026-05-31T21:45:17.750182"
-        },
-        {
-            "title": "\"엔비디아 요구 맞춘 곳은 삼성전자가 유일\"…HBM4E로 드러난 기술 경쟁력 - 글로벌이코노믹",
-            "points": [
-                "삼성전자가 엔비디아의 HBM4E 기술 요구사항을 유일하게 충족했다는 소식은 AI 반도체 시장의 핵심인 고대역폭 메모리(HBM) 분야에서 삼성의 독보적인 기술력을 입증합니다.",
-                "이는 향후 AI 반도체 시장의 판도를 바꿀 수 있는 중요한 기술적 우위를 점했음을 의미하며, 삼성전자의 시장 지배력 강화에 기여할 것입니다."
-            ],
-            "link": "https://news.google.com/rss/articles/CBMihgFBVV95cUxQbGpJS21ONExBNVhxU3pmejV0SVk3SGp5cTQ1cGdYX0xEUTNDZU55YjJpMHlfMHlPclZ6cS1hMGNmTVZoaGZoV2lqWmJDN0NySGNESW5iakFKWDZQV2FRYWVfNWlkY3JBbElacE5aRFZtWlI4SHhuM1pYb3lPRE05enVwdWs1Zw?oc=5",
-            "category": "IT_Biz",
-            "published": "2026-05-31T21:45:17.750189"
-        },
-        {
-            "title": "D램 가격 사상 첫 20달러 돌파…이달에만 25% 뛰었다 - 네이트",
-            "points": [
-                "D램 가격이 사상 처음으로 20달러를 돌파하고 단기간에 급등한 것은 글로벌 반도체 시장의 강력한 수요 회복과 공급 부족 현상을 명확히 보여줍니다.",
-                "이는 삼성전자, SK하이닉스 등 주요 메모리 반도체 기업들의 실적에 긍정적인 영향을 미치고, 전반적인 IT 기기 생산 비용 및 가격에도 영향을 줄 수 있는 중요한 경제적 변화입니다."
-            ],
-            "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE84OXJSOG81d2lULTNmai1QX2Q0T2tYejAyWmdhSWJRNW5hUWo3UVN5dmJ2WWRxYVd5QjlmRTFlX1pJcVlDMkpTTjcxRE9HYTd5M05V?oc=5",
-            "category": "IT_Biz",
-            "published": "2026-05-31T21:45:17.750190"
-        },
-        {
-            "title": "한화그룹, 美 스페이스X 공급망 뚫었다 - 한국경제",
-            "points": [
-                "한화그룹이 미국의 대표적인 우주 기업 스페이스X의 공급망에 진입한 것은 국내 기업의 글로벌 우주 산업 경쟁력 강화 및 대규모 계약 성사를 의미합니다.",
-                "이는 한화의 기술력이 국제적으로 인정받았음을 보여주며, 향후 국내 우주항공 산업의 성장 동력으로 작용할 수 있습니다."
-            ],
-            "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFA5anlKaEcta2k1WHRCd2RDZnRnTjhkay0wSmJNUzluOGhhd3RiWlBBOGZfR2RmdHV4MjVINHdWTWtPOTI1eDJZbWtVU2Jsam5NTFgtLWs3ZThZQdIBVEFVX3lxTE5SVzFycm00UzNqTWx4X3FXR0tWNEN0bDdVeXZhRDNTNWtwUmx0aHZvSW1xM3JRTkpORU9MSVBFeTBIcm43cTBaOWZqSmtRRVRUVFFCTA?oc=5",
-            "category": "IT_Biz",
-            "published": "2026-05-31T21:45:17.750191"
-        },
-        {
-            "title": "[단독]네이버, 국방AX 전담조직 신설...한국판 팰런티어 노린다 - 서울경제",
-            "points": [
-                "네이버가 국방 AI(AX) 전담 조직을 신설하고 '한국판 팰런티어'를 목표로 한다는 소식은 국내 IT 기업이 국방 기술 시장에 본격적으로 진출하는 중요한 전략적 변화입니다.",
-                "이는 AI 기술의 적용 범위 확대를 의미하며, 국방 산업의 디지털 전환과 함께 새로운 시장 창출 및 대규모 투자를 유발할 수 있습니다."
-            ],
-            "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE5fRDdlaWF5dFZaRmxOai1kRDN2akF5OU5TT2Vobkx2a3J3eTFIVy1mMWpQa2lUeXc1RUJzdmd2ZEZsMTRQUnFPR2ZPdFAtVy1qaXfSAVNBVV95cUxNbGxTVExCd2NISHA5Uzc1R2hkMzZMdVktemtZNmVuVDRYTlFpMUhmUmpwV20tbDZxdHFMbzB0eDNrVTBUOEhHT1Z1TmFrT3huOEJLRQ?oc=5",
-            "category": "IT_Biz",
-            "published": "2026-05-31T21:45:17.750192"
-        }
-    ],
-    "Economy": [
-        {
-            "title": "美재무 \"워시 연준 의장, 100% 포워드 가이던스 없앨 것\" - 연합인포맥스",
-            "points": [
-                "미국 연방준비제도(Fed)의 통화 정책 방향 변화 가능성을 시사하는 발언으로, 글로벌 금융 시장의 불확실성을 높일 수 있는 중대 소식.",
-                "포워드 가이던스 정책 변화는 금리, 환율, 주식 시장 등 전 세계 금융 자산 가격에 광범위한 영향을 미칠 수 있는 핵심 경제 지표."
-            ],
-            "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE14ODN0OXB3NkZQUUJVVmhXeXNhUWJmSjVMbmlxTUFqUm1oTGcyX2t3RkxHa1ZiQWgwU1hjY0l4amdyNHd2N1JQMnpiMTlBTWZQc25XNzl1NW1TM0d0NEZ4OGI0RWV3SzJVWFZSQ1VwZGE?oc=5",
-            "category": "Economy",
-            "published": "2026-05-31T21:45:54.717183"
-        },
-        {
-            "title": "엔비디아, PC 시장 본격 진출… MS와 손잡고 ‘AI PC’ 공개 임박 - 아시아투데이",
-            "points": [
-                "엔비디아와 마이크로소프트의 협력으로 'AI PC' 시장이 본격화될 조짐을 보이며, 개인용 컴퓨터 산업의 패러다임 변화를 예고.",
-                "AI 기술이 PC 하드웨어 및 소프트웨어에 깊이 통합되면서 사용자 경험과 컴퓨팅 환경 전반에 혁신적인 변화를 가져올 핵심 기술 트렌드."
-            ],
-            "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTE1nQ0NwTXJCRXNiakVDb3ExMnIxenRLUXUzc2VFUW9CR2ZuOTVtR3ZWaFNhWjRIM0YyamNtckIxZW5qQThfdHdESURSSlJhbkZicER3aGc4aUN4UVBHemc1Z1JBOUF5NWZOamQ0bUlB?oc=5",
-            "category": "Economy",
-            "published": "2026-05-31T21:45:54.717190"
-        },
-        {
-            "title": "삼성전자, 글로벌 차량용 메모리 시장 첫 1위…마이크론 제쳐 - MTN 머니투데이방송",
-            "points": [
-                "삼성전자가 차량용 메모리 시장에서 글로벌 1위를 달성하며, 미래 모빌리티 산업의 핵심 부품 공급자로서의 입지를 강화.",
-                "고성장 산업인 차량용 반도체 시장의 판도를 바꾸는 중요한 변화이자, 삼성전자의 기술력과 시장 지배력을 입증하는 성과."
-            ],
-            "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTFBFbExTUHdKbmRXbG5lUGZtX1loZGQwaGRlTlh4NWxBakg5Nm9xbUktYUxuMTlHdER5UzlPMllSMFRVQXRPVGtXWDhHZ0FUdDl6OFRSd1BKdU9fSnIyd2FPY0JCb1o?oc=5",
-            "category": "Economy",
-            "published": "2026-05-31T21:45:54.717191"
-        },
-        {
-            "title": "“AI 프런티어 모델 도전… 美-中과 같은 수준으로” - 동아일보",
-            "points": [
-                "한국이 AI 프런티어 모델 개발에 도전하며 미국, 중국과 어깨를 나란히 하려는 국가적 전략과 기술 투자 의지를 표명.",
-                "국가 경쟁력 강화와 미래 산업 주도권 확보를 위한 핵심 동력으로, AI 기술 발전과 관련 산업 생태계 전반에 막대한 영향을 미칠 것."
-            ],
-            "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTE8zXzBKZi0xb25ZcnJHRGhIUUpncThfOXJTSy1ubEw0V2ZkcVFtRE1IdmphNHMydFhqOWxfMmhlUllWV1ZCb1o2Wmg2ZWs3MWJ6cWtDZXVTNFRwZ2dNcEpjS3Vld18xdFk5TzMtRjUycGZ3T1UtRXfSAWZBVV95cUxQZ212XzZJc1lyRV9Xd1FPYmpDQXNhUHB3UEUwTlJXTnRiTGprVkNVOThKWi1EWTdWMjJTOXZEVE01UU9meV9GSGFVMWZySXBQejlsWEU3WHlHZ01TU1hGcXFYS1pfUVE?oc=5",
-            "category": "Economy",
-            "published": "2026-05-31T21:45:54.717192"
-        },
-        {
-            "title": "‘해외 주식’ 비중 늘려 수익률 높인 국민연금... 10년 운용성과 뜯어보니 - 조선비즈 - Chosunbiz",
-            "points": [
-                "국민연금의 해외 주식 투자 확대는 국내외 자본 시장에 미치는 영향이 크며, 장기적인 수익률 제고 전략을 보여줌.",
-                "국민연금의 투자 포트폴리오 변화는 다른 기관 투자자 및 개인 투자자들의 투자 방향에도 영향을 줄 수 있는 중요한 경제 지표."
-            ],
-            "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxOV1ZmUC11UDhwb0NVcWlLcW5lMU02UkZUaHQzaE43djlnOVotSzNkdndBZl9DVTgyaHRGWjgyQjVfb2RHQkZZNzVTbWJYZGxGU2lYcHZVaW4tVjA1ZGxnaTd0bWR5TzZZYXJjbDBsdmZEcU9hVEF5UDFlWi1pSG5sOHVBT090Vl9J0gGcAUFVX3lxTE56UUR6QWx5RTkwWTFLM2dGZW5nU2JvbnVpc3Zld0txejdOLWNIVUpFNk5Mb1pUb3pPbC0wYm1SSXBfRnI1cTlBY2JQelNELVFZT1FzMnlTQ1k0STBVUl9uRHJkYUVDUlRwUUt1djNBTl94Wkg5QXNfeTdiZzQycndfMlk4WThYd2xhNTJGWXVBSmc1ZnpVU1BkRy0zbA?oc=5",
-            "category": "Economy",
-            "published": "2026-05-31T21:45:54.717193"
-        }
-    ],
-    "World": [
-        {
-            "title": "“트럼프, 이란 종전MOU 막판 승인 거부… 더 센 수정안 다시보내” - 동아일보",
-            "points": [
-                "미국과 이란 간의 긴장 고조를 보여주는 핵심적인 외교 정책 결정으로, 중동 지역의 안정과 국제 유가에 큰 영향을 미칠 수 있습니다.",
-                "트럼프 행정부의 대이란 강경책이 지속됨을 시사하며, 이는 향후 핵 협상 및 군사적 대치 상황에 중대한 변화를 가져올 수 있습니다."
-            ],
-            "link": "https://news.google.com/rss/articles/CBMic0FVX3lxTE4wY2l4MU45ck5fb2Jwd3l2bmlXbklPblktRjRrM0dZVHFFaFRpdzF6UElHSWctOU5jTjVWVGVQdHZsZ0hnTFZJLWNEcEJianAwVjI1bWxWdVdJTGhoclI3YnBtRkRpRWpEeFpGcTczSy1CenPSAWZBVV95cUxNZWszcGh1MlplWWV0UDktTWZUMFFUUUg5bC1GTEFGUFhXc0dZa3JzQmxQRGxqNm5QWDZhRXo4YjdGdy04bVBJYWJEdHBCVWF4NEVLX0txb3dKSEZZWDlQaHhuVmhoVlE?oc=5",
-            "category": "World",
-            "published": "2026-05-31T21:46:22.948123"
-        },
-        {
-            "title": "이스라엘 공세 세지자…헤즈볼라, 민간 거주지 60곳에 미사일 쏴 - 한겨레",
-            "points": [
-                "이스라엘과 헤즈볼라 간의 무력 충돌이 민간인 피해로 이어지며 중동 지역의 인도주의적 위기와 안보 불안을 심화시키는 주요 소식입니다.",
-                "지역 분쟁의 확산 가능성을 높이고, 레바논과 주변국의 정치적, 경제적 안정에 심각한 영향을 미칠 수 있는 군사적 escalation입니다."
-            ],
-            "link": "https://news.google.com/rss/articles/CBMiggFBVV95cUxPbVdURnIzdmREbXJpcWwtdFc4QjVkUWlCM05tRzdNS01PYThnWUt0S0dMczl0Qk5admpxeXBYcFhZVUMwTTZqUno5UnhJSDZKaUtma0x2OWNPNGVXYnBRcmVWX05GUFd6Y1Z5cGNGYS1kQVpoblhTN0thMFZVcTktQlFB?oc=5",
-            "category": "World",
-            "published": "2026-05-31T21:46:22.948129"
-        },
-        {
-            "title": "‘UN 파산한다’ 경고…트럼프 6조원 미납, 중국도 납부 미뤄 - 한겨레",
-            "points": [
-                "유엔의 재정 위기가 심화되고 있음을 알리는 소식으로, 이는 유엔의 평화 유지 활동, 인도적 지원, 개발 프로그램 등 전반적인 기능 마비로 이어질 수 있습니다.",
-                "주요 회원국인 미국과 중국의 분담금 미납은 국제 협력 체제에 대한 불신을 증폭시키고, 다자주의의 위기를 상징하는 중요한 경제적, 정치적 변화입니다."
-            ],
-            "link": "https://news.google.com/rss/articles/CBMiggFBVV95cUxORFpvSDVmLTV5Q2NEcGx6R3JzSnFoNHVIZ3JyNGFnWWlhQmM4Ym1sMHVvOTFrcEVPd1BKLVc2RnprQlpDaUdaYlRuV1JxRm9uLXZ5ajFlbVpON2FxVDdzcjliTDhtbU0wWEtSOWNnUTkzbnI4UUpENWRxQWVCajZpUnpR?oc=5",
-            "category": "World",
-            "published": "2026-05-31T21:46:22.948130"
-        },
-        {
-            "title": "\"너무 크고 강한 열돔 출현\" 폭염 역사 다시 쓴 유럽, 한국은? [기후인사이트 31 | 인싸M] - MBC 뉴스",
-            "points": [
-                "유럽을 강타한 기록적인 폭염은 전 세계적인 기후 변화의 심각성을 보여주는 대표적인 사례로, 인류의 생존과 경제 활동에 직접적인 위협이 되고 있습니다.",
-                "기후 변화로 인한 극단적인 기상 현상이 일상화되고 있음을 시사하며, 이는 농업, 에너지, 보건 등 광범위한 산업 분야에 장기적인 구조적 변화와 막대한 경제적 손실을 초래할 것입니다."
-            ],
-            "link": "https://news.google.com/rss/articles/CBMic0FVX3lxTE9qZm40RVZoV21wNldndnRRWkMyRXRHZ1o1cnBNMkVQY2lpX2FPWEFFZkRmLW1GbVg1VlV5ZjI3UkRnUTlfVzdQSmRmVWxKemFIUW9QbHZEUHlnODFGMnN1UXhBVC1iVDhZQUJxNGV2aF8zMzQ?oc=5",
-            "category": "World",
-            "published": "2026-05-31T21:46:22.948131"
-        },
-        {
-            "title": "북한 최선희 \"북·러, 모든 전략적 문제에 공통된 입장‥동맹 수준\" - MBC 뉴스",
-            "points": [
-                "북한과 러시아 간의 관계가 '동맹 수준'으로 격상될 가능성을 시사하는 발언으로, 이는 동북아시아 및 국제 안보 질서에 중대한 변화를 가져올 수 있습니다.",
-                "미국 중심의 국제 질서에 대한 도전이자 새로운 냉전 구도 형성 가능성을 보여주며, 핵 문제, 제재, 군사 협력 등 다양한 분야에서 국제 정세에 큰 파급력을 미칠 것입니다."
-            ],
-            "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTE9tR0pvQ1JHQ2t2WWFocXF0VngtWTlQYzBTRmNjWEc5NDlnUXdzYjhNb3BXVndId1lTckJhYjhhcWp2TlNzNVhGY0xxamxjT0t4TmZObkxlMDFBd2JnRkNKbktDREZBc19uTzJ6cUtVeWdGTVJGR2xzUtIBeEFVX3lxTE84SmduNzYyMHNJbGl1blBxTGtyblRDUlZoa2otMHhoWWJZZmtzdEo0QUdXSkJqam83S2FSci0tRndUejJYVlJRTi1scGMxcmZNbHFtSENEOEg3dm1rRi02bDhmLVQyR1d5cHhUeU9TRW5hNXQ4eE1BWQ?oc=5",
-            "category": "World",
-            "published": "2026-05-31T21:46:22.948132"
+            "published": "2026-06-01T22:54:33.147873"
         }
     ]
 }
