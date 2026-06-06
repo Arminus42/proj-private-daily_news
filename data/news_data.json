@@ -1,210 +1,54 @@
 {
-    "AI_Tech": [
-        {
-            "title": "엔비디아, 한국 AI기술센터 설립 착수…젠슨 황 \"서울 유력\"(종합) - 연합뉴스",
-            "points": [
-                "NVIDIA는 AI 반도체 시장의 80% 이상을 점유하는 글로벌 AI 리더 기업으로, 젠슨 황 CEO의 직접적인 발표는 한국이 AI 기술 개발의 핵심 거점이 될 것임을 시사합니다. 이는 글로벌 AI 기술 지형에 한국의 위상을 높이는 중요한 소식입니다.",
-                "특히 '피지컬 AI' 연구에 중점을 두어 로봇, 자율주행 등 현실 세계와 상호작용하는 AI 기술 발전에 기여할 것으로 예상됩니다. 이는 단순 소프트웨어 AI를 넘어 물리적 세계로 AI의 영향력을 확장하는 중요한 기술적 전환점입니다."
-            ],
-            "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE1XU2lTd19PbUx0RG5maTZxVm9YRUpjYWJ6eUZlWHQ1Tk5kc3ZUUS10NVRfbXJUZzV1OTdQMWNpRGVLMUZTaGI1TFhJZng5bkR0MTUtYTNTYWRTd3dERmRTY9IBYEFVX3lxTE1XU2lTd19PbUx0RG5maTZxVm9YRUpjYWJ6eUZlWHQ1Tk5kc3ZUUS10NVRfbXJUZzV1OTdQMWNpRGVLMUZTaGI1TFhJZng5bkR0MTUtYTNTYWRTd3dERmRTYw?oc=5",
-            "category": "AI_Tech",
-            "published": "2026-06-05T22:07:43.353997"
-        },
-        {
-            "title": "과기정통부, AI+과학기술 융합 프로젝트 본격 추진... 신약·기후·배터리 개발 속도 높인다 - 테크데일리",
-            "points": [
-                "정부 차원에서 AI를 신약 개발, 기후 변화 대응, 배터리 기술 등 국가 핵심 과학기술 분야에 적극적으로 융합하려는 전략으로, AI의 실제 산업 적용 및 문제 해결 능력을 극대화하려는 글로벌 트렌드를 반영합니다.",
-                "이는 AI가 단순한 소프트웨어 기술을 넘어 인류의 난제를 해결하는 강력한 도구로 활용될 수 있음을 보여주며, 국가 경쟁력 강화와 실질적인 가치 창출에 기여할 것으로 기대됩니다."
-            ],
-            "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTFBJUDM5M2dBZUNReng5cExzWUNTS0xTLXVyZjlCbzZ1V0ZFeWxMVlpRWHlWX0dDRlc1c1BFVllGSmlCVVJoeUNaU2d6MWRONFlUMzYtcHQweEZ1YW1rcVR2dG5xTWdNRzJJdGlJN1lB0gFyQVVfeXFMUFBuV0pVcUVpWXpMaTJhZjltTkF6YnhFRThhbUlVUUhQWklpNXdXREs2bzVMekhTaWZ3ek50eklJeWg5V0J4SXhPRG5EQnZ4MS1yLDRDR0lpQXBFU1VCR1FyNGNERmNfblVuZWZpdWdfMlhR?oc=5",
-            "category": "AI_Tech",
-            "published": "2026-06-05T22:07:43.354004"
-        },
-        {
-            "title": "마크 카니 캐나다 총리, 국가 인공지능 대전환 선언… ‘모두를 위한 AI(AI for All)’ 전략 전격 발표 - 인공지능신문",
-            "points": [
-                "캐나다 총리가 직접 발표한 국가 AI 전략은 AI 기술이 특정 산업을 넘어 사회 전반의 혁신을 이끌 핵심 동력임을 전 세계에 알리는 중요한 메시지입니다. 이는 AI 기술의 국가적 중요성을 강조하는 글로벌 흐름을 보여줍니다.",
-                "'모두를 위한 AI'라는 비전은 AI 기술의 접근성을 높이고, 윤리적이고 포용적인 AI 개발 및 활용을 목표로 한다는 점에서 기술 발전뿐 아니라 사회적 책임까지 고려하는 AI 시대의 방향성을 제시합니다."
-            ],
-            "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE5lb19udExLU0VTdFM3Z1laQ21aeXhlN21zQ0VFb2g2TWFOWWY1S2J0djBYMmlhX3lDRWl2UkwzRzVCcXhiYzd3T0lfOHd6QUlaN3ZQeEhGa3pFSkE4SjNlbFFPUFFuTTQ?oc=5",
-            "category": "AI_Tech",
-            "published": "2026-06-05T22:07:43.354005"
-        },
-        {
-            "title": "HD현대삼호, AI 기반 선박 설계 혁신 본격화…공동연구 성과 공개 - 해사신문",
-            "points": [
-                "HD현대삼호와 한국선급(KR)이 AI 기술을 선박 설계 및 해석에 접목하여 혁신을 시도하는 것은 전통적인 중공업 분야에서 AI가 어떻게 생산성과 효율성을 극대화할 수 있는지 보여주는 중요한 사례입니다.",
-                "이는 AI가 특정 IT 산업을 넘어 제조업, 해운업 등 다양한 산업 분야로 확산되며 실제적인 가치를 창출하는 'AI의 산업화' 트렌드를 명확히 보여주는 기술적 진보입니다."
-            ],
-            "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTFBMZS11UXB3VENBRHg1cElWQnhVRmhHdjBpVkRERXpUU2dUZmxjQTMyb09La1Y4bE15eWFuaHhreGZsb2RadVk2MWxydjVMbnlQaGlEam5PWVdidHpJNHlvMEVuZDF2el9mY25N?oc=5",
-            "category": "AI_Tech",
-            "published": "2026-06-05T22:07:43.354006"
-        },
-        {
-            "title": "젠슨 황 \"서울에 AI 기술센터 건립\"…엔비디아·K대기업, 피지컬 AI 동맹 강화 - 뉴시스",
-            "points": [
-                "엔비디아가 한국에 AI 기술센터를 설립하며 국내 주요 대기업들과 '피지컬 AI' 분야에서 협력을 강화하는 것은 글로벌 AI 리더와 국내 산업 강자들의 시너지를 통해 새로운 AI 생태계를 구축하려는 전략적 움직임입니다.",
-                "'피지컬 AI'는 로봇, 자율주행 등 물리적 세계에서 작동하는 AI를 의미하며, 엔비디아의 기술력과 한국 대기업의 제조 및 응용 역량이 결합될 경우, AI가 실제 산업 현장과 일상생활에 미치는 파급력이 크게 증대될 것으로 기대됩니다."
-            ],
-            "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTFBqMXdXODl4Z2VZdHc2X3IwMzlRUXdHdlZmU0dBcmhNdVlzd2JibVZ5Q2phM3JRVl9xd0JaZ1pfOXVfMWxybXdHQlRHZ05YQ1RDU3lSaXFDMEppYWY2NkdXUtIBeEFVX3lxTE9IRGVISDE4Z09JVW1lZ1Btb2VfbHJ0MmdIbWFZcFpGTkd1d25sb3VYRjZEbmtGQzBmMnR3dmRheGxqaDh2RHBnS3p3cnNneGhFaG96TE5MRWVCWmhBWWRZTDVWM0NBNDJkMUZTQ2FzS2cyRWdSbkFlXw?oc=5",
-            "category": "AI_Tech",
-            "published": "2026-06-05T22:07:43.354007"
-        }
-    ],
-    "IT_Biz": [
-        {
-            "title": "젠슨 황 \"한국에 '깜짝 선물' 있다\"...페이커 만남→'삼소' 회동 광폭 행보 - 머니투데이",
-            "points": [
-                "엔비디아 CEO 젠슨 황의 방한은 한국 반도체 및 AI 산업에 대한 엔비디아의 전략적 중요성을 시사하며, 대규모 투자나 협력 가능성을 암시한다.",
-                "삼성전자, SK하이닉스 등 국내 주요 기업과의 회동은 AI 반도체 공급망 및 기술 협력에 중대한 변화를 가져올 수 있으며, 한국의 AI 산업 경쟁력 강화에 기여할 잠재력이 크다."
-            ],
-            "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE1FelNwVE56eDdRR21QYi01QzZwZkp1Yl9pY2VMN01HVzJGRTEzQ1MyYk1WcEVIS0Z2eGhEVGNoUXdTRDlmOE1Ga3g0STRFMzZZajNIY194ZzBkZmVuTXR0VWVUd1JBblXSAWxBVV95cUxNek9BLXN4cHRnZnFMcFMzVm5YV1UyQ1lETEFSUXE2YktYTW8wemRFTXl3ekk2aFgwbEhQZ0p1d185UUNIOEdEZzhaWExQaFk0bUtzOHhHQ3U3cmF3RE83ZEhaMGh3ODN2bUtkV0Y?oc=5",
-            "category": "IT_Biz",
-            "published": "2026-06-05T22:08:12.281168"
-        },
-        {
-            "title": "\"티빙 '털린' 분들, 앞으로 몇 달간 피싱 시달릴 것\" 비밀번호 바꿔도 소용없다고? - 네이트",
-            "points": [
-                "국내 주요 OTT 서비스인 티빙의 대규모 개인정보 유출 사건은 수많은 사용자에게 직접적인 피해를 줄 뿐만 아니라, 디지털 서비스 전반의 보안 취약성과 신뢰도 문제를 부각시킨다.",
-                "이번 유출은 기업들의 사이버 보안 투자 확대와 정부의 개인정보 보호 정책 강화로 이어질 수 있으며, 사용자들의 보안 인식 및 서비스 선택 기준에도 영향을 미쳐 디지털 서비스 산업의 판도에 간접적인 변화를 가져올 수 있다."
-            ],
-            "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE5fRHpFTlFwYmlxSUJKWUhQUVpmZDlFai1JMWZxQld4QWt1OUdDa01vb3dkdXdndU1yeUpSckNEaVZ2TzVvRmNNRWxmWFRNTk9ta01Z?oc=5",
-            "category": "IT_Biz",
-            "published": "2026-06-05T22:08:12.281174"
-        },
-        {
-            "title": "삼성SDI, 폭스바겐도 대박…대규모 공급 계약 - 디일렉",
-            "points": [
-                "삼성SDI가 글로벌 완성차 기업 폭스바겐과 대규모 전기차 배터리 공급 계약을 체결한 것은 전기차 배터리 시장에서 삼성SDI의 입지를 강화하고, 폭스바겐의 전기차 전략에 핵심적인 영향을 미칠 것이다.",
-                "이는 글로벌 전기차 및 배터리 산업의 공급망과 경쟁 구도에 중요한 변화를 가져올 수 있는 대규모 투자 및 협력 사례이며, 전기차 시장의 성장을 가속화하는 요인이 된다."
-            ],
-            "link": "https://news.google.com/rss/articles/CBMiZkFVX3lxTFBWb1FITXFheFlQZzlCN3dZRmJjbFFPS1VrazVnZ29NNXpzcFdVMjNwN2MzcnRaSVdlZE1RN3RwcEhXSGlSNUFNX2ZVTGpXdFRDMWFhQy1ETkR0SjRjeHUyWFlpUHFHUQ?oc=5",
-            "category": "IT_Biz",
-            "published": "2026-06-05T22:08:12.281176"
-        },
-        {
-            "title": "머스크, 스페이스X IPO로 ‘첫 1조달러 부자’ 눈앞 - 매일경제",
-            "points": [
-                "일론 머스크의 스페이스X 기업공개(IPO)는 우주 산업에 대한 대규모 자본 유입을 촉진하고, 상업 우주 산업의 성장을 가속화할 수 있는 중요한 금융 이벤트이다.",
-                "스페이스X의 IPO는 우주 기술 개발 및 활용의 새로운 시대를 열 잠재력을 가지며, 이는 위성 인터넷, 우주 관광, 행성 탐사 등 다양한 분야에서 혁신적인 서비스 출시와 대규모 투자를 유발할 수 있다."
-            ],
-            "link": "https://news.google.com/rss/articles/CBMiTkFVX3lxTFBsWkZkRzlFSFVYOW9CZEgwdmJrMGFZRlZqNkc1X1RvMXFuX3dmb2ZVVy01eUdHd29pMDBTeUs4bnZZYmpFWjUxZzNNdHh5UQ?oc=5",
-            "category": "IT_Biz",
-            "published": "2026-06-05T22:08:12.281177"
-        },
-        {
-            "title": "[단독] LG, 엔비디아 블랙월 GPU 1만장 도입 - 매일경제",
-            "points": [
-                "LG가 엔비디아의 최신 블랙웰 GPU 1만 장을 도입하는 것은 국내 기업의 AI 인프라 투자 중 최대 규모 중 하나로, AI 기술 개발 및 활용 역량을 대폭 강화할 것이다.",
-                "이는 AI 반도체 시장의 수요를 견인하고, 국내 AI 산업 생태계 전반에 걸쳐 혁신적인 변화를 가져올 수 있는 핵심적인 투자이며, LG의 미래 사업 전략에 AI가 중심이 됨을 보여준다."
-            ],
-            "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE1jaDBlNU1ncDdxLWowVGt3TVFPdUFCSjNPSXRHREhCQU9EcGxIbFh2S0dTTzMxTHZVeHkxMUdkNkpOTVZsYUJybS15NmlzNS1RX2RLdHdB?oc=5",
-            "category": "IT_Biz",
-            "published": "2026-06-05T22:08:12.281178"
-        }
-    ],
     "Economy": [
         {
-            "title": "[뉴욕증시-1보] 금리인상 공포에 반도체주 투심 부러졌다…나스닥 4.2%↓",
+            "title": "지방선거 흔든 부동산…집값 잡을 정책은? [부동산, 묻고 답하다]③ - KBS 뉴스",
             "points": [
-                "미국 연방준비제도(Fed)의 금리 인상 우려가 고조되며 뉴욕 증시, 특히 기술주 중심의 나스닥 지수가 4.2% 급락한 소식입니다.",
-                "이는 글로벌 투자 심리 위축과 함께 반도체 산업 전반에 대한 투자 심리 악화를 보여주며, 향후 기술주 시장의 방향성에 큰 영향을 미칠 수 있는 주요 경제 지표 변화입니다."
+                "지방선거 결과가 부동산 시장에 미치는 영향과 향후 정부의 집값 안정화 정책 방향을 심층적으로 다루는 중요한 국내 경제 뉴스입니다.",
+                "부동산 정책 변화는 가계 자산, 소비 심리, 건설 경기 등 광범위한 경제 분야에 직접적인 영향을 미치며, 국민 대다수의 삶과 밀접하게 연결되어 있습니다."
             ],
-            "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE5BX294LWwwQXktZ3hkQlA5Nk4xZVI2d0E4LTVyOG9xM29tLUJEdEp3NjM3eTlaQVNtVUlBb1Nva1hER0VZTnp6VDI2SloyTGVsWHB1OTZRVnpLaDVCMzctd2MzRC1ISlB4cktBNF9FdjbSAXRBVV95cUxNZGU5NUprdVhfeElCWXVPWUlPUTVuQjhjejVNYUtrVHJTYWpDNE9pMGllUTNwVVNhMHI5NE5rN01EQVhLc3FNVXREdlpmN1B3QTg5Y0pETGx6Uk1Fd3g2MTFmb2N4TDVlUDl0aXRaQTBaaWRzNA?oc=5",
+            "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE9kdjBVbENCY3BpLXoxYkZqcHZkSEl2QmVOTE0zcVdGUmZ0empnVlJkcXJmWkVFRmRPZnc2OF9QMGFsbnFHZzNDQmU3Y1RCS25UZU1fVnNCNDdCWm8?oc=5",
             "category": "Economy",
-            "published": "2026-06-05T22:08:42.774635"
+            "published": "2026-06-06T21:53:00.795640"
         },
         {
-            "title": "코스피 6% 급락 ‘매도 사이드카’…미국 반도체주 쇼크 영향",
+            "title": "환율, 야간거래서 1560원 돌파.... 美 ‘깜짝 고용’에 뉴욕증시 급락 - 조선일보",
             "points": [
-                "미국 반도체주 하락 충격의 여파로 코스피 지수가 6% 급락하며 '매도 사이드카'가 발동된 국내 증시의 주요 소식입니다.",
-                "이는 글로벌 경제의 상호 연결성을 명확히 보여주며, 특히 한국 경제의 핵심인 반도체 산업의 대외 의존도와 글로벌 시장 변동성에 대한 취약성을 드러내는 중요한 경제적 변화입니다."
+                "원·달러 환율이 금융위기 이후 최고치인 1560원을 돌파하며 국내외 경제에 심각한 영향을 미칠 수 있는 거시경제 지표 변화를 알리는 뉴스입니다.",
+                "미국의 고용 지표와 뉴욕 증시 급락이라는 글로벌 경제 상황이 복합적으로 작용하여 환율 변동성을 키우고 있으며, 이는 수출입 기업의 수익성, 물가 상승, 외국인 투자 유출입 등 한국 경제 전반에 큰 파급력을 가집니다."
             ],
-            "link": "https://news.google.com/rss/articles/CBMickFVX3lxTFBfMXJsa3NjWUxNVnA5eDhkSW9OYUEyNElBTlhBZGFVOVFPLTh1X2J4OTNkMXdsSkxMUjdFbXFaemJSdVRJTmdxV1hjYTlhVnV6WDYxb2FoSFJ6WEFYUHJGNTZZSWZRa0JFdDBCU09VSk56dw?oc=5",
+            "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxONGdlazJmRkNjd0l3TjZ4LTdYSlU2bTBzTFhpbHFoNTdkaXEzVXM2S2JRR1dicXlJZkQ4bURVeDZBd2hkRFY1NkpENmwtN1BQbWZqbUtJN2ZkejZiV0pXLWJjRUtYM1lCOUNhX0VwcThTdWh2SFdoemhwRlNOV08zUkZ4MUtSWVItT0w0?oc=5",
             "category": "Economy",
-            "published": "2026-06-05T22:08:42.774642"
+            "published": "2026-06-06T21:53:00.795648"
         },
         {
-            "title": "외환당국 ‘말발’도 안 먹히네··· 원·달러 환율 장중 1550원 육박, 구윤철 “각별한 경각심”",
+            "title": "“나라곳간 걱정 잠시 접어둬”…반도체 호황에 초과세수 최대 70조 - 매일경제",
             "points": [
-                "원·달러 환율이 장중 1550원에 육박하며 외환당국이 '각별한 경각심'을 표명한 소식입니다.",
-                "이는 국내외 경제 불확실성 증대로 인한 환율 변동성 심화를 나타내며, 수출입 기업의 채산성 악화 및 물가 상승 압력 등 한국 경제 전반에 광범위한 영향을 미칠 수 있는 중대한 경제적 변화입니다."
+                "반도체 산업의 기록적인 호황으로 인해 국가 세수가 최대 70조 원에 달하는 초과세수를 기록할 것으로 예상되는 중대한 국가 경제 소식입니다.",
+                "이는 정부의 재정 운용에 여유를 제공하고, 국가 부채 관리 및 경제 활성화 정책 추진에 긍정적인 영향을 미칠 수 있는 핵심적인 경제 지표 변화입니다."
             ],
-            "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE05bU1lY2hOdFl5eGdiTVFWYUo5LXBrV1FQRGxDTHk0WFg4Vy1xVnh5M0VPY2l6c1JFeFVLbDB3MkRHMll3aFpKUi0zQzhNS0ZBNkF1dnpYRlBrQdIBX0FVX3lxTFAyOUxmYjNYOWxRRy1lWFlsQm9zWVEwMkNPdHJVZTRZNU5mVkZQQlh3T3M0LVJrUzNYT1hfeWQyRjREbXZnZ0c3MGFaamNFeEk1bUZQRHZqVnRCVGlfTnBN?oc=5",
+            "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE9ud1ZvcEZ3ZnQ4eV9hQmVTUF9RVndUQ2FGS1ZwUFBKU2dhNHhpZThWbDhTMms2Vk12TDhEMFdHd212SjJZNmk3R2VKTmQ5M1RaUEtGTQ?oc=5",
             "category": "Economy",
-            "published": "2026-06-05T22:08:42.774643"
+            "published": "2026-06-06T21:53:00.795649"
         },
         {
-            "title": "[속보] 4월 경상수지 282.9억 달러 ‘흑자’…반도체 호조에 36개월 연속 흑자",
+            "title": "트럼프, 고용 대폭 호조에도 \"나는 더 낮은 금리를 보고 싶어\"(상보) - 연합인포맥스",
             "points": [
-                "4월 경상수지가 282.9억 달러 흑자를 기록하며 36개월 연속 흑자 행진을 이어간 소식입니다.",
-                "특히 반도체 산업의 호조가 흑자 기조를 견인하고 있어, 한국 경제의 견조한 수출 경쟁력과 핵심 산업의 긍정적인 흐름을 보여주는 중요한 경제 지표입니다."
+                "미국 고용 지표 호조에도 불구하고 도널드 트럼프 전 대통령이 금리 인하를 주장하는 발언은 향후 미국 연방준비제도(Fed)의 통화 정책 방향과 글로벌 금융 시장에 큰 영향을 미칠 수 있는 주요 정치경제 뉴스입니다.",
+                "세계 경제의 핵심인 미국의 금리 정책은 전 세계 투자 심리, 환율, 자본 흐름에 직접적인 영향을 주며, 트럼프의 발언은 차기 대선과 맞물려 정책 불확실성을 높일 수 있습니다."
             ],
-            "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE8wNC1kM0diRjI2MUVWWWN6ZU1OU1RzRll2MkdLdWRQQWN2REpyNEd6cFFMOXNPTWJtUjBwMF9BZkNXSG1teTZRd1lnY1lONDR2eGFicg?oc=5",
+            "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE9ZV1JVRHFXMXpoT2hHVDYxdHp1cFNnTktPTjJiWm1RQTN0Um5UYUhyUkRBUFpGWXJyRW43TmM2QXBOU3ctalVvdzRPZU1UOVBLeW94d1YtNzFXZ1gyRzlmSGdjZzd1TFBac1R1V1BIeS0?oc=5",
             "category": "Economy",
-            "published": "2026-06-05T22:08:42.774645"
+            "published": "2026-06-06T21:53:00.795650"
         },
         {
-            "title": "TSMC 회장 “젠슨 황 방한 이유는 메모리 때문···비메모리·파운드리는 대만이 우위”",
+            "title": "\"비트코인, 6개월내 70% 폭락 가능…장기적으론 50만달러 전망\" - 연합인포맥스",
             "points": [
-                "TSMC 회장이 젠슨 황 엔비디아 CEO의 방한 이유를 '메모리'로 지목하며, 비메모리 및 파운드리 분야에서는 대만이 우위에 있다고 언급한 소식입니다.",
-                "이는 글로벌 반도체 산업의 핵심 경쟁 구도와 한국 및 대만의 전략적 위치를 명확히 보여주는 발언으로, 향후 반도체 시장의 기술 개발 및 투자 방향에 중대한 영향을 미칠 수 있는 산업 판도 변화의 시사점입니다."
+                "주요 투자 전문가의 비트코인 단기 폭락 가능성 및 장기 50만 달러 전망은 전 세계 암호화폐 시장과 투자 심리에 막대한 영향을 미칠 수 있는 분석입니다.",
+                "비트코인은 글로벌 금융 시장의 주요 자산으로 부상했으며, 이러한 급격한 가격 변동 예측은 개인 투자자뿐만 아니라 기관 투자자의 전략에도 큰 변화를 가져올 수 있습니다."
             ],
-            "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFAzWmtWZkp2MGNKVnFTdEVyZFJFbVJSakVObER1MWJzbzBadFNzM3JaRDQ2WFpMWlc5MnVNa0JFZDBUcUJGQ2FUZFFfb3RxeVEwSFliNW9yTWRpUdIBX0FVX3lxTFBkekdDai1VS0dHcm1mY2UzUnJ0VE9lUDB6NnFDeTVJNDFEVWF2YjhfbGNrOUdTOGdQZzNSMjI2WmJWeUpvVVJ3NHBDZkpPMjBXNENiVmM2ejJPZmMyYmRF?oc=5",
+            "link": "https://news.google.com/rss/articles/CBMicEFVX_lxTE14Z1M3U19uWTZsSkNJNUlLdDlmLVVvNEVoZXRwV081ZnhmYnN5LU1CalM5M2N3eVh6REZaUFhFWnJlMm1QQ1ZEWDlhNmRFQXNQZERFeEtMNG5OYjROR1Z0SW16Y0hIbVVDcUV0cmN0Q3E?oc=5",
             "category": "Economy",
-            "published": "2026-06-05T22:08:42.774646"
-        }
-    ],
-    "World": [
-        {
-            "title": "탈출구 못 찾는 우크라전쟁…푸틴, 젤렌스키의 종전 회담 제안 일축 - 한겨레",
-            "points": [
-                "이 뉴스는 전 세계 경제와 안보에 지대한 영향을 미치는 우크라이나 전쟁의 장기화 가능성을 시사하는 주요 소식입니다.",
-                "러시아 대통령이 종전 회담 제안을 일축함으로써, 전쟁의 외교적 해결이 요원하며 국제 정세의 불확실성이 지속될 것임을 보여줍니다."
-            ],
-            "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTFBHQXVNVU15ZFdKZkNJeDJjbk04WHpKWWdMQzFxa0NHdTR3ajByUGxzYWVQOHlSZ2ZrRGREcUhBWm5FNk1Eay1WWEp2Qk1PVk1nY1lJc3IxRmdISldXTThUWjg2Y1pIaVA3X1dDQ3Rn?oc=5",
-            "category": "World",
-            "published": "2026-06-05T22:09:25.807180"
-        },
-        {
-            "title": "새 핵시설 공개한 김정은 \"5년간 핵물질 2배 생산\" - 조선일보",
-            "points": [
-                "북한의 핵무기 프로그램 확대를 공식화하는 발표로, 동북아시아 및 국제 사회의 안보에 심각한 위협을 제기하는 중대한 소식입니다.",
-                "핵물질 생산량 2배 증가는 북한의 핵 능력 고도화 의지를 명확히 보여주며, 비핵화 협상 전망을 더욱 어둡게 합니다."
-            ],
-            "link": "https://news.google.com/rss/articles/CBMiigFBVV95cUxPS1FIMFp0ZDFqXzEydDB2Vy1TX1lrRS1yWDZ5WkhyM2I2S0VYU2dSZEhaeXFicEpCOWdXTVlBZ2U5OWdPX3lrSnRGOU9hTi1RV2laeG1mTTF6Q043TmNRYmVuVl8zeUVCbzVMNFVzTWtlbFNrcHFDRlVOdndyZGVZMGI4Ujk1SDNBdEE?oc=5",
-            "category": "World",
-            "published": "2026-06-05T22:09:25.807187"
-        },
-        {
-            "title": "이란 \"호르무즈 통행 시 수수료 징수\"…美는 2차 제재 경고 - 한국경제",
-            "points": [
-                "세계 주요 원유 수송로인 호르무즈 해협의 통행에 이란이 수수료 징수를 언급하며 국제 유가 및 에너지 안보에 직접적인 위협을 가하는 소식입니다.",
-                "이는 미국과의 추가 제재 경고로 이어져 중동 지역의 군사적 긴장과 경제적 불확실성을 고조시키는 중요한 지정학적 변화입니다."
-            ],
-            "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE9vZS1iSjJ1aktLdU01WExmODFIRjluTUhYODdmUklGSjVLSEJKeDkySEpiRlJQaWJGdEo4TjZDVWZLNll6RWRSMXNoY3l4anlUSVFiWF9BRlphQdIBVEFVX3lxTE83UXd1LTk4eFk1MVhtZ0lxdWtqaHR5Q3lONXphYVJ5cDctNWVwSTlhbkFEQ0N6UVo5RUlIVnpYYlFqUHBRVERXTG56aHdqMjU1akxzSw?oc=5",
-            "category": "World",
-            "published": "2026-06-05T22:09:25.807188"
-        },
-        {
-            "title": "\"시진핑, 북러밀착 약화하려 트럼프-김정은 만나게 할수도\" - 연합뉴스TV",
-            "points": [
-                "중국이 북한과 러시아의 밀착을 견제하기 위해 미국과 북한 간의 외교적 중재를 시도할 수 있다는 관측으로, 동북아시아 및 국제 정세의 주요 전환점이 될 수 있는 소식입니다.",
-                "이는 미중 관계, 북한 비핵화, 러시아의 국제적 고립 등 복잡한 국제 역학 관계에 큰 영향을 미칠 수 있는 외교적 움직임입니다."
-            ],
-            "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTFA0NFUySExsYk1NMzJ2NEt2SzFLVjRONzJLX2dJaVprcjhkbjBCMTF2Q19RM3gxQThVV2NoamE3UVNmdVRTUW5xV2NjVGhKUUNwUFFQN0N2LWp0OGNqTElMblA3L3ZRUnM?oc=5",
-            "category": "World",
-            "published": "2026-06-05T22:09:25.807189"
-        },
-        {
-            "title": "이스라엘, 아제르바이잔에도 비밀기지?…CNN “이란 공격 거점” - 한겨레",
-            "points": [
-                "이스라엘이 이란 국경 인근 아제르바이잔에 비밀 군사 기지를 운영할 수 있다는 의혹은 중동 지역의 군사적 긴장을 심화시키고 새로운 분쟁의 불씨가 될 수 있는 중대한 소식입니다.",
-                "이는 이란의 핵 프로그램 및 역내 영향력 확대를 견제하려는 이스라엘의 전략적 움직임으로, 이란-이스라엘 대리전 양상을 확대시킬 수 있습니다."
-            ],
-            "link": "https://news.google.com/rss/articles/CBMiggFBVV95cUxQYUx1WnZQWkxORHpNTjNLNGVVUG1Ib25YaGtNMmdFT1ZlNVZZWElwVnpTMWQ4Ql9sRXkxWEN4N3V3dUNWSTZBd01Ob1VkODd2bm5BcWdIcFNNX0lmUEZtaFZEYWx5R25UYi1jekJLZW9UOFJiQ3BJcEJkRFFzdDVUb3hB?oc=5",
-            "category": "World",
-            "published": "2026-06-05T22:09:25.807191"
+            "published": "2026-06-06T21:53:00.795651"
         }
     ]
 }
