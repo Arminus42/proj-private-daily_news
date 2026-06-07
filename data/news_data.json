@@ -1,54 +1,210 @@
 {
+    "AI_Tech": [
+        {
+            "title": "앤스로픽, '인간 통제 벗어나는 AI' 경고…글로벌 안전 기준 논의 촉구",
+            "points": [
+                "OpenAI와 함께 선두적인 AI 연구 기업인 앤스로픽(Anthropic)이 AI의 자율적인 발전과 통제 불능 가능성에 대해 직접 경고하며, AI 기술의 미래 방향과 안전성에 대한 전 세계적인 논의를 촉구했습니다. 이는 AI 개발의 최전선에 있는 기업이 스스로 제기하는 심각한 문제 제기라는 점에서 매우 중요합니다.",
+                "AI가 스스로 AI를 개선하는 '자기 개선 AI(Self-improving AI)' 시대가 도래할 수 있다는 점을 시사합니다. 이는 단순히 인간의 지시를 따르는 AI를 넘어, AI가 자체적으로 학습하고 진화하며 예측 불가능한 결과를 초래할 수 있음을 의미합니다. 이러한 기술적 변화는 인류의 일자리뿐 아니라 사회 전반의 통제 구조와 윤리적 기준에 근본적인 질문을 던지며, AI 개발의 속도와 방향에 대한 글로벌 거버넌스(관리 체계)의 필요성을 강조합니다."
+            ],
+            "link": "https://news.google.com/rss/articles/CBMiQEFVX3lxTFBYSjR3NFNuZkpyWldsZ1FJNkNIMTBfck9rcXp0NDZKUllDNFpFRGdJNzN0MUlsLXJPR0FwbXNlaW1O?oc=5",
+            "category": "AI_Tech",
+            "published": "2026-06-07T21:56:12.868064"
+        },
+        {
+            "title": "KAIST, 영상 몇 개로 로봇 학습시키는 '피지컬 AI' 원천기술 개발",
+            "points": [
+                "국내 최고 과학기술 연구기관인 KAIST가 로봇이 적은 양의 영상 데이터만으로도 복잡한 작업을 학습할 수 있는 '피지컬 AI' 원천기술을 개발했습니다. 이는 로봇 학습의 효율성을 획기적으로 높이는 기술적 돌파구로, 글로벌 로봇 및 AI 연구 분야에 큰 영향을 미칠 수 있습니다.",
+                "기존 로봇은 특정 작업을 위해 방대한 데이터를 학습하거나 복잡한 프로그래밍이 필요했지만, 이 기술은 마치 사람이 몇 번의 시연만으로 새로운 기술을 배우듯, 로봇이 최소한의 영상 정보로도 다양한 환경에 적응하고 작업을 수행할 수 있게 합니다. 이는 로봇 개발 비용과 시간을 크게 줄여 산업 현장, 서비스 로봇, 재난 구조 등 다양한 분야에서 로봇의 활용을 가속화할 것입니다. 마치 어린아이가 몇 번의 시범을 보고 자전거 타는 법을 배우는 것처럼, 로봇도 훨씬 빠르게 다양한 기술을 익힐 수 있게 되는 셈입니다."
+            ],
+            "link": "https://news.google.com/rss/articles/CBMigwFBVV95cUxQSW5IUzMxWXJPaHVralZERGlDbndqdkd0R0FnVldZR1lYN1M1NlV1UlJGbHNjalNCZEduVFEyem92dUQ2a2IxdU5LcldJZzhPeWZQQUZlQVpZZVJVRkJXejBTRGpJUUtabEhsZ0FIaDJiS2cwdk96U0dHeEs3ZW0zUnRjMA?oc=5",
+            "category": "AI_Tech",
+            "published": "2026-06-07T21:56:12.868071"
+        },
+        {
+            "title": "앨라일람, AI 신약 개발 위해 인셉티브와 3.1조원 규모 계약 체결…RNAi 치료제 발굴 가속",
+            "points": [
+                "글로벌 바이오 제약사 앨라일람(Alnylam)이 AI 기반 신약 개발 기업 인셉티브(Insilico Medicine)와 최대 3.1조원(약 23억 달러)에 달하는 대규모 계약을 체결했습니다. 이는 AI가 신약 개발 과정에서 핵심적인 역할을 하고 있음을 보여주는 상징적인 사례이자, 바이오 및 제약 산업에서 AI 기술의 파급력을 입증하는 중요한 글로벌 투자 소식입니다.",
+                "AI는 방대한 생체 데이터와 화합물 정보를 분석하여 새로운 신약 후보 물질을 빠르게 찾아내고, 임상 시험 성공 가능성을 예측하는 등 신약 개발의 전 과정을 혁신하고 있습니다. 이번 계약은 특히 RNAi(리보핵산 간섭) 치료제와 같은 첨단 분야에서 AI의 활용을 가속화하여, 기존에는 수십 년이 걸리던 신약 개발 기간과 비용을 획기적으로 단축시킬 것으로 기대됩니다. 이는 환자들에게 더 빠르고 효과적인 치료법을 제공할 수 있는 가능성을 열어주며, 바이오 산업의 경제적 가치를 크게 높일 것입니다."
+            ],
+            "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE90OWFxRlBEMGF6Yk1sblR0VUdha2NWbFVtRzVocTdGVTk0OUFsQmRLbG1fa00wWkYzRFpsV3RzTXc0em5DdWhuS2t5UHV1aUwwX1I1aHRhMzBkdUticG83aXk3a2ItYl8xOXdWT9IBcEFVX3lxTE15TGk4VFBkeEJyNmhCblVpY2xaaEo1Z00xOFB4SzhwQU5sNjczZ1d4RGIya1BkU3REcGktdmt2MW0taXktWmgwYkstVTFCQkFwMnBSRGxLUDV6bnF6bFZkVWpOblh5OG1leGt0VThaRk0?oc=5",
+            "category": "AI_Tech",
+            "published": "2026-06-07T21:56:12.868072"
+        },
+        {
+            "title": "크래프톤·엔씨소프트, 엔비디아와 협력해 게임사 넘어 'AI 기업'으로 전환 가속화",
+            "points": [
+                "국내 대표 게임 기업인 크래프톤과 엔씨소프트가 글로벌 AI 반도체 및 소프트웨어 선두 기업인 엔비디아(NVIDIA)와의 협력을 통해 단순한 게임 개발사를 넘어 AI 기술 기반의 기업으로 변모를 꾀하고 있습니다. 이는 엔비디아와 같은 글로벌 AI 빅테크 기업과의 파트너십을 통해 전통적인 산업 분야의 기업들이 AI 중심으로 사업 전략을 재편하는 중요한 글로벌 트렌드를 보여줍니다.",
+                "게임 산업은 방대한 데이터와 고성능 컴퓨팅 자원을 활용하는 AI 기술과 시너지가 큽니다. 이들 기업은 엔비디아의 AI 플랫폼과 GPU 기술을 활용하여 게임 내 AI 캐릭터, 콘텐츠 생성, 사용자 경험 최적화 등 다양한 분야에서 혁신을 추구할 것입니다. 나아가 게임 개발 역량을 AI 기술 개발로 확장하여 새로운 비즈니스 모델을 창출하고, AI 기반의 신규 서비스 시장을 선점하려는 전략입니다. 이는 게임 산업의 미래를 AI가 주도하고 있음을 보여주는 동시에, 다른 산업 분야에도 AI 전환의 중요성을 시사합니다."
+            ],
+            "link": "https://news.google.com/rss/articles/CBMiYkFVX3lxTFBqOVZBMVExRTlXTTRpb3pSREV5WjRyNTRYcTlabUlMZzMxMFd1RGxXd0NndXZ0ejY5M0dvcFlTUHB2aFlOTjV4YVZPd3dUbk5RNklqMVhsbGU0LXRXODk3X29n?oc=5",
+            "category": "AI_Tech",
+            "published": "2026-06-07T21:56:12.868073"
+        },
+        {
+            "title": "노타, 엔비디아와 협력해 '영상 AI 에이전트' 시장 공략",
+            "points": [
+                "AI 경량화 기술 전문 기업 노타가 글로벌 AI 반도체 선두 기업 엔비디아(NVIDIA)와 손잡고 '영상 AI 에이전트' 시장 공략에 나섰습니다. 이는 엔비디아와 같은 주요 글로벌 AI 기업이 특정 AI 애플리케이션 분야에 집중적으로 투자하고 있음을 보여주는 사례로, AI 에이전트 기술의 발전과 상용화가 가속화되고 있음을 시사합니다.",
+                "'영상 AI 에이전트'는 카메라나 센서에서 얻은 영상 데이터를 실시간으로 분석하고, 이를 바탕으로 자율적으로 판단하고 행동하는 AI 시스템을 의미합니다. 예를 들어, CCTV 영상을 분석해 이상 상황을 감지하거나, 로봇이 주변 환경을 인식하고 스스로 작업을 수행하는 것과 같습니다. 엔비디아의 고성능 AI 컴퓨팅 기술과 노타의 AI 경량화 기술이 결합되면, 이러한 영상 AI 에이전트가 더 빠르고 효율적으로 작동하며, 스마트시티, 자율주행, 산업 자동화 등 다양한 분야에서 혁신적인 서비스를 제공할 수 있게 될 것입니다. 이는 AI가 단순한 분석 도구를 넘어, 실제 세계에서 능동적으로 상호작용하는 주체로 발전하고 있음을 보여주는 중요한 기술적 진전입니다."
+            ],
+            "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE5FMFQ0N3FRUEhZTTZ0UVE2SEhtRmJjd1JhNHpWN0xwal9INk9KTEFlLU41YUNZOWpFcmRCWnVtZmVFZUVsU1ZMN1hSaktFMDl0c2FiVTRZUXpLTWNmV1RhZXVKNDhKZ1E?oc=5",
+            "category": "AI_Tech",
+            "published": "2026-06-07T21:56:12.868074"
+        }
+    ],
+    "IT_Biz": [
+        {
+            "title": "“구글이 먼저 전기 사갔다”…핵융합 발전소 상용화 성큼 - 매일경제",
+            "points": [
+                "핵융합 발전은 인류의 에너지 문제를 해결할 잠재력을 가진 혁신 기술로, 구글과 같은 거대 IT 기업의 참여는 상용화 가능성을 크게 높이는 중대한 소식입니다.",
+                "구글의 전력 구매는 핵융합 발전 기술이 단순 연구 단계를 넘어 실제 산업 적용을 위한 경제적 가치를 인정받기 시작했음을 보여주며, 이는 미래 에너지 시장의 판도를 바꿀 핵심적인 경제적 변화를 예고합니다."
+            ],
+            "link": "https://news.google.com/rss/articles/CBMiTkFVX3lxTFAwdFhoRnJscDBoeHMyeThNUXN6elNJTlRBdjE1QjFIR2xubkVvZndoeG02Q1dyMjNFMEVicHZkZlJHbDZ2blVJRGc5SGxNZw?oc=5",
+            "category": "IT_Biz",
+            "published": "2026-06-07T21:56:52.532555"
+        },
+        {
+            "title": "젠슨 황, 정의선 현대차그룹 회장과 ‘우래옥 점심’…내일 양재동 사옥 간다 - 조선일보",
+            "points": [
+                "엔비디아 CEO 젠슨 황과 현대차그룹 정의선 회장의 만남은 인공지능(AI), 자율주행, 로보틱스 등 미래 모빌리티 분야에서 양사 간의 대규모 전략적 협력 가능성을 시사하는 매우 중요한 소식입니다.",
+                "글로벌 AI 반도체 선두 기업과 국내 대표 모빌리티 기업 간의 협력은 AI 기반의 혁신적인 자동차 및 로봇 서비스 개발을 가속화하고 관련 산업 생태계에 큰 변화를 가져올 기술적, 경제적 전환점이 될 수 있습니다."
+            ],
+            "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxPSkM0c1BGTEJfNklxeEtNSUQwcU5HNnBmQ3lTakw4dEtKREZJWHV2MVdjN0lUQldxV2NuUWx0Y2t4MWVEVWlZaU9vdXFsbWduUUFicnlzQzFpTW1VRWlEQlJHTDNGQ0hfUkVUZ2c3OE5lekxLcEN4dzE1YlUyc2h1RnIyMmpsSVFIY2VVM3I0WQ?oc=5",
+            "category": "IT_Biz",
+            "published": "2026-06-07T21:56:52.532561"
+        },
+        {
+            "title": "젠슨 황 \"로보틱스, 韓 다음 핵심 산업\"…삼성·LG 피지컬AI 속도 - 뉴시스",
+            "points": [
+                "엔비디아 CEO 젠슨 황의 발언은 로보틱스와 피지컬 AI가 한국의 차세대 핵심 산업으로 부상할 것임을 강조하며, 삼성과 LG 등 국내 주요 기업들의 관련 투자 및 기술 개발 가속화는 산업 전반의 미래 전략에 큰 영향을 미칠 중대한 소식입니다.",
+                "글로벌 AI 반도체 리더의 비전 제시와 국내 대기업들의 적극적인 피지컬 AI 투자는 제조업, 서비스업 등 다양한 분야에서 로봇 기반의 혁신적인 자동화 및 지능형 서비스 도입을 촉진할 기술적, 경제적 변화를 이끌 것입니다."
+            ],
+            "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE9od2c0UzFQcnd4c2l3RlJ0enBibERLMVMyXzNORDNsNFdQdURwWXF1WHZmTUxOVzhIUFpxVGR0S1BsRE91eGc4Wmg1ck01U1RudzBoS0F4a3puTGhlMldmbkZfZTNAX3lxTExOVnVaX0tGbmhnTHlJMlNWWENUOFJEVHo3SThERUt4aDd5XzU5QmU1T0JKLTY0Vko3Y0lhNldYa19HSlJxYmktamRndU1Rcmk5OUVWbUFOSGJSaThrVzlTWUFfWldBSHUzN0pqeGEzd3phMnJkRl9LYmM?oc=5",
+            "category": "IT_Biz",
+            "published": "2026-06-07T21:56:52.532562"
+        },
+        {
+            "title": "운전석·페달 없는 로보 택시 등장...AI 운전 적합하게 형태 바뀌는 자동차 - 조선일보",
+            "points": [
+                "운전석과 페달이 없는 로보 택시의 등장은 자율주행 기술이 단순한 보조 기능을 넘어 차량 설계와 운송 서비스의 근본적인 변화를 이끌고 있음을 보여주는 혁신적인 소식입니다.",
+                "AI 기반의 완전 자율주행에 최적화된 차량 형태 변화는 미래 모빌리티 시장의 패러다임을 전환하고, 대중교통 및 물류 시스템에 혁신적인 서비스 모델을 제시할 기술적, 경제적 변화를 가져올 것입니다."
+            ],
+            "link": "https://news.google.com/rss/articles/CBMigwFBVV95cUxNTDZhRFcyWmVyTWdiMmNxV3V5dUtkcFpJT1Brc2pOcmw1OXdlWEl6SlN0aV9XcDZmbGtYSUItRkl3d3lOeWlZbndsbHJyT0NsbV8tZ1dpcmZuWGJlZVBsQTB6cDM5S2RBcWlfZHVaeHFXYkV0QzBYTDg5Q3NRdW1QeTNfQQ?oc=5",
+            "category": "IT_Biz",
+            "published": "2026-06-07T21:56:52.532563"
+        },
+        {
+            "title": "젠슨 황 “메모리 수요 엄청나…앞으로 몇 년 동안 공급 부족할 것” - 한겨레",
+            "points": [
+                "엔비디아 CEO 젠슨 황의 메모리 반도체 공급 부족 경고는 AI 시대의 핵심 부품인 메모리 수요 급증과 이에 따른 글로벌 공급망의 불안정성을 시사하는 매우 중요한 경제적 소식입니다.",
+                "이 발언은 삼성전자, SK하이닉스 등 국내 주요 반도체 기업의 생산 및 투자 전략에 직접적인 영향을 미치며, 전 세계 IT 산업 전반의 비용 상승과 제품 출시 지연 등 광범위한 경제적 파급 효과를 초래할 수 있는 핵심적인 경제적 변화 포인트입니다."
+            ],
+            "link": "https://news.google.com/rss/articles/CBMickFVX3lxTE42ZlIySHI2V2pZSVhBQ2JHcS1FdF83Skh2aVp2OHpyYUNINVctTUdQQktxWVpQajFsZkJRVU5saHhzOG95MGZCWk1jWW5jMlNLRGNya09NWTJfdXV2OTVJcWJnTFVnMUx1V2NzeWhvNEd3Zw?oc=5",
+            "category": "IT_Biz",
+            "published": "2026-06-07T21:56:52.532564"
+        }
+    ],
     "Economy": [
         {
-            "title": "지방선거 흔든 부동산…집값 잡을 정책은? [부동산, 묻고 답하다]③ - KBS 뉴스",
+            "title": "젠슨 황, 내일 SK와 협력 방안 공개…전영현 삼성 부회장도 회동 - 연합인포맥스",
             "points": [
-                "지방선거 결과가 부동산 시장에 미치는 영향과 향후 정부의 집값 안정화 정책 방향을 심층적으로 다루는 중요한 국내 경제 뉴스입니다.",
-                "부동산 정책 변화는 가계 자산, 소비 심리, 건설 경기 등 광범위한 경제 분야에 직접적인 영향을 미치며, 국민 대다수의 삶과 밀접하게 연결되어 있습니다."
+                "엔비디아 CEO 젠슨 황이 SK와 삼성 등 국내 주요 기업들과 AI 및 반도체 분야 협력 방안을 논의하는 것은 글로벌 기술 산업의 핵심 동향이다.",
+                "이는 AI 반도체 시장의 주도권 경쟁 심화와 한국 기업들의 글로벌 AI 생태계 내 위상 변화에 중대한 영향을 미칠 수 있는 대규모 투자 및 기술 협력의 신호탄이 될 수 있다."
             ],
-            "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE9kdjBVbENCY3BpLXoxYkZqcHZkSEl2QmVOTE0zcVdGUmZ0empnVlJkcXJmWkVFRmRPZnc2OF9QMGFsbnFHZzNDQmU3Y1RCS25UZU1fVnNCNDdCWm8?oc=5",
+            "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE8wOTJtRzlVZHJKc1h4ZDVWVWtRQVluczdHelFnRnh2Q2tuN0dQMjY1cTlkemNWY2RkeGlLaUxTaklxbUJUQ1kxMkQwNDFVOVh6MGNtY3RuZUxuOWF5N3pHRUJXZU1NTU1OMVoxVExXeUQ?oc=5",
             "category": "Economy",
-            "published": "2026-06-06T21:53:00.795640"
+            "published": "2026-06-07T21:57:25.766851"
         },
         {
-            "title": "환율, 야간거래서 1560원 돌파.... 美 ‘깜짝 고용’에 뉴욕증시 급락 - 조선일보",
+            "title": "정부, BP 손잡고 동해 가스전 사업 재개한다 - 한국경제",
             "points": [
-                "원·달러 환율이 금융위기 이후 최고치인 1560원을 돌파하며 국내외 경제에 심각한 영향을 미칠 수 있는 거시경제 지표 변화를 알리는 뉴스입니다.",
-                "미국의 고용 지표와 뉴욕 증시 급락이라는 글로벌 경제 상황이 복합적으로 작용하여 환율 변동성을 키우고 있으며, 이는 수출입 기업의 수익성, 물가 상승, 외국인 투자 유출입 등 한국 경제 전반에 큰 파급력을 가집니다."
+                "정부가 글로벌 에너지 기업 BP와 협력하여 동해 가스전 사업을 재개하는 것은 국가 에너지 안보 및 자원 개발 정책의 중대한 변화를 의미한다.",
+                "대규모 해외 기업과의 파트너십을 통한 에너지 자원 개발은 국내 산업에 막대한 경제적 파급 효과를 가져오며, 에너지 수급 구조에도 영향을 미칠 수 있다."
             ],
-            "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxONGdlazJmRkNjd0l3TjZ4LTdYSlU2bTBzTFhpbHFoNTdkaXEzVXM2S2JRR1dicXlJZkQ4bURVeDZBd2hkRFY1NkpENmwtN1BQbWZqbUtJN2ZkejZiV0pXLWJjRUtYM1lCOUNhX0VwcThTdWh2SFdoemhwRlNOV08zUkZ4MUtSWVItT0w0?oc=5",
+            "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE5fTzFkZWJKV2Y5eGJzUGNRSnBSRnNyT2JTRWE2WThFTVFwR1NlRzhsTjhpUTVxc3pNbXB3aXF3aFZhMzB0d0h6bjFHeG5OSDRGalZnU0xDbDF4Z9IBVEFVX3lxTFA3QnhONDQ2cXlzM2tlV2FhUkNuNjhqVzA4MjFuQjlaV2pnSUo1a1VaNk5GUlptZlVCTEVqUURXTE5VbnF3VXllSEVHM09Zdl9DQXljeA?oc=5",
             "category": "Economy",
-            "published": "2026-06-06T21:53:00.795648"
+            "published": "2026-06-07T21:57:25.766857"
         },
         {
-            "title": "“나라곳간 걱정 잠시 접어둬”…반도체 호황에 초과세수 최대 70조 - 매일경제",
+            "title": "美 나스닥 폭락…국내 증시도 조정장 오나 - 한국경제",
             "points": [
-                "반도체 산업의 기록적인 호황으로 인해 국가 세수가 최대 70조 원에 달하는 초과세수를 기록할 것으로 예상되는 중대한 국가 경제 소식입니다.",
-                "이는 정부의 재정 운용에 여유를 제공하고, 국가 부채 관리 및 경제 활성화 정책 추진에 긍정적인 영향을 미칠 수 있는 핵심적인 경제 지표 변화입니다."
+                "미국 나스닥 시장의 폭락은 글로벌 경제 불확실성을 증폭시키고, 전 세계 증시에 연쇄적인 영향을 미치는 주요 경제 지표이다.",
+                "이는 국내 증시의 조정 가능성을 높이며, 투자 심리 위축 및 자본 시장 변동성 확대로 이어져 거시 경제 전반에 영향을 미칠 수 있다."
             ],
-            "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE9ud1ZvcEZ3ZnQ4eV9hQmVTUF9RVndUQ2FGS1ZwUFBKU2dhNHhpZThWbDhTMms2Vk12TDhEMFdHd212SjJZNmk3R2VKTmQ5M1RaUEtGTQ?oc=5",
+            "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE9UUHVKZzFBVmJoMXZYVXZtMXpZSHdUenpaVTJaMXhYYjhqbnBacVY2M01LOU1WQ0Rtd3ZiRkZxdmgwdFYtb2tncTlYdWtHb1ZRUjJNem9tZS1BQdIBVEFVX3lxTE9OeUotMUtqRkI5RkN1UFNYWlpFbm1vZ1FQanN4djU4TG1Gc3Z2cmpNNEJ6eXB4MmhNVU5vSkhOdlpYVE1QWWloVG1BbXJnVUpQQkpxZA?oc=5",
             "category": "Economy",
-            "published": "2026-06-06T21:53:00.795649"
+            "published": "2026-06-07T21:57:25.766859"
         },
         {
-            "title": "트럼프, 고용 대폭 호조에도 \"나는 더 낮은 금리를 보고 싶어\"(상보) - 연합인포맥스",
+            "title": "삼성·하이닉스, 2분기 또 ‘돈방석’…영업이익 150조 예상된다는데 - 매일경제",
             "points": [
-                "미국 고용 지표 호조에도 불구하고 도널드 트럼프 전 대통령이 금리 인하를 주장하는 발언은 향후 미국 연방준비제도(Fed)의 통화 정책 방향과 글로벌 금융 시장에 큰 영향을 미칠 수 있는 주요 정치경제 뉴스입니다.",
-                "세계 경제의 핵심인 미국의 금리 정책은 전 세계 투자 심리, 환율, 자본 흐름에 직접적인 영향을 주며, 트럼프의 발언은 차기 대선과 맞물려 정책 불확실성을 높일 수 있습니다."
+                "삼성전자와 SK하이닉스 등 국내 대표 반도체 기업들의 대규모 영업이익 예상은 글로벌 반도체 시장의 강력한 회복세와 한국 경제의 핵심 동력임을 보여준다.",
+                "이는 국가 경제 성장률 및 수출 실적에 긍정적인 영향을 미치며, 관련 산업 전반의 투자 확대와 고용 창출에도 기여할 수 있는 중요한 경제적 변화이다."
             ],
-            "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE9ZV1JVRHFXMXpoT2hHVDYxdHp1cFNnTktPTjJiWm1RQTN0Um5UYUhyUkRBUFpGWXJyRW43TmM2QXBOU3ctalVvdzRPZU1UOVBLeW94d1YtNzFXZ1gyRzlmSGdjZzd1TFBac1R1V1BIeS0?oc=5",
+            "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE1nMkRUZnFQVjhuVUJlcE5QSHNlQUt6S1pmZlVoRTF5b0JrZG9NX19JMHFaOEw4VU5XUDFCaXVHMmVielF2Z1dJNVcyWFFrWnMzS3UzYkR3?oc=5",
             "category": "Economy",
-            "published": "2026-06-06T21:53:00.795650"
+            "published": "2026-06-07T21:57:25.766860"
         },
         {
-            "title": "\"비트코인, 6개월내 70% 폭락 가능…장기적으론 50만달러 전망\" - 연합인포맥스",
+            "title": "구윤철 \"고환율 상황, 투기적 외환거래로 환율 변동성 커져‥엄정 조치할 것\" - MBC 뉴스",
             "points": [
-                "주요 투자 전문가의 비트코인 단기 폭락 가능성 및 장기 50만 달러 전망은 전 세계 암호화폐 시장과 투자 심리에 막대한 영향을 미칠 수 있는 분석입니다.",
-                "비트코인은 글로벌 금융 시장의 주요 자산으로 부상했으며, 이러한 급격한 가격 변동 예측은 개인 투자자뿐만 아니라 기관 투자자의 전략에도 큰 변화를 가져올 수 있습니다."
+                "정부 고위 관계자가 고환율 상황과 투기적 외환거래에 대한 엄정 조치를 경고한 것은 외환 시장 안정화를 위한 정부의 강력한 의지를 표명한 것이다.",
+                "이는 환율 변동성 확대에 따른 기업 및 가계의 경제적 부담을 완화하고, 금융 시장의 불안정성을 해소하려는 정책적 개입으로, 시장에 중요한 신호가 된다."
             ],
-            "link": "https://news.google.com/rss/articles/CBMicEFVX_lxTE14Z1M3U19uWTZsSkNJNUlLdDlmLVVvNEVoZXRwV081ZnhmYnN5LU1CalM5M2N3eVh6REZaUFhFWnJlMm1QQ1ZEWDlhNmRFQXNQZERFeEtMNG5OYjROR1Z0SW16Y0hIbVVDcUV0cmN0Q3E?oc=5",
+            "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTFBDMmxpdExScWttSWdLaUR6cFVRLTVseWhtVVBWVzdQY0tHcnhoUXBCNnJzQkhScFhONWlfNE1ra0hVcXVXdXBKUm8xaG11b1laX1U5Zi1XOFNtandSWnpIU1dsZlNIOTU3MWl3a1FpdzgtVWk50gF0QVVfeXFMTjFtcmlyMUpGWWFCb1hleHA2a1lTTFdSMXFfS0N0VVRNY2RUSVhId3NQcFlsMTNxTk5sSk1aWWRnZ3ZlUFY1dm1XVU4tYXBQUWFvZk80XzIzUjZ1bGtiQVZ3T0x1NEh4a1NyTkpJVzBRZHcwZ3c?oc=5",
             "category": "Economy",
-            "published": "2026-06-06T21:53:00.795651"
+            "published": "2026-06-07T21:57:25.766861"
+        }
+    ],
+    "World": [
+        {
+            "title": "트럼프 “빨리 빠져나올 시점”이라더니···이란 드론 격추·레이더 기지 타격 - 경향신문",
+            "points": [
+                "미국과 이란 간의 직접적인 군사 충돌이 발생하여 중동 지역의 긴장이 최고조에 달했음을 보여주는 주요 사건입니다.",
+                "미국의 이란 드론 격추 및 레이더 기지 타격은 양국 간의 군사적 대치 상황을 심화시키고, 국제 유가 및 글로벌 경제에 즉각적인 영향을 미칠 수 있는 중대한 군사적 변화입니다."
+            ],
+            "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE54Qkk2RTdSUkRMX1RUUlNRTUxJZkFHNHI5WG9tODNYQW1qSEVKVHg3UHgwN3BBQmVxRFhWSnh0UzNNZy1OcW1CcHhucWkwLXptZ2k0RVVVNnFQUdIBX0FVX3lxTE11RGwtb0VjU1pna1AyWU12TmVvTW0wT0l3VmdYN2FtZlhva2h5NlNVY2prTEo4SzFfd3FNUmxrMzBTWFZKbFMzZWVOaldtLWpOWnMxVTZXMjlsd1FFcjBZ?oc=5",
+            "category": "World",
+            "published": "2026-06-07T21:58:00.119969"
+        },
+        {
+            "title": "이란, 휴전 이후 첫 이스라엘 미사일 공격… ‘트럼프 대통령 보고 받아’ - VOA 한국어 홈페이지",
+            "points": [
+                "휴전 합의 이후 이란이 이스라엘을 미사일로 공격한 것은 중동 평화 노력의 중단을 의미하며, 지역 내 분쟁이 새로운 단계로 접어들었음을 시사합니다.",
+                "이란과 이스라엘 간의 직접적인 군사적 대치는 중동 지역의 안정을 심각하게 위협하며, 주변국 및 국제 사회의 개입을 촉발할 수 있는 중요한 지정학적 변화입니다."
+            ],
+            "link": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxOWnYyX0haUl9HS0JYeHFQQ05hak4ybmxJRnh5bkgwazFfWjZRNXQyVGQweXBmbHVXTndLWlQtQTh3clotdDMtNlBDZkVYOVZlS3ljM2VxaHBmTjQxV0lwbGNnOEpWX3NuRWk3YzFST0xWZmFwcHBhS2JHR0RyOUxWb0tXTTlhdk5IUF9mVWhDRlV5TnVpNnkxTEItbGNwTC0yVFFjN3paVEg4U2hoUFE1M3hOVHVoLUc0MXU3bDFPcU5MS3Rmd2V3YThoanRFUVVaN1HSAdQBQVVfeXFMUDEtemsyU3k2dFladmZ2ZDAweEt6NDJnSW5mT01hOXVsdXFiMVhyWEx6NGZfei1aeHdBTEN4SzVPUzJxem1WUTA1aXotUk5ONXFJWjJCbnItZVVTMGszYkFreVc4bGtVVkR4a3BEYmtVMXI2elF3cVg5MWdfb2daY2xIQjlpY3QtUjNCOVZkYUxJbTllTi1GZi1DQ2VVY0J6a0RNV1FhRVBRaUxGaWlMbFQxNE9TQThQNkUtZFRhM19yQjVxemk3SjBtc2IxSnk4Z2FiYUE?oc=5",
+            "category": "World",
+            "published": "2026-06-07T21:58:00.119976"
+        },
+        {
+            "title": "\"호르무즈 통행 서비스료 징수 단계…선박당 150만~200만 달러\" - 연합뉴스",
+            "points": [
+                "세계 주요 원유 수송로인 호르무즈 해협의 통행료 징수는 국제 해상 무역의 자유를 위협하고, 글로벌 에너지 시장에 막대한 경제적 파급 효과를 가져올 수 있는 중대한 소식입니다.",
+                "이 조치는 국제 유가 상승을 유발하고, 해상 운송 비용 증가로 이어져 전 세계 경제에 광범위한 영향을 미칠 수 있는 경제적, 지정학적 변화를 의미합니다."
+            ],
+            "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE94bFZDVkNVZzEyMS1PWjJfMXdZN0h1UGdBM0VZWTJ2cW03SzRiSnJSR2JHMGpiY2QzeWNsLWpfVnFGWWFXckFONHZuQlJKMzFvaDQ5S3NPVk94SWPSAWBBVV95cUxNN3MyVm9uY1FDUjJuNmRwUV9uTnI1d2J0a0FxX1p2bm5xUTdEczFoanhtUnlGVXhiZHgxMVhhVV9qaGt5VnVwdXBGN2labXRrcmxyMUtia01WQVdWMTFwLVc?oc=5",
+            "category": "World",
+            "published": "2026-06-07T21:58:00.119977"
+        },
+        {
+            "title": "北, 시진핑 방북 전날 “핵보유국 지위 불퇴… 누구와도 논의 안해” - 동아일보",
+            "points": [
+                "북한이 시진핑 주석 방북 직전 핵보유국 지위를 포기하지 않겠다는 입장을 재확인한 것은 비핵화 협상에 대한 강력한 거부 의사를 표명한 것으로, 한반도 및 동북아시아 안보에 중대한 영향을 미칩니다.",
+                "이는 국제 사회의 대북 제재 및 외교적 노력에 대한 북한의 강경한 태도를 보여주며, 향후 비핵화 논의의 방향과 국제 관계에 큰 변화를 가져올 수 있는 핵심적인 정책 변화입니다."
+            ],
+            "link": "https://news.google.com/rss/articles/CBMid0FVX3lxTFAwNzNIVXVEMXE4UE5aZEMxNEFkSGt5RHJOdzFoZDQ4UFNMQ3oyTWNvbTEyaEFLRE9FTmJrdGJfbXJ4NG1qODNMUmlPejZuLUYyS3pGOUVyN0xwNWRBNjNkTER5T2pFcmNOVEw5bF9CZ2NKZHdOY2I00gFmQVVfeXFMUGJ5ZHpoODdheUVDS2RIX0tWSlV6aHJ4NlM1THFfWnAtOUlicGlMT1RTS1o4VVQ2Mzh6c05lTFE3SURZV0hLTGRMM0JtcldTdHlOSHJWdUVoXzI3WUsxUGp2dVNBV3Zn?oc=5",
+            "category": "World",
+            "published": "2026-06-07T21:58:00.119978"
+        },
+        {
+            "title": "IAEA \"체르노빌 사용후핵연료 저장 시설 드론 공격 받아\" - 연합뉴스",
+            "points": [
+                "체르노빌 사용후핵연료 저장 시설이 드론 공격을 받았다는 소식은 핵 시설의 안전과 보안에 대한 국제적인 우려를 증폭시키며, 잠재적인 환경 재앙 및 핵 테러 위험을 시사합니다.",
+                "이 사건은 국제 원자력 안전 규정 및 핵 시설 보호에 대한 재검토를 요구하며, 전 세계적인 핵 안보 체계에 중대한 영향을 미칠 수 있는 기술적/안보적 변화입니다."
+            ],
+            "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE1BMkYyazB4eVZOY19GeGppcV9wQnVqZTl3TEx1OEdjZHZkQ1dDVU9faEhtY1MzbTNQcUtvTEZOOG8xOTR5TmVUdEtxWFdIclBqYTIwQmtUNTBYMjTSAWBBVV95cUxOTFJueUxkSzJaRVFEU3dxRkNMWE9WOWRQTGU5WHF0MjFIS3dqU0w0Z3JrOUR0aDExV0dOcjk5Z295Y0ZwNnFZOWtNczJLYVo0MW5YbjFlem1OUWRRckxTaGw?oc=5",
+            "category": "World",
+            "published": "2026-06-07T21:58:00.119979"
         }
     ]
 }
