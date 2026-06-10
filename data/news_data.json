@@ -1,54 +1,158 @@
 {
+    "IT_Biz": [
+        {
+            "title": "“TSMC가 다 못 만든다”…인텔 구글 AI 칩 수주에 삼성 파운드리도 낭보 기대",
+            "points": [
+                "글로벌 AI 칩 수요 폭증으로 TSMC의 생산 능력만으로는 부족해지면서, 삼성 파운드리가 인텔과 구글의 AI 칩 수주를 기대하는 상황이다.",
+                "이는 AI 반도체 시장의 급격한 성장과 함께 파운드리 업계의 지각 변동을 예고하며, 삼성전자의 비메모리 반도체 사업에 큰 기회가 될 수 있는 핵심 기술적/경제적 변화이다."
+            ],
+            "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE44ek9BSkRleTE5Z2gwajBIb01sRlhSQVhrM2ZzVTdLQkowQUR2cEpzMERmTkZhVXpEdDBTUGRNbm9WektLTEFjcVZLcGpNekE?oc=5",
+            "category": "IT_Biz",
+            "published": "2026-06-10T22:44:50.115420"
+        },
+        {
+            "title": "\"엔비디아 모델로는 한계\"…정부, 제조 특화 피지컬 AI 국산화(종합)",
+            "points": [
+                "정부가 엔비디아 중심의 AI 모델 한계를 인식하고, 제조 산업에 특화된 '피지컬 AI'의 국산화를 추진하는 정책 변화를 발표했다.",
+                "이는 국내 산업의 AI 기술 자립도를 높이고, 특정 기업 의존도를 줄이며, 제조업 경쟁력 강화를 위한 대규모 국가적 투자 및 기술 혁신을 목표로 하는 중요한 움직임이다."
+            ],
+            "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTFA4Y0w5SHYxTFdUUWM1OGh6S2JoTFhSRUtTR0ZkXzBvX0phRFJmbkNmNFFKRWtnZ2QtLVZRaFhhNEl2WFZsd3ViZWdmM19GOXM?oc=5",
+            "category": "IT_Biz",
+            "published": "2026-06-10T22:44:50.115428"
+        },
+        {
+            "title": "[단독]우주데이터센터 노리는 머스크, 위성 10만기 더 띄운다, 왜?",
+            "points": [
+                "일론 머스크가 우주 데이터센터 구축을 목표로 위성 10만 기 추가 발사를 계획하고 있다는 소식은 글로벌 통신 및 데이터 인프라의 미래를 바꿀 혁신적인 비전이다.",
+                "이는 스타링크를 넘어선 우주 기반 데이터 처리 및 저장 시대를 열며, 우주 경제와 IT 산업 전반에 막대한 파급력을 미칠 대규모 투자 및 기술 개발의 핵심 포인트이다."
+            ],
+            "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTFBwXzM4cnF0bHczd1RHZ2IxNmZYX0tMNVJJOTVFNEp2cWdQQ1RjMWFzRGxHMHBubENaNkhjd3V4eFNKd29DYkJCaE42T2t3Q2hPQkRjbFkwbGdKbVBuQ3l4Si1DVV83T2vSAWxBVV95cUxNMFh4dXY3WWVkNzRSMUMtZktSQndGR2Njd21iNmtwbjNTRjlwb3lCNC1CenlrbUlRdHJhenJLV2xNYUNld1BoWFRqdVA1ODlrTWozMV8zLUhOeUJmRWo0MUFCMmMyazZ4eWg0VVU?oc=5",
+            "category": "IT_Biz",
+            "published": "2026-06-10T22:44:50.115429"
+        },
+        {
+            "title": "구글, 70여개 언어 실시간 번역 AI 모델 공개...동시통역 일자리 사라지나",
+            "points": [
+                "구글이 70개 이상의 언어를 실시간으로 번역하는 AI 모델을 공개하며, 언어 장벽을 허무는 혁신적인 기술 발전을 선보였다.",
+                "이 기술은 국제 비즈니스, 교육, 문화 교류 등 다양한 분야에 엄청난 영향을 미칠 것이며, 동시통역사와 같은 특정 직업군의 미래에 대한 논의를 촉발하는 핵심 기술적 변화이다."
+            ],
+            "link": "https://news.google.com/rss/articles/CBMigwFBVV95cUxOVWZSMFJWaXBxOVlQOEFZVXR1WXpYWVBoVzhOSnc3aW5JbVNBZHdqVG5Ic093NTdTa3NmR2h1bmJHMHNRdlQzWU5tLVozU1ltNVVyWXpycUgxTHxzemRiRTQ1cVh6ZUJOejgwcXE4bDBDQzQwYklXRDcyZmNydzFDeEthZw?oc=5",
+            "category": "IT_Biz",
+            "published": "2026-06-10T22:44:50.115430"
+        },
+        {
+            "title": "챗GPT 점유율 1년여 만에 76%→55%… 생성형 AI 3강 경쟁",
+            "points": [
+                "생성형 AI 시장에서 챗GPT의 점유율이 1년 만에 크게 하락하며, 구글, 마이크로소프트 등 다른 빅테크 기업들과의 '3강 경쟁' 구도가 본격화되고 있다.",
+                "이는 생성형 AI 시장의 급격한 성장과 함께 경쟁 심화, 기술 다변화를 보여주는 중요한 시장 변화이며, AI 산업의 판도를 바꿀 수 있는 핵심 경제적/기술적 트렌드이다."
+            ],
+            "link": "https://news.google.com/rss/articles/CBMigwFBVV95cUxNQnZrdW0wZHVtWkZuMlJndVUyWG9md01Pa0k2dGdyWGNDS0pPZmgzOENLMDd4UkFTNjFvdHE2REpZWEQxenBLMVl0YlBVbGRBaTFFajMzeU1aSEJUNUtFT1oyeldFalBRT3dfMUdSX19ESXd5QlUyX2xLWm1rREI1Q0dKSQ?oc=5",
+            "category": "IT_Biz",
+            "published": "2026-06-10T22:44:50.115431"
+        }
+    ],
+    "Economy": [
+        {
+            "title": "최태원 “반도체 공장 한국에만 짓겠다는 건 아닐 수도” - 한겨레",
+            "points": [
+                "SK그룹 회장의 발언으로, 한국의 핵심 산업인 반도체 분야의 대규모 투자 및 생산 기지 전략에 중대한 변화 가능성을 시사합니다.",
+                "글로벌 반도체 공급망 재편 및 각국의 반도체 산업 유치 경쟁 심화 속에서 SK그룹의 해외 투자 확대 가능성을 보여주며, 이는 국내 산업 생태계 및 고용에 영향을 미칠 수 있습니다."
+            ],
+            "link": "https://news.google.com/rss/articles/CBMiggFBVV95cUxOR1pyOVpXODl5eHVqUFE1WEU5RDd0MFBfZVBmeUxwZUg4RWlUT1liUVVzQk4weUtNeERodkJxMEFnZk1LMlNWeEhkWnRoSWRiNGw1MEFVUFZhQXFJOWkwT0dCRXV0d1dBWklsUlV6RVJBTnR2LWdpbGZaX0h5V0NPekV3?oc=5",
+            "category": "Economy",
+            "published": "2026-06-10T22:45:41.056649"
+        },
+        {
+            "title": "美 스페이스X·오픈AI, 中 CXMT·유니트리...‘IPO 대어’ 줄줄이 출격, 증시 영향은? - 조선일보",
+            "points": [
+                "글로벌 기술 혁신을 주도하는 스페이스X, 오픈AI 등 거대 기술 기업들의 기업공개(IPO)는 전 세계 증시와 기술 산업 판도에 막대한 영향을 미칩니다.",
+                "이들 기업의 상장은 막대한 자본 유입을 통해 기술 개발 가속화 및 시장 지배력 강화로 이어질 수 있으며, 관련 산업의 투자 심리 및 경쟁 구도에 큰 변화를 가져올 것입니다."
+            ],
+            "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxPSnl1RlBkVElrY2UxQzdyckZfSnl6UElzQjBmRGp0Szh5S01ERHRIZ2xqMVk0ZDBHYUU4MERLWm5mT3NhRmpaMVZuUDJCZ0MtZU9rNWlTSTlLMGw0OC1HSlE5Uk9ySHZsVlk4RFdPN0ZVbEc0U3Fxc1Zfc1VaWnJlNw?oc=5",
+            "category": "Economy",
+            "published": "2026-06-10T22:45:41.056656"
+        },
+        {
+            "title": "코스피, 8% 급등해 '8천피' 회복‥역대 최대 상승폭 - MBC 뉴스",
+            "points": [
+                "국내 주요 주가지수인 코스피가 역대 최대 상승폭을 기록하며 급등한 것은 시장의 강력한 긍정적 심리 또는 대규모 경제적 호재를 반영하는 매우 중요한 사건입니다.",
+                "이러한 급등세는 투자 심리 회복과 경기 회복 기대감을 높이며, 국내외 투자자들의 자산 배분 전략 및 경제 전반에 긍정적인 영향을 미칠 수 있습니다."
+            ],
+            "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTE5ya2ZTV1prTkNzN0QxZmJoMGlJSGlLZFdDM2M0MHNPYUQxeE0wUkQ2R05IMmd3ZklWZlJIdUNCd1lZQzUzamtQOURFOG85Vld5RTJ6VFluaVVqeXZmQ2J5RW5NYmp4eGtUdGVId3BXcFduQ2R20gF0QVVfeXFMTmRhZGNiSy1WRjBJajZEc094LW5oTV9NSzZ5SGRjRnFfTnZxQS1CMlNXY09paU02Mm1Gb2QxOV9PSHg1RTlRUzdhQ0duSDl0eklPMG1jdzlwT1ZXNldFN0U3bXQ5UW9BdDlOOXhDQU1CQ3ViVW8?oc=5",
+            "category": "Economy",
+            "published": "2026-06-10T22:45:41.056657"
+        },
+        {
+            "title": "중동 긴장·AI 매도세에 뉴욕증시 하락 마감…나스닥 2%↓ - KBS 뉴스",
+            "points": [
+                "글로벌 경제의 핵심 지표인 뉴욕 증시, 특히 기술주 중심의 나스닥이 중동 긴장과 AI 관련 매도세로 인해 크게 하락한 것은 국제 정세와 첨단 기술 산업의 동향이 전 세계 경제에 미치는 파급력을 보여줍니다.",
+                "지정학적 리스크와 AI 산업의 과열 우려가 복합적으로 작용하여 글로벌 투자 심리를 위축시키고 있으며, 이는 향후 국제 유가, 기술주 투자 전략 및 전반적인 경제 성장 전망에 영향을 줄 수 있습니다."
+            ],
+            "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFB0Y09sb0JwTW1IZG8yU250Xy1xaGtIV0dZclRQMEpmWUVhVk4xSVprdjBUR1d3SlBlaVkyY2o1bXVlOUlYWFZvVi1vSEpCblYwV1JyMkhrdW0wY0k?oc=5",
+            "category": "Economy",
+            "published": "2026-06-10T22:45:41.056658"
+        },
+        {
+            "title": "테슬라에 밀리고 BYD에 쫓기고…현대차·기아 전기차 딜레마 - 지디넷코리아",
+            "points": [
+                "글로벌 자동차 산업의 주요 플레이어인 현대차와 기아가 전기차 시장에서 선두 주자 및 후발 주자 모두에게 강력한 도전을 받고 있다는 분석은 산업의 구조적 변화와 경쟁 심화를 명확히 보여줍니다.",
+                "이는 현대차·기아의 미래 전략 및 투자 방향에 중대한 영향을 미치며, 글로벌 전기차 시장의 경쟁 구도 재편과 함께 완성차 업계 전반의 생존 전략 변화를 가속화할 것입니다."
+            ],
+            "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTFBJbjJ6WkdBRDBHOWxaYU1jazlSMnJaUnJsdTZQbXZyN005cW1vTXJ4NnpvdVN0RmZhdC1ZZXhMaDZvOGE5cDNaM2VfZ1k4cEpfM2ttWTV3?oc=5",
+            "category": "Economy",
+            "published": "2026-06-10T22:45:41.056659"
+        }
+    ],
     "World": [
         {
-            "title": "후티 반군 “홍해 통항 금지”…이란-이스라엘 충돌 확대에 종전 협상 위기",
+            "title": "[속보] 미군 이틀째 이란 타격, 곳곳 폭발음···이란 “가혹한 대응 가할 것” - 경향신문",
             "points": [
-                "예멘 후티 반군의 홍해 통항 금지 선언은 중동 분쟁의 확대를 넘어 글로벌 해상 무역에 심각한 차질을 초래할 수 있는 중대 소식입니다.",
-                "주요 해상 운송로인 홍해의 봉쇄는 유가 상승 및 물류 비용 증가로 이어져 세계 경제에 직접적인 타격을 줄 수 있으며, 이란-이스라엘 충돌의 국제적 파급력을 극대화하는 요인입니다."
+                "중동 지역의 지정학적 긴장이 최고조에 달하며 국제 안보에 심각한 위협을 초래하고 있습니다.",
+                "미국과 이란 간의 직접적인 군사적 충돌 가능성이 높아져 국제 유가 및 글로벌 경제에 불확실성을 가중시키고 있습니다."
             ],
-            "link": "https://news.google.com/rss/articles/CBMic0FVX3lxTE45VWt3bTB0enRwZ2E4bkZUM1UxYUlQS3VOSy1QNkVLeGVTYnBZMlZnTU91cVV6bkdrUmlYMG9DWjBQT29BLW1rRGVCRTdscTBkb2M0VVpSTkR2LzlUdjk2RV9rYkE2RzRMcVVhWVhMWmk2aXM?oc=5",
+            "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE1XWUdnSTd2UDJ1LXdTUnlocklUNEROdThFV0hNUkw0WVBGWm0wWTJheDdQR0RkX1lnSUQ4UTFIQ3FoLWJBcnZDb2FucWpFSnlhM01kNVBDS0tLd9IBX0FVX3lxTFBETVFqVWpTaDdDRV9jWnlXdmVab0FlSkJwcDFJMFRMVHMta0Jrb3NtdkQ1M3d1VGFtYnVDeXJfbEdpc3pUaEp0d0I5ZGg1cjJpSVBVaXBMUFdtc0N4aXl3?oc=5",
             "category": "World",
-            "published": "2026-06-09T22:16:55.071260"
+            "published": "2026-06-10T22:46:15.534605"
         },
         {
-            "title": "트럼프, 이란에 ‘헬기 격추’ 보복 예고···위태로운 휴전",
+            "title": "美부통령, 이란과의 종전 협상에 낙관…\"합의 매우 근접\" - 한국경제",
             "points": [
-                "도널드 트럼프 전 대통령의 이란에 대한 보복 예고는 미국과 이란 간의 군사적 긴장을 최고조로 끌어올릴 수 있는 매우 위험한 발언입니다.",
-                "이는 중동 지역의 불안정성을 심화시키고, 자칫 전면적인 군사 충돌로 이어질 경우 국제 유가 및 안보 환경에 막대한 영향을 미칠 수 있는 핵심적인 지정학적 변화 포인트입니다."
+                "미국과 이란 간의 종전 협상 진전 가능성이 제기되며 중동 지역의 긴장 완화 및 안정화에 대한 기대감을 높이고 있습니다.",
+                "핵심 강대국 간의 외교적 해결 노력은 국제 유가 안정 및 글로벌 경제 회복에 긍정적인 영향을 미칠 수 있습니다."
             ],
-            "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE9iTTlmaWhJc2toN2ZmUWxBMFlmLXNwMlhCOV8yeHJIWFVVdkV1QTNBM25sbGVqc3ZpTUE3M3hyUlBVVWlWZzFVM0Ric216NFQyaGZTYmNSeUN5UdIBX0FVX3lxTFBYZFNuSlVhVjlPa0lLTVBReDZNYWZfSThJLUNfTGkzY181MmRnV3VvR3NvOVhmZV9ZbEhZSzA0QkZKYTVvaUgzZUFZTUxLWnZWZGJaaUVHRzg0UVFDVlFF?oc=5",
+            "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFBiV3NrajVNcU44Vi1oNDd6eDVlaGpfa3k4bnFLaTJWNUFoUm5TRDJHU2NBbzJFaGdhZlMtanNqZUxTTzBQVnB2R3pxcExvZjZjdU5RUjdCU0o2UdIBVEFVX3lxTE5Gck45WE0xS0hnZGN3SWE0NlNjUzhoNk9aeG1PWnhvRzNGdVptUnJfSms0cVdwSWh3ZjlfVk9NNWRMZmxPUHc3NXd0bnNSdGREOWdJYg?oc=5",
             "category": "World",
-            "published": "2026-06-09T22:16:55.071266"
+            "published": "2026-06-10T22:46:15.534612"
         },
         {
-            "title": "“북한 핵탄두 60기 보유…최소 30기 추가 생산 물질 가져”",
+            "title": "북·중, 7번 회담중 군사협력 첫 언급…‘비핵화’는 수면밑 잠복 - 한겨레",
             "points": [
-                "북한의 핵탄두 보유량 및 추가 생산 능력에 대한 구체적인 정보는 동북아시아 및 국제 안보에 대한 심각한 위협을 보여주는 주요 소식입니다.",
-                "이는 북한의 핵무기 프로그램이 상당한 수준에 도달했음을 시사하며, 비핵화 협상 전망과 역내 군비 경쟁, 미국의 대북 정책에 중대한 영향을 미칠 수 있는 핵심 안보 변화입니다."
+                "북한과 중국 간의 군사 협력 강화는 한반도 및 동북아시아의 안보 지형에 중대한 변화를 가져올 것입니다.",
+                "비핵화 논의가 후퇴하고 군사적 연대가 강화됨에 따라 지역 내 긴장이 고조되고 국제 사회의 대응이 주목됩니다."
             ],
-            "link": "https://news.google.com/rss/articles/CBMiggFBVV95cUxOWG5temhPUWEwT3BqUGZlTTN3cUltMVY4LUF5WTkwNkJaaFM2SDVjTE42bTkzVE84bnBuUF9salFXVzJfNVVEb216ckpRTE9TVldUaWpvbnZfOUJIaGxKMU5VYVhiM0U5SDVaUUdpLWwydm1jVzN2eV9kdl9YT3pZSWpB?oc=5",
+            "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTE4ydUhuTDlhT1ZtT2gtWkVVV1k2RnlsSUp4ZEJ1SWF6aGhVTC1ZZGhwOFRybTdCT24wd0dRbzdvZWNxYTVVNlhscnBZSXFfdE14Ump2NmhqT3JfU1BPUFRhNFF5dXJzVlEzY1NNT19xUi1yd0dR?oc=5",
             "category": "World",
-            "published": "2026-06-09T22:16:55.071267"
+            "published": "2026-06-10T22:46:15.534614"
         },
         {
-            "title": "필리핀 민다나오 남쪽해역서 규모 7.8 강진‥최소 15명 사망",
+            "title": "대만, 中 AI칩 우회수출 차단 나서…밀수 형사처벌 추진 - IT조선",
             "points": [
-                "필리핀 민다나오 해역에서 발생한 규모 7.8의 강진은 대규모 인명 피해와 재산 손실을 야기하는 심각한 자연재해 소식입니다.",
-                "이러한 대규모 지진은 해당 지역의 사회기반시설에 막대한 피해를 입히고, 복구에 장기간이 소요될 뿐만 아니라, 쓰나미 경보 발령으로 주변국에도 영향을 미쳐 지역 경제 및 안전에 중대한 영향을 미칩니다."
+                "대만의 강력한 AI 칩 수출 규제는 미중 기술 패권 경쟁을 심화시키고 글로벌 반도체 공급망에 큰 영향을 미칠 것입니다.",
+                "첨단 기술의 전략적 통제는 국제 무역 관계와 각국의 기술 안보 정책에 중요한 변화를 야기할 수 있습니다."
             ],
-            "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTE1CZzRrcGhqSXQ5NTRJd1RVX0hjN1c3QWJYSHRUQmtQYjRfcERRQXFSNFl2NU5DRWRaMmlCa3VzSV8zTUtoZkZQZHlDS2d2dzJfM0ZvYzNsY1JyN3pZS3loc3RyOGJCTVBzRU1fWTZnZDc2NnR50gF0QVVfeXFMTWlyYVJiaFROWHVJV1hpdDJ5dm1ndUphMXFBeFZNZzJjR05nVnJwSWRucmUzcWV1bzh6YzFBTWgwZ3FEOHJjV2oyTTFBdVhhRlNBbUZYaTBkVUswbW9lSXl3aGJ3ZkxOUS1YWjhEZTFPV0ZWRWM?oc=5",
+            "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE84YzgxYXdRdC1TdUxnRUoycEt2eGZwV0gtYnU1TVoyT1NKbkpBbG9JVWtpdXllQ3g0Wl8xQW5yMjJndWkzdkVOTGxnR1U1SkltQm9yYUJnclZGVTRRQ3ltVm45aGU2QWZfajl3dld0Y3jSAXRBVV95cUxQRXdiZWpNSHF2bU9YRVp0Z2hQRW93VlVwUWM1Tk1VODhncXJYMzVCNUxfNFN4SmJCcmNCb3dWZ01iazViSjVKYWRMS0FrRTRnT21WelpVU2w5bDVveTZiYVl2d3NnRlQzblNRaHU5SVdSX0xsTA?oc=5",
             "category": "World",
-            "published": "2026-06-09T22:16:55.071268"
+            "published": "2026-06-10T22:46:15.534615"
         },
         {
-            "title": "영국 “우리 다시 돌아갈래!”…EU 가입 줄 서는 유럽",
+            "title": "[월드 이슈] 영국 “우리 다시 돌아갈래!”…EU 가입 줄 서는 유럽 - v.daum.net",
             "points": [
-                "영국의 EU 재가입 논의는 브렉시트 결정 이후 유럽 정치 및 경제 지형에 중대한 변화를 가져올 수 있는 매우 파급력 있는 소식입니다.",
-                "이는 유럽연합의 통합 강화 또는 약화에 영향을 미치고, 영국의 경제 정책 및 무역 관계에 근본적인 변화를 초래하며, 유럽 전반의 정치적 안정성과 경제적 협력 모델에 핵심적인 영향을 미칠 수 있습니다."
+                "영국의 EU 재가입 논의는 브렉시트 이후 유럽의 정치 및 경제 지형에 중대한 변화를 예고하며, 유럽 통합의 미래에 대한 새로운 질문을 던지고 있습니다.",
+                "다른 유럽 국가들의 EU 가입 움직임은 유럽연합의 영향력 확대와 글로벌 경제 블록으로서의 위상 강화에 기여할 수 있습니다."
             ],
             "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE5aSTJSRmxfbjdoV2NWUzYwYnVTb0J2SmtwNGtHdlZkdWQyckhTZW01aktzWTNjMC1zNUp2Zkt2eERJc0hnS0hYM2l2dndWeWc?oc=5",
             "category": "World",
-            "published": "2026-06-09T22:16:55.071269"
+            "published": "2026-06-10T22:46:15.534615"
         }
     ]
 }
