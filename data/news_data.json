@@ -1,54 +1,158 @@
 {
     "AI_Tech": [
         {
-            "title": "엔비디아 AI 기술센터, 서울 당산동 유력 후보지 부상",
+            "title": "과기정통부, 'K-문샷' 본격 가동…AI로 신약·휴머노이드·양자 등 국가 난제 푼다",
             "points": [
-                "NVIDIA는 AI 반도체 및 소프트웨어 분야의 세계적인 선두 기업으로, 이들의 기술 센터 설립은 글로벌 AI 인프라 확장의 중요한 지표입니다.",
-                "새로운 기술 센터는 AI 연구 개발 및 관련 산업 생태계 조성에 기여하며, 이는 전 세계적인 AI 기술 발전의 핵심 동력이 됩니다."
+                "이 뉴스는 대한민국 정부가 AI를 국가 핵심 전략 기술로 삼아 대규모 투자를 시작한다는 점에서 매우 중요합니다. 마치 과거 미국의 아폴로 프로젝트처럼, AI를 활용해 신약 개발, 휴머노이드 로봇, 양자 기술 등 인류의 난제를 해결하려는 국가적 의지를 보여줍니다.",
+                "AI가 단순한 도구를 넘어 국가 경쟁력과 미래 산업의 판도를 바꿀 핵심 동력으로 인식되고 있음을 보여줍니다. 이는 국내 AI 연구 및 산업 생태계 전반에 막대한 자원과 기회를 제공하며, 글로벌 AI 기술 경쟁에서 한국의 위상을 높이는 데 기여할 것입니다."
             ],
-            "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTE9MeXhZM0ZIeUZqYjlieE5wdVdMR1h2N09uSnhyZThWWkY0MURmUk0xejl4eHI1bEFUcUYyNVNRSjFFankxbVNSVWVyTmVGZjBjdmNQLVJMWHhQd1ZOck1JRVRjeU5JRG9VQ2ZucnVuaE9XNlhJ?oc=5",
+            "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE5CS0R1cHotWlEtRHJ2aWQ2YVhVbnBON2NmM0x0UTl0QzZ2aEw3SF93dFBkSU5vZHIzYllRN0hWTFpSOVl4dkI0VkFNTHRHbTByMEpraW55OWFnNmJfamRxWkRBMTBaTUJfS2pkZtIBbEFVX3lxTE5CS0R1cHotWlEtRHJ2aWQ2YVhVbnBON2NmM0x0UTl0QzZ2aEw3SF93dFBkSU5vZHIzYllRN0hWTFpSOVl4dkI0VkFNTHRHbTByMEpraW55OWFnNmJfamRxWkRBMTBaTUJfS2pkZg?oc=5",
             "category": "AI_Tech",
-            "published": "2026-06-11T22:44:11.708902"
+            "published": "2026-06-12T22:17:16.166063"
         },
         {
-            "title": "NHN, 양철웅 CTO 선임…\"AI 기술 혁신 가속화\"",
+            "title": "KISTI가 개발한 AI 평가 기술, 머신러닝 최고 권위 학회 채택",
             "points": [
-                "국내 주요 IT 기업인 NHN이 AI 기술 혁신을 가속화하기 위해 새로운 CTO를 선임한 것은, 기업의 미래 성장 동력이 AI에 있음을 명확히 보여주는 전략적 결정입니다.",
-                "이는 AI 기술 개발 및 사업 확장에 대한 강력한 의지를 나타내며, 국내외 빅테크 기업들이 AI 분야 리더십 강화를 위해 핵심 인재 영입에 집중하는 글로벌 트렌드를 반영합니다."
+                "한국과학기술정보연구원(KISTI)이 개발한 AI 평가 기술이 머신러닝 분야 최고 권위 학회에 채택된 것은 국내 AI 연구의 우수성을 국제적으로 인정받았음을 의미합니다. 이는 AI 모델의 성능과 신뢰성을 객관적으로 검증하는 핵심 기술로, AI 개발의 '품질 관리 기준'을 제시하는 중요한 진전입니다.",
+                "이 기술은 복잡한 AI 모델이 얼마나 잘 작동하고 신뢰할 수 있는지 평가하는 데 필수적입니다. AI 모델의 투명성과 안정성을 높여 다양한 산업 분야에서 AI 도입을 가속화하고, 더 안전하고 효율적인 AI 시스템을 구축하는 데 기여할 기술적 돌파구입니다."
             ],
-            "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxOQVE5UUNhdUwtVlgzcXY1VzF5aFpJemNTTjcyaGtnVnFOYUVhYlljZjMyQTY2MTJZeEpaQTZtdXFvZWJMWFowVmtyRmNZNFdhbGhUNlhhOFUwV21BN3BhSU9qd1JGTlZBWklmZUpPQjNQT3BYSHlrX0djdThRcE1xQW9CcDRHOVlaM19FZkxEYWlsUUpBVVZMY0NoNEVsMzdKSVl3S2FuRDR0ZDNKVlpSblFvYTBiSjQ1MnlwVzhpQjdodWx60gHEAUFVX3lxTE5BUTlRQ2F1TC1WWDNxdjVXMXloWkl6Y1NONzJoa2dWcU5hRWFiWWNmMzJBNjY2MTJZeEpaQTZtdXFvZWJMWFowVmtyRmNZNFdhbGhUNlhhOFUwV21BN3BhSU9qd1JGTlZBWklmZUpPQjNQT3BYSHlrX0djdThRcE1xQW9CcDRHOVlaM19FZkxEYWlsUUpBVVZMY0NoNEVsMzdKSVl3S2FuRDR0ZDNKVlpSblFvYTBiSjQ1MnlwVzhpQjdodWx6?oc=5",
+            "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE9BdWZkRkplMGk5bzlEbFV0VnoyVHhTc1FKMklrdDhkSGRTbzdMY1JxcEpOaW9BTGsxcjdmVWRJdjdCYndvTTA2cE1uLU9YNXNjSW1FSFdqckNKeldaVF9UbVNTcEVBcWJ2WU1CaNIBbEFVX3lxTE9BdWZkRkplMGk5bzlEbFV0VnoyVHhTc1FKMklrdDhkSGRTbzdMY1JxcEpOaW9BTGsxcjdmVWRJdjdCYndvTTA2cE1uLU9YNXNjSW1FSFdqckNKeldaVF9UbVNTcEVBcWJ2WU1CaA?oc=5",
             "category": "AI_Tech",
-            "published": "2026-06-11T22:44:11.708910"
+            "published": "2026-06-12T22:17:16.166071"
         },
         {
-            "title": "중앙대학교, 생성AI 선도인재양성 사업 3건 동시 선정 쾌거",
+            "title": "서울공대 기계공학부 김도년 교수팀, 원하는 모양을 DNA 나노구조체로 만들어주는 생성형 AI 기술 개발",
             "points": [
-                "중앙대학교가 생성형 AI 분야에서 3건의 선도인재양성 사업에 동시 선정된 것은, 국내 대학들이 AI 연구 및 교육 역량을 강화하며 미래 AI 인재 양성에 핵심적인 역할을 하고 있음을 보여줍니다.",
-                "이는 AI 기술 발전에 필수적인 고급 인력 확보를 위한 전 세계적인 노력의 일환으로, 장기적인 관점에서 AI 기술 혁신의 기반을 다지는 중요한 움직임입니다."
+                "서울대학교 연구팀이 DNA 나노구조체 설계를 위한 생성형 AI 기술을 개발한 것은 생명공학과 AI의 융합 분야에서 세계적인 선도 연구를 보여줍니다. 마치 레고 블록을 조립하듯 AI가 원하는 형태의 나노 물질을 자동으로 설계하는 획기적인 기술입니다.",
+                "이 기술은 신약 개발, 진단 기술, 나노 로봇 등 다양한 바이오 및 의료 분야에서 맞춤형 나노 물질을 빠르고 정확하게 만들어낼 수 있는 잠재력을 가집니다. 이는 기존의 수작업 설계 한계를 뛰어넘어 생명과학 연구와 산업에 혁신적인 변화를 가져올 기술적 진보입니다."
             ],
-            "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTE81N3lPQmpTZHE1cnk5MXVReklVOUwwMDRhYlR4WEZCR0J2NmJzSTloVkFVajVLZENLM0ZtbjZSdGdaYUV6cGRzQVRxSnF0R1pJc09RQW4wRmFic3o4Q3Q2V3NJLWpzd2NzS0NPc0Nn?oc=5",
+            "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE9OaHdKMDh5a1ZGeDZ1N2VMLUY3aXczem5XZGk4MDdpU012OHBCQVpxX0pmSmJmLVlWRjBtbWx6em80eUF0TGZvOVdFazB5R1FySUl2Q1RhNi13bWFDMi1z?oc=5",
             "category": "AI_Tech",
-            "published": "2026-06-11T22:44:11.708911"
+            "published": "2026-06-12T22:17:16.166072"
         },
         {
-            "title": "씨어스, '의료 AI 이상징후 탐지 기술' 세계 최고 권위 학술대회 채택",
+            "title": "'피지컬AI 기업' 아이벡스, 글로벌 3대 AI 학회 논문 채택",
             "points": [
-                "ICLR(International Conference on Learning Representations)은 인공지능 분야에서 세계 최고 권위를 자랑하는 학술대회로, 이곳에 기술이 채택되었다는 것은 해당 기술의 독창성과 우수성을 국제적으로 인정받았음을 의미합니다.",
-                "생체신호 이상징후 탐지 AI 기술은 의료 분야에서 질병의 조기 진단 및 예방에 혁신적인 변화를 가져올 수 있는 획기적인 기술적 돌파구입니다. 이는 AI가 실제 인류의 삶에 기여하는 중요한 사례가 됩니다."
+                "국내 기업 아이벡스가 글로벌 3대 AI 학회 중 하나인 ICML에 논문을 채택시킨 것은 '피지컬 AI' 분야에서 한국의 기술력이 세계 최고 수준임을 입증한 것입니다. 피지컬 AI는 로봇이 물리적 환경에서 스스로 학습하고 행동하는 능력을 의미하며, 이는 실제 세계와 상호작용하는 AI의 미래를 여는 핵심 분야입니다.",
+                "이 기술은 공장 자동화, 자율주행 로봇, 서비스 로봇 등 실제 환경에서 AI가 복잡한 작업을 수행하는 데 필수적인 기반 기술입니다. 논문 채택은 해당 기술의 독창성과 우수성을 국제적으로 인정받았음을 보여주며, 향후 다양한 산업 분야에서 AI 로봇의 상용화를 가속화할 중요한 이정표가 될 것입니다."
             ],
-            "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTE9PM2hibXNqZ2NkUnZyVTFIZXNnU29yZ29adGpXWDI1R210U2M2dGVrVFRlSHJ3OG52aEc0NVRWS1IyR05hT0NVdGIzbXhpZ3BzcXk2dFNJVWpIMmQ5enkwNUUxVUpNQl9iVXUyMHpB?oc=5",
+            "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE5RaTRYakNCUWdzYXhFT0tISXFVd2dpWDhEZ1BLcDZyNGN0dVkzYU11MmNLUDdLSDVrYnd3dHJzSy10LXl2OHVVdUNYSy00c2NHWnRJVXF3?oc=5",
             "category": "AI_Tech",
-            "published": "2026-06-11T22:44:11.708912"
+            "published": "2026-06-12T22:17:16.166073"
         },
         {
-            "title": "삼성전자, 생성형 AI 3종 사내 도입…\"AI 중심 업무혁신\"",
+            "title": "SK하이닉스, 생성형 AI 활용 확대한다…챗GPT 도입 검토 공식화",
             "points": [
-                "글로벌 IT 대기업 삼성전자가 사내에 3종의 생성형 AI를 도입했다는 것은, AI가 단순한 기술을 넘어 기업의 핵심 업무 프로세스를 혁신하는 주류 도구가 되고 있음을 보여줍니다.",
-                "이는 전 세계 기업들이 생산성 향상과 효율성 증대를 위해 생성형 AI를 적극적으로 활용하려는 광범위한 트렌드를 반영하며, AI가 업무 환경에 미치는 파급력을 시사합니다."
+                "글로벌 반도체 선도 기업인 SK하이닉스가 챗GPT와 같은 생성형 AI의 전사적 도입을 검토하는 것은 AI 기술이 단순한 서비스 도구를 넘어 기업의 핵심 업무 프로세스와 생산성 혁신에 필수적인 요소가 되었음을 보여줍니다. 이는 AI가 기업의 '두뇌' 역할을 하며 일하는 방식을 근본적으로 변화시키는 중요한 트렌드입니다.",
+                "이러한 움직임은 SK하이닉스 내부의 연구개발, 생산, 마케팅 등 전반적인 업무 효율성을 극대화할 뿐만 아니라, 다른 대기업들에게도 생성형 AI 도입을 촉진하는 신호탄이 될 것입니다. 이는 AI가 산업 전반의 디지털 전환을 가속화하고 새로운 비즈니스 가치를 창출하는 데 핵심적인 역할을 할 것임을 시사합니다."
             ],
-            "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE5RYjlfWlEtUWVubl9YRHpoTWZ1M1RxRTNQZV9VWWIwN2pDSEFfaGQyeWw0MExtcXYwRE1LaVNBS0YxNV9OQXgySDRWX0dyb3NFYTlxZDJkeHJ3SDgzbUFPSNIBYEFVX3lxTE5RYjlfWlEtUWVubl9YRHpoTWZ1M1RxRTNQZV9VWWIwN2pDSEFfaGQyeWw0MExtcXYwRE1LaVNBS0YxNV9OQXgySDRWX0dyb3NFYTlxZDJkeHJ3SDgzbUFPSA?oc=5",
+            "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTE1XM09Ic2RaYzJfSDBxU1dHdTh6Wjg3dzh6ZDZ5MXd4SkVFMXQxOVczTHNWQzl2RVVmWFJNZjRFZUZRblpzTUMtTnlXZXBKR3FheWgtanc4Q0pMRjYweWZIa2dCMzJYa2p5R1NtOUNB?oc=5",
             "category": "AI_Tech",
-            "published": "2026-06-11T22:44:11.708913"
+            "published": "2026-06-12T22:17:16.166074"
+        }
+    ],
+    "IT_Biz": [
+        {
+            "title": "바닷속 도감청 가능한데 중국산 광케이블 써도 될까… 해상풍력 입찰 심사에 쏠린 ‘눈’",
+            "points": [
+                "국가 안보와 직결된 핵심 IT 인프라(광케이블)의 공급망 문제가 해상풍력 등 주요 국가 사업에 미치는 영향에 대한 심각한 논의를 촉발함.",
+                "중국산 장비 사용에 대한 보안 우려가 국제 기술 표준 및 공급망 정책 변화를 촉발할 수 있으며, 이는 IT 인프라 산업의 판도를 바꿀 수 있는 중요한 정책 변화임."
+            ],
+            "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxNd0RyR3NvM2tyZ0tQXzIyblRiMlNyczh6QUpnQUQ3Ymh4ZzEybkUtYU1FajJsRHdMbFRwVmpNRGJZYk1GX1ZweTdVdXZSQ2syZS1PUE9Nb2dtYmtDRGl2T1hzc3NXRmxESU5qcV80dnZjOVFWMTZrdHNwNlNhdjhpQjItUWfSAZgBQVVfeXFMT0FkZUxUMDlEVGt2bnVvblNSSUZNQzZVWXlYX3k2RkJsYXhDUEJodjItTUd1aG1TdlN6WjdaZ0tmUHNMSmlxam9SamkydGZnU3lGNkpoVmZJNktQVDN1cVYzVXNrMVJlWjBMaGNpRVZFa2hTbFBvbldZUmU3cUVJVHJvNk1vcTNLeDUzcFZITUtmMnplZ0k4MUY?oc=5",
+            "category": "IT_Biz",
+            "published": "2026-06-12T22:17:56.834808"
+        },
+        {
+            "title": "머스크의 스페이스X, 주당 135달러로 공모가 확정…사상 최대 IPO",
+            "points": [
+                "세계적인 혁신 기업 스페이스X의 대규모 자금 조달 및 기업 가치 확정은 우주 산업과 첨단 기술 투자 시장에 큰 영향을 미치는 주요 경제 뉴스임.",
+                "일론 머스크의 기업이 주도하는 우주 경제의 성장세와 민간 우주 개발의 가속화를 보여주는 지표로, 미래 기술 산업의 투자 방향을 제시함."
+            ],
+            "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE9oQVZtSkxRb1MtdHlxRDB2bFh0X3ZhTXB2bUtGZVJlMkNWRXdKOWdIR3JTT19EcHNwakI2dndHeGMyOXB3TWFhY2xweHhBdkE?oc=5",
+            "category": "IT_Biz",
+            "published": "2026-06-12T22:17:56.834815"
+        },
+        {
+            "title": "'꿈의 신소재' 그래핀 본격 상용화…산업부, 내달 기술로드맵 발표",
+            "points": [
+                "'꿈의 신소재' 그래핀의 상용화는 반도체, 디스플레이, 배터리 등 다양한 IT 및 산업 분야에 혁신적인 변화를 가져올 잠재력이 매우 큰 소식임.",
+                "정부(산업부) 주도의 기술 로드맵 발표는 국가 차원의 대규모 투자와 전략적 지원을 의미하며, 신소재 산업의 판도를 바꿀 수 있는 중요한 정책 변화임."
+            ],
+            "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE5hOXdJRm53aHZSM0NBT3hYaS1wYWhjaV9fa2xYY0lPWmVjMzh6TDBnNFRKOTBYZmFIMzNTbF8wTVU0NC1XRTVfRFlWSDAxTDA?oc=5",
+            "category": "IT_Biz",
+            "published": "2026-06-12T22:17:56.834816"
+        },
+        {
+            "title": "\"사람이 명령 안 내렸는데... AI드론, 스스로 표적 살상\"",
+            "points": [
+                "인간의 개입 없이 스스로 표적을 식별하고 살상하는 AI 드론의 등장은 인공지능 기술의 윤리적, 사회적 통제에 대한 심각한 논의를 촉발하는 매우 중요한 이슈임.",
+                "자율 살상 무기(LAWS) 개발 및 사용에 대한 국제적 규제와 정책 변화의 필요성을 부각시키며, AI 기술 발전의 방향성과 인류의 미래에 대한 근본적인 질문을 던짐."
+            ],
+            "link": "https://news.google.com/rss/articles/CBMigwFBVV95cUxObXp3WVdnd1BjOHQyOWtqMmtUQmw5WXNncDk1LXd6bmxnbmpld0EyaWlUQUpDWHhwN2RsZmZUSEotQkgtNFhlSVVGYmJ0blQ1U19xNFJHVTRFbGp3N24weEVnbDFsVHJSRnNHOVlwMDAzak9HRHN6UFhYT01adWJUT01KUQ?oc=5",
+            "category": "IT_Biz",
+            "published": "2026-06-12T22:17:56.834817"
+        },
+        {
+            "title": "인구 6만 마을에 5600명 유입…데이터센터 건설에 주거난 우려",
+            "points": [
+                "데이터센터와 같은 대규모 IT 인프라 건설이 지역 경제 활성화와 인구 유입을 가져오지만, 동시에 주거난 등 사회적 문제도 야기함을 보여주는 중요한 사회경제적 뉴스임.",
+                "IT 산업 발전이 지역사회에 미치는 파급 효과와 함께, 지속 가능한 도시 계획 및 인프라 정책 수립의 중요성을 시사하며, IT 산업의 사회적 책임에 대한 논의를 촉발함."
+            ],
+            "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE1JdTI4eTJGNU5PU2NaMGs3OVFDb2R1dTBwdzVtTmR0d0tTZlFpTm1CUHVUNWFyUERNdmdzd3dqWW8tbFVEbU5uNFhXUXJzY1V3WzZXV2RpV2Ewd9IBVEFVX3lxTE5MYmNlS0RjUm4xNVNGaFV6cHN3bmt4b1lXRmhqLVRzRXpmQzJqVy1nNXJxODR5NmFIQS1taTlxU2tVc19UelRmaC1QVUFiZmF3LVotRA?oc=5",
+            "category": "IT_Biz",
+            "published": "2026-06-12T22:17:56.834818"
+        }
+    ],
+    "World": [
+        {
+            "title": "트럼프 \"오늘 밤 이란 폭격, 더 크고 더 강력할 것\" - MBC 뉴스",
+            "points": [
+                "미국 대통령의 직접적인 군사 행동 위협으로 중동 지역의 긴장감이 최고조에 달하며 국제 정세에 심각한 영향을 미칠 수 있는 중대 소식입니다.",
+                "이는 국제 유가 변동, 동맹국 간 외교 관계 변화, 그리고 잠재적인 군사 충돌 가능성 등 세계 경제 및 안보 판도에 직접적인 영향을 미칠 수 있는 핵심적인 정책 변화입니다."
+            ],
+            "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTE03U0VxdkhGSjVqMVZFemJad2FqTS11TzkzQXZ6Q3ZscGdSTWdxX3dPYUhBOVBBM0k5YVh6SnF3U3ZNOVEyUWl6LUZ5U3VLaXRneG93VnA5VlN3TzZEbVZoejZOekpNcl9XZVBWNnJ1X1NYRUV60gF0QVVfeXFMTW1PRHh6S190U19DQnFsRHlVcGpIMVNTaFJTeXhTU1Z6XzNEMXhyZVdURllSV0thbXRCNUxhcnJ5NFlDa2Z5UGpYOURnRDZ2SWN2RHEwcTlnRi1QWGktZG80X1dxR2lzQWJzeXpwOWV2ZkFRYkM?oc=5",
+            "category": "World",
+            "published": "2026-06-12T22:18:35.410847"
+        },
+        {
+            "title": "미군 “이란 봉쇄 위반” 유조선 공격…인도 선원 3명 사망 확인 - 한겨레",
+            "points": [
+                "미군이 이란 관련 유조선을 공격하여 인명 피해가 발생한 사건으로, 중동 지역의 군사적 긴장이 실제 충돌로 이어졌음을 보여주는 매우 파급력 있는 뉴스입니다.",
+                "이는 미국과 이란 간의 갈등이 심화되고 있음을 명확히 보여주며, 국제 해상 운송 및 에너지 시장에 불안정성을 가중시키고, 관련 국가들의 외교적 대응에 큰 변화를 가져올 수 있습니다."
+            ],
+            "link": "https://news.google.com/rss/articles/CBMiggFBVV95cUxPd3BnSnNPTG50bXVGUDFIVDNaM09KNDYzci14WElvSUtvdVhWbVRKVVRHNndORURRUXVaU1d6bjFTNkV2NGRkaUtSUGp4bG95WWtySTVTejhBcXA3OVI3MU1XaTRKLTA5NWR1a2hycUgxNzFoVkx3MFB3RzA0TUhaaW9n?oc=5",
+            "category": "World",
+            "published": "2026-06-12T22:18:35.410872"
+        },
+        {
+            "title": "이란 협상단장, 종전 양해각서 합의에 ″약속 반드시 지켜야″ - 연합뉴스TV",
+            "points": [
+                "이란과 관련된 종전 양해각서 합의 소식은 중동 지역의 오랜 분쟁 해결 가능성을 시사하며, 국제 평화와 안보에 긍정적 또는 부정적 영향을 미칠 수 있는 중요한 외교적 진전입니다.",
+                "이는 중동 정세의 큰 변화를 예고하며, 지역 안정화 및 에너지 공급망에 영향을 줄 수 있는 정책적 변화의 시작점이 될 수 있습니다."
+            ],
+            "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE1JMnVvXzFOb3JLRnVFbEc0blcwdlhYS3dMWjNyVjZ0b29wYk1HM1A1b3Z6V2djeTMtdDl6ZmFUVjZ6S2xKWlo1SlVWMTN4d1JHcUtYZTY3RWQ5WC1hX1FYXzhYU3QtTTA?oc=5",
+            "category": "World",
+            "published": "2026-06-12T22:18:35.410874"
+        },
+        {
+            "title": "‘1차 대전’ 보다 길어진 우크라이나 전쟁···참혹한 소모전 - 주간경향",
+            "points": [
+                "제1차 세계대전보다 길어진 우크라이나 전쟁은 현대 국제 질서와 안보에 지속적으로 큰 영향을 미치는 전 세계적인 주요 이슈입니다.",
+                "이 전쟁은 전 세계 에너지 및 식량 시장에 불안정성을 야기하고 있으며, 국제 동맹 관계와 군사 전략에 근본적인 변화를 가져오고 있습니다. 장기화된 소모전은 국제 경제와 안보 환경의 판도를 바꾸는 핵심 요인입니다."
+            ],
+            "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE1QVm5GNmNMZ2R2MFRUbi1PaVdOWE1SSUpVZTdDR1FvRG5MY0lnRi1WbVA4SzlRMzdkS1IyekNZTmRNaUE0TTBpSjJXTmdiLUhyZTVUaWd1ejQzYjloWGc?oc=5",
+            "category": "World",
+            "published": "2026-06-12T22:18:35.410875"
+        },
+        {
+            "title": "UAE, 천궁-Ⅱ 확보 위해 대구에 수송기 급파 - 조선일보",
+            "points": [
+                "아랍에미리트(UAE)가 한국의 첨단 방공 미사일 '천궁-Ⅱ'를 확보하기 위해 수송기를 급파한 소식은 대규모 국제 방산 계약의 진행을 알리는 중요한 뉴스입니다.",
+                "이는 한국 방위 산업의 기술력과 수출 경쟁력을 입증하며, 중동 지역의 군사력 균형 및 국제 방산 시장에 큰 영향을 미칠 수 있는 대규모 투자 및 기술 이전의 사례입니다."
+            ],
+            "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxPOF9URkpzT01HVmZ3ZGxIMlhCQl85R3VRYTVVNnB3eXNILW1wS05sQmdTLWlWSTY4UkIyT1h3RVFGdUtCSFVVbGFoMGRFUUJVWXlBTXlZWnIteUhveGNvTjhxMmJZRTJFeEpuX2VZZkNhVXF6S0FnaFZGT1Zud3lyVWZFS2ZMYnpMeDRucG9scDRMdw?oc=5",
+            "category": "World",
+            "published": "2026-06-12T22:18:35.410877"
         }
     ]
 }
