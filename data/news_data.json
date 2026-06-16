@@ -1,148 +1,158 @@
 {
     "AI_Tech": [
         {
-            "title": "AI가 스스로 학습한다... 딥러닝 한계 넘는 차세대 인공지능 특허전쟁, 중국·미국 양강 구도 굳어진다",
+            "title": "원하는 모양을 DNA 나노구조체로 만들어주는 생성형 AI 기술 개발",
             "points": [
-                "이 뉴스는 현재 AI 연구의 핵심 과제인 '딥러닝의 한계 극복'과 '차세대 인공지능 기술 개발'이라는 글로벌 트렌드를 명확히 보여줍니다. 이는 AI 기술 발전의 방향성을 제시하는 중요한 소식입니다.",
-                "미국과 중국이 차세대 AI 기술 특허를 선점하기 위해 치열한 경쟁을 벌이고 있다는 점은 AI 분야의 기술 주도권 다툼이 국가적 차원에서 얼마나 중요한지, 그리고 미래 기술 패권이 어디로 향할지 가늠하게 하는 핵심적인 경제적, 기술적 변화 포인트입니다."
+                "이 뉴스는 생성형 AI가 생명공학 분야, 특히 DNA 나노기술과 융합하여 새로운 물질을 설계하는 획기적인 기술적 돌파구를 제시합니다. 이는 AI가 단순한 정보 처리 도구를 넘어 실제 물리적 구조를 창조하는 영역으로 확장됨을 보여줍니다.",
+                "AI가 원하는 형태의 DNA 나노구조체를 자동으로 설계하는 기술은 신약 개발, 정밀 진단, 나노 로봇 등 다양한 분야에서 혁신적인 응용 가능성을 열어줍니다. 이는 바이오 AI 분야의 중요한 진전으로, 미래 산업에 막대한 경제적, 기술적 파급력을 가질 수 있습니다."
             ],
-            "link": "https://news.google.com/rss/articles/CBMiSEFVX3lxTE1McHljYlBYSDR2Z0pzOG9TeVhXVzMycU9GTHJnRG1UYUpOWUNLT2c1OE5Xd25JTXpjZDZ2VGEtRG5QTE83TGNTZQ?oc=5",
+            "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE5CNWpCdEdUYjZlcXJBY281YlJURGZlMEN5c2pHUE1CM3BaZVZPMGxsaGxxUjFPdHVyUzNVZlA3eVYtQU50aU82a2lhTlp1dDg?oc=5",
             "category": "AI_Tech",
-            "published": "2026-06-15T22:53:00.532297"
+            "published": "2026-06-16T22:46:00.117463"
         },
         {
-            "title": "AI 시대 개인정보 보호·활용의 새 기준: 개인정보위, 4대 분야 11대 핵심 기술 로드맵 공개",
+            "title": "시선AI, AI 스마트 대중교통 국책사업 참여…온디바이스 LLM 에이전트 및 비전 AI 인식 기술 개발",
             "points": [
-                "AI 기술의 발전과 함께 개인정보 보호 및 활용 기준 마련은 전 세계적인 주요 이슈입니다. 한국 개인정보보호위원회가 발표한 이 로드맵은 AI 기술 개발 및 서비스 상용화에 있어 필수적인 윤리적, 법적 가이드라인을 제시하며, 이는 글로벌 AI 기술 생태계 전반에 영향을 미칩니다.",
-                "'4대 분야 11대 핵심 기술' 로드맵은 AI 기술이 나아가야 할 방향 중 하나인 '프라이버시 강화 기술(PET)' 등 구체적인 기술 개발의 필요성을 강조하며, 안전하고 신뢰할 수 있는 AI 시스템 구축을 위한 기술적 토대를 마련하는 중요한 변화입니다."
+                "이 뉴스는 온디바이스(On-device) LLM(거대 언어 모델)과 비전 AI 기술 개발을 다루며, 이는 클라우드 연결 없이 기기 자체에서 AI를 구동하는 글로벌 트렌드와 일치합니다. 비록 국내 기업의 국책사업이지만, 핵심 기술의 중요성이 높습니다.",
+                "온디바이스 LLM은 대중교통 시스템이 실시간으로 데이터를 처리하고 즉각적으로 반응할 수 있게 하여, 자율주행, 승객 안전 관리, 교통 흐름 최적화 등 스마트 시티 인프라 구축에 필수적인 기술적 진보를 가져올 것입니다. 이는 AI의 실용적 적용 범위를 크게 확장합니다."
             ],
-            "link": "https://news.google.com/rss/articles/CBMiQ0FVX3lxTE9SVEZGOWZpUXc0MWNUVm4tZUhEdTlCa3pRR2RFVkNMUU0yX0R0Tms1c2JsMUNNNE9KbnJFQkZ4dk5uTm8?oc=5",
+            "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE9mQTFMVmpndlRmOWpteHhnUDBKYm5GTTNMRkMwZVpFVzk1S3dUdlFkNk5jVkI0cHBZeW5ESTNpRll1dFJKc19yWGlpYVBIemdKZFFWNUZ5czVUc2Y4ak9oYldUNW9sNUU?oc=5",
             "category": "AI_Tech",
-            "published": "2026-06-15T22:53:00.532305"
+            "published": "2026-06-16T22:46:00.117470"
         },
         {
-            "title": "원광대 김준우 교수팀, 음성AI 학술대회서 논문 3편 동시 채택",
+            "title": "전국 10개 국립대병원, 필수·공공의료 AI 전환 공동 연구 착수",
             "points": [
-                "원광대학교 연구팀이 권위 있는 음성 AI 학술대회에서 다수의 논문을 채택시킨 것은 국내 대학 연구 역량이 글로벌 AI 기술 발전에 기여하고 있음을 보여주는 사례입니다. 이는 특정 분야의 기술적 진보를 알리는 중요한 학술적 성과입니다.",
-                "음성 AI는 음성 인식, 자연어 처리 등 다양한 AI 서비스의 핵심 기반 기술로, 이 분야의 연구 성과는 AI 기반의 새로운 인터페이스나 서비스 개발에 직간접적으로 영향을 미칠 수 있는 기술적 변화의 씨앗이 됩니다."
+                "이 뉴스는 전국 10개 국립대병원이 참여하는 대규모 AI 연구 협력으로, 의료 분야 AI 적용의 중요성과 파급력을 보여줍니다. 이는 국내 공공의료 시스템에 AI를 본격적으로 도입하려는 중요한 움직임이며, 글로벌 의료 AI 트렌드와도 맥을 같이 합니다.",
+                "다수의 병원이 협력하여 AI를 필수·공공의료에 적용하는 것은 방대한 의료 데이터를 활용해 진단 정확도를 높이고, 개인 맞춤형 치료를 제공하며, 의료 서비스 효율성을 극대화할 수 있는 잠재력을 가집니다. 이는 국민 건강 증진과 의료비 절감에 기여할 수 있는 혁신적인 변화입니다."
             ],
-            "link": "https://news.google.com/rss/articles/CBMieAFVX3lxTE9DdU8xZHkxWUpyQ3ZzSlB0LVNlbm5CWHptMkVpVDNaVDJlYkowU19welllYVVfR1RiLVY1YmlONDI2MkUxQTZEeUZlTjltZGd1M3EzYUZmZ25pYjJoTXNCTklvZlhaVHdkODktUWlDNlVZdUhWcXhXUtIBeAFVX3lxTE9DdU8xZHkxWUpyQ3ZzSlB0LVNlbm5CWHptMkVpVDNaVDJlYkowU19welllYVVfR1RiLVY1YmlONDI2MkUxQTZEeUZlTjltZGd1M3EzYUZmZ25pYjJoTXNCTklvZlhaVHdkODktUWlDNlVZdUhWcXhXUg?oc=5",
+            "link": "https://news.google.com/rss/articles/CBMickFVX3lxTE1lNE5CSG13YjhhZ25xMDB4T2ZYdU9UQ3pFSGh6NmNGNXJvT3d3U2JKSHItYlduTENmeDdwUzVmV2RKSGdCN05yRHRwWnk5ckZEX2lyOGhWS3BtczRkeS1vbHVvZFMyblM5YTRMR2F5Y0FzZw?oc=5",
             "category": "AI_Tech",
-            "published": "2026-06-15T22:53:00.532306"
+            "published": "2026-06-16T22:46:00.117471"
         },
         {
-            "title": "고려대 안암병원 이재민 교수팀, AI 기반 원격 ERCP 시스템 연구 개발 착수...\"정부 실증사업 선정\"",
+            "title": "쿠키플레이스, 생성형 AI 활용 금지 원칙 발표… 창작자 권익 강화",
             "points": [
-                "고려대 안암병원과 정부의 지원을 받는 이 프로젝트는 AI가 실제 의료 현장에서 환자 진료의 질을 높이고 의료 접근성을 개선하는 데 어떻게 기여할 수 있는지 보여주는 중요한 사례입니다. 이는 AI의 실질적인 사회적 가치 창출 가능성을 입증합니다.",
-                "'AI 기반 원격 ERCP 시스템'은 고난도 의료 시술에 AI와 원격 기술을 접목하여 의료 효율성을 극대화하고, 지역 간 의료 격차를 줄일 수 있는 혁신적인 기술적 돌파구입니다. 이는 미래 의료 AI 기술 발전의 중요한 이정표가 될 수 있습니다."
+                "이 뉴스는 생성형 AI의 윤리적 사용과 창작자의 권리 보호라는, 전 세계적으로 중요한 AI 거버넌스 및 정책 이슈를 다룹니다. 비록 특정 기업의 발표지만, AI 기술의 사회적 영향력에 대한 논의를 촉발하며 업계 전반에 영향을 미칠 수 있습니다.",
+                "생성형 AI가 콘텐츠 제작에 미치는 영향이 커지면서, 창작물의 저작권과 윤리적 활용에 대한 기준 마련은 필수적입니다. 이 원칙은 AI 기술 발전과 함께 인간 창작자의 가치를 존중하고 보호하려는 노력의 일환으로, AI 시대의 지속 가능한 창작 생태계를 구축하는 데 중요한 선례가 될 수 있습니다."
             ],
-            "link": "https://news.google.com/rss/articles/CBMickFVX3lxTE1jdnFBV1pNWF9DeEY4dFF1MWFhTUE2aU05ZXB0c0ZkWTZ5U1c5bnRMMnZmczZoLWN1bE1IR3hqT051VmN5UnJLV3J6dG1RQUdHbFp1MGx2QXJsSFJLYlRZYmdMY3I5eUZmaE5ta1JIN3o4dw?oc=5",
+            "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE9jajZ1MDFUZXNRT09BRHQ0LTdyc3Q5NmtGTnFDNmZ2QnJHemF5cXZpRVNUdWhoTW9IY09hUnBJbnh3OW1yTF9ZMFFyLUZHT21IZUVySmJId0pqY0JIMEhQQ0lKV184aGZGVlBmMw?oc=5",
             "category": "AI_Tech",
-            "published": "2026-06-15T22:53:00.532307"
+            "published": "2026-06-16T22:46:00.117472"
         },
         {
-            "title": "서울시립대 모빌인텍, 국토부 'AI 시티 혁신기술 사업' 참여",
+            "title": "에이아이트릭스, 요코하마시립대학교와 의료 AI 공동연구 MOU",
             "points": [
-                "서울시립대와 국토부가 함께하는 'AI 시티 혁신기술 사업'은 AI 기술이 도시 인프라와 시민 생활에 어떻게 통합되어 더 효율적이고 안전한 도시를 만들 수 있는지 보여주는 국가적 차원의 중요한 시도입니다. 이는 AI의 광범위한 사회적 적용 가능성을 제시합니다.",
-                "AI 시티 기술은 교통, 환경, 안전 등 다양한 도시 문제를 해결하기 위한 핵심 기술로, 인공지능이 도시 운영의 효율성을 높이고 시민의 삶의 질을 향상시키는 데 기여할 수 있는 구체적인 기술적 변화를 가져올 것입니다."
+                "이 뉴스는 한국 기업과 일본 유수 대학 간의 의료 AI 분야 국제 협력을 알립니다. 의료 AI는 진단, 치료, 신약 개발 등 인류의 삶에 직접적인 영향을 미치는 핵심 분야로, 이러한 국제적 파트너십은 기술 발전의 중요한 동력이 됩니다.",
+                "양측의 협력은 각자의 전문성과 데이터를 결합하여 더욱 정교하고 신뢰도 높은 의료 AI 모델을 개발할 수 있는 기반을 마련합니다. 이는 질병의 조기 발견율을 높이고, 개인 맞춤형 치료법을 제시하며, 궁극적으로 전 세계 의료 서비스의 질을 향상시키는 데 기여할 수 있습니다."
             ],
-            "link": "https://news.google.com/rss/articles/CBMieAFVX3lxTFB6UVRwUExJTGFiQXZqSHFiN0NvVXhXM1E0NVgyMVBQVThYM2ttdjZpWXVfQVB4T1FtSk41M3ViWkxZVWpQc0FPeXVXRkdKbDgtRmFBcng2RzMtUWkxT2hETW16cmJoNkdPUDl2TU9mLTF2c1BxTFhwd9IBeAFVX3lxTFB6UVRwUExJTGFiQXZqSHFiN0NvVXhXM1E0NVgyMVBQVThYM2ttdjZpWXVfQVB4T1FtSk41M3ViWkxZVWpQc0FPeXVXRkdKbDgtRmFBcng2RzMtUWkxT2hETW16cmJoNkdPUDl2TU9mLTF2c1BxTFhwdw?oc=5",
+            "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTFBKMVVnbVJQT25TMmo4X1pKeW5HREFIX280RG43QjNiQWl3Z0x1WXd6NnktVjh0dm5qVVE2ZmhtY3RXTnlJanZFekNlLW5OdkFEcFZjTGVQOVFRV0xqNHBQWGV6QkY5MXZuYTBBeEVR?oc=5",
             "category": "AI_Tech",
-            "published": "2026-06-15T22:53:00.532308"
+            "published": "2026-06-16T22:46:00.117473"
+        }
+    ],
+    "IT_Biz": [
+        {
+            "title": "\"수천억 달러 규모 선물\"…젠슨 황이 '한국' 콕 집은 이유 [취재파일]",
+            "points": [
+                "엔비디아 CEO 젠슨 황의 한국 언급은 AI 및 반도체 분야에서 한국의 전략적 중요성을 강조하며, 대규모 투자 및 협력 가능성을 시사하는 글로벌 빅테크의 핵심 메시지입니다.",
+                "이는 한국이 글로벌 AI 인프라 및 반도체 공급망에서 차지하는 위상을 높이고, 관련 산업에 막대한 경제적 파급 효과를 가져올 수 있는 잠재적 정책 변화 및 투자 유치 기회로 해석됩니다."
+            ],
+            "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTFBsOFg1ekZwNVV4TFMxOUdtb1ByOUVPbTdOeV95OGk2YjFTWElhNGx4Q005TVBmcG5nR2s3SEgyWDVMTHhNbWQ1OHhRUlpDa0E?oc=5",
+            "category": "IT_Biz",
+            "published": "2026-06-16T22:46:30.474536"
+        },
+        {
+            "title": "AI·빅테크가 바꿔놓은 메모리 사이클의 문법… “절벽 대신 완만한 내리막”",
+            "points": [
+                "AI와 빅테크 기업들의 수요가 전통적인 메모리 반도체 시장의 주기적 변동성을 완화하고 새로운 시장 문법을 형성하고 있음을 분석한 기사입니다.",
+                "이는 메모리 반도체 산업의 장기적인 성장 궤도와 투자 전략에 근본적인 변화를 가져오며, 관련 기업들의 사업 모델 및 기술 개발 방향에 큰 영향을 미칠 핵심 경제적 변화입니다."
+            ],
+            "link": "https://news.google.com/rss/articles/CBMiggFBVV95cUxOMlpUYlpBR1E4OXR6dUt6anEwS3xlOXRvQTFsNjlBbnBuTkk3Qk5fYl9DTVVxQ3RVR21qM29TSUoyaDh3eGoySGtwQlZQeXVCckdTcXcyeDJlYk5RV2VMSDV3RXpvWkRaYTZpZ1lBNjd0UkJHSXFhSDkwZ0VnS2tubG5B0gGWAUFVX3lxTFBLS0ota0lxQ2syNTVMTlpmRGRaSXBPNjRSeWJoSHlUR2V2ZWlpMUZPb0h0M1ZxMjBjOU8xcFpBcllWOTNuZVFZUVU5LVRXNV9rcm11d0FwQnFkeFNwWnFlRTFmcGR4QVk2N0h2SjdBbFdiNlpjYVk4V3pLWU1aSlo3c2daZGZQZnVCeWZtbzVmTmcwZzdIQQ?oc=5",
+            "category": "IT_Biz",
+            "published": "2026-06-16T22:46:30.474543"
+        },
+        {
+            "title": "\"애플워치 무더기 지원 중단…맥, 인텔시대 종언 \"",
+            "points": [
+                "애플이 맥(Mac) 제품군에서 인텔 프로세서 시대를 공식적으로 마감하고 자체 개발한 애플 실리콘으로의 전환을 완료했음을 알리는 소식입니다.",
+                "이는 애플의 하드웨어 및 소프트웨어 생태계 전반에 걸친 전략적 변화를 의미하며, PC 산업의 프로세서 시장 판도와 경쟁 구도에 장기적인 영향을 미치는 혁신적인 플랫폼 전환입니다."
+            ],
+            "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE9oQ1pETUlkNzcyRUpTbkt1WkNZWHRhSXczOXlBMDJQcWNheEpQWkNWYnZTOC03MHp2Sjlnd3d5NVJLdVcySjhGWGwxNEtMR3NXeTlLUUh3?oc=5",
+            "category": "IT_Biz",
+            "published": "2026-06-16T22:46:30.474544"
+        },
+        {
+            "title": "[단독] SK, 美 AI 데이터센터 구축 검토…하이닉스 앞세워 인프라 확장 추진",
+            "points": [
+                "SK그룹이 미국에 대규모 AI 데이터센터 구축을 검토하며 SK하이닉스를 통해 AI 인프라 확장을 추진하는 소식은 국내 대기업의 글로벌 AI 시장 진출 및 대규모 투자 계획을 보여줍니다.",
+                "이는 AI 시대의 핵심 인프라인 데이터센터 시장의 성장과 함께, 한국 기업들이 글로벌 AI 생태계에서 주도적인 역할을 하려는 전략적 움직임을 나타내는 중요한 경제적 변화입니다."
+            ],
+            "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTFBsbnB2OEFIT2NUS1hYUlIySHRCRE1pV3QxZDIxYnJtVzdmQkhmRzlFS1lXX1JMNXB4Q085azVneDE5VkpOSlhiUnY2ZWRreTNnQ2twYktn?oc=5",
+            "category": "IT_Biz",
+            "published": "2026-06-16T22:46:30.474545"
+        },
+        {
+            "title": "스페이스X가 주목하는 ‘꿈의 태양전지’ 개척한 韓 석학",
+            "points": [
+                "스페이스X가 한국 석학이 개발한 혁신적인 '꿈의 태양전지' 기술에 주목하고 있다는 소식은 차세대 에너지 기술 분야의 잠재적 돌파구와 글로벌 기술 협력의 중요성을 부각합니다.",
+                "이는 우주 산업 및 친환경 에너지 기술 분야에서 혁신적인 서비스 및 제품 개발을 촉진할 수 있는 핵심 기술적 변화를 예고하며, 한국 과학 기술의 국제적 위상을 높이는 계기가 될 수 있습니다."
+            ],
+            "link": "https://news.google.com/rss/articles/CBMigwFBVV95cUxPQ0pZT2JhNlJMOVdrNUZqd0RpNjRoTWZEamdvb3N3V2V5anpjTGtHRkRhQV94QWNRRnhCejRrVEIxSkh3OF9wQlhZa3FzT2NDRF9kdnk4OWlISGJwTjFobU9LMHFvY0U3aFpVd2t6Mi1yaWR1UVc5LV83Z0xOazA4VElDTQ?oc=5",
+            "category": "IT_Biz",
+            "published": "2026-06-16T22:46:30.474546"
         }
     ],
     "Economy": [
         {
-            "title": "종전 합의에 亞 증시 환호…유가·환율·국채금리 하락 - 한국경제",
+            "title": "[속보]스페이스X, 아마존 제치고 시총 5위로…AI 스타트업 90조원에 인수 - 동아일보",
             "points": [
-                "글로벌 지정학적 긴장 완화가 아시아 증시 전반에 긍정적인 영향을 미치며, 국제 유가, 환율, 국채금리 등 주요 경제 지표에 광범위한 하락 압력을 가하는 메이저한 소식입니다.",
-                "종전 합의는 국제 경제의 불확실성을 크게 줄여 투자 심리를 개선하고, 에너지 및 금융 시장의 안정화에 기여하는 핵심적인 변화 포인트입니다."
+                "SpaceX의 글로벌 시가총액 5위 등극은 민간 우주 산업의 폭발적인 성장과 기술 혁신이 전통 산업의 판도를 바꾸고 있음을 보여주는 상징적인 사건입니다.",
+                "90조원 규모의 AI 스타트업 인수는 인공지능 분야의 대규모 자본 투입과 기술 통합이 가속화되고 있음을 의미하며, 이는 AI 산업의 재편과 미래 기술 경쟁의 심화를 예고합니다."
             ],
-            "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE1KeVktN21zRldxSUU3UDlUalJTOWQxVDFIT3dNV29LM05hbTNyWUdMLUlROUtQaUtkWE1WVjdKc1pVTmNkQVFka2dFVnFMaU4xaWJZS0p2TmJoQdIBVEFVX3lxTE85Nko1V19NN29FcTV1TXVzMGpiOXh2czJXR1huem5xWUNRZG1TX2g1enNZQTVXbU1KbGQza0l2NDZZdGZqeEVwTFJ0SDBvRTZRV3JFSQ?oc=5",
+            "link": "https://news.google.com/rss/articles/CBMic0FVX3lxTE5zSWEtP1PVE5hSUwwS1ZMWkZ6cEdWelc3V01HQjNMNGxEdHNKbF9sdlZrWDZKVm1oOG1iOFpUN3J0Y1NLOGxIWHAtODFkc2N5al9FcHl6ckV3RUZybUdTRzFsbnE4cld1TUo5bjlpYi1ycnPSAWZBVV95cUxPWlZsQ2RLeWVydGk5X09sazIzRGFNbjZjV2FfM0tCSlpKLTl4c1RlbnYtd1R2THdZZUNiWXFLSG9SZnVFbkJ6dDdtaXl5ZEUzY2J0am11VjRXRnllZENYS1pmS2dTUGc?oc=5",
             "category": "Economy",
-            "published": "2026-06-15T22:53:46.751702"
+            "published": "2026-06-16T22:47:01.719497"
         },
         {
-            "title": "스페이스X 공모주 추가배정…머스크 \"2030년까지 매출 1조달러\"(종합) - v.daum.net",
+            "title": "일본 금리 31년 만에 1%로 인상…엔 캐리 위축 땐 한국 증시 유탄 - 한겨레",
             "points": [
-                "세계적인 혁신 기업 스페이스X의 대규모 공모주 추가 배정과 일론 머스크의 공격적인 장기 매출 목표 발표는 우주 산업 및 기술 투자 시장에 막대한 파급력을 가집니다.",
-                "이는 민간 우주 경제의 성장 잠재력을 보여주며, 향후 10년간 글로벌 기술 및 경제 판도를 바꿀 수 있는 대규모 투자와 혁신적인 서비스 출시의 신호탄으로 해석됩니다."
+                "일본 중앙은행이 31년 만에 금리를 1%로 인상한 것은 글로벌 초저금리 시대의 종말을 알리는 중요한 신호탄이며, 이는 전 세계 금융 시장에 광범위한 영향을 미칠 수 있는 거시 경제적 변화입니다.",
+                "엔 캐리 트레이드(저금리 엔화를 빌려 고금리 자산에 투자하는 방식)의 위축 가능성은 글로벌 자본 흐름에 변화를 가져와 한국을 포함한 신흥국 증시 및 외환 시장에 유동성 감소와 변동성 확대를 초래할 수 있습니다."
             ],
-            "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE8xMExhTzlDRE1uaVBxdWo2X2NWN1VRaFBIRzNPaGwwZ3RTVFh5S0ZwLTV3TWlaWHlpNm11R2t5WW16TXl3Rkl4LXJZMzQ5MUk?oc=5",
+            "link": "https://news.google.com/rss/articles/CBMiggFBVV95cUxQVlJ5OHRwTmtFVkQ2dVVVZU9STFRBaU1ySTNQNDhfWDNQOXJSNGZ2WEpabmxKRGNkM0dRemhnZy1RVkh0MmtvQlVIaFRmeTAyTE1ZNGo4Q3lodjFSd0R0bnpZZ2U3REs2Q0dMZmhTTjg2Z2pOa1dSQ0t3Z1JvSW5JeXN3?oc=5",
             "category": "Economy",
-            "published": "2026-06-15T22:53:46.751710"
+            "published": "2026-06-16T22:47:01.719504"
         },
         {
-            "title": "호르무즈 해협 막혔어도 ‘원유는 사우디’…김정관, 사우디 찾아 안정적 공급 강조 - 경향신문",
+            "title": "중앙그룹 충격인가…중소형증권사 전단채 매도 출회·금리 치솟아 - 연합인포맥스",
             "points": [
-                "호르무즈 해협의 지정학적 불안정성 속에서도 사우디아라비아로부터의 안정적인 원유 공급 확보 노력은 글로벌 에너지 안보와 국제 유가 안정에 매우 중요한 소식입니다.",
-                "이는 세계 경제의 핵심 동력인 원유 공급망의 안정성을 유지하려는 외교적, 경제적 노력을 보여주며, 에너지 시장의 변동성 관리와 국가 경제에 미치는 영향을 최소화하는 데 중점을 둡니다."
+                "특정 대기업 그룹의 재무 불안정성이 중소형 증권사의 자금 조달 시장(전단채)에 영향을 미치고 금리 상승을 유발하는 것은 국내 금융 시장의 잠재적 불안정성을 보여주는 중요한 지표입니다.",
+                "전단채 시장의 경색과 금리 급등은 기업들의 자금 조달 비용을 증가시키고, 특히 재무 구조가 취약한 기업들에게 유동성 위협을 가해 전반적인 경제 활동 위축으로 이어질 수 있습니다."
             ],
-            "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFA0dFpidEhmTXZucWx0b2pPWnFaeC1zMDRrXzV0TjYxcUtpdGFTVVp6Ul8ydEltOGEydExJN01hUHhPcGpkTTRCRmRDemRJSjZiOE4tX2V2WktFd9IBX0FVX3lxTE9GSHl4Rk9KWUdsYlNEY1hJQ3NibjEyY2x0Y3gta2ltLVI3RVoyLUtNUXJ6TmVENUlkQm9nQXg4cHFqdDVRMzQ5T2pjNjVGa0tPVWFmcG52bjNzM0staktR?oc=5",
+            "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTFBLVXk2Tlh4T1kxVEZoam1IZTdKRHNQR1BhVDFvOVBKUTRfSndyd1hjalVtQTBjcHN0ZVNOZ0REdXBPNndrVXdadlJHSDh3MW9qQUhwSGtXNTkzX1BZNENIRDlaZHNZNV83WHY3dnJFMFnSAXRBVV95cUxNak1nMVRNbjR5X2RRUXRvbHd6TTVVQmF0QXRUNTJiX2hHcmlvdEFHSWkyc0JmU09fRHVlbHZqdXl1dDBYM1JrY2Vpd2w5OXZuY25PSXFwd0dNYkl6WVVpYVdVQVNuSVZGazZpdWtLWU9fM3d1bA?oc=5",
             "category": "Economy",
-            "published": "2026-06-15T22:53:46.751711"
+            "published": "2026-06-16T22:47:01.719505"
         },
         {
-            "title": "“현대차, 사내하청 ‘진짜 사장’ 맞다” - 경향신문",
+            "title": "앤트로픽 'AI 수출 제재'에 韓 통신사 빌미 제공했나 - 전자신문",
             "points": [
-                "현대차 사내하청 문제에 대한 법원 판결은 국내 주요 대기업의 고용 형태와 노동 관행에 중대한 변화를 가져올 수 있는 파급력 있는 소식입니다.",
-                "이는 사내하청 근로자의 지위와 권리를 재정립하고, 제조업을 포함한 다양한 산업 분야의 인력 운영 및 비용 구조에 영향을 미칠 수 있는 정책적, 법적 변화를 예고합니다."
+                "미국발 'AI 수출 제재' 가능성과 한국 통신사의 연루 의혹은 인공지능 기술이 단순한 산업 경쟁을 넘어 국가 안보 및 지정학적 패권 경쟁의 핵심 요소가 되었음을 보여줍니다.",
+                "AI 기술에 대한 국제적 규제 및 제재 강화는 한국 기업들의 글로벌 AI 시장 진출 전략에 중대한 영향을 미치며, AI 기술 개발 및 활용 방향에 대한 국가적 재검토를 요구할 수 있습니다."
             ],
-            "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE84R00xdmdHNlBuSUpTVU5FVGJOMHhCV1JGSHNxXy0wLVpaSGVvM2NVS1diMGc4RUdfNFZuMmRpNHlKZ2MtTm85UjUyUWt6QkNLcEY2RjFoV19uZ9IBX0FVX3lxTE55YjRwZW5vMnBmV1hVN0ZIVU45dmNjeUZhOHA0RFZDTG9Vb3A5cjJCSkJ1RHVObmZWREVrbFQ1eHZOWkpocjJRNERlc3dXd3hTNGlKS3VFZzhtakN2eDFJ?oc=5",
+            "link": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE0ydG5ydG5FVVBNcS1PdDZZdVRGckw3RHZYV2JPRW5sa3BTQzVjM3ltZFhobzExdkFaT0ZxZC00aHVhZTd2SEgzTHMzc0E0QQ?oc=5",
             "category": "Economy",
-            "published": "2026-06-15T22:53:46.751712"
+            "published": "2026-06-16T22:47:01.719506"
         },
         {
-            "title": "“외국인 매도폭탄 버틴 코스피, 대단하네”…5월 주식자금 순유출 48조 ‘역대 최대’ - 매일경제",
+            "title": "내일부터 월 소득 519만원 안 넘으면 국민연금 안 깎인다 - 연합뉴스",
             "points": [
-                "코스피 시장에서 역대 최대 규모의 외국인 주식 자금 순유출은 한국 경제의 대외 건전성과 금융 시장의 안정성에 대한 중요한 경고 신호이자 파급력 있는 소식입니다.",
-                "이는 글로벌 투자 심리 변화, 국내 경제 상황, 환율 변동 등 복합적인 요인이 작용한 결과로, 향후 국내 주식 시장 및 거시 경제 정책 방향에 큰 영향을 미칠 수 있는 핵심 경제 지표입니다."
+                "국민연금 소득 상한액 조정은 소득이 일정 수준 이하인 국민들의 실질 소득을 보전하고 노후 생활 안정을 지원하기 위한 정부의 중요한 복지 정책 변화입니다.",
+                "이 정책은 약 230만 명의 국민연금 수급자에게 직접적인 재정적 영향을 미치며, 특히 저소득층 및 은퇴 예정자들의 가처분 소득 증가에 기여하여 내수 경제 활성화에도 긍정적인 영향을 줄 수 있습니다."
             ],
-            "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE02NktBU1Y1TFktYWx1NTVuTG4zbGxpUW5GNl83NUdjbG96US1xWlZwOEZpZURuZ0JIN1RqeXZ4bEVWOVBnRVpHbGpGU2ZmRkpmN1E?oc=5",
+            "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE9iVV91bXpfSEZON3pZS0Y3TmtqZ3FQS3M3QUZQT05ROXdqNW45azFxU1JDS19hS3B6eXZrblFqV2tVbmQ5b1hqa25nNlRDUGdRdmNXbVlvQ3F6S1HSAWBBVV95cUxOcnJzcjBtclZHajV6VlpwVUliZEVwNEd0cEg0bUJ5OUtCVW9DMUswejBwbnV4NGNSYVpKZElDLVNhNUh6QnJIT2RuaTZ3Y2dfODZkbXJpVUxCYVQ2MzJlRDU?oc=5",
             "category": "Economy",
-            "published": "2026-06-15T22:53:46.751713"
-        }
-    ],
-    "World": [
-        {
-            "title": "트럼프, 종전 MOU 전자 서명… \"호르무즈 해협 통행료 없다\" 주장 - 조선일보",
-            "points": [
-                "이 뉴스는 트럼프 대통령이 종전 MOU에 서명하고 호르무즈 해협의 통행료 폐지를 주장한 것으로, 중동 지역의 지정학적 안정과 글로벌 에너지 안보에 중대한 영향을 미치는 정책 변화를 담고 있습니다.",
-                "호르무즈 해협은 세계 석유 수송의 핵심 통로로, 통행료 폐지 주장은 국제 유가 및 해상 물류 비용에 직접적인 영향을 미칠 수 있는 경제적 파급력을 가집니다."
-            ],
-            "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxQN2UyRHV5OWhZX1B0ampTcEZSWFhoNFRkN29BLXZ5bHllZlU2UkhTMTMxUU5xd0ZINWlMMlVCaFVUOE1MUTFBcUpnT2RBNFFNSGRhVUo4WGIzZHJPeExRUGhKcUY5MXN4ZjVnRWJDYzVTSlBseXl6bmp6RFdVdHdsWVRpWTA?oc=5",
-            "category": "World",
-            "published": "2026-06-15T22:54:18.472004"
-        },
-        {
-            "title": "호르무즈 열리지만… 기뢰제거-통행료-2400척 체증 ‘첩첩산중’ - 동아일보",
-            "points": [
-                "호르무즈 해협 개방 이후 발생할 수 있는 기뢰 제거, 통행료 문제, 선박 체증 등 현실적인 난관들을 심층적으로 다루며, 단순한 합의를 넘어선 실제 이행 과정의 복잡성을 보여줍니다.",
-                "이 기사는 글로벌 해상 물류 및 에너지 공급망의 안정성에 대한 불확실성을 제기하며, 국제 무역과 산업 전반에 미칠 잠재적 경제적 영향을 분석하는 데 중요한 정보를 제공합니다."
-            ],
-            "link": "https://news.google.com/rss/articles/CBMic0FVX3lxTE1CeFg5dlBzejdsLVRrWnNIMXpJZ21seHdScXZyc3N5bEFFblZyUGpUdVNyQUhveWRGc3RYa3pWcHJ5V000UFFMSnpVaXY2UU5LbnMzREc5ZmxhbFUxR1N6SE9WWW1VLXB6YTduVUpZUldMMFnSAWZBVV95cUxQVGpGRXRFbWRqaTNEdGRGUWs2dEU0M3NCblBsSV8zUGZSTXRkRkl5TG9HV0NCSWFMTkRGSjA5dnFkZHBDbzVfR0xpTk1VNVNmRi1oTDBubk9OMFVfM2xUNmdhbE5UU1E?oc=5",
-            "category": "World",
-            "published": "2026-06-15T22:54:18.472012"
-        },
-        {
-            "title": "트럼프 “빌어먹을, 네타냐후”…종전 합의 1시간 전 베이루트 공습에 분노 - 한겨레",
-            "points": [
-                "트럼프 대통령이 종전 합의 직전 베이루트 공습에 대해 네타냐후 총리에게 강한 불만을 표출한 사건으로, 미국과 이스라엘 간의 외교적 긴장 관계와 중동 평화 프로세스의 복잡성을 드러냅니다.",
-                "이 사건은 중동 지역의 지정학적 역학 관계에 변화를 가져올 수 있으며, 향후 미국-이스라엘 관계 및 중동 평화 협상에 중대한 영향을 미칠 수 있는 외교적 파급력을 가집니다."
-            ],
-            "link": "https://news.google.com/rss/articles/CBMic0FVX3lxTE14X2FHZVk3WnhwZ1VEZUhGTVJzdDRwWjczTVNWWFJtMmY4OXlMbU94T3ZpV1U5T1F1N2dUZGo0ay1mUGI2Z0xwLUpxdGJ0UU1SRW5XdHd1VktlUjRRV1ZmOW9MVzFyMXB0WU54ZjRmMDNGY00?oc=5",
-            "category": "World",
-            "published": "2026-06-15T22:54:18.472013"
-        },
-        {
-            "title": "‘백악관 UFC’로 팔순 잔치 연 트럼프…“건국 정신과 무슨 상관이냐” - 한겨레",
-            "points": [
-                "이 기사는 트럼프 대통령의 특정 행보(백악관 내 이벤트)에 대한 비판적 시각을 담고 있으며, 이는 미국 정치권 및 여론의 분열 양상을 보여주는 사례입니다.",
-                "비록 직접적인 정책 변화는 아니지만, 세계 주요 강대국 지도자의 리더십 스타일과 대중적 이미지에 대한 논란은 국제 사회의 미국에 대한 인식과 외교적 신뢰도에 간접적인 영향을 미칠 수 있습니다."
-            ],
-            "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTE54VXA2LWYyQzMtTG5lVHdrQ29NQzUxNlRnS1FmNVl0Y1p1U1NjT1I3UGxybHk5V3AydWtXckRCd19VUjdEYThsYmRieHl1R1FIbTU2NXFSdGNQMjlmQ202N0hMcXg2S0owbzdPRjhHdw?oc=5",
-            "category": "World",
-            "published": "2026-06-15T22:54:18.472014"
+            "published": "2026-06-16T22:47:01.719507"
         }
     ]
 }
