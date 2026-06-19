@@ -1,210 +1,210 @@
 {
     "AI_Tech": [
         {
-            "title": "SKT, AI 기술 트렌드 세미나 개최…독파모 선행연구 기반",
+            "title": "생성형 AI 다음은 ‘현실 AI’…피지컬 AI 얼라이언스 2기 출범",
             "points": [
-                "SKT는 국내 대표 통신사이자 AI 빅테크 기업으로, 자체적인 AI 핵심 기술 연구 성과를 발표하는 것은 국내외 AI 기술 발전에 중요한 이정표가 됩니다.",
-                "'독파모'와 같은 선행 연구는 AI의 추론 능력, 즉 인간처럼 생각하고 문제를 해결하는 능력을 향상시키는 데 초점을 맞춥니다. 이는 차세대 AI 모델 개발의 기반이 되며, AI 서비스의 지능과 활용도를 혁신적으로 높일 잠재력을 가집니다."
+                "이 뉴스는 AI 기술의 다음 단계로 '피지컬 AI' (현실 AI)의 부상을 알리는 중요한 소식입니다. 이는 단순히 디지털 공간에서 정보를 처리하는 것을 넘어, 로봇이나 자율주행차처럼 물리적 세계와 상호작용하며 실제 행동을 수행하는 AI를 의미합니다.",
+                "'피지컬 AI 얼라이언스'의 출범은 이 분야의 기술 개발과 표준화를 위한 산업계의 공동 노력을 보여주며, AI가 가상 세계를 넘어 현실 세계의 다양한 산업(제조, 물류, 서비스 등)에 혁신을 가져올 잠재력을 시사합니다."
             ],
-            "link": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE1lbEpNaVFuUDRnRG5jeXFJcEhFMU5tTlhKOUVmbXU2cTNLNWVENVg0VW5XM2h3TnJRVVhlLVNXWXkyRk52QnhjRkplUzQtZw?oc=5",
+            "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTFBxOC1LSlNrbzN5YmE5OVBacVVzTjJLS2lXUldqODh0MnluNjRfY3Y2UlVfSGY4SnBaelJwT3pwS0o3NnV1ZU5jdE1TbTJRVXM4dXk5NWZpNXYySUdQaHdtcERlaFF1eExJbmdjaS1jNA?oc=5",
             "category": "AI_Tech",
-            "published": "2026-06-18T22:48:26.243796"
+            "published": "2026-06-19T21:56:32.943047"
         },
         {
-            "title": "목암생명과학연구소·에스티팜, AI 기반 RNA 설계 기술 공동연구 협약 체결",
+            "title": "피지컬AI 핵심 기술로 떠오른 온디바이스AI···선결 과제는",
             "points": [
-                "목암생명과학연구소와 에스티팜의 협력은 국내 바이오 및 제약 분야에서 AI 기술의 실제 적용 가능성을 보여주는 중요한 사례입니다. AI를 활용한 신약 개발은 글로벌 제약 업계의 핵심 트렌드입니다.",
-                "AI 기반 RNA 설계 기술은 기존 방식보다 훨씬 빠르고 효율적으로 신약 후보 물질을 발굴하고 최적화할 수 있게 합니다. 이는 신약 개발 비용과 시간을 획기적으로 줄여, 난치병 치료제 개발에 가속도를 붙이고 바이오 산업의 경제적 가치를 크게 높일 수 있습니다."
+                "피지컬 AI의 구현에 필수적인 '온디바이스 AI' (On-device AI) 기술의 중요성을 강조하는 뉴스입니다. 온디바이스 AI는 클라우드 서버를 거치지 않고 기기 자체에서 AI 연산을 처리하여, 실시간 반응 속도 향상, 데이터 프라이버시 강화, 네트워크 의존성 감소 등의 이점을 제공합니다.",
+                "이 기술은 자율주행차, 로봇, 스마트 기기 등 물리적 환경에서 즉각적인 판단과 행동이 필요한 AI 시스템의 핵심 동력이 됩니다. 기사에서 언급된 '선결 과제'는 이러한 기술이 상용화되기 위한 전력 효율성, 성능 최적화 등의 해결 과제를 제시하며 기술 발전의 방향을 보여줍니다."
             ],
-            "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTFBUNUN6LUZKeXYwanVXakxSRDg2SzRqbENmcFlMY194ckt4bzFrbWpNTGM5blB3dGV2ZHB5OThIN29jRGIxNFJ3b0hPR3Y1M1c4NTA1OEVQbVdTUG5GSTJEQjI0SHRXY3d3?oc=5",
+            "link": "https://news.google.com/rss/articles/CBMickFVX3lxTFBNcE51V2s3YXh3UWZsc2RhWmZwUVpWYkxwSURtNlJRRmtkcGVRQkY0Q3NMLTRibE5hMGhsd0k4WHFZMms2WjBEM3BtMEU2blE5TVp0Y282Vk9wLXk0SFZzQndlSmNmSVcxUWhXQTQ0THYxQdIBdkFVX3lxTFBMNFRjWHU0WlNlelB6MkRxQmRJTTQzVV9DTlFtcUlUaDBhTEdnNUxUTWU4TExLeFVJVmRVSW0yZkRHa2RicUgyUDRCZExWMS1sSm9JTDdLWGRsSFZITHpMOUhVVXcxbHY2cFNMemFQd0xxRmRPT0E?oc=5",
             "category": "AI_Tech",
-            "published": "2026-06-18T22:48:26.243803"
+            "published": "2026-06-19T21:56:32.943054"
         },
         {
-            "title": "[오늘Who] 롯데이노베이트 AI에이전트 '아이멤버'로 피지컬 AI 시장 도전, 김경엽 새 먹거리 확보 잰걸음",
+            "title": "인제대, 오하이오주립대와 ‘데이터 유출 없는 로컬 AI’ 연구‧개발",
             "points": [
-                "롯데이노베이트와 같은 대기업이 '피지컬 AI' 시장에 진출하는 것은 AI 기술이 단순 소프트웨어를 넘어 현실 세계와 상호작용하는 로봇 및 물리적 시스템으로 확장되고 있음을 보여주는 중요한 신호입니다.",
-                "'아이멤버'와 같은 AI 에이전트는 로봇, 자율주행 등 물리적 환경에서 작동하는 AI의 핵심입니다. 이는 제조, 물류, 서비스 등 다양한 산업 분야에서 자동화와 효율성을 극대화하며, 새로운 형태의 AI 기반 제품 및 서비스 시장을 창출할 잠재력을 가집니다."
+                "'데이터 유출 없는 로컬 AI'는 개인 정보 보호와 보안이 중요해지는 시대에 AI 기술이 나아가야 할 핵심 방향을 제시합니다. 이는 데이터를 중앙 서버로 전송하지 않고 각 기기나 로컬 환경에서 AI 모델을 학습시키고 추론하는 기술로, 민감한 정보의 유출 위험을 원천적으로 차단합니다.",
+                "오하이오주립대와의 공동 연구는 이러한 프라이버시 강화 AI 기술이 글로벌 학계에서도 중요한 연구 주제임을 보여주며, 헬스케어, 금융 등 보안이 필수적인 분야에서 AI 활용을 확대하는 데 결정적인 역할을 할 것입니다."
             ],
-            "link": "https://news.google.com/rss/articles/CBMic0FVX3lxTE1Uc2xqMEhiM3M1d241czFaMDdfcjhqVVI1TTgwdFY3RmozU2RfeExPUXphRy11enp0am5LSHFwclNpVnQxRENKX21tNnNOblZ1bnZPLTJiNndWck1Pc1Nta3Q5eHpQUmVRLXdETWhGWVpFODQ?oc=5",
+            "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTFBqRnR0dEQwZmMzRXptUFl4ZGpGSk9vcTB0MVkwY19wTnplUlBDQ3Z6SkhGZTFIaDhzQzNVWm1WUzkySF9NMkVLQ2xDeXcwaEhKVUluVjk4YXB1MWxVWS1lWElUbENhbUU?oc=5",
             "category": "AI_Tech",
-            "published": "2026-06-18T22:48:26.243804"
+            "published": "2026-06-19T21:56:32.943056"
         },
         {
-            "title": "국방부, 제2차 국방데이터 정책포럼 개최 \"5개 AX 거점 내 '군·산·학 협력센터' 구축 착수\"",
+            "title": "전남대·마틸로AI, 생성형 AI 기반 신약 후보물질 설계 기술 개발",
             "points": [
-                "국방부가 'AX 거점' 내 군·산·학 협력센터를 구축하는 것은 국가 안보와 직결된 분야에서 AI 기술 개발을 가속화하려는 국가적 차원의 전략적 투자입니다. 이는 AI 기술의 중요성을 강조하고, 관련 연구 및 산업 생태계를 강화하는 데 기여합니다.",
-                "이러한 협력센터는 국방 분야의 특수성을 고려한 AI 기술(예: 자율 작전, 지능형 감시, 사이버 보안) 개발을 촉진하고, 민간 AI 기술을 국방에 접목하는 통로 역할을 합니다. 이는 AI 기술의 고도화를 이끌고, 관련 산업의 성장 동력이 될 뿐만 아니라 국가 경쟁력 강화에도 중요한 영향을 미칩니다."
+                "이 뉴스는 생성형 AI가 신약 개발이라는 고부가가치 산업에 혁신적인 변화를 가져오고 있음을 보여줍니다. 생성형 AI는 방대한 화학 물질 데이터와 생체 반응 정보를 학습하여, 기존 방식으로는 상상하기 어려웠던 새로운 구조의 신약 후보 물질을 빠르고 효율적으로 설계할 수 있게 합니다.",
+                "이는 신약 개발에 드는 막대한 시간과 비용을 획기적으로 줄여줄 잠재력을 가지며, 난치병 치료를 위한 새로운 가능성을 열어주는 중요한 기술적 돌파구로 평가됩니다."
             ],
-            "link": "https://news.google.com/rss/articles/CBMiTEFVX3lxTE9ORUVPeDgyb094UkJ6OW9LNmVsak9qb2VEQUVMZkFGWUh2d3hGQlc0OW9pTDJGTmV4TjlQZmxKeHc0bjlleU43TjJSSkQ?oc=5",
+            "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE54TVZOLTcwNy05ZDFHUE5tSGdEeUVLZFNjT2NSYkZxeGExTk5aVVZSTVgyQVJxcENRS0xBYTFsOE5HQldIS1dEWHFmLWxOQWdYSkhwS0VWXzRKc1JsTFFHdWpIMGtrbC1lYmZxWQ?oc=5",
             "category": "AI_Tech",
-            "published": "2026-06-18T22:48:26.243805"
+            "published": "2026-06-19T21:56:32.943058"
         },
         {
-            "title": "“AI 기본법 시행 원년, 법제 과제는”… 《인공지능법 연구》 출판 기념 세미나",
+            "title": "신약개발 필수 인프라 된 AI…제약업계 기술 고도화 경쟁",
             "points": [
-                "'AI 기본법 시행 원년'이라는 언급은 AI 기술의 급속한 발전에 발맞춰 법적, 윤리적, 사회적 틀을 마련하려는 국가적 노력이 본격화됨을 의미합니다. 이는 AI 기술의 건전하고 지속 가능한 발전을 위한 필수적인 단계입니다.",
-                "AI 법제화는 AI 기술 개발 및 활용에 대한 명확한 가이드라인을 제시하여 기업들이 예측 가능성 속에서 혁신을 추구할 수 있도록 돕습니다. 이는 AI 기술의 신뢰성을 높이고, 책임 있는 AI 개발 문화를 정착시켜 장기적으로 AI 산업의 안정적인 성장과 글로벌 경쟁력 확보에 기여합니다."
+                "이 기사는 AI가 더 이상 선택 사항이 아닌, 신약 개발 산업의 '필수 인프라'로 자리매김하고 있음을 강조합니다. 이는 제약사들이 AI를 활용해 후보 물질 발굴부터 임상 시험 설계, 약물 재창출에 이르기까지 전 과정의 효율성을 극대화하려는 글로벌 트렌드를 반영합니다.",
+                "제약업계의 '기술 고도화 경쟁'은 AI 도입이 단순한 유행을 넘어 기업의 생존과 직결되는 핵심 역량이 되었음을 보여주며, AI 기술이 특정 분야를 어떻게 근본적으로 변화시키고 있는지를 명확히 보여주는 사례입니다."
             ],
-            "link": "https://news.google.com/rss/articles/CBMickFVX3lxTE15anl6UWRGRzk5cW5SUGIySXd2empiSUlLMmdjVFVxT3NZUUdaY1ZyRGI0TlNYeVF5cHQ0RWlrWHBpdHRmaTN6TjNhdzZadElibDVzOVEtNXRCTFFNV25MN2gtSXdLYk94Z1VMX19Gc1ZnQdIBckFVX3lxTE15anl6UWRGRzk5cW5SUGIySXd2empiSUlLMmdjVFVxT3NZUUdaY1ZyRGI0TlNYeVF5cHQ0RWlrWHBpdHRmaTN6TjNhdzZadElibDVzOVEtNXRCTFFNV25MN2gtSXdLYk94Z1VMX19Gc1ZnQQ?oc=5",
+            "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTE93V0lmTFZkdEdsa3dycmdQUHlHMElZNXAzbzZEMzVqRnM3QTFUdlo0NDYweEJtZGlGQk1JR08zYWJfeXU0blZmLUF3NFBUVWw3MlNwWngxRVBBOWp6dkhHeF84eC1fV1V6VV9Ma1hn?oc=5",
             "category": "AI_Tech",
-            "published": "2026-06-18T22:48:26.243806"
+            "published": "2026-06-19T21:56:32.943059"
         }
     ],
     "IT_Biz": [
         {
-            "title": "[기획] 팀 쿡 “100년만 처음”… 애플도 백기 든 ‘칩 대란’",
+            "title": "[단독] 현대차그룹, 보스턴다이내믹스 지분 더 산다…100% 소유 자회사로 - 매일경제",
             "points": [
-                "전 세계적인 반도체 공급망 위기가 심화되고 있으며, 애플과 같은 글로벌 IT 공룡 기업조차 생산 차질을 겪고 있음을 보여주는 중요한 경제 뉴스입니다.",
-                "반도체 부족 현상이 IT 산업 전반의 생산량 감소와 제품 출시 지연을 야기하며, 이는 전 세계 경제 성장률과 소비자 물가에 직접적인 영향을 미칠 수 있습니다."
+                "현대차그룹이 세계적인 로봇 기업 보스턴다이내믹스를 100% 자회사로 편입하는 것은 미래 모빌리티 및 로봇 산업에 대한 대규모 전략적 투자를 의미합니다.",
+                "현대차그룹의 로봇 기술 내재화 및 사업 확장 가속화, 로봇 산업 내 경쟁 구도 변화, 자율주행 및 스마트 팩토리 등 미래 기술과의 시너지 창출이 기대됩니다."
             ],
-            "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTFBGV2ppMFhqSHQ1LUhoRnZzMmFUOVJoY2tvQU1tX1hqdHExaGoybmlQeGlPTzBUU3dYcS1kclNWOVppa2lXbVV6dGZvamE5VEE?oc=5",
+            "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE9aVjd1Y2FjWFBFWDhUa2VRQlZ1RE5naGxJSkAzc3ZTY1dkbmxNa1VDS28wR0xVelFVNTNCM1RVcXJhZ1lxMV9HV2Jnbl9sbXROa05oLXhB?oc=5",
             "category": "IT_Biz",
-            "published": "2026-06-18T22:48:56.684449"
+            "published": "2026-06-19T21:57:00.919565"
         },
         {
-            "title": "K반도체 장비, 머스크 테라팹 생태계 입성",
+            "title": "인텔·애플 메모리 날갯짓이 한국엔 태풍으로…‘K자 양극화’ 심화 우려 - 한겨레",
             "points": [
-                "한국의 반도체 장비 기술력이 일론 머스크의 대규모 반도체 생산 시설인 '테라팹' 생태계에 진출한다는 소식으로, 국내 기술의 글로벌 경쟁력을 입증하고 대규모 사업 협력 가능성을 시사합니다.",
-                "이는 K반도체 산업의 새로운 성장 동력이 될 수 있으며, 차세대 반도체 생산 기술 표준화 및 시장 확대에 중요한 역할을 할 경제적, 기술적 변화를 의미합니다."
+                "글로벌 IT 공룡 인텔과 애플의 메모리 반도체 시장 진출 및 자체 개발 움직임은 한국 중심의 메모리 산업 판도를 뒤흔들 수 있는 중대한 변화입니다.",
+                "한국 반도체 기업들의 시장 점유율 및 수익성 하락 가능성, 기술 경쟁 심화, 국내 반도체 산업의 'K자 양극화' 심화 우려, 공급망 재편 가능성이 핵심 변화 포인트입니다."
             ],
-            "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTFB0M3NiMVh0S1dkMmRidG9wTHpCbk16eVh5RHhteGhkVjNLWS1ET2JVZGZVVXEwd2YyTW5idkxSUEM0NjByLURCRmFkb3FFb3hTOE53N3J3?oc=5",
+            "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTFAxUzczYkw5ZmtfN0NNYWF3Qm5oekk0WFVFVG9xRlhuX041VGNnMGNVUWduNVZhOFFDNHZQNVNxUzA2VWo0SlluR2hiLWc1Z3YyVDBmQTNjbkM1Z05vN1FxbVNwUTNpYXY4QVE?oc=5",
             "category": "IT_Biz",
-            "published": "2026-06-18T22:48:56.684456"
+            "published": "2026-06-19T21:57:00.919571"
         },
         {
-            "title": "[모닝 뉴스브리핑] 미 상원의원들, 8월 휴회 전 비트코인 명확성 법안 논의 예정 外",
+            "title": "2000만원대 전기차도 도심 자율주행… 한국 자동차 ‘빈 껍데기’ 될 수 있다 - 조선일보",
             "points": [
-                "미국 상원에서 비트코인 및 암호화폐 관련 법안을 논의한다는 소식은 글로벌 암호화폐 시장의 규제 불확실성을 해소하고 제도권 편입을 가속화할 수 있는 중대한 정책 변화입니다.",
-                "명확한 법적 프레임워크가 마련될 경우, 암호화폐 시장의 투명성과 안정성이 높아져 기관 투자 유입이 증가하고 관련 기술 및 서비스 개발이 활성화될 경제적, 정책적 전환점이 될 수 있습니다."
+                "저가형 전기차의 도심 자율주행 기술 도입은 자동차 시장의 대중화를 가속화하며, 한국 자동차 산업의 경쟁력과 미래 생존 전략에 대한 근본적인 질문을 던집니다.",
+                "자율주행 기술의 보편화 및 가격 경쟁 심화, 전통 자동차 제조사들의 위기감 고조, 소프트웨어 중심의 자동차 산업으로의 전환 가속화, 한국 자동차 산업의 구조적 변화 요구가 핵심입니다."
             ],
-            "link": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE9DVE9jVnIwMi1zZGtDYUZ6b3Z3d0VPOC1fU3YySmhtVDNYQmpxZzYwODBTNEVDZkc2ZVpCOXB2ek80SFRhaDhLRWsyOUR1VkY1MzNieFBxZjPSAV5BVV95cUxPTTVTR29ZVWNyem91VEFNeWJRdWdqeS15MDk1bVZsUEdkX0VaZWdGb3h0N3A0c1REQ1QtZmFDYlVuMGRnalFDMEVEUzFNeTkxVWx2bExmUVV4cWJaUENn?oc=5",
+            "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNRGw0M3k5RDExSC1SQVc1M1lrbFZJel94UHFCRWhVc1N3T1QwS1pMdTdWUFZ2VmRobHB5allkZWZON2RyR0tmdjFhUi1faGhoMDBZS1o2Qnl5WTk0eFpPckt3bGVyMXYyRWhjODM0ZEI4bnJ0Zm1UbG5fY2RBMENJSUs2RkRJYWw3?oc=5",
             "category": "IT_Biz",
-            "published": "2026-06-18T22:48:56.684458"
+            "published": "2026-06-19T21:57:00.919572"
         },
         {
-            "title": "불면증에 병원 갔더니… 약 대신 ‘스마트폰 앱’ 처방",
+            "title": "AI 대부 얀 르쿤 \"xAI는 실패작\"... AI 거품도 경고 - 조선일보",
             "points": [
-                "불면증 치료에 스마트폰 앱이 처방되는 사례는 디지털 헬스케어 분야의 혁신적인 서비스 모델 도입을 보여주며, IT 기술이 전통 의료 분야와 융합되는 중요한 변화를 의미합니다.",
-                "이는 질병 치료 및 건강 관리 방식의 패러다임을 변화시키고, 새로운 디지털 치료제 시장을 창출하며, 의료 접근성을 높이는 기술적, 경제적 파급 효과를 가져올 것입니다."
+                "AI 분야의 세계적 권위자인 얀 르쿤 교수가 특정 AI 기업의 실패를 언급하고 AI 시장의 거품을 경고하는 것은 AI 산업의 현재와 미래에 대한 중요한 통찰을 제공합니다.",
+                "AI 기술 개발 및 투자 방향에 대한 재평가, AI 시장의 과열 양상에 대한 경고, 실제 가치 창출 능력에 대한 회의론 확산 가능성, AI 기업들의 생존 전략 변화가 핵심 변화 포인트입니다."
             ],
-            "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTE9oWWFrdVp0MGR2SEFXU1JoRnIxNElJanhBZ2hmcGNCbXJOTnV1UXNzMktsUVBWRDJJalZ1amVQdG5odEtPZF9sbGJWT3dNNmktc2FCbTRoVXIyNFFlTHdzMW9IOFBfUjEtYk15VTVrX1psc01wQjI2dQ?oc=5",
+            "link": "https://news.google.com/rss/articles/CBMigwFBVV95cUxOdXpLZmlmZ3Y3VlFRZElmTi1MR190SkptNjhIdDdNNVNDbDBRZ21WdVN2dk9HXzhNNUhEa2NRa2pZZmk5Tm1PR1paXzEyWUJiUmR3TTBTOVhKeUozUDVSQTRMei0wZGJ2X2NOT01QTUxNZmN5U0ZZNWlSVmlSRDJFSGZIcw?oc=5",
             "category": "IT_Biz",
-            "published": "2026-06-18T22:48:56.684459"
+            "published": "2026-06-19T21:57:00.919573"
         },
         {
-            "title": "SK하이닉스, HBM4E 샘플 공급 시작",
+            "title": "LG 고위관계자 \"스페이스X와 기업 간 이야기되는 것 있다\" - 연합인포맥스",
             "points": [
-                "SK하이닉스가 차세대 고대역폭 메모리(HBM)인 HBM4E 샘플 공급을 시작했다는 소식은 인공지능(AI) 및 고성능 컴퓨팅(HPC) 시장의 핵심 부품 기술에서 한국 기업의 선도적인 위치를 보여줍니다.",
-                "HBM4E는 AI 반도체 성능 향상에 필수적인 기술로, 이의 개발 및 공급은 글로벌 AI 산업의 발전 속도를 좌우하고, SK하이닉스의 시장 지배력을 강화하는 중요한 기술적, 경제적 변화를 의미합니다."
+                "LG그룹 고위 관계자가 스페이스X와의 협력 가능성을 시사한 것은 양사 간의 대규모 전략적 파트너십 또는 투자로 이어질 수 있는 중대한 발표입니다.",
+                "LG그룹의 미래 사업 확장 (우주, 위성 통신, 모빌리티 등), 스페이스X의 아시아 시장 진출 가속화, 위성 통신 및 관련 서비스 시장의 경쟁 구도 변화, 새로운 기술 융합 서비스 탄생 가능성이 핵심 변화 포인트입니다."
             ],
-            "link": "https://news.google.com/rss/articles/CBMigwFBVV95cUxPS2FPOVJhMGtReWRSX2JnT3ZYWldfMERJeDFVMjJuTDZyTEM5Q0VMWklnZm0xZlpURUdhZWRyLWRBVnI1WW5RbVBLVXVPbmZ1WGs1ZFhCTEFWQ1ZRUkJpYUhpOHZ5eXN4RjdPcWZBUnEwXzZuSy1iYkxXbFNzQklDcVFkVQ?oc=5",
+            "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE1oNmFZd1BVWXVYLW41M0F6SVBhX0VCUzM3MlJhczlRdEpFcHhWdWtxcm9fcUktbVNqcDVneC1hMlF0WU9GNk8ydGlIYkVIU2FMd19EQTFQbk12bDdteG9RZF8xNEVMbVRHdUgxZFhqY04?oc=5",
             "category": "IT_Biz",
-            "published": "2026-06-18T22:48:56.684459"
+            "published": "2026-06-19T21:57:00.919574"
         }
     ],
     "Economy": [
         {
-            "title": "매파로 돌변한 美 연준 … 금리인상 가능성 폭등에 국내 증시 암초되나 - 뉴데일리",
+            "title": "종전에도 고환율 안 꺾이네…미 금리 인상 가능성 등으로 1500원대 고착 - 한겨레",
             "points": [
-                "미국 연방준비제도(Fed)의 매파적(통화 긴축 선호) 기조 전환은 글로벌 금융 시장에 직접적인 영향을 미치는 중대 정책 변화입니다.",
-                "금리 인상 가능성 증가는 전 세계 자본 흐름, 투자 심리, 환율 변동성 확대 및 국내 증시의 변동성 심화로 이어질 수 있습니다."
+                "이 뉴스는 미국 금리 인상 가능성과 이에 따른 전 세계적인 고환율 기조 고착화 현상을 다루며, 이는 글로벌 경제 전반의 투자, 무역, 물가에 광범위한 영향을 미치는 거시경제적 변화를 시사합니다.",
+                "핵심 포인트는 미국 연방준비제도(Fed)의 통화정책 방향과 이에 따른 주요국 환율 변동성 증대, 그리고 이로 인한 기업들의 수출입 환경 및 가계의 구매력 변화 가능성입니다."
             ],
-            "link": "https://news.google.com/rss/articles/CBMie0FVX3lxTE91LTQxNzlQX3Y4c2N0Z0Y2TjJLeXcxMVEzVlBCVEZMRmxIT09UcFBocGlGV1Y5RE5LeHpJZlphMmdVTGRPN25ING5QQ1daNUs2MENsREpkSVB1amdRcFlDcjA1OGtWcVZsLXFUUFFJd1pxd1VKZWhCYVAzNNIBgAFBVV95cUxNT1hfVW52VHprelFpSElTWmkySEo4bWZraE1XRkJ4RERJOVM0d3AxbHc0aVYwOGRwSDJybjR3Q2tXU2NaUmNqNVJydUdlOTFfeVF0bnJVdXlrbUVhdnIyaE1yVERZQldvU3dneUZmX2Y3bVB2ZGNvOENERWlSLWlEMw?oc=5",
+            "link": "https://news.google.com/rss/articles/CBMickFVX3lxTE42OTZkYlNQeDJNWkxmdW1VT0hQd21qY3JIaE1QVjJ0UnRtZGxibXROY1U0WHVLSWQ4TE9sQjRnX3pseVl1UkN5RFIzMDNUcVF3bXJiLUVBTTdrT3NrN2EwdjBEaGd2enBJTTZBX2hudXFQdw?oc=4",
             "category": "Economy",
-            "published": "2026-06-18T22:49:25.655138"
+            "published": "2026-06-19T21:57:37.375162"
         },
         {
-            "title": "미 ‘앤트로픽 AI’ 접근 차단에 유럽 반발…G7 ‘동맹국엔 허용’ 논의 - 한겨레",
+            "title": "美, AI ‘미토스’ 수출 금지 중심에 韓 통신사?… 와이어드 “中 통신산업 진출 20년돼” - Chosunbiz",
             "points": [
-                "미국이 주요 AI 기업인 앤트로픽 AI에 대한 접근을 제한하고 유럽이 이에 반발하는 것은 글로벌 AI 기술 패권 경쟁과 국제 기술 규범 형성의 중요한 단면을 보여줍니다.",
-                "G7 내 동맹국 허용 논의는 AI 기술의 지정학적 중요성과 함께 국제 협력 및 동맹 관계에 기반한 기술 블록화 가능성을 시사합니다."
+                "이 뉴스는 미국이 인공지능(AI) 핵심 기술인 '미토스'의 대중국 수출을 금지하려는 움직임과 한국 통신사의 연루 가능성을 다루며, 이는 미중 기술 패권 경쟁 심화와 글로벌 AI 및 통신 산업의 공급망 재편에 중대한 영향을 미칠 수 있는 소식입니다.",
+                "핵심 포인트는 AI 기술을 둘러싼 국가 간의 전략적 경쟁 심화, 주요 기술의 수출 통제 강화로 인한 글로벌 기술 협력 및 시장 역학 관계 변화, 그리고 한국 기업들이 직면할 수 있는 지정학적 리스크입니다."
             ],
-            "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTFAyc1dYOUZDcWNoV0Q5WWkxRW0wTmdjNW9IYmRMNnVkWHRvUE4wb00zbzJSMmEtZ0dhb0d4VkVMWC1zUTlpSEIzVHd0X2RZWjVXc2g3cGdoc1pacnczLUhOQjJtQ1I2NE9UckRGQTJ3?oc=5",
+            "link": "https://news.google.com/rss/articles/CBMiggFBVV95cUxQMmU0ek1nOHBQYnBTeXVJWjh6VlBZcUJybDRkeUhscmNzQkZjOVNTaXVTZTRjc0pRdHVLMXA1aThpcEdLRF9lVmNoYjMxUS1jRDFqRjlfOUVscVJkb1dxbHNzMGJfWERqc2lDckdWQlYxeGlMTC1sdDJQbnRhOUpDT293?oc=4",
             "category": "Economy",
-            "published": "2026-06-18T22:49:25.655146"
+            "published": "2026-06-19T21:57:37.375167"
         },
         {
-            "title": "스페이스X·테슬라 합병설 확산…‘머스크 제국’ 재편되나 - 글로벌이코노믹",
+            "title": "나스닥 상장 앞…현대차, ‘보스턴 다이내믹스’ 지분 100% 소유한다 - 한겨레",
             "points": [
-                "일론 머스크가 이끄는 스페이스X와 테슬라의 합병설은 전기차, 우주 산업, AI 등 여러 첨단 산업의 판도를 바꿀 수 있는 초대형 기업 재편 가능성을 내포합니다.",
-                "이러한 합병은 기술 융합을 가속화하고, 자본 및 기술 역량을 한데 모아 혁신적인 서비스와 제품 개발에 박차를 가할 수 있는 잠재력을 가집니다."
+                "이 뉴스는 현대차가 로봇 개발 기업 보스턴 다이내믹스의 지분 100%를 확보하며 완전한 소유권을 갖게 된 소식으로, 이는 현대차의 미래 모빌리티 전략 강화와 로봇 산업 내 입지 확대를 의미하는 대규모 투자 및 전략적 변화입니다.",
+                "핵심 포인트는 글로벌 자동차 기업이 로봇 기술을 내재화하여 자율주행, 스마트 팩토리, 서비스 로봇 등 미래 산업 분야에서의 경쟁력을 확보하려는 움직임이며, 이는 로봇 기술 상용화와 산업 구조 변화를 가속화할 것입니다."
             ],
-            "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPbTd2c3dDX2s0ZkVadE53cHdNZzhUZDg2T09tVEUtOWo5UEtYYXlNVGJ4aHdrS01TbmR4aXNLNGdVQ1FCREFyVGVRTDNidXRVNHRSaGVWOFJrNWtCbWI0T25PSGhWWk9tZHFCdzNiOV9aR0RFbjZOVUZwR1JuajF4N1hGMWxBczFV?oc=5",
+            "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTFB5b2RoWXpXSkIwS2tSSkJuU2ZubWQ4MWFSZXFmUmdic1M0dVZrTHpjSkhmNmphcGY0cHVNekpyYnY0QUYzbHR5ZTJtMXEtQWYzVk9GWjgzRG9HTWpCMDZJX1B0dTZkOUdzTnc?oc=4",
             "category": "Economy",
-            "published": "2026-06-18T22:49:25.655147"
+            "published": "2026-06-19T21:57:37.375169"
         },
         {
-            "title": "뉴욕증시, 반도체 랠리 재개에 강세 마감…나스닥 1.9%↑(종합) - 연합뉴스",
+            "title": "삼전 ‘테슬라’ 넘고, 하이닉스 ‘마이크론’ 제쳤다…세계 뒤흔든 ‘K-반도체’ - 매일경제",
             "points": [
-                "뉴욕 증시의 반도체 랠리 재개는 글로벌 기술 산업의 핵심 동력인 반도체 부문의 강력한 회복세와 성장 기대를 반영하며, 전 세계 증시에 긍정적인 영향을 미칩니다.",
-                "나스닥 지수의 큰 폭 상승은 기술주 중심의 시장 강세를 보여주며, 이는 AI, 데이터 센터 등 미래 산업의 투자 확대로 이어질 수 있습니다."
+                "이 뉴스는 삼성전자와 SK하이닉스 등 한국 반도체 기업들이 글로벌 경쟁사들을 제치고 시장에서 두각을 나타내고 있다는 소식으로, 이는 세계 반도체 시장의 판도를 변화시키고 한국 경제의 핵심 동력으로서 반도체 산업의 위상을 재확인하는 중요한 지표입니다.",
+                "핵심 포인트는 인공지능(AI) 및 고성능 컴퓨팅 수요 증가에 따른 메모리 반도체 시장의 성장과 한국 기업들의 기술 리더십 강화, 그리고 글로벌 기술 공급망 내에서의 한국 반도체 산업의 전략적 중요성 증대입니다."
             ],
-            "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE9GNmRtbnUySXNmM0pnezhYeF9zYVB6bk82cmVQUzh6SVhWX1phbkhCM24zejZLZmlLdEc3RzE5VGpTb2RlTEFKVXJIWWEtZjFaMWJpZzRiNW9GbEnSAWBBVV95cUxONzBVLUlheDVvd3JaRUdPcU5XX0ItNjM4MVo0dGlZbGgxV1g3UzUxNHQyX3dSMFg1YWhjLXktN09EaXJ4NzZWTnVpYjFyVkVaVzRWLUtBb1BDeWdyeExzV1U?oc=5",
+            "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE4yd3NOZ1FPZGZmcnBhQVNXNEFka1VOTE5nT01pTjl3blJ0dERsNGdFLTVIb0F1b1Y2MlBuaGl1MHJFRVFaTTdpS0ZzWlE0djlDbFA5cQ?oc=4",
             "category": "Economy",
-            "published": "2026-06-18T22:49:25.655148"
+            "published": "2026-06-19T21:57:37.375170"
         },
         {
-            "title": "애플 팀 쿡, 메모리 대란에 아이폰 가격 인상 예고 - MBC 뉴스",
+            "title": "반도체 랠리 탄 아시아…韓·日·대만의 개미 투자 과열? - 한국경제",
             "points": [
-                "글로벌 IT 공룡 애플의 아이폰 가격 인상 예고는 전 세계 스마트폰 시장의 가격 정책과 소비자 구매력에 직접적인 영향을 미치는 중요한 소식입니다.",
-                "메모리 반도체 공급난으로 인한 가격 인상은 글로벌 공급망 불안정성이 주요 기업의 제품 가격 및 수익성에 미치는 영향을 명확히 보여주는 사례입니다."
+                "이 뉴스는 아시아 주요국(한국, 일본, 대만)에서 반도체 산업의 강세와 함께 개인 투자자들의 과열 양상을 분석하며, 이는 글로벌 반도체 시장의 활황과 동시에 잠재적인 시장 과열 및 투자 리스크에 대한 경고를 담고 있습니다.",
+                "핵심 포인트는 글로벌 기술 산업의 핵심인 반도체 섹터의 투자 동향, 개인 투자자들의 시장 참여 증대가 가져올 수 있는 시장 변동성 확대 가능성, 그리고 아시아 주요 경제국들의 금융 시장 안정성에 대한 함의입니다."
             ],
-            "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTE8xVU0wUkNtZ2FBUnAxN1RQVHNVU1BMcnhvQUFVVDRmeVU2ZjFVUG5lT1BEME5FYlh0THhOLW5OQV8zMnZaTUJMNl83NTFVZ2lZbVdIZU00Y3NGZlk4SlZsbkdlS09UZWV3Snh5dHRaRGlMVjhj0gF0QVVfeXFMUEZPdnZreG1tMTVsM2ZPV1NqcmtycVp6TzdGUlNRMDVRckFtVzBmYXNFcUthcjlkemNPZE1OQllaT0FUX1NrZHlRUzh4bld1QnRpNVRDem0xSzE5Z2tCRFBuQ1J2SE5tWm5JYWRudnEtejhjVFg?oc=5",
+            "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE1DRWVzWTBHWXhoVnpud3VCc3QxQVpJU2hYQ21qOU9XbW8xSmtYUmxnTm4xeldIUlduVEFlZVM1R1EyRmxfT2xWUzR5UndCcktrNFNJY0huZWczd9IBVEFVX3lxTE5UNDZiekE3V1dwNi1mUXVQNXgzSVNVTkJMQk5xMFp3UUo4Z1hWU2xzaVdZUTk3ZGZzaE5FdWgzcDlQcjBjMDJCZUs2eC12OVBEX3lEWg?oc=4",
             "category": "Economy",
-            "published": "2026-06-18T22:49:25.655149"
+            "published": "2026-06-19T21:57:37.375171"
         }
     ],
     "World": [
         {
-            "title": "밴스 부통령 “하룻밤 새 원유 1천250만 배럴 호르무즈 통과”…미·이란 평화 합의 효과",
+            "title": "이스라엘-헤즈볼라, 미국·카타르 중재로 휴전 합의",
             "points": [
-                "미국과 이란 간의 평화 합의가 중동의 핵심 해상 운송로인 호르무즈 해협의 원유 통과량에 직접적인 영향을 미치고 있음을 보여주는 소식입니다. 이는 국제 에너지 시장과 중동 정세에 큰 파급력을 가집니다.",
-                "호르무즈 해협의 안정은 글로벌 원유 공급망에 결정적인 영향을 미치며, 미-이란 관계 개선이 국제 유가 안정 및 에너지 안보에 긍정적인 변화를 가져올 수 있음을 시사합니다."
+                "중동 지역의 주요 분쟁 당사자인 이스라엘과 헤즈볼라 간의 휴전 합의는 지역 안정에 중대한 영향을 미치며, 국제사회의 중재 노력이 결실을 맺은 주요 외교적 성과입니다.",
+                "이 합의는 레바논-이스라엘 국경 지역의 긴장을 완화하고, 더 큰 규모의 지역 분쟁으로 확산될 위험을 줄이는 중요한 전환점이 될 수 있습니다."
             ],
-            "link": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE1ldUh6VjkxUy1wejE5Zkswd0dFUkpEOUIteTZBRk84QmhUS1NEMFpfY3RvRERZeXg0bms5Z0xiQmJkSmhOajc5SUVHdklSN0Iz0gFTQVVfeXFMT25DRENCSllwblRCUGFsWGxoMlEwU3EyRFZpaU1vQTJDWHpVN2hJcEZrUDNXaHNvVEFXMjUwZW5oaVN5RjlsaWZtYWxMbHh2MXZMSE0?oc=5",
+            "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTE9LaUpQZVhEQ2FCdmgtaW13SU42dkx5eW1vQU5yR0Ywc2dVcnBEX2pZMjdqc2MyTk1Vcm1ONnJkRjV2M29uSlp3NTRLb01aV1hOWG1KUnlRVHBkVW1jQ2ZlSU9XS21GR1pDaUJPMGZzZTVQLTcz0gF0QVVfeXFMTjM0MDB0cWdDNmdGMmhER0NPN09EUjRFaUhmWGIxREhjcWFjQ1RnTFMxYVk4LVNSNVZ6OUJmOF9aclUyWmNMZ1FQYldvRHZJb05nZ3FrVWJaSDFUMTBQMGgzM2xKd3BIajBKU1VpSllPSnJCWFM?oc=5",
             "category": "World",
-            "published": "2026-06-18T22:49:58.549071"
+            "published": "2026-06-19T21:58:08.972005"
         },
         {
-            "title": "레바논 전투 포기 못하는 네타냐후에 트럼프 \"미국 없인 이스라엘 없다\" 경고",
+            "title": "우크라, 모스크바 최대 드론공습 … 러 '즉각 보복'",
             "points": [
-                "트럼프 전 대통령이 이스라엘의 레바논 전투 지속에 대해 미국의 지원 철회 가능성을 경고한 것은 중동 지역의 안보 지형과 미국-이스라엘 동맹 관계에 중대한 변화를 예고하는 발언입니다.",
-                "이 발언은 이스라엘의 대외 정책에 직접적인 압박으로 작용하며, 중동 분쟁의 확전 가능성과 미국의 개입 수준에 대한 국제사회의 논의를 촉발할 수 있습니다."
+                "우크라이나가 러시아 수도 모스크바에 대규모 드론 공격을 감행한 것은 전쟁의 양상을 변화시키는 중대한 군사적 도발이며, 러시아의 즉각적인 보복 예고로 인해 전황이 더욱 격화될 가능성이 높습니다.",
+                "이 사건은 러시아 본토에 대한 우크라이나의 공격 능력을 보여주며, 전쟁의 지리적 범위와 강도를 확대시켜 국제 안보에 심각한 영향을 미칠 수 있습니다."
             ],
-            "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTE9TZGxpVlJQUGEzdVVPSUNaa0l0SnJQVkJscmZ4OWlwcUhucENGT3h0Z0JVN1N3cUtvVDhabWxRTWVYYkZtb0NYblhiZV93ZlF3blJkbWhzcGZIUzU4N00yQ21LVTJBU3N6eHNB?oc=5",
+            "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE5aekZ1bGcwSjd2ZnJkUE5HNzhwYktHMDhrajVQbnQ4UjV6c2Z5MVJCc1N2RHdKU0dUTTBGdzkxZ2lsZlByMW1qLWlOazVDam9rUWc?oc=5",
             "category": "World",
-            "published": "2026-06-18T22:49:58.549079"
+            "published": "2026-06-19T21:58:08.972011"
         },
         {
-            "title": "김여정, G7 ‘북한 비핵화’ 목표에 “결코 실현할 수 없어…핵 보유 반드시 고수”",
+            "title": "호르무즈 열리자 중동 원유 생산도 재시동…2주내 정상화 예고",
             "points": [
-                "북한이 G7의 비핵화 목표를 공식적으로 거부하고 핵 보유 의지를 재천명한 것은 국제사회의 대북 제재 및 비핵화 노력에 대한 정면 도전이며, 한반도 및 동북아시아 안보에 심각한 위협을 제기합니다.",
-                "이는 북한의 핵무력 고도화 정책이 지속될 것임을 분명히 하며, 국제 외교 및 안보 전략에 있어 북한 핵 문제 해결의 난이도를 더욱 높이는 핵심적인 발언입니다."
+                "세계 원유 수송의 핵심 통로인 호르무즈 해협의 안정화와 중동 원유 생산 재개는 글로벌 에너지 시장에 직접적인 영향을 미치는 매우 중요한 경제 뉴스입니다.",
+                "원유 공급의 정상화는 국제 유가 안정에 기여하고, 전 세계 경제의 불확실성을 줄이는 긍정적인 신호로 작용할 수 있습니다."
             ],
-            "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE5MZzFvZk1zY3RQQy1sbUlPXzcwX2JDajRpNXhacUE5cU00U2p1eXIxZnR4OHFRd2RlRXlTVWlUNVlEX2tYTTF2MlhRSGIzV0FaeC1NZ011MlUyZ9IBX0FVX3lxTE9jZ25Oa29qb1VKS2c2MElMcFFOeG1kZkFVcjRTUzhSNFJZWUtqaWdzREpvVnd3X05yazFCSjNESHkxeGx3NjRhRmJwa19HUmowYzhhVjAyTk1jMUEtN29B?oc=5",
+            "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE1ZNldCNHJHNUVSY0w2RVNnTHQ3MEFTakwtS2NYblllMlZEdTQ4UUdxRHpKb2NpV0tJVUc1d0RSTEJxZjdzWHFpcEZTWGxuZnZSMEtoX1pCbEtDT2PSAWBBVV95cUxOWDhGdkJZWTJSajA4M0J2RUJkeDQ1RmpOdl84QjNMTnl3dVhLTEtjNTVZUXpLMS1CeFhNQzVPQTdrSlBESXhCVVdqUHVKRTFzVmhBbWcybUlFMk9kazZNNFI?oc=5",
             "category": "World",
-            "published": "2026-06-18T22:49:58.549080"
+            "published": "2026-06-19T21:58:08.972012"
         },
         {
-            "title": "젤렌스키, G7 손잡자… 푸틴, 아세안 불렀다",
+            "title": "이란 “미국과 19일 최종 협상 연기…며칠 내 재개 추진”",
             "points": [
-                "우크라이나-러시아 전쟁의 장기화 속에서 젤렌스키 대통령이 G7과의 연대를 강화하고 푸틴 대통령이 아세안 국가들과의 협력을 모색하는 것은 글로벌 진영 대결 구도를 심화시키는 중요한 외교적 움직임입니다.",
-                "이는 국제 질서 재편의 흐름을 보여주며, 서방과 러시아 각각의 영향력 확대 전략이 전 세계 지정학적, 경제적 판도에 큰 영향을 미칠 것임을 시사합니다."
+                "미국과 이란 간의 핵 협상 또는 관계 개선 협상은 중동 지역의 지정학적 안정과 국제 에너지 시장, 핵 비확산 체제에 막대한 영향을 미치는 핵심 외교 사안입니다.",
+                "협상 연기 및 재개 추진은 양국 관계의 복잡성과 민감성을 보여주며, 향후 협상 결과에 따라 중동 정세 및 국제 유가 등 세계 경제에 큰 변화를 가져올 수 있습니다."
             ],
-            "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxQd2pqbW9LendIY1lBU2JnNG9ReHV4cmNZb1gwdDZaVjZSS0lnSjI1MUxOS1pIVzNmanU5eFhMWVo2SHptdU9YdThkZEV0N1BBeG9qWnB1RmZtenpzWC1zSUhYa3RNdXh5VWVYTGxFUkkwZUZWTHBieXphcUxRTGl2clhiZS02SmdMZk5jX2NjUzJzMnNmMXNFRXVKUjJTZw?oc=5",
+            "link": "https://news.google.com/rss/articles/CBMic0FVX3lxTFBTQzdGZHYwVTN5NHFOZ2RDSFN2amUxczZmTnp5czJFSUVEWVduQnd4STB5ektUazFNazBZb2R6SUtBX0ZHb1YtNjJkWV85cUR6dmFtc1FDazV4bTZXUVVTOXFhLVplTG9JSkxtN0hRTW1YRmM?oc=5",
             "category": "World",
-            "published": "2026-06-18T22:49:58.549081"
+            "published": "2026-06-19T21:58:08.972013"
         },
         {
-            "title": "한국 선박 포함?…트럼프 “돈 내면 美 해군이 호위해 줄게” 유료 서비스 출시 논란 [핫이슈]",
+            "title": "트럼프 '미국군함 10척 빨리 건조 가능한가'…속도 붙는 마스가",
             "points": [
-                "트럼프 전 대통령이 미국 해군의 상선 호위 서비스를 유료화하겠다는 파격적인 제안을 한 것은 국제 해상 안보 체계와 미국의 역할에 대한 근본적인 변화를 시사하며, 전 세계 해운업계와 동맹국들에 큰 파장을 일으킬 수 있습니다.",
-                "이는 미국의 국방비 부담 경감과 동시에 국제 공공재 성격의 해상 안보 서비스에 대한 새로운 접근 방식을 제시하여, 국제법 및 외교 관계에 복잡한 논쟁을 불러일으킬 잠재력이 있습니다."
+                "도널드 트럼프 전 대통령의 미국 군함 증강 발언은 그의 재집권 시 미국의 국방 정책과 해군력 강화에 대한 강력한 의지를 시사하며, 이는 글로벌 군사 균형과 동맹국들의 안보 전략에 중대한 영향을 미칠 수 있습니다.",
+                "대규모 군함 건조는 미국의 국방 예산 지출을 크게 늘리고, 조선 산업 및 관련 기술 분야에 막대한 투자를 유발하여 경제적 파급 효과를 가져올 수 있는 정책 변화입니다."
             ],
-            "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE1aVnFUQV95bDdUWGwzUlRnSWpVUkdUam52eTNGd0tWdUdLbkctaTZDQ3Y2TEduQTUtNHZoTGtueUVIcDRtTXNXTEVYYzlqeFd2ZHhZVjczdzY4a1k5OGMzMHVVbkJ2Si1NMEMyUFhSQU0?oc=5",
+            "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE1RWkpLbzVhR3VKQnZpTG9aanlhY01ZXzNXQm9UV3Zia2NmelVqVWZhb01Nb3lNRjQ3VkhPc2did2FEYlpVcVl2TTEtWmVzTDBhRE1Qem9HVHFTMnPSAWBBVV95cUxNanRqVGVORFNXVjZWX1hUUGtxS0VyS1FaaGNjamg4SGtHR01scU9rOTFxN1dsTU5MWlE1LXI0ZzQ2aWF6bTZfeXFGNWIteTF0ZUlhLWZMTWRHWjBVOENSWGY?oc=5",
             "category": "World",
-            "published": "2026-06-18T22:49:58.549082"
+            "published": "2026-06-19T21:58:08.972014"
         }
     ]
 }
