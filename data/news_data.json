@@ -1,210 +1,210 @@
 {
     "AI_Tech": [
         {
-            "title": "엔비디아, 바이오 연구 자동화 '바이오네모' 공개",
+            "title": "베슬AI, AI 학습 연산량 33% 절감 신기술 개발…세계 최고 학회 ICML서 발표",
             "points": [
-                "엔비디아는 AI 반도체 및 소프트웨어 분야의 글로벌 선두 기업으로, 이들의 발표는 AI 기술 트렌드에 막대한 영향을 미칩니다.",
-                "'바이오네모'는 AI를 활용해 신약 개발 및 바이오 연구 과정을 자동화하는 플랫폼으로, 복잡한 생체 분자 모델링과 시뮬레이션을 가속화하여 신약 개발 기간과 비용을 획기적으로 줄일 수 있는 잠재력을 가집니다. 이는 AI가 실제 산업에 미치는 파급력을 보여주는 중요한 기술적 돌파구입니다."
+                "이 뉴스는 AI 모델 학습의 효율성을 획기적으로 개선하는 기술적 돌파구를 제시합니다. 세계 최고 권위의 AI 학회인 ICML에서 발표되었다는 점에서 기술의 신뢰성과 중요성이 매우 높습니다.",
+                "AI 학습에 필요한 연산량을 33% 줄이고 수학 추론 정확도를 최대 18.7%p 향상시킨 것은, AI 개발 비용과 시간을 크게 절감하고 모델의 성능을 향상시킬 수 있는 핵심 기술입니다. 특히 LLM(대규모 언어 모델)과 피지컬 AI(물리적 세계와 상호작용하는 AI)의 연결을 위한 기반 기술로 주목받아, 전반적인 AI 산업 발전에 큰 파급력을 가질 것입니다."
             ],
-            "link": "https://news.google.com/rss/articles/CBMic0FVX3lxTE0yeEJvcDVjT2tlZlRXSU9vQW02TmJ2YXJ4aHdFTlZhYUtZVEJ3ZW5IdU1TM25wcE9GcURrNklUNVY4NF83aTA2OU1wckd2U0NIMkhRZllGSmRTeGtHdlNNUDdUS25xSDV5LS0tbTBqU041em8?oc=5",
+            "link": "https://news.google.com/rss/articles/CBMiQEFVX3lxTE1iamw2Z2M1X1o2LTdnZzJaVG9JWjkzdFoyaEpzSWZPRF9DZFI3Q3ZyOGt6cDFsd05rcndEVHVqdno?oc=5",
             "category": "AI_Tech",
-            "published": "2026-06-24T22:04:58.589830"
+            "published": "2026-06-25T22:13:23.625477"
         },
         {
-            "title": "크래프톤, AWS와 손잡고 게임 넘어 휴머노이드 AI 시장 진출",
+            "title": "한국기술교육대, AI 로봇 '추가 학습 없이 성공' 기술 개발",
             "points": [
-                "국내 주요 게임 기업인 크래프톤이 글로벌 클라우드 선두 기업 AWS와 협력하여 휴머노이드 AI 분야에 진출하는 것은 AI 기술의 적용 범위가 엔터테인먼트를 넘어 로봇 공학이라는 차세대 핵심 영역으로 확장됨을 보여줍니다.",
-                "휴머노이드 AI는 인간과 유사한 형태로 상호작용하고 작업을 수행하는 AI로, 이 분야에 대한 대기업의 투자는 미래 AI 기술의 방향성과 시장의 큰 변화를 예고하는 중요한 전략적 움직임이자 기술적 도전입니다."
+                "한국기술교육대 연구팀이 로봇이 새로운 환경이나 작업에 직면했을 때 추가적인 학습 과정 없이도 성공적으로 임무를 수행할 수 있는 AI 기술을 개발했습니다. 이는 기존 로봇 AI의 한계를 뛰어넘는 획기적인 발전입니다.",
+                "이 기술은 로봇이 미지의 상황에서도 스스로 판단하고 적응할 수 있는 '상식'과 같은 능력을 부여하여, 산업 현장, 재난 구조, 서비스 로봇 등 다양한 분야에서 로봇의 자율성과 활용도를 극대화할 수 있습니다. 이는 로봇 AI의 실용화와 보급을 가속화할 중요한 기술적 진보입니다."
             ],
-            "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTE11WTc0a2xyd200Y3VPSGhoYXNOTklUMXF0c2dkRmxXUzd6eWl1RVZsZnFFWGIyQTZMdV9TRUk2Tmczckh1VmM0VHV4Y1NOUm04cGc2VmxGZzJ0dXNBYzRqQ0M3NTNMMjREY2xN?oc=5",
+            "link": "https://news.google.com/rss/articles/CBMid0FVX3lxTFBURUdlcFBRUWIxZHdiYnJaYVZyRGRfRUw4aTZ2OGZ4VUt6MGhsVDVGOFk3TW9GWWFMazhHWHJxUVozVzh6aGVDS2Naa0NJa2dUWm5nMHZ4U0RjYkhGa0pTWUpnSTZ6VjRpWkRpek9rQjdsS3B5TnhZ0gF3QVVfeXFMTFBURUdlcFBRUWIxZHdiYnJaYVZyRGRfRUw4aTZ2OGZ4VUt6MGhsVDVGOFk3TW9GWWFMazhHWHJxUVozVzh6aGVDS2Naa0NJa2dUWm5nMHZ4U0RjYkhGa0pTWUpnJNnpWNGlaRGl6T2tCN2xLcHlOeFk?oc=5",
             "category": "AI_Tech",
-            "published": "2026-06-24T22:04:58.589838"
+            "published": "2026-06-25T22:13:23.625486"
         },
         {
-            "title": "엔씨AI, 3D 생성형 AI 서비스 '바르코 3D 2.0' 공개하며 기술 자립 확보",
+            "title": "리창 중국 총리, AI 개방 및 기술 협력 확대 선언",
             "points": [
-                "국내 대표 게임 기업 엔씨소프트의 AI 부문인 엔씨AI가 3D 생성형 AI 서비스 '바르코 3D 2.0'을 공개한 것은 국내 AI 빅테크 기업이 핵심 생성형 AI 기술 분야에서 구체적인 성과를 내고 있음을 보여줍니다.",
-                "'바르코 3D 2.0'은 텍스트나 이미지 입력만으로 3D 콘텐츠를 생성하는 기술로, 게임, 메타버스, 영화 등 다양한 산업에서 콘텐츠 제작의 효율성을 혁신적으로 높일 수 있는 획기적인 기술적 진전입니다."
+                "세계 2위 경제 대국이자 AI 기술 강국인 중국의 총리가 AI 분야의 개방과 기술 협력 확대를 공식 선언한 것은 글로벌 AI 생태계에 매우 큰 파급력을 가집니다. 이는 중국 시장 접근성 개선과 함께 국제적인 AI 기술 교류를 촉진할 수 있는 중요한 정책 변화입니다.",
+                "이 선언은 AI 기술 개발 및 상용화에 있어 국가 간 협력의 중요성을 강조하며, 특히 미·중 기술 경쟁 속에서 중국의 AI 전략 방향을 엿볼 수 있는 신호탄입니다. 글로벌 AI 기업들에게 새로운 기회를 제공하고, AI 기술 발전의 속도를 가속화하는 데 기여할 수 있습니다."
             ],
-            "link": "https://news.google.com/rss/articles/CBMic0FVX3lxTE9LN05LTlFsSlFjaHc4TWZKM18tOXZUX2d1VlpZTDRHQUJmT19JWXh0TnJ5bnVGYmw1NlE4cmxYQTlZMUMwaVlGRnZBcGJSVWZCcjVQaTJqc01zSjJQcWVabzU4iTFBbE02VnJQdGlNY0pUcDA?oc=5",
+            "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE9PcGhHOGt3NGpRZDFhZkNkVnNJXy1NaklzbEFBSVZKX0daaVNVVlNnU0NJdXAyWUVJWHpYTUpMeWk2eUN2eVlzLUpiUWptMFQydDd5akFKUTAxN2xWYmhtaDVWZlpzMms?oc=5",
             "category": "AI_Tech",
-            "published": "2026-06-24T22:04:58.589839"
+            "published": "2026-06-25T22:13:23.625488"
         },
         {
-            "title": "대한민국 공군, 전군 최초 생성형 AI 플랫폼 ‘에어워즈 3.0’ 공개",
+            "title": "LSK아이로봇, 영국 버밍엄대와 로봇 AI 협력으로 산업용 비전 AI 기술 고도화",
             "points": [
-                "대한민국 공군이 전군 최초로 생성형 AI 플랫폼 '에어워즈 3.0'을 공개한 것은 AI 기술이 국방 분야의 핵심 인프라로 자리 잡고 있음을 보여주는 중요한 사례입니다. 이는 군사 작전, 정보 분석, 훈련 등 다양한 국방 영역에서 AI 활용의 새로운 지평을 열 것입니다.",
-                "'에어워즈 3.0'은 단순한 정보 처리 수준을 넘어 새로운 데이터를 생성하고 복잡한 시나리오를 시뮬레이션할 수 있는 생성형 AI 기술을 국방 분야에 적용한 것으로, 국가 안보와 직결되는 영역에서 AI의 파급력을 실증하는 기술적 진보입니다."
+                "국내 로봇 기업과 영국 명문 대학의 국제적인 협력은 글로벌 AI 기술 트렌드에 부합하는 중요한 움직임입니다. 특히 산업용 로봇의 핵심 기술인 비전 AI(시각 인공지능) 분야의 고도화는 실제 산업 현장의 생산성 향상과 효율성 증대에 직결됩니다.",
+                "이 협력은 로봇이 사물을 인식하고 판단하는 능력을 더욱 정교하게 만들어, 복잡하고 다양한 산업 환경에서도 로봇의 활용 범위를 넓힐 것입니다. 이는 제조, 물류 등 다양한 산업 분야에서 AI 기반 로봇 자동화의 확산을 가속화하는 기술적 진보를 의미합니다."
             ],
-            "link": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE4yMjdyTWNZckdyajZLb2szLXhHZG1CSnNaSkN0M2JteXlXOXBpSUZPS0c3ZFEzR3BLUVpxTW41dGhiYkVrN053dWhITkQ4MWI0WERBNDRTQy1vS3RwdlduNDZn?oc=5",
+            "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTFBUMGg1VlU5LWhVaWRCLWNHbW5fSkltblEyYUdjNi10YmNkUjlOejhhX3ZKb3BNTDVWREY0Q2VETTV6Uzl0VWNnOHRtc0RpeC03Nk96OQ?oc=5",
             "category": "AI_Tech",
-            "published": "2026-06-24T22:04:58.589840"
+            "published": "2026-06-25T22:13:23.625489"
         },
         {
-            "title": "큐라클-에임블, AI 기반 신약개발 협력으로 차세대 혈관질환 치료제 발굴 추진",
+            "title": "노타, 온디바이스 AI 경량화 및 최적화 기술로 우주의약 연구 지원",
             "points": [
-                "큐라클과 에임블의 AI 기반 신약 개발 협력은 AI 기술이 생명 과학 분야에서 질병 치료의 새로운 가능성을 열고 있음을 보여주는 중요한 사례입니다. 이는 AI가 복잡한 생체 데이터를 분석하고 신약 후보 물질을 효율적으로 탐색하는 데 핵심적인 역할을 할 수 있음을 의미합니다.",
-                "특히 혈관질환과 같은 난치병 분야에서 AI를 활용한 신약 개발은 기존 방식으로는 어려웠던 혁신적인 치료제 발굴을 가속화하여 인류 건강 증진에 크게 기여할 수 있는 잠재력을 가집니다."
+                "온디바이스 AI(Edge AI) 기술은 클라우드 연결 없이 기기 자체에서 AI 연산을 수행하여, 실시간 처리, 보안 강화, 전력 효율성 증대 등 다양한 이점을 제공합니다. 노타의 이 기술은 AI의 활용 범위를 확장하는 중요한 기술적 진보입니다.",
+                "특히 우주의약 연구와 같은 극한 환경에서의 AI 적용은 온디바이스 AI의 중요성을 부각시킵니다. 이는 AI가 네트워크 제약이 있는 환경이나 민감한 데이터 처리 요구사항이 있는 분야에서 더욱 폭넓게 활용될 수 있는 가능성을 열어주며, AI 기술의 실용화와 보편화에 기여할 것입니다."
             ],
-            "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE9pckFObTJkM2t6MWhEcjJxbUk2VEdWQzI3eHRJb3NzaERJZHhTMkFZSG5VVHV6ZkdwMHBPSjFqMFUycGRoeENucFZidEFVR1B0M2k0bHdkNjNVbnVmWnRMOWpGaVI2dTV6OVctTQ?oc=5",
+            "link": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE00dGUya3NxSHg2YzF4ZXhld1FyOFhQbFlnLTRXclhjSFExRWtBQmt5Yk41N1NRbHNxQm5zT1gxa0ZoUGJlU0FFWVdhNHNmdw?oc=5",
             "category": "AI_Tech",
-            "published": "2026-06-24T22:04:58.589841"
+            "published": "2026-06-25T22:13:23.625490"
         }
     ],
     "IT_Biz": [
         {
-            "title": "삼성전자, 향후 3년간 자사주 90조원 사들인다...역대 최대 규모 매입 - 조선일보",
+            "title": "마이크론 \"1000억달러 메모리 장기계약\"…로봇은 새 수요처(종합)",
             "points": [
-                "삼성전자의 90조원 규모 자사주 매입은 국내 기업 역사상 최대 규모로, 주주환원 정책 강화와 기업 가치 제고에 대한 강력한 의지를 보여주는 핵심 경제 뉴스입니다.",
-                "이러한 대규모 자사주 매입은 삼성전자의 주가에 긍정적인 영향을 미치고, 국내외 투자자들의 관심을 집중시키며, 다른 기업들의 주주환원 정책에도 영향을 줄 수 있습니다."
+                "글로벌 메모리 시장의 대규모 장기 계약으로, 반도체 산업의 안정적 성장과 투자 확대 가능성을 시사합니다.",
+                "로봇 산업이 메모리 반도체의 새로운 주요 수요처로 부상하며, AI 및 자동화 기술 발전이 산업 전반에 미치는 영향을 보여줍니다."
             ],
-            "link": "https://news.google.com/rss/articles/CBMigwFBVV95cUxNWUNLcngxeU8xYXBjaFdZRHVoR1U1TzNSZEg4cFFmUS1ZTThfQVpUYl9iY3BZZF9lSk1XUnBFREtRU2c4SGFIVWdHUHJ5OHlwUnUxYS1DRlJ5dEpTN0dhZFV2aFp2czJWZ1FpSzhTbk9ab2JpRXZMd29sRUYxUXJrNHRYcw?oc=5",
+            "link": "https://news.google.com/rss/articles/CBMiRkFVX3lxTE52YjNtamRqLUZKdDVsWUJaYWVRRHlERWtocnRndS0wUnB6TUxLYzE4cm1GUEV0QklYeG1oNWV2a1FORTJQYkE?oc=5",
             "category": "IT_Biz",
-            "published": "2026-06-24T22:05:34.541349"
+            "published": "2026-06-25T22:13:54.362058"
         },
         {
-            "title": "'27조' 역대급 혜택 쏜다…2035년 노린 미국의 무서운 계획 - 한국경제",
+            "title": "[비즈톡톡] 틱톡 키운 바이트댄스, 中 반도체 자립 견인… 엔비디아 막히자 중국산 AI칩 도입",
             "points": [
-                "미국이 2035년을 목표로 27조원 규모의 역대급 혜택을 제공하는 계획은 글로벌 산업 지형을 바꿀 수 있는 막대한 규모의 국가 정책 및 투자 소식입니다.",
-                "이러한 대규모 투자는 특정 산업 분야의 기술 혁신과 성장을 가속화하고, 국제적인 경쟁 구도에 큰 영향을 미치며, 관련 기업들의 전략 수립에 중요한 변수가 될 것입니다."
+                "중국이 미국의 제재에 맞서 AI 반도체 자립을 가속화하며 글로벌 반도체 공급망에 중대한 변화를 가져올 수 있습니다.",
+                "엔비디아 의존도를 줄이고 중국산 AI 칩을 도입하는 움직임은 기술 패권 경쟁과 지정학적 리스크를 심화시키는 요인입니다."
             ],
-            "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFBEdTZfdC1YM2JjRzJCWkdKSjdnVWwxUldpVC05NHJLV3RuaWpmR1dZUkRFUTNDNEVhbW5YQmpLX3NWOXloZmJGbTQydlhlUk56LURxdW4wRVE3QdIBVEFVX3lxTE1yMGVSWlVlSnpZOWNCUDVFamFaUXlUaHVfbXppTUdtSEdZNW1UT2wwcFdPZnFMbmx5SUd3WjU4ZE1YQWlrTDhUYkJ1dG9YTmV5T3RZMA?oc=5",
+            "link": "https://news.google.com/rss/articles/CBMiggFBVV95cUxON0MxUFNEX1lQb25nMGpzUmczb1I2b2pXelVGbHJubTB4dUxCVWVNVVdpNkRGRVRqMnRwSW9od1NvSWc5ZkZ0dWotVmJlVTV3c1I0a0VLSnhPMzItVktZTU1ISjRTamU1MzVYTFdhNUdEVUlnMFJXOFFRTjBOSW1Dekh30gGWAUFVX3lxTE1MakRWVS1KSDVGZ0lYWWxBdE8zeEMzMS1SaFlSMzNSeVJWMVByMmwzZ3lNM0xGdjNOck5uUzdTNFRuc3hOM2RsRnpaMTZudHowMDBpZktUZ3hZMUIzSkJBa283a2EwTjVidngtNnhDV2xMR3hEcjRyLVg3dkxxbXp0c1lOY1ZCWXV5dlQ1VFhiSzFDS2xDZw?oc=5",
             "category": "IT_Biz",
-            "published": "2026-06-24T22:05:34.541357"
+            "published": "2026-06-25T22:13:54.362066"
         },
         {
-            "title": "SK하이닉스·삼성, 엔비디아 유럽 슈퍼컴 35대 수주 직격 - 글로벌이코노믹",
+            "title": "IBM, 세계 최초 1나노 이하 칩 기술 공개",
             "points": [
-                "SK하이닉스와 삼성이 엔비디아의 유럽 슈퍼컴퓨터 35대 수주에 직접 참여한 것은 한국 반도체 기업들이 고성능 컴퓨팅 및 AI 반도체 시장에서 핵심적인 공급자임을 입증하는 중요한 성과입니다.",
-                "이는 글로벌 AI 인프라 구축에 한국 기업의 기술력이 필수적임을 보여주며, 향후 AI 반도체 시장에서의 주도권 강화에 긍정적인 영향을 미칠 것입니다."
+                "IBM의 1나노 이하 반도체 기술 공개는 반도체 미세공정의 한계를 뛰어넘는 혁신적인 기술 발전으로, 미래 컴퓨팅 성능 향상에 결정적인 영향을 미칠 것입니다.",
+                "이는 AI, 고성능 컴퓨팅 등 첨단 기술 분야의 발전을 가속화하고, 글로벌 반도체 기술 경쟁의 새로운 이정표를 제시합니다."
             ],
-            "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxQSzZDb0lEMGRJTlpNS3prSWZ3cHp4Q05IVjFoUlpoZm4tdEZQQ0theGltQXpWMkFvU1p0QkJSZDRSMlNSa2FPaTNJSFdQcHItQl94LW9zd2M3cmxZaDJJSVZ0NGtaWTRtb0NvUGtZUzZwZXVmNE5oOHZmLUhlbEg0S0U5X3pDQm8?oc=5",
+            "link": "https://news.google.com/rss/articles/CBMigwFBVV95cUxNOThHaDVqOXVoX3V4cHJSR3hDWHdfY3hHVEFwNFdaZjAzWDItd1FzSWdjanNjQ1h4a1lfcmFoYWpjOTU2LVJET2pjOFVORjVBSW5mQXJJR1JDVTRXdVgyWVlLajlzNEZXMVlFWUF4MEN1ajdqMENfMEFZM01jUEJlZkZLMA?oc=5",
             "category": "IT_Biz",
-            "published": "2026-06-24T22:05:34.541358"
+            "published": "2026-06-25T22:13:54.362068"
         },
         {
-            "title": "애플 첫 폴더블 ‘아이폰 울트라’, 예정대로 9월 출시 - 지디넷코리아",
+            "title": "[단독] 이재명 정부, 30일 서남권 첨단산업 투자 국민보고회…반도체·AI·로봇 총망라 '1000조 프로젝트' 윤곽",
             "points": [
-                "애플의 첫 폴더블 아이폰 '아이폰 울트라' 출시는 글로벌 스마트폰 시장의 판도를 바꿀 수 있는 중대한 제품 혁신 소식입니다.",
-                "애플의 폴더블 시장 진입은 관련 기술 개발 경쟁을 심화시키고, 새로운 사용자 경험을 제시하며, 전체 모바일 산업의 디자인 및 기능 트렌드에 큰 영향을 미칠 것입니다."
+                "국내 반도체, AI, 로봇 등 첨단산업에 대한 '1000조원' 규모의 대규모 국가 투자는 산업 생태계 전반에 걸쳐 혁신과 성장을 촉진할 정책 변화입니다.",
+                "이는 국가 경쟁력 강화와 미래 산업 주도권 확보를 위한 정부의 강력한 의지를 보여주며, 관련 기업들의 투자 및 고용 확대에 긍정적인 영향을 미칠 것입니다."
             ],
-            "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTFBZamFqYUZVVkVCNHBMY2luc1czdWZxVFJKOVZ2ZUJZd2htNHhYNXRNVktSODNlaER2VmZiQUFwS0gwOGNwaFRvbXhkRFAxbXVYclVNUGtR?oc=5",
+            "link": "https://news.google.com/rss/articles/CBMiRkFVX3lxTE9aNmJjdk5FYkM3M0lKcnlDSWlRVURPeThncWp5ekhRWWRVQnVzNmVFakdyMDBraXJSVU02V0g1ODlXZmU0Vnc?oc=5",
             "category": "IT_Biz",
-            "published": "2026-06-24T22:05:34.541359"
+            "published": "2026-06-25T22:13:54.362069"
         },
         {
-            "title": "삼성, AI폰 초격차 이끌 신무기 개발…성능 끌어올릴 낸드 스펙 봤더니 - 매일경제",
+            "title": "‘할라페뇨’ 웨이퍼 든 올트먼…오픈AI, AI 반도체 독립 선언",
             "points": [
-                "삼성이 AI폰 초격차를 위한 새로운 낸드(NAND) 기술을 개발하는 것은 AI 시대 모바일 기기 성능 향상에 필수적인 핵심 기술 혁신을 의미합니다.",
-                "고성능 낸드 기술은 AI 연산 처리 속도와 효율성을 극대화하여 AI폰 시장에서의 삼성의 경쟁 우위를 확보하고, 전체 AI 하드웨어 시장의 발전을 견인할 잠재력을 가집니다."
+                "오픈AI가 자체 AI 반도체 개발을 추진하는 것은 AI 산업의 핵심인 반도체 공급망에 대한 전략적 변화를 의미하며, 엔비디아 중심의 시장 구도에 큰 영향을 줄 수 있습니다.",
+                "이는 AI 기술 개발의 자율성을 확보하고 비용 효율성을 높이려는 시도로, 장기적으로 AI 서비스의 발전 방향과 경쟁 구도를 재편할 잠재력을 가집니다."
             ],
-            "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTFBKNDZtcUNzVjZtQWlRMklxYWt5ZlhiSWJaTlIxR0E3OVhsdnNRLUR2dEVFTXhrVWRUOWJydzJLZDRscTlLREhLT2tVTFBwNUMwOFJtUGFR?oc=5",
+            "link": "https://news.google.com/rss/articles/CBMigwFBVV95cUxOOFJ6MUZnRUxnUTkyajliYnh0T0NvRy04MGQtRUZlOEc2M2RiWXliR2NfTElWSTBrUjRNbU1GcnIzeTdmZGdCcWIyMGdhREdnNnAxN1RaVktXVTJ0TUZzQ05zbGdSbDFLQk9GS1VMaXV1VTBIWlFZR0wxVC0wYnhRdFhIRQ?oc=5",
             "category": "IT_Biz",
-            "published": "2026-06-24T22:05:34.541360"
+            "published": "2026-06-25T22:13:54.362070"
         }
     ],
     "Economy": [
         {
-            "title": "김용범 정책실장 \"호남·충청 반도체 클러스터 조만간 발표...용인 이전 아냐\" - 지디넷코리아",
+            "title": "국제유가, 전쟁 전 수준으로…정유·석화업계 '확 바뀐 셈법'",
             "points": [
-                "이 뉴스는 정부의 핵심 산업 육성 정책 방향을 제시하며, 특정 지역에 대규모 반도체 클러스터를 조성하겠다는 계획을 밝혀 국가 산업 지형과 지역 경제에 큰 영향을 미칠 중대 발표입니다.",
-                "반도체 산업의 경쟁력 강화와 지역 균형 발전을 동시에 추구하는 정책으로, 관련 기업들의 투자 계획 및 고용 창출에 직접적인 영향을 줄 수 있는 핵심 경제 변화 포인트입니다."
+                "이 뉴스는 국제 유가가 전쟁 이전 수준으로 회복되어 글로벌 에너지 시장과 인플레이션에 중대한 영향을 미치고 있음을 보여줍니다. 이는 전 세계 경제의 불확실성 감소와 공급망 안정화 가능성을 시사합니다.",
+                "유가 하락은 정유 및 석유화학 산업의 수익 구조와 사업 전략에 근본적인 변화를 가져오며, 생산 비용 감소와 소비 심리 회복에 긍정적인 영향을 줄 수 있습니다."
             ],
-            "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE92Z3J5N3pBS1gtdTNfeTh0d0d2Z3B0cG9qYjg4djN1VWRrZEN0ZTJDU3RPdzM5Z3BVOC1fTmhqcHVTMEFabzR2WEc1c1JHdkg3alp5X0lR?oc=5",
+            "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE90eTZicEVVb3FESzFWbTZ3T3N1WUV0QXFNYTBORlBfcHVxM0h0MXRJYmg0ZGszbWZ2R0NzTWRvTjRxdDZrcU1UdW9Ed2g2ZzNDdGhjRlEtT1RMemY4X2U5RGtOU1RDazVfRVRSRVNHVEo?oc=5",
             "category": "Economy",
-            "published": "2026-06-24T22:06:06.479198"
+            "published": "2026-06-25T22:14:28.603476"
         },
         {
-            "title": "마이크론, 실적 호조에 가이던스도 예상치 상회…시간외서 13% 급등(상보) - 연합인포맥스",
+            "title": "삼성전자·SK하이닉스 뒤흔든 ‘AI 거품론’, 마이크론이 잠재웠다",
             "points": [
-                "글로벌 주요 메모리 반도체 기업인 마이크론의 실적 호조는 전 세계 반도체 시장의 회복세와 인공지능(AI) 관련 수요 증가를 강력하게 시사하며, 이는 국내 반도체 기업들의 실적 전망에도 긍정적인 영향을 미치는 주요 소식입니다.",
-                "마이크론의 가이던스 상향은 향후 반도체 산업의 슈퍼사이클 진입 가능성을 높여 투자 심리를 개선하고, 관련 기술주 전반의 주가 흐름에 중요한 변곡점이 될 수 있습니다."
+                "이 뉴스는 글로벌 반도체 시장의 핵심 화두인 'AI 거품론'에 대한 논란과 그 해소 과정을 다루며, AI 반도체 산업의 실제 성장 가능성과 시장의 신뢰를 보여줍니다. 이는 삼성전자, SK하이닉스 등 국내 주요 기업의 미래 사업 방향에 큰 영향을 미칩니다.",
+                "마이크론의 실적 발표와 전망은 AI 반도체 수요가 일시적인 현상이 아닌 구조적인 성장 동력임을 입증하며, 관련 기술 개발 및 투자 확대의 정당성을 강화합니다."
             ],
-            "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE1iV3VnOHFlUGFtNXZsc0dIVFZLZ1ZWUWhZTXdFRDd2X1BCeURfLU8xOFR0R0RNbkg0MmlBQmdJMXlLOTVMLTFXRTUwSFdWeDhUZ1JMWUZYUWFIbnBzYTJVQlROcjNnMVBVdmNDdUJBZjA?oc=5",
+            "link": "https://news.google.com/rss/articles/CBMiggFBVV95cUxOY3pKOEpGRnVqTlBQNy0tM1c1MUlpV1lkMXIxOVJBSW41YkZnWTNmSGNILTMwNm1Sb3BWU3RJSGN4Q2lxY1lmMU5LLW15NnIzV29EYk1BM3NwaTJ4R1ZoUG9SajZZTzlRYXNQeVctTU02eTZVazBYYi1EbnVUdDFkRE130gGWAUFVX3lxTE5veFR3QXAxV2hPaVdiU3NXTWwweHBiYUk3b19jVk9GYnBtVnZ0Szg0bG11TnpoWUo0aXQteGlfNzFlUi15WnI4aE5VeTRIanZJLXd0WVlXRjRzNGg2Q2VDYjdxY0M2a3pDMnhONUxrbnQwOWd3SUt2MTFYTUkxQTgtaGdTQzFBc1J3VzEySDRFRVM2aTE5dw?oc=5",
             "category": "Economy",
-            "published": "2026-06-24T22:06:06.479207"
+            "published": "2026-06-25T22:14:28.603484"
         },
         {
-            "title": "SK하이닉스 내달 미국 ADR 상장 추진···45조 유상증자 - 경향신문",
+            "title": "英, 철강 관세 50% 올리고 무관세 할당 쿼터는 절반 줄인다",
             "points": [
-                "SK하이닉스의 45조 원 규모 유상증자 추진은 국내 기업 역사상 최대 규모의 자금 조달 계획으로, 이는 글로벌 반도체 시장에서의 경쟁력 강화를 위한 대규모 투자 재원 마련을 의미하며 산업 판도를 바꿀 수 있는 핵심적인 움직임입니다.",
-                "미국 ADR 상장은 SK하이닉스의 글로벌 자금 조달 능력을 확대하고, 해외 투자자들에게 접근성을 높여 기업 가치 제고 및 글로벌 시장에서의 입지를 강화하는 전략적 변화입니다."
+                "이 뉴스는 영국이 철강 수입 관세를 대폭 인상하고 무관세 할당 쿼터를 축소하는 등 보호무역주의 정책을 강화하는 것을 보여줍니다. 이는 국제 무역 질서와 주요 수출국(한국 포함)의 철강 산업에 직접적인 타격을 줄 수 있는 중대한 정책 변화입니다.",
+                "영국의 이러한 조치는 글로벌 공급망 재편과 각국의 자국 산업 보호 움직임을 가속화할 수 있으며, 관련 기업들의 수출 전략 및 생산 기지 운영에 영향을 미칠 것입니다."
             ],
-            "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE8xd0V2QV9JZmF6T2lTVTc3SUU2VDhuYTNsZjcxR3pPSlhlajhqN0FiN3FIUWlPSnJnUTBBUHFuUU85bXpxaWlYUVBVdzI0LXNRa2dKSk56X3l0d9IBX0FVX3lxTE9ZUDJpSDhhY2ZuY01hMzlTV0xKRVJHZjFtWFFXQ1lGTm1MN0puRTFCWXk2ZENZSUtxVXFYd3prc2FSdHE2X3J2UE1fUmstdU1zYTNKOVRqNks5elNQOXcw?oc=5",
+            "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxNU240Z1pZV3MtQjlJem1uT083SENkRW1sQ3oyUm1jcFlQdk9PRXhtRzBJaUFycS1vNEJIZldCbEkxeVd0cm11UlF1U2E0MHA5RjJkeElUTU0zQkIxUnA5MVdtWDU0MkFJa1k2VnZDeFRycU43UDFZUVFmbmR6bUhvclpKUXUwUlJmbjdpNkFKMA?oc=5",
             "category": "Economy",
-            "published": "2026-06-24T22:06:06.479208"
+            "published": "2026-06-25T22:14:28.603485"
         },
         {
-            "title": "한국증시, 'MSCI 선진지수 관찰대상국' 등재 불발(종합2보) - 연합뉴스",
+            "title": "이재명 대통령-이재용 회장 독대…호남 반도체 클러스터 최종 조율 관측",
             "points": [
-                "한국 증시의 MSCI 선진지수 편입 불발은 한국 자본시장의 대외 신인도 및 외국인 투자 유치에 부정적인 영향을 미칠 수 있는 중대한 소식으로, 국내 증시의 장기적인 성장 잠재력 평가에 중요한 요소입니다.",
-                "선진지수 편입 실패는 패시브 자금 유입 기회 상실을 의미하며, 이는 국내 증시의 수급 환경과 환율 변동성에도 영향을 미쳐 전반적인 경제 상황에 파급 효과를 가져올 수 있습니다."
+                "이 뉴스는 국가 최고 지도자와 국내 최대 기업 총수의 만남을 통해 호남 지역에 대규모 반도체 클러스터 조성이 논의되고 있음을 시사합니다. 이는 국가 차원의 전략 산업 육성 의지를 보여주며, 지역 경제 발전과 고용 창출에 막대한 영향을 미칠 것입니다.",
+                "반도체 산업은 국가 핵심 성장 동력으로, 이러한 대규모 투자는 국내 반도체 생태계 강화 및 글로벌 경쟁력 확보에 중요한 전환점이 될 수 있습니다."
             ],
-            "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE5HQ1MxbXd5SEV3MFM1aHlEN3FhM0ZVSjFVU3JtUnJNWEJhUV82T2NvV2JmNXpESkszR1dZenBPUGN0WXB0ZHV0UmUzeWlqRWVOSmlkbHNHT2hWWlHSAWBBVV95cUxOZUk4X0NGaVRuazBQV053bUZFNnVKeVpRQ1dUV05jcG9Rb2VhQ2JvZUdIQjVfbzBNQmNSalZJSmlhd053RXFDTWxNQmpFM1dkdDNhOGY0NnZBYVR6bzNmNk0?oc=5",
+            "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE9ld21ldjhKSWJqeVdTd1M5UWRIS2lGNEcwaFpJX080VmJHUHBUbVN5VDh2TnU2T3RBbEFNd3J4QkJuaXdRZzhLQ3g0SXk4UzRmSjVaNzZrbkpOS00?oc=5",
             "category": "Economy",
-            "published": "2026-06-24T22:06:06.479209"
+            "published": "2026-06-25T22:14:28.603486"
         },
         {
-            "title": "원·달러 환율 1,540원대 마감…금융위기 이후 17년 만에 처음 - 연합뉴스TV",
+            "title": "달러 강세·외국인 ‘팔자’에…환율, 다시 1550원 접근",
             "points": [
-                "원·달러 환율이 17년 만에 최고치를 기록한 것은 한국 경제의 대외 건전성 및 금융 시장 불안정성을 나타내는 심각한 신호로, 수입 물가 상승을 통한 인플레이션 압력 가중 및 기업들의 외화 부채 부담 증가 등 광범위한 경제적 파급 효과를 초래합니다.",
-                "고환율은 수출 기업에게는 단기적인 이점을 줄 수 있으나, 전반적인 국내 경기 침체와 외국인 투자 심리 위축을 야기할 수 있어 정부의 통화 정책 및 경제 안정화 노력에 대한 관심이 집중되는 주요 경제 지표 변화입니다."
+                "이 뉴스는 달러 강세와 외국인 투자자들의 국내 주식 매도세가 겹치면서 원/달러 환율이 급등하여 1550원에 육박하고 있음을 보여줍니다. 이는 국내 경제의 대외 건전성 및 물가 상승 압력에 대한 우려를 증폭시키는 주요 거시경제 지표입니다.",
+                "환율 상승은 수출 기업의 채산성 개선에 긍정적일 수 있으나, 수입 물가 상승을 유발하여 전반적인 인플레이션을 심화시키고 외국인 자본 유출을 가속화할 수 있습니다."
             ],
-            "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTFBNbmdZS1J0NUo2Vm1hRFVCQ3pFelc4VnVmWU56aU5Dc1VjcjFHQUpZQWxORDZuNWx4N2N4TUtqal9RdGFVUmROaEkwbDk3c2QxSnJHSVQ5eW9UbnktYk43dkZIMVE4dDA?oc=5",
+            "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE1nVGhzeGo5SFo3b3k0eDUtZ0FBNWZFcTlTZTVfUHc3TDg0ZzFobDRzRTAtZGFSOFNrVFBKMnl2U3pRbzVQV0JiaGZJSUZHTWZzN0xqeWxjejFlOUlaYjVVSlk2dkNZWXc?oc=5",
             "category": "Economy",
-            "published": "2026-06-24T22:06:06.479210"
+            "published": "2026-06-25T22:14:28.603487"
         }
     ],
     "World": [
         {
-            "title": "10번 시도 끝에‥美상원서 트럼프 대이란 전쟁 저지 결의안 통과 - MBC 뉴스",
+            "title": "호르무즈서 화물선 피격... 이란 \"지정 구역 이탈시 안전 보장 못해\" - 조선일보",
             "points": [
-                "미국 행정부의 대이란 정책에 대한 의회의 견제와 균형이 작동했음을 보여주는 중요한 정치적 사건입니다.",
-                "미국-이란 간 군사적 긴장 완화 가능성을 시사하며, 중동 정세 및 국제 유가 등 경제 전반에 영향을 미 미칠 수 있습니다."
+                "호르무즈 해협은 세계 원유 수송의 핵심 길목으로, 이곳에서의 화물선 피격 사건은 국제 유가 및 에너지 안보에 심각한 영향을 미칠 수 있습니다.",
+                "이란의 직접적인 경고는 중동 지역의 군사적 긴장 고조와 국제 무역로의 불안정성을 심화시키는 중요한 지정학적 변화입니다."
             ],
-            "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTE9oX1MtNnhZaUpPNUdxRENUczhrWGk3b2N2Wi1HaDlDZDVQYWthaWs0NDd0bEYzUmxhbjZXa1psTndKZlpRb1d3WmVLN1BqdFJBSlpBMmNUMmdEQnladUJRQXluaU5OQ3ZOVDFzSXBfVE9aaUEx0gF0QVVfeXFMT2xOaEpwWmNUOWZpUWxIQTlMcEZEdnFNd3lWT0ZMNU5hcFpLUXRzMF9vbDZHekxrTEhza3MtNHktb1c0Y09PMXNtZUhDd1ZGZmRjMUU0RThrZ0JCVkNYOUZSWFVOdnN5WUk4U2tkRDZGYnVFaEo?oc=5",
+            "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxOaEhabEg3cXQ4eXcyc1FySl9kSEpKbGptem5pZjVLY2JsWGxDVTNZLTY4dWxISFJaYzgtdFJYM29DQWxZY2w1TUhocnhMeTM4aFg1T1NFR0VsZlV6NHVTcmZqMHZocndmdXJwLVltZHBfSU1GWjhOekhmeE4wcVBVeFZkQ1RJUFRJT1JVSXBxLW9OWHRIM3RqU1JYTlNPdw?oc=5",
             "category": "World",
-            "published": "2026-06-24T22:06:43.183115"
+            "published": "2026-06-25T22:15:03.236778"
         },
         {
-            "title": "대규모 합동훈련 첫 공개에 대만해협 통과…항공모함 무력시위 하는 중국 - v.daum.net",
+            "title": "‘좌충우돌’ 트럼프, 이란 향해 “미국인도 핵 사찰”…공화당과는 “미치광이” 고성 - 한겨레",
             "points": [
-                "중국의 군사력 증강과 대만해협에서의 무력시위는 동아시아 및 국제 안보 질서에 중대한 영향을 미치는 사건입니다.",
-                "미국과 중국 간의 지정학적 긴장을 고조시키고, 역내 국가들의 외교 및 국방 정책에 변화를 야기할 수 있습니다."
+                "트럼프 대통령의 이란 핵 사찰 발언은 이란 핵 협상 및 비확산 정책에 대한 미국의 강경한 입장을 보여주며, 국제 핵 안보 질서에 중대한 영향을 미칠 수 있습니다.",
+                "이는 중동 지역의 긴장을 더욱 고조시키고, 이란의 핵 프로그램 개발 방향과 국제사회의 대응에 큰 변화를 가져올 수 있는 핵심적인 정책 변화입니다."
             ],
-            "link": "https://news.google.com/rss/articles/CBMiRkFVX3lxTE8tcndreERkTVZHMkV1Tk54Vl9qekZ3Mlg4SVVyckQ4MW5yVm8xNHJ1UXNWRjVRUlc1Ym5fLUNpUzgzMTZPckE?oc=5",
+            "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTE5Xa2hoWVU4N2hkQXdiZ0F4MThOSVFZRmVQRjVMZkxNRTAwVE5KNFU5VkVDOXcwRURXMk9fSFJFcG1SS1g0NEFFdGR6MFBhcDhBU0ZXQTBjQ1dXdFNIQ0VNeE54dVNBTVlod05IWUR2RQ?oc=5",
             "category": "World",
-            "published": "2026-06-24T22:06:43.183123"
+            "published": "2026-06-25T22:15:03.236784"
         },
         {
-            "title": "“40도인데 에어컨이 없다”… 프랑스 대선 이슈로 떠오른 ‘역대급 폭염’ - 조선일보",
+            "title": "NYT \"베네수엘라 강진, 튀르키예·아이티 대지진과 유사\" - 연합뉴스TV",
             "points": [
-                "기후 변화로 인한 이상 기후 현상이 유럽 사회와 정치에 미치는 직접적인 영향을 보여주는 사례입니다.",
-                "폭염이 프랑스 대선의 주요 의제로 부상하며 환경 정책, 사회 복지, 에너지 정책 등 광범위한 분야의 변화를 촉발할 수 있습니다."
+                "베네수엘라 강진이 튀르키예, 아이티 대지진과 유사하다는 보도는 대규모 인명 피해와 광범위한 사회 기반 시설 파괴 가능성을 시사하며, 국제사회의 인도적 지원과 재난 대응에 대한 관심을 촉구합니다.",
+                "이는 해당 지역의 경제 및 사회 재건에 막대한 영향을 미치고, 국제적인 재난 구호 시스템의 작동 여부를 시험하는 중요한 세계적 사건입니다."
             ],
-            "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxQX1ZZU09QY0N6WThWZEJXdU5TZGJrSmh1Sk5xdzNsTjVab185WWtvQjUzRll4MS1BVHJhYlRjdlFTZ04wZC1GOERDVWVlNkM5QVo0OENrdlhqbEVDVzhlSC1tdWYyY254dU5xdDBTWEZrNEc0b3BHbHpSa3M1Q2pTejJ6VEZvRnhoQ1FXd0JXYWxaTEZQeF9yM1BrSFFmdw?oc=5",
+            "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE11ZS0wSHhWV0w5RWdjNllDZG9SOU9LUFVHd2pvTXlXak42dnplR2VzUnFKOXZWcHlKUEJENFhwdGRHOV9tZm5FTkdmT0t0RHJrb09pTDl0cFVkdWRickxJQ2pzOG92MzA?oc=5",
             "category": "World",
-            "published": "2026-06-24T22:06:43.183124"
+            "published": "2026-06-25T22:15:03.236786"
         },
         {
-            "title": "美 민주당 급진 세력으로 물드나...맘다니 지원 후보 압승 - 조선일보",
+            "title": "에펠탑 조기폐장하고 학교 문 닫아…6월인데 40도까지 치솟은 유럽, 무슨 일? - 매일경제",
             "points": [
-                "미국 민주당 내 진보 세력의 부상과 정치적 영향력 확대는 향후 미국 국내외 정책 방향에 중대한 변화를 가져올 수 있습니다.",
-                "이는 미국의 경제, 사회, 외교 정책 전반에 걸쳐 새로운 의제와 접근 방식을 제시하며 글로벌 정치 지형에도 영향을 미칠 수 있습니다."
+                "유럽 전역을 강타한 이례적인 40도 폭염은 기후 변화의 심각성을 보여주는 대표적인 사례로, 전 세계적인 기후 위기 대응 정책의 필요성을 부각합니다.",
+                "이는 유럽의 에너지 소비 증가, 농업 생산량 감소, 관광 산업 위축 등 경제 전반에 걸쳐 광범위한 영향을 미치며, 사회 시스템의 변화를 요구하는 중요한 환경적 변화입니다."
             ],
-            "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxOOHNZd2I1NVhCOW9pRWNIaHowRWFDeTlzZ0NObWF6YmItYlpHUk1DSEhlbXlxb3U0Y1NyUTZEc2RGMlZjX0pGYVhubGpHRFlkZWpldWxvamprVVJBdTFFMXlVY0lEYVpqOFUyWmtGYzNsRy1CQ3lIX0VTeDRSbWMxcVNrSk5WdXpzX2FoOXJQWHlqTElneUdyM2F4QTQxdw?oc=5",
+            "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE5xY0RROWh3QXBLenZJS3VrQlZVUC01TGVTN3RXdUhXVXJySEhtaS1HMWN3VVlWanlxQXdPNzZyR2pOSWluV0dBbEJqTW9sSXJBN1E?oc=5",
             "category": "World",
-            "published": "2026-06-24T22:06:43.183125"
+            "published": "2026-06-25T22:15:03.236787"
         },
         {
-            "title": "트럼프 “미 조사관도 이란 핵사찰 동행”…상원선 전쟁권한 놓고 고성 - 한겨레",
+            "title": "트럼프, 우크라로 돌아서나…러 \"美, 정직한 중재자 포기\" 반발 - 연합뉴스",
             "points": [
-                "미국과 이란 간의 핵 협상 및 군사적 긴장 상태를 보여주는 핵심적인 발언으로, 중동 지역의 안정과 국제 안보에 직접적인 영향을 미칩니다.",
-                "미국 대통령과 의회 간의 전쟁 권한을 둘러싼 갈등은 미국 정치 시스템의 견제와 균형을 보여주며, 향후 대외 정책 결정 과정에 중요한 변수가 될 수 있습니다."
+                "트럼프 대통령의 우크라이나 정책 변화 가능성은 러시아-우크라이나 전쟁의 향방과 국제 정세에 중대한 영향을 미칠 수 있으며, 미국의 외교 정책 기조 변화를 시사합니다.",
+                "이는 러시아의 강력한 반발을 불러일으키며, 유럽 안보 질서와 주요 강대국 간의 역학 관계에 큰 변화를 가져올 수 있는 중요한 지정학적 변화입니다."
             ],
-            "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTE5Xa2hoWVU4N2hkQXdiZ0F4MThOSVFZRmVQRjVMZkxNRTAwVE5KNFU5VkVDOXcwRURXMk9fSFJFcG1SS1g0NEFFdGR6MFBhcDhBU0ZXQTBjUldXdFNIQ0VNeE54dVNBTVlod05IWUR2RQ?oc=5",
+            "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE5Fd3VSVVNwT0FYRjNRYTFTTHA5QnpwcVhrY2U2cFZrOHpJNFBkOXdDNVpMZ2xOeDBRcnNNXzVIYXpxOEU4eTF3TnJjY1RHX2NLdFhWdUFaNmFzWmvSAWBBVV95cUxQOVVOUHdrclFTX3RtendNVHREOUdhU1JKdDQzcXRMZ2djbTRhQjA3aVB6MDdEdnRwZzNfZThrczU0RG5IUHg0ZGZDb3UySUNCazdvaWdqNWMzMjQxNGFzM3Q?oc=5",
             "category": "World",
-            "published": "2026-06-24T22:06:43.183126"
+            "published": "2026-06-25T22:15:03.236788"
         }
     ]
 }
