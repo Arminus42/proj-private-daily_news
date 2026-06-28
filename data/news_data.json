@@ -1,210 +1,220 @@
 {
     "AI_Tech": [
         {
-            "title": "글자를 넘어 보고 듣는 AI, 멀티모달이 바꾸는 비즈니스의 미래",
+            "title": "AI 패권 경쟁 속, 미·일 1조 5천억 원 규모 '과학 AI 동맹' 구축",
             "points": [
-                "이 뉴스는 AI가 텍스트를 넘어 이미지, 음성 등 다양한 형태의 데이터를 동시에 이해하고 처리하는 '멀티모달 AI'의 부상을 다루고 있습니다. 이는 AI가 인간처럼 세상을 인지하는 방식에 한 걸음 더 다가섰음을 의미하며, AI 기술의 근본적인 진화를 보여줍니다.",
-                "멀티모달 AI는 의료 진단, 자율주행, 교육, 고객 서비스 등 거의 모든 산업 분야에서 혁신적인 비즈니스 모델과 서비스를 창출할 잠재력을 가지고 있습니다. 예를 들어, 환자의 의료 영상과 진료 기록을 동시에 분석하여 더 정확한 진단을 내리거나, 복잡한 환경에서 로봇이 시각 정보와 음성 명령을 결합하여 작업을 수행하는 등, 기존 AI의 한계를 뛰어넘는 새로운 가치를 제공할 것입니다."
+                "미국과 일본이라는 주요 경제 및 기술 강국이 AI 분야에서 협력하는 것은 글로벌 AI 기술 패권 경쟁의 새로운 지형을 형성하는 중요한 사건입니다.",
+                "1조 5천억 원이라는 막대한 투자는 양국이 AI 연구 개발과 인프라 구축에 얼마나 큰 전략적 중요성을 부여하는지 보여주며, 이는 향후 AI 기술 발전 방향과 국제 표준에 큰 영향을 미칠 것입니다."
             ],
-            "link": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE5vVXdQTDhNdUhpRTVVT3lXUUw5LTBCQlZ4STRvMThQZm5hR1d6NHRCdjhfNjBzeWFHOXVnVkFLLTE4SGlBN0JiUFJlUm5Bdw?oc=5",
+            "link": "https://news.google.com/rss/articles/CBMiSEFVX3lxTE1MUWZhRUMxM1dpbzEtX2JHMEg1RlFUMm1FTFdUcWJEdENnZ1BucXFKS1dvN3JoZFQ1M3FZeks1SGZ4SVhFX19ONQ?oc=5",
             "category": "AI_Tech",
-            "published": "2026-06-27T21:49:57.405442"
+            "published": "2026-06-28T21:50:45.198100"
         },
         {
-            "title": "정부, ‘AI 대전환’에 5년간 R&D 200조…“대한민국 미래 30년 좌우할 사활적 시기”",
+            "title": "스마트폰에서 LLM 구동 가능, 옵트AI 연구논문 국제학회서 채택",
             "points": [
-                "대한민국 정부가 향후 5년간 AI 및 전략 기술 분야에 200조 원이라는 막대한 R&D 예산을 투입하기로 한 것은 국가 차원의 AI 기술 주도권 확보 의지를 강력하게 보여주는 메이저한 소식입니다. 이는 단순한 투자를 넘어, AI를 국가 성장 전략의 핵심 동력으로 삼겠다는 비전을 제시합니다.",
-                "이 대규모 투자는 AI 반도체, 차세대 AI 모델, 로봇, 양자 기술 등 핵심 기술 분야의 연구 개발을 가속화하고, 국내 AI 생태계 전반의 경쟁력을 끌어올릴 것입니다. 이는 국내 기업과 연구소의 혁신을 촉진하고, 글로벌 AI 시장에서 한국의 입지를 강화하는 중요한 경제적, 기술적 변화를 가져올 것으로 예상됩니다."
+                "대규모 언어 모델(LLM)을 스마트폰과 같은 엣지 디바이스에서 직접 구동할 수 있게 하는 기술은 AI 서비스의 패러다임을 바꿀 잠재력을 가집니다. 이는 클라우드 의존도를 줄여 비용 절감, 응답 속도 향상, 개인 정보 보호 강화에 기여할 수 있습니다.",
+                "국제학회 채택은 이 기술의 학술적 가치와 실현 가능성을 인정받았음을 의미하며, 향후 모바일 AI 및 온디바이스 AI 시장의 성장을 가속화할 핵심 기술적 돌파구로 평가됩니다."
             ],
-            "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTE9jMVZGNXBMVnF2NHdSR2dyWGxrVVNNUWlSQzF5TEQ1VERFWmZJaEFTNUl6UXk5Q2ZEM1BYTDJJei1CVS1wV3NsV015bTE2NUhoQTA5Y1JpMFJkR3RQbkFXSWVXMEQwNFRvcW5z0gFvQVVfeXFMT05wX2hhdmlJaGxqUkdtaHFZUU51a3RwQ0NlYXJ5QWMzZlVKUGdEeVpVSnpoNjlfRkFYVWZLTUZqSmtoYWtMZFNMS04xblc1Y29UVEFaU2x5Uk1xX0ZtdDBGYkZhWGpnaWlFbzNQamZR?oc=5",
+            "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTFBkcmo5b3RuNGRSMGhPT1Bxa2lMS2FBQkY1R0dpVFN4WmJHeE0wVDNhQS1VbFdGVTFEeEtxd0gzMTBzalhvV2IxU1BFQURQTnAwMlJ1a2hPMDZxQUFINGNxeXA2aGhLUGRuT1FoZ1Myd9IBb0FVX3lxTFBkcmo5b3RuNGRSMGhPT1Bxa2lMS2FBQkY1R0dpVFN4WmJHeE0wVDNhQS1VbFdGVTFEeEtxd0gzMTBzalhvV2IxU1BFQURQTnAwMlJ1a2hPMDZxQUFINGNxeXA2aGhLUGRuT1FoZ1Mybw?oc=5",
             "category": "AI_Tech",
-            "published": "2026-06-27T21:49:57.405449"
+            "published": "2026-06-28T21:50:45.198107"
         },
         {
-            "title": "“자체 AI만으론 비효율적”···외부 LMM 병행 포기 못하는 네이버·카카오 속사정",
+            "title": "KAIST, 생성형 AI의 '은밀한 연령 편향' 실증 규명: 노인에 대한 부정적 묘사 확인",
             "points": [
-                "이 뉴스는 국내 대표 AI 빅테크 기업인 네이버와 카카오가 자체 대규모 언어 모델(LLM) 개발과 함께 외부 LLM을 병행하는 전략을 취하고 있다는 점을 보여줍니다. 이는 글로벌 AI 경쟁이 심화되는 가운데, 막대한 자원과 시간이 필요한 LLM 개발의 현실적인 어려움과 효율성을 추구하는 빅테크 기업들의 전략적 고민을 드러냅니다.",
-                "이러한 전략은 기업들이 모든 AI 기술을 '제로에서부터' 개발하기보다는, 특정 분야에서는 외부의 고도화된 모델을 활용하여 개발 비용과 시간을 절감하고 시장 출시를 가속화하려는 기술적, 경제적 변화를 반영합니다. 이는 AI 기술 개발의 '오픈 이노베이션' 트렌드를 가속화하고, 다양한 AI 서비스의 등장을 촉진할 것입니다."
+                "국내 최고 과학기술 연구기관인 KAIST가 생성형 AI 모델에 내재된 '연령 편향'을 과학적으로 규명했다는 점에서 신뢰도가 높습니다. 이는 AI가 학습 데이터의 편향을 그대로 반영하여 특정 집단에 대한 고정관념을 강화할 수 있음을 보여주는 중요한 연구 결과입니다.",
+                "AI의 윤리적 사용과 공정성 확보는 글로벌 AI 기술 발전의 핵심 과제입니다. 이 연구는 AI 개발자들이 모델의 편향성을 인지하고 이를 해결하기 위한 노력을 기울여야 함을 강조하며, 책임감 있는 AI 개발의 중요성을 부각합니다."
             ],
-            "link": "https://news.google.com/rss/articles/CBMickFVX3lxTE1MMFdXcjNPaGZnU05FbWZ2YVpOc1JEcjhrb2J1QnBUSWI1RlZEbkpxN3IxSEpWaFVGR01MZ1QyTVMyT0FPNzdDSExyYWNZdENKLW9DRTdLbUF0S3RSb3VIc3lqN1lHN0lhdENxdFZhVjhjZ9IBdkFVX3lxTE9JYWhuSjZpWno3ZFFVa0dUamgyZTF1UmQ2Z1pNeERab0s1MTZuUzNuUjZrLXdDOW14Q1c0b3VJZ1V6T2NkRjNtT01nVkFhN0hQcnd4SnQxamNoeS0zcUprREdyVHN6dG1WWWNma1NWTExIYjlFN3c?oc=5",
+            "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTE5SdWxUakRMMmlUem5oT0treDVBWXl0cHd2V0N2QUEySzdMTHA0MWZfQXozV0VJeUdiUmJCblFETHpwNUQ1WnQyMExtZEYwb2FNZkVkby1PamRsVXNMUmhPTlVFWWVxcGZfbGtjVmJn?oc=5",
             "category": "AI_Tech",
-            "published": "2026-06-27T21:49:57.405450"
+            "published": "2026-06-28T21:50:45.198108"
         },
         {
-            "title": "보스턴다이나믹스, 美에 1억달러 ‘로봇·AI 요새’ 만든다…현대차 로봇 전략 가속",
+            "title": "한국전력, 오픈AI와 업무협약 체결…전력 서비스에 생성형 AI 도입 가속화",
             "points": [
-                "글로벌 로봇 기술의 선두 주자인 보스턴 다이내믹스(현대차 소유)가 미국에 1억 달러를 투자하여 로봇 및 AI 연구 시설을 구축하는 것은 로봇 공학과 AI의 융합을 가속화하려는 메이저한 움직임입니다. 이는 단순한 시설 확장을 넘어, '피지컬 AI' 또는 '체화된 AI(Embodied AI)' 분야에서 혁신을 주도하겠다는 강력한 의지를 보여줍니다.",
-                "이 투자는 로봇이 실제 물리적 환경에서 더 지능적으로 작동하고, 복잡한 작업을 자율적으로 수행할 수 있도록 하는 핵심 AI 기술 개발에 집중될 것입니다. 이는 제조, 물류, 서비스 등 다양한 산업 분야에 로봇 도입을 가속화하고, 인간과 로봇의 상호작용 방식을 근본적으로 변화시키는 기술적, 경제적 파급 효과를 가져올 것입니다."
+                "글로벌 AI 선도 기업인 오픈AI(OpenAI)와 국내 핵심 공기업인 한국전력의 전략적 협력은 AI 기술이 국가 기간 산업에 깊이 통합되는 중요한 사례입니다. 이는 AI가 에너지 효율성 증대, 전력망 최적화 등 복잡한 문제 해결에 기여할 수 있음을 보여줍니다.",
+                "생성형 AI 기술이 전력 데이터 분석 및 서비스 고도화에 활용됨으로써, 미래 에너지 산업의 디지털 전환을 가속화하고 새로운 AI 기반 전력 서비스 표준을 제시할 잠재력을 가집니다."
             ],
-            "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTE1keUg2N0hEUnMwWnd4aWNEYUJaVUNTVm52R0puLW85YUpyS2l5WWlMY0VuUTNYUVo1MTVvc3RfSkQ1MjlwV05vNVBHWS04ZEwyaDJFd2IwNG1oVWRKR29vZDlXQ3ZSd2c2R1RQcU13VdIBb0FVX3lxTE1keUg2N0hEUnMwWnd4aWNEYUJaVUNTVm52R0puLW85YUpyS2l5WWlMY0VuUTNYUVo1MTVvc3RfSkQ1MjlwV05vNVBHWS04ZEwyaDJFd2IwNG1oVWRKR29vZDlXQ3ZSd2c2R1RQcU13VQ?oc=5",
+            "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTE1hMlY1T2NjU084LUdnT2lqV29uZHFXY2RMR1d4MzFhVHRST1owTW1Oa2pmQnNLNng2dkZBZ0hPaFhUSlVod0FVX0kwQWZYRmhsaFJHRXJ1N3o0MnI4MUtwRkRHNzFpZUY1VEtRbEplblVqTlBMT3NINQ?oc=5",
             "category": "AI_Tech",
-            "published": "2026-06-27T21:49:57.405451"
+            "published": "2026-06-28T21:50:45.198109"
         },
         {
-            "title": "성균관대학교 이은호 교수팀, IEEE ECTC 2026서 최우수논문상 포함 3관왕…AI 반도체 패키징 기술 세계 인정",
+            "title": "일본 대형 제약사, 신약 개발·제조·유통 전 과정에 AI 기술 전면 도입",
             "points": [
-                "성균관대학교 연구팀이 세계적인 전자 부품 기술 학회인 IEEE ECTC에서 최우수논문상을 포함한 3관왕을 차지하며 AI 반도체 패키징 기술력을 세계적으로 인정받은 것은 매우 중요한 기술적 성과입니다. 이는 AI 성능 향상의 핵심 병목 중 하나인 하드웨어 기술, 특히 반도체 패키징 분야에서 한국 연구진이 글로벌 선두에 서 있음을 보여주는 메이저한 소식입니다.",
-                "AI 반도체 패키징 기술은 AI 모델의 연산 속도와 전력 효율을 극대화하는 데 필수적입니다. 이 기술적 돌파구는 차세대 고성능 AI 칩 개발을 가속화하고, 데이터 센터, 엣지 디바이스 등 다양한 AI 응용 분야에서 AI 서비스의 성능과 경제성을 획기적으로 개선할 것입니다. 이는 AI 기술 발전의 근간을 이루는 하드웨어 혁신이라는 점에서 큰 파급력을 가집니다."
+                "익명의 '대형 제약사'이지만, 신약 개발이라는 고부가가치 산업의 핵심 과정(개발, 제조, 유통) 전반에 AI를 전면 도입한다는 것은 AI가 특정 업무 보조를 넘어 산업의 근본적인 운영 방식을 변화시키는 중요한 전환점을 의미합니다.",
+                "이는 AI가 복잡한 데이터 분석을 통해 신약 후보 물질 발굴 시간 단축, 생산 효율성 증대, 공급망 최적화 등 제약 산업 전반의 혁신을 이끌 수 있음을 보여주며, 다른 산업 분야에도 AI 전면 도입의 모범 사례가 될 수 있습니다."
             ],
-            "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE84SmF4M1NUUHFMSnA3OXdXanFwVERrX1ZBUDl3UVl2Vjg4cjZtM01XbUVhS3hZbFhZMkRvem1SZDdvX2NlSl9IbC1oendYNHplbmx2NVcwSmlfb0MxcG9ZNXV1R1V0MHpja0gyQkw2czk?oc=5",
+            "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE0xWFpGMERJVDlSLTZwaVI3R1VnUTZaVHlTcndRckhTRE5sdkRRd3hKbEc1NUlPOEd1Zml2Mm1SMkhXRW0wRXlDeVZlTG15ZHI4Y3VRdXo3OVU4NXJaOUNhVVRBZlFVY3lwQllYSw?oc=5",
             "category": "AI_Tech",
-            "published": "2026-06-27T21:49:57.405452"
+            "published": "2026-06-28T21:50:45.198110"
         }
     ],
     "IT_Biz": [
         {
-            "title": "삼성 워치페이스가 명품 시계 베꼈다…스와치, 2600억 손배 청구",
+            "title": "보스턴다이내믹스, 핵심부품 한국서 조달한다",
             "points": [
-                "글로벌 IT 기업 삼성과 명품 시계 브랜드 스와치 간의 대규모 지적재산권 분쟁으로, 웨어러블 기기 디자인 및 소프트웨어 저작권에 대한 중요한 선례를 남길 수 있는 소식입니다.",
-                "2600억 원 규모의 손해배상 청구는 관련 산업에 큰 경제적 파급력을 가질 수 있으며, 향후 IT 기업들의 디자인 전략 및 협업 방식에 영향을 미칠 수 있습니다."
+                "글로벌 선두 로봇 기업 보스턴다이내믹스의 핵심 부품 공급망 다변화 및 한국 의존도 심화는 국내 정밀 제조 산업의 기술력과 위상을 입증합니다.",
+                "이는 국내 로봇 부품 및 관련 첨단 제조업 분야에 대규모 투자 및 기술 협력 기회를 창출하여 산업 생태계 전반에 긍정적인 파급 효과를 가져올 것으로 예상됩니다."
             ],
-            "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE81eTNqdFJQZVdhZ0FGM0VVQUFpUENaQUZwek9QZzVCdXhwcnNHeHRzajM2eXhNU1FZemFjX3hrTGxIdEJ6TVBWcHZtQl9PWGs?oc=5",
+            "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE5ocHltVlJDeUdKZW9nV3FJcERvejBjVVkzTmlzbk9zdGtkLVhkRVZfR0ppcm1MTzB2VWpXVVJHemMzdWE5RDdWZHJjMllVSUdRNEJvd2RwVlVVZ9IBVEFVX3lxTE02cW9vWDJxeUZzWk1xb0hYTzRhVkJQTFRBa1ZjUFlhVE5UV0xYLW13TzFXX3V5cHNNM2dKZkxpQlZxdkFHcnJLczdzM0htaFZ3QXUtZw?oc=5",
             "category": "IT_Biz",
-            "published": "2026-06-27T21:50:25.852685"
+            "published": "2026-06-28T21:51:19.591286"
         },
         {
-            "title": "모더나 창업주 아들, 삼성그룹·셀트리온과 접촉",
+            "title": "中 제조업 다음 무기?…미생물이 만드는 플라스틱 '바이오 제조'",
             "points": [
-                "글로벌 바이오 기업 모더나 창업주의 아들이 한국의 대표적인 대기업 삼성그룹 및 바이오 기업 셀트리온과 접촉했다는 소식은 대규모 투자 유치 또는 혁신적인 바이오-IT 융합 사업 추진 가능성을 시사합니다.",
-                "이는 국내외 바이오 및 IT 산업 간의 협력 확대를 통해 새로운 시장을 창출하고 기술 혁신을 가속화할 수 있는 중요한 계기가 될 수 있습니다."
+                "중국이 미생물을 활용한 바이오 제조를 차세대 핵심 산업으로 육성하려는 움직임은 글로벌 제조업 패러다임의 중대한 변화를 예고합니다.",
+                "이는 친환경적이고 지속 가능한 생산 방식의 확산을 촉진하며, 기존 화학 산업 및 플라스틱 산업에 혁신적인 기술적, 경제적 변화를 가져올 잠재력이 큽니다."
             ],
-            "link": "https://news.google.com/rss/articles/CBMigwFBVV95cUxNLU1wTG1lZTF1ZnM5QUF6cldmSnBuSmpRemFmQ29ONHhqbElHQVhsNjlGUjZHQ25ybTZQRDUyNWx1aXZ6b1dWWDVMZlRZY0hsR2NTMlk3MjNJT2xIQ0t6OEszQ0NkclFFM0VaS2VLdXhOTnFZMEQ2N0R6YUhDd3ByanhUQQ?oc=5",
+            "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE9JUlNqRFBkOGtna0lPNlhMYWVmajhnM1dRc1MtZUY3ZU9JSlJPMWUtRGV2bmhLdUN3U012TUNuVTVEejlGNDhXRWxNZWlUSWkyNUxZSE1UTUtFRUhBa2hYc19FR3R4UzdheEtBctIBckFVX3lxTE5nRU4wRmlXU3FfZ1BQT2M2bnJXYTk5TlZmZUYybmVhdDMzVFZheks0b2NNVTNrV2MxdE8wZ3FTeG1ER0w3TlU3QUFBME5wVV9IaENRUGt4cVcwZ1ZkdWNGTzRRRHIybk5jTHBXdFNXQUhGZw?oc=5",
             "category": "IT_Biz",
-            "published": "2026-06-27T21:50:25.852691"
+            "published": "2026-06-28T21:51:19.591292"
         },
         {
-            "title": "애플, 중국산 메모리 칩 구매 검토…美 행정부에 승인 로비",
+            "title": "호남에 반도체 팹·충청에 패키징 … 영남엔 피지컬AI·데이터센터",
             "points": [
-                "글로벌 IT 공룡 애플이 미국 정부의 제재에도 불구하고 중국산 메모리 칩 구매를 검토하고 승인을 로비하는 것은 미중 기술 패권 경쟁 속에서 글로벌 공급망 재편의 중요한 신호탄입니다.",
-                "이는 반도체 산업의 지정학적 리스크와 주요 기업들의 공급망 다변화 전략에 큰 영향을 미치며, 향후 기술 정책 및 국제 무역 관계의 변화를 예고합니다."
+                "한국 정부의 지역별 첨단 산업 특화 육성 전략은 국가 균형 발전과 함께 반도체, AI, 데이터센터 등 핵심 IT 산업의 경쟁력을 강화하는 대규모 정책 변화입니다.",
+                "이는 각 지역에 대규모 투자 유치와 일자리 창출을 촉진하며, 한국의 글로벌 IT 허브로서의 위상을 공고히 하는 데 기여할 것입니다."
             ],
-            "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxOUXQ5c19WZzB0cFpXdmdHVDlZVTJxQ1RreWNZdm5UVjNrZ3ZCUmZXZkUyNnM2UTZOZGlseGoxS3ZkalFaMDBaem5kU1RtcmlMYjVQV0RTQ3pCQ2lUR0kxR0NpRGFncWU0SVpCMW1xVElhOXRkckJnWnhzcDJodm5NTXE2MHV5SVJERUJ1SnNn?oc=5",
+            "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE5ZSllPZ0RiYy01M0ZRbHMtYllHck1xdkFlcEh0b2I3akh3WklPTnJXWnBxMWdseHdKMGl1cUZOSEo3WmdJMjF5b2JIajVlNGxLM1VCZWxR?oc=5",
             "category": "IT_Biz",
-            "published": "2026-06-27T21:50:25.852693"
+            "published": "2026-06-28T21:51:19.591293"
         },
         {
-            "title": "40년 업계 경력, 이런 일 처음…메모리 대란에 애플도 백기 들었다",
+            "title": "BIS \"스테이블코인은 화폐가 아니다\"… 토큰화의 진짜 무대는 '2단계 시스템'",
             "points": [
-                "전례 없는 메모리 반도체 공급 대란으로 인해 애플과 같은 거대 IT 기업조차 생산 차질을 겪고 있다는 소식은 글로벌 반도체 공급망의 취약성과 중요성을 다시 한번 부각시킵니다.",
-                "이는 전 세계 IT 제품 생산 및 가격에 광범위한 영향을 미치며, 각국 정부와 기업들이 반도체 자립 및 공급망 안정화 정책을 강화하는 계기가 될 수 있습니다."
+                "국제결제은행(BIS)이 스테이블코인을 화폐로 인정하지 않는다는 공식 입장을 표명한 것은 글로벌 디지털 화폐 및 금융 시스템 규제 방향에 중대한 영향을 미칩니다.",
+                "이는 각국 중앙은행 및 금융 당국의 정책 결정에 중요한 기준이 되며, 토큰화된 자산과 '2단계 시스템'으로의 금융 혁신 논의를 가속화할 것입니다."
             ],
-            "link": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE1TTDFTSi1Bc0JQTHdRNTFtMlN5VXJ0SzY1R21LdnN3UDBPSjUtUDdTS25pWmNOdENsYmljdUpaZUFRbkJrZE02bTN1Zkk3dw?oc=5",
+            "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE5NaWRaa2JLaXd3WnhMNVpiWWxTWk1hSUh3T3VmdVR4aHVEdHJuS2E2MFFjdHU0czNtNmVFT1UzdmJNMjNwNlVUNy1Ka3haX0dLWEZsS1hR?oc=5",
             "category": "IT_Biz",
-            "published": "2026-06-27T21:50:25.852694"
+            "published": "2026-06-28T21:51:19.591294"
         },
         {
-            "title": "카이스트가 만든 이 수술 로봇이 세계 의료계의 주목을 한 몸에 받고 있다",
+            "title": "리플 프라임, 美 DTCC 자체 청산 회원 등극…XRP에 미치는 영향은?",
             "points": [
-                "한국의 대표 과학기술원인 카이스트가 개발한 수술 로봇이 세계 의료계의 주목을 받는다는 것은 국내 로봇 기술의 혁신성과 글로벌 경쟁력을 입증하는 사례입니다.",
-                "이는 의료 기술과 로봇 공학의 융합을 통해 수술의 정밀도와 효율성을 높이고, 미래 의료 서비스의 패러다임을 변화시킬 잠재력을 가진 혁신적인 서비스 출시로 평가됩니다."
+                "주요 암호화폐 기업인 리플의 자회사 리플 프라임이 미국 핵심 금융 인프라인 DTCC(예탁결제원)의 자체 청산 회원으로 등극한 것은 전통 금융과 디지털 자산 시장 통합의 중요한 이정표입니다.",
+                "이는 블록체인 기반 결제 시스템과 XRP의 제도권 진입 가능성을 확대하며, 향후 디지털 자산의 금융 시장 내 역할과 규제 환경 변화에 큰 영향을 미칠 것입니다."
             ],
-            "link": "https://news.google.com/rss/articles/CBMiwwJBVV95cUxNdmc4X0pjWXNYM2U2cFo0aFpGMEFKQlNyemtwX0xOZkhMWnFKWVVORldXbWZGOWlEQ0lCZS1xa3lqRnZmS25NcnZUaTMwNS1BTzJoUkNGUV9sa3IzMHZ1Mk9Kcl81bDNOOEpYZU42ZHFZTmlFaGxBMVJ3d2xiRjlxYVhlTmlCSk11YlVNV3FWWE9wUmlCd0IwN2dOellVems3bEgzUGw5YnlOVExmZlBJVENrd3VhRXd6SENCMGxLbmtzWUFpUjBxWjliNnpZczcyU3lrcmtvMzE4UHdCZlk2bXFPaTJNUXVSNjhlUUwxMzJZQnVwWVJYUTU4dDlyOEtvQnNhR0RhTjFhRjZYME1zY25hUkF2cGhNeFJXcFBUelVUMHlBU1g2WkJSNnZpaEdwYVdhdHkxTE9uNnliRThOaVZpNA?oc=5",
+            "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxOVU9NT3llWGRTZ1NucVEtbGN2SG5aYzk2Q1JMU2VxQkpkS2ZZY29iMVo5S0ZHVDFnV0FGSEh2eUg0YzlFa2l5YkJNblpuc1Y1eDc3TWxnS3dpRDZmTDl2SFNZUDFjWHBwYjFCRDlKX3RIUW1UT3pWLVQxZm5vblFLNWw1Vk9FLUF1?oc=5",
             "category": "IT_Biz",
-            "published": "2026-06-27T21:50:25.852695"
+            "published": "2026-06-28T21:51:19.591295"
         }
     ],
     "Economy": [
         {
-            "title": "애플, 중국산 메모리 칩 구매 검토…美 행정부에 승인 로비",
+            "title": "2분기 환율 1500원 넘어… 외환위기 이후 처음 - 서울신문",
             "points": [
-                "애플이 중국산 메모리 칩 구매를 검토하며 미국 행정부에 승인을 로비하는 것은 미중 기술 패권 경쟁 속 글로벌 공급망 재편과 주요 반도체 기업에 막대한 영향을 미칠 수 있는 중대한 소식입니다.",
-                "이는 기술 패권 경쟁과 기업의 전략적 선택이 맞물려 글로벌 반도체 시장의 판도를 바꿀 잠재력이 있으며, 관련 산업의 정책 변화와 투자 흐름에 큰 영향을 줄 것입니다."
+                "한국 경제의 핵심 지표인 원/달러 환율이 외환위기 이후 처음으로 1500원을 돌파했다는 소식은 국내외 경제에 광범위한 파급력을 가진다. 이는 한국 경제의 대외 건전성 및 물가 상승 압력과 직결된다.",
+                "수출입 기업의 채산성 악화 및 물가 상승 압력 가중.",
+                "외국인 투자 자금 유출 가능성 및 금융 시장 불안정성 증대.",
+                "정부의 외환 시장 개입 및 통화 정책 변화 가능성 시사."
             ],
-            "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxOUXQ5c19WZzB0cFpXdmdHVDlZVTJxQ1RreWNZdm5UVjNrZ3ZCUmZXZkUyNnM2UTZOZGlseGoxS3ZkalFaMDBaem5kU1RtcmlMYjVQV0RTQ3pCQ2lUR0kxR0NpRGFncWU0SVpCMW1xVElhOXRkckJnWnhzcDJodm5NTXE2MHV5SVJERUJ1SnNn?oc=5",
+            "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTE9NZ002RkNDUmJkb0R5NENSQVZZQUNvWGZDWjZPV3dOS2Foc3hLMjRSb2pCMm9WUG16ZlN5N1R6ajJUYUp3b01XRWhBWTcwUjlZR05RR0hTbGZ1WkkyU3JpeVQ4ZUlET2NieU5zaWVMOA?oc=5",
             "category": "Economy",
-            "published": "2026-06-27T21:50:57.658962"
+            "published": "2026-06-28T21:51:51.129843"
         },
         {
-            "title": "팀 쿡 “100년 만의 홍수”…삼성·SK 메모리 호황 덮칠라",
+            "title": "이 대통령 \"호남 반도체 입지, 윤석열 정부서 확인…이상한 말 자제하길\" - 네이트",
             "points": [
-                "애플 CEO 팀 쿡의 '100년 만의 홍수' 발언은 글로벌 경제의 불확실성과 거시 경제적 위험이 삼성, SK 등 국내 주요 기업의 핵심 사업인 메모리 반도체 시장에 미칠 부정적 영향을 경고하는 중대한 시장 전망입니다.",
-                "이는 전 세계 IT 산업의 핵심인 메모리 반도체 수요와 공급, 가격 변동에 직접적인 영향을 주어 관련 기업들의 실적과 투자 전략에 중대한 변화를 야기할 수 있는 파급력 있는 소식입니다."
+                "대통령이 직접 특정 지역의 반도체 산업 입지를 언급하며 정부의 정책 방향을 확인한 것은 국가 핵심 산업의 지역 균형 발전 및 대규모 투자를 예고하는 중요한 정책 발표이다.",
+                "호남 지역의 반도체 산업 클러스터 조성 가속화 및 관련 기업 투자 유치 기대.",
+                "국가 반도체 산업 생태계의 지역적 확장 및 공급망 안정화 기여.",
+                "지역 경제 활성화 및 고용 창출 효과 예상."
             ],
-            "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE5FbHk5QTYyb2I2bjFMTHo0aC1LcG8xLW9KcWFHWHpvdXJTUV80TWdNOVhZOWpPa1NQVldCemZoeENUOVV2TlNhTTJCZ0k1cFRoSU0zNW81cnV3RzZhbDVHMkN2SVAyY1F4Z2J6MUxyVVjSAXRBVV95cUxNVG56MlRVZlRmdF9vYVVuUnZVMDJZX1RzZW5uS3J3SWwwX3RSUDlNaGpoRGcyWGpFY0dxMGc4Ry1qa1dqQk12NXJYSXZ0VXBTRW5kSGdFZ2Nqamlndy1IdzRTN3VxQjdDblBZQzdjV3hpU1dIQQ?oc=5",
+            "link": "https://news.google.com/rss/articles/CBMiYAFVX3lxTFBWbnBqSkExeEFtNFdXamNTSXdmZkdnYXdjeVlqRHNmTlFjYnMtN3FObUU2bFZBTTg1MWxSZTF5SzViSzZxdi1OdlNBcnNINmdnX2MtRUhFanRvZzh5dFpPeA?oc=5",
             "category": "Economy",
-            "published": "2026-06-27T21:50:57.658969"
+            "published": "2026-06-28T21:51:51.129850"
         },
         {
-            "title": "코스피 급락의 나비 효과... 뉴욕·도쿄 주가도 흔들렸다",
+            "title": "美, 앤트로픽 '미토스5' 빗장 풀어…\"100여 곳에 허용\" - 지디넷코리아",
             "points": [
-                "한국 증시의 급락이 뉴욕, 도쿄 등 주요 글로벌 증시로 확산된 것은 전 세계 금융 시장의 높은 상호 연결성을 보여주며, 잠재적인 글로벌 경제 불안정 심화를 시사하는 중요한 거시경제 소식입니다.",
-                "이는 투자 심리 위축과 자본 시장 변동성 확대로 이어져 각국 중앙은행의 통화 정책 및 기업들의 투자 결정에 영향을 미칠 수 있는 중요한 지표로, 세계 경제의 판도를 흔들 수 있습니다."
-            ],
-            "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxOS1BJLWptX2xCWGdfdU1DOXpDU3NDWTVtaF9zQ05YZTVURlVVaVV6Q05rSmRMSXFKeTZUcDV1YkdfSGxMNFhHc2RjMW5BcHZrVVE2RFdMTXF1Y05sYUk0V2F3RzNwck9URU5oZ3hQTzg4SXhNaFN4NDB2NjhkenpzUg?oc=5",
-            "category": "Economy",
-            "published": "2026-06-27T21:50:57.658970"
-        },
-        {
-            "title": "美, 앤트로픽 '미토스5' 빗장 풀어…\"100여 곳에 허용\"",
-            "points": [
-                "미국 정부가 주요 AI 기업 앤트로픽의 '미토스5' 사용을 100여 곳에 허용한 것은 AI 기술의 상업적 확산과 산업 전반의 디지털 전환 가속화를 의미하는 중요한 정책적 결정입니다.",
-                "이는 AI 기술이 다양한 산업 분야에 적용될 수 있는 기반을 마련하고, 관련 시장의 성장과 경쟁 구도에 큰 변화를 가져올 혁신적인 서비스 출시 및 정책 변화로 볼 수 있어 파급력이 큽니다."
+                "미국이 주요 AI 기업 앤트로픽의 '미토스5' 사용을 100여 곳에 허용했다는 소식은 글로벌 AI 기술 경쟁 및 상업화에 중대한 전환점이 될 수 있다. 이는 AI 기술의 확산과 산업 적용을 가속화할 것이다.",
+                "앤트로픽의 AI 모델 '미토스5'의 시장 진출 및 활용 범위 확대.",
+                "글로벌 AI 산업 내 경쟁 심화 및 새로운 서비스 개발 촉진.",
+                "AI 기술이 다양한 산업 분야에 적용되면서 생산성 향상 및 혁신 가속화."
             ],
             "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE43V1I4ZmpQV2k0X0dtbFc2dHl0eXduLXZsYWJqejdZQ1AtZnp3aFJ6UEx6aTgzVDdCYzVTcHBHTVRpSjlyTUk3M2JtS1RFdEdfZEFJVExR?oc=5",
             "category": "Economy",
-            "published": "2026-06-27T21:50:57.658971"
+            "published": "2026-06-28T21:51:51.129851"
         },
         {
-            "title": "李대통령 \"한국판 팰런티어 육성\"…10조 펀드 만든다",
+            "title": "[김영훈 고용노동부 장관] “천문학적 초과이윤, 사회가 만들어 낸 이익의 총량” - 매일노동뉴스",
             "points": [
-                "대통령의 '한국판 팰런티어' 육성 선언과 10조 원 규모의 펀드 조성 계획은 데이터 및 AI 기반 산업에 대한 국가적 차원의 대규모 투자와 정책 지원을 의미하는 매우 중요한 소식입니다.",
-                "이는 국내 데이터 산업 생태계 조성과 AI 기술 경쟁력 강화에 결정적인 역할을 하며, 관련 스타트업 및 기업들의 성장 기회를 확대하고 산업 판도를 변화시킬 수 있는 핵심 동력이 됩니다."
+                "고용노동부 장관의 '초과이윤'에 대한 발언은 기업의 이윤 분배 및 사회적 책임에 대한 정부의 인식을 보여주며, 향후 기업 규제, 세금 정책, 노동 정책 등 광범위한 경제 정책 변화의 신호탄이 될 수 있다.",
+                "기업의 초과이윤에 대한 사회적 환원 또는 재분배 논의 촉발.",
+                "법인세 인상, 횡재세 도입 등 기업 이윤 관련 정책 변화 가능성.",
+                "노동계의 임금 인상 및 복지 확대 요구 강화로 이어질 수 있음."
             ],
-            "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE96X1FDcllLajhXek9BVTFGdzNGWFloR2VTYUVSSGtobnYtckhGSzlqQk5jb3NVVnNGMmZ0WWRzWnpYVWtVSHR3NDhfanJzVkNiZGNKaDJDOWtvUdIBVEFVX3lxTE9rYXdjWnlvZHV1NDE3Z1pQcG1IdmIxNUp6WlhNMmJPLU9fcFZ6OTNKNTUtT2J5NDNTaHFMYWQwX1l6QWdzQS15Q3IweE5JVFkzWDd5dA?oc=5",
+            "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE1hSWxWS2ZTM0ctMmltekZ1c1Z3ZW5yMU5ta0g0MmNWNklnM3YxRWhMVW43WDFLTjVMS3NFUzYzR3JDeVBYbzR5ZzY1TDFHYkcwbkl2YnJWOHRvelg5VmM5RzRXWHRfUGM2ZDhmbU9uYVM?oc=5",
             "category": "Economy",
-            "published": "2026-06-27T21:50:57.658972"
+            "published": "2026-06-28T21:51:51.129852"
+        },
+        {
+            "title": "코스피 150배·삼전닉스 50배 레버리지 등장…사실상 도박판 - mbn.co.kr",
+            "points": [
+                "초고배율 레버리지 ETF의 등장은 국내 증시의 투자 환경에 큰 변화를 가져올 수 있으며, 고위험 금융 상품의 확대로 인한 시장 변동성 증대 및 투자자 보호 문제가 주요 쟁점으로 부상할 것이다.",
+                "개인 투자자의 고위험 투자 기회 확대와 동시에 막대한 손실 가능성 증대.",
+                "시장 변동성 및 투기적 거래 증가로 인한 금융 시장 불안정성 심화 우려.",
+                "금융 당국의 규제 강화 및 투자자 보호 장치 마련 필요성 대두."
+            ],
+            "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE5pUDFqd2JOZ294NWV0bFgyMDBuRzZYa01wVkVMaFcwV1JEY0RUMDZ2aExoSllPbmhEY0xndGhVeWx2WnBHZWhHbzh0NFExaGNHMlozM9IBTEFVX3lxTE4tdkFuTFluMHU3aEdGcmVKZDZsQm5oQl9fTTBYbklzbTdxbEItcmZiWXdVRlMyM1ZfYnZ5Ni1TbXhrQTRBTmlaLWpJUko?oc=5",
+            "category": "Economy",
+            "published": "2026-06-28T21:51:51.129853"
         }
     ],
     "World": [
         {
-            "title": "흔들리는 미-이란 휴전…호르무즈서 상선 또 피격 ‘보복 공격’ 이어지나 - 한겨레",
+            "title": "美 언론 “미국-이란 공습 중단 합의… 카타르서 회담”",
             "points": [
-                "미국과 이란 간의 긴장 고조로 중동 지역의 지정학적 불안정 심화가 예상됩니다.",
-                "호르무즈 해협은 세계 주요 석유 수송로로, 상선 피격은 국제 유가 및 해상 운송 안보에 심각한 위협을 초래할 수 있습니다."
+                "중동 지역의 지정학적 긴장 완화 가능성을 시사하는 중요한 외교적 진전입니다.",
+                "미국과 이란 간의 직접적인 대화는 국제 유가 및 중동 정세에 큰 영향을 미칠 수 있는 정책 변화의 시작점이 될 수 있습니다."
             ],
-            "link": "https://news.google.com/rss/articles/CBMiggFBVV95cUxNNTRvLW9MbUNfeDRGbU9mSllWTWNKb2R4eXdiQUw1UVloNmFiMDdJRlZoT1JTOHIwVm1VaGVTU0VGSE1JSDdkcXE1ZnFyTGphWFc5blU1dlJRMzdKcFp5OVJaM1lubm5jTWhPUllEZnJ2aTdiRVZWc2MxSjM3M1JqVzZ3?oc=5",
+            "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxQbjY2QnR6bEdGX2FDVDBDYkJLZEY2ZnlCWDBwYTV6VF9ELTJlV1NybFpsU2tMT3VLMmZhd2R2aFZWX25sYkg1OFAwZkpPX1JWVDFVVVowbWpsNHJwZHM5c3hPcXFuYXlZTlYwaU5mRlBFT2VNVVZCR0doalFka21LOVFYblIxSEpaRmZvMXN2emxQa0JsZlhNcXN3WHdrUdIBsgFBVV95cUxPM2dNcno1RkJpQ0ZpU2loc19XXzlTNTJMV0Z2TXRBVHNsenROc3hJU3FuMWJhUE9HeTVhWjk5ZHdPdWhNU0NKUEVvSnR3dHR2Q1JBdmJrbmNUU0pGRjJjS2swTHUyLWtRYk1iSWNzN1dIX3gxZWxLMHBxeDY4ZnFBV2J5N3JkWm43bmJaOVR4X24xRjFxSS0tdXVzN29ZUllmMDNqV3FRdV8zNnhsN1lvcDdn?oc=5",
             "category": "World",
-            "published": "2026-06-27T21:51:27.374126"
+            "published": "2026-06-28T21:52:28.501934"
         },
         {
-            "title": "베네수 강진 사망자 1천430명으로 늘어…실종자도 7만명 - 연합뉴스TV",
+            "title": "독일·체코까지 41도…유럽 ‘살인적 폭염’ 동쪽으로 번진다",
             "points": [
-                "대규모 인명 피해와 실종자 발생으로 국제 사회의 인도적 지원과 재난 구호 활동이 시급한 상황입니다.",
-                "자연재해의 파괴적인 영향과 취약 지역의 재난 대응 시스템 강화 필요성을 부각하며, 국제적 협력의 중요성을 강조합니다."
+                "유럽 전역으로 확산되는 기록적인 폭염은 기후 변화의 심각성을 보여주며, 각국의 에너지 정책, 농업, 보건 시스템에 즉각적이고 장기적인 영향을 미칩니다.",
+                "이는 기후 위기 대응을 위한 국제적 협력과 정책 변화의 필요성을 강조하는 중요한 글로벌 이슈입니다."
             ],
-            "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE5zZWpzZkE0MlAxV0dpQ0o5NjdVZ29MRmJhaVhZSGVZYUlYRWdBLVFvWHlvWmtvT2dZTHJHMHZlaTZVamRMYmJKS0lXbUVZaEVvVVM2bkdMV3NVTEZDdHRzUW5ZTFQxeVE?oc=5",
+            "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTFB0LUZpVkdvUklkc1F3UzZSZ3g3YnR1U3dkMXd6Y0N4Y29PLU5FUE1vOXoyWGM5NEFxeGJ6UzBOalVNbzdMb0UtazU4dlQ5WmtJd0VxU1p1eVBNRWJJWUgySzJBbGJmaUduLThnbWRB?oc=5",
             "category": "World",
-            "published": "2026-06-27T21:51:27.374133"
+            "published": "2026-06-28T21:52:28.501941"
         },
         {
-            "title": "우크라 ’40일 작전’ 선언 후 대규모 공습…크림반도 ’비상’ - 연합뉴스TV",
+            "title": "\"모스크바도 사정권\"…우크라, 드론 이어 '플라밍고' 꺼냈다",
             "points": [
-                "러시아-우크라이나 전쟁의 격화와 주요 전략 지역인 크림반도의 긴장 고조는 국제 안보에 심각한 영향을 미칩니다.",
-                "전쟁 장기화로 인한 에너지, 식량 등 글로벌 공급망 불안정 및 인도적 위기 심화가 전 세계 경제와 사회에 파급 효과를 가져올 수 있습니다."
+                "러시아-우크라이나 전쟁의 새로운 국면을 알리는 소식으로, 우크라이나의 공격 능력이 확대되었음을 보여줍니다.",
+                "전쟁의 양상 변화는 유럽 안보, 에너지 시장, 국제 관계에 광범위한 영향을 미칠 수 있는 주요 지정학적 사건입니다."
             ],
-            "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTFBwWUluUFVGOGlGT3lzSjV3WDdLYzVDWjNEbHctUnBnNnhNZzdUZWtwcDU2akQwYXhodzMyaVVwaDVsaWtGdWl1MnlzZFZveHU5SC01M2xiRW9KVlpuWmtHOVZo0MMSQlU?oc=5",
+            "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE1tWFhaQ0x1RnFCY240bUExeW5UQWY0bWNBcmpwcGdfaUk5YTNzV0k5dHVrU0JDNUQ3aTVGMWhkblhYNEwwc0paNjFrclJCbDRsWDVuRHk3WWhteGfSAWBBVV95cUxPb1pMclZpSzdGMWRHVFpEeHVPRC0teXZKUGJ0N2EtWFc5MW8zSkFPd0RGS0l5dFVyem1YY2N4NXVON0dRUjFORXR2UWc4SEZFRmM3Smd4WDVzTHFTMlo1TkU?oc=5",
             "category": "World",
-            "published": "2026-06-27T21:51:27.374134"
+            "published": "2026-06-28T21:52:28.501942"
         },
         {
-            "title": "트럼프 \"디지털 서비스세 부과 땐 100% 보복관세\" - 지디넷코리아",
+            "title": "트럼프 \"디지털 서비스세 부과 땐 100% 보복관세\"",
             "points": [
-                "미국 전 대통령의 발언은 디지털 서비스세 도입을 추진하는 국가들과의 대규모 무역 분쟁 가능성을 시사합니다.",
-                "글로벌 IT 기업 및 국제 무역 질서에 막대한 경제적 파급 효과를 가져올 수 있는 중요한 정책 변화 위협으로, 전 세계 경제에 불확실성을 더합니다."
+                "전 미국 대통령의 발언이지만, 디지털 서비스세와 보복관세 위협은 글로벌 무역 정책 및 IT 산업에 중대한 영향을 미칠 수 있는 잠재적 정책 변화입니다.",
+                "이는 국제 조세 및 무역 분쟁의 확대를 예고하며, 다국적 기업의 사업 전략과 국가 간 경제 관계에 큰 파급력을 가집니다."
             ],
             "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTFBrdmU0dzN1QTJLSGthdWZQVzlrVzFxbjNOVVZoRjh6eWZlZ3lPTkg2MFNudnVMZWI1NzN5andYRUcwSDBMQmhoekdRcENuVGhGM2gtWGl3?oc=5",
             "category": "World",
-            "published": "2026-06-27T21:51:27.374135"
+            "published": "2026-06-28T21:52:28.501943"
         },
         {
-            "title": "북한 IT 위장 취업조직의 실체…BBC가 입수한 북한 컴퓨터 기록을 열어보니 - BBC",
+            "title": "동남아 ‘공공의 적’ 된 한국?···“우리 중 한 나라 건드리면 동남아 전체가 달려든다”",
             "points": [
-                "북한의 IT 인력 위장 취업을 통한 외화벌이 및 국제 제재 회피 실태가 드러나, 국제 사회의 대북 제재 강화 필요성을 부각합니다.",
-                "사이버 안보 위협과 불법 자금 조달 경로에 대한 경각심을 높이며, 글로벌 안보 및 금융 시스템에 중대한 영향을 미칠 수 있습니다."
+                "한국과 동남아시아 국가들 간의 외교적, 경제적 관계에 중대한 변화가 발생할 수 있음을 시사하는 소식입니다.",
+                "이는 역내 협력 구도, 무역 관계, 문화 교류 등 다양한 분야에 영향을 미쳐 동남아시아 지역의 판도를 바꿀 수 있는 잠재력을 가집니다."
             ],
-            "link": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE5wV3M4OExtM2JlcDBPMHktX2RVY3gxMzUzZGVITmdxcE9QbXJmYmNEemhmTVljUWt2TXZrZlZFQS1CZHJBMDlvNnVCeUEzVnVneWQ5RzhRbngtMjF30gFiQVVfeXFMUGVCUElaOW41RG5GVVJXdEhYeGR3SVdWOF84S01fX181eG5BbW1YdTAyMW1XTnVmeDB1TlpqUF81T1hDNzdwT1RJbW9sdWl4YWVxVEpISzdPSTRSSGd4YktFeUE?oc=5",
+            "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE4xWmlYZzdLVVc5aDJXUkNEcVBCQ19iWlBPZzd1eWdleHUyN1B0bVlCZnNNWjhOOVlMbi1YcGl2dFh5eXRmZE9Ea0M0WlozVkF0aElsOWpTTXk0UdIBX0FVX3lxTE5rTzlseEJFYU9rUkxXV2pyRnJidlMzRkVBaE9nVGVaejA0UFRxY2gwNXB0bnJCRTdMTTEyeXh5NFRYSkhaUjRmRUhyLXVJQ2JFNEFOU0ViLWhYVDFRMmdJ?oc=5",
             "category": "World",
-            "published": "2026-06-27T21:51:27.374136"
+            "published": "2026-06-28T21:52:28.501944"
         }
     ]
 }
