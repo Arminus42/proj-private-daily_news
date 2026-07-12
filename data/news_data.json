@@ -1,158 +1,158 @@
 {
-    "IT_Biz": [
+    "AI_Tech": [
         {
-            "title": "테슬라, 모델 S·X 라인 46일 만 철거…휴머노이드 '옵티머스' 생산 채비 - 이데일리",
+            "title": "KAIST, 집에서 뇌혈관질환 위험 신호 미리 찾는 AI 기술 개발",
             "points": [
-                "테슬라가 주력 전기차 생산 라인을 철거하고 휴머노이드 로봇 '옵티머스' 생산을 준비하는 것은 회사의 핵심 사업 방향 전환을 의미하는 중대한 소식입니다.",
-                "이는 전기차 시장을 넘어 로봇 산업으로의 대규모 투자 및 기술 전환을 시사하며, 미래 산업 판도에 큰 영향을 미칠 수 있습니다."
+                "KAIST는 국내 최고 수준의 연구기관으로, 이번 기술은 AI가 일상생활 속에서 뇌혈관질환의 미세한 위험 신호를 조기에 감지할 수 있게 해주는 획기적인 발전입니다. 이는 마치 우리 몸의 'AI 주치의'가 항상 곁에서 건강을 모니터링해주는 것과 같습니다.",
+                "이 기술은 고령화 사회에서 뇌졸중과 같은 치명적인 질환을 예방하고 조기 진단하는 데 크게 기여할 수 있습니다. 병원에 가지 않고도 집에서 스마트 기기를 통해 위험을 감지하여, 의료 접근성을 높이고 사회적 의료 비용을 절감하는 중요한 기술적 돌파구입니다."
             ],
-            "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxOTFp5bXpEOE0xZHJteTVhSzRTMHVBLWx2VXJUN2xTU0twQzU3V2h4Tk1yVUtPN0JIM01UaFVuMVJWNE5KSEVYeXdUanRELXRXRnpYc1NpcWxGZlZmcDdPTzE3WHJnbWpSUC1sRUJpWi1ybHNBendKb3JxWHJNNzA3cg?oc=5",
-            "category": "IT_Biz",
-            "published": "2026-07-11T21:36:31.399846"
+            "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE1yTHdSMDVSaEYyMHdkM1h1VmZQdFZzQVZpanVtWnhpU0RGWERXMnBFbGFIYjlib0Z1aElDUFNrekRSWGxlNGlvb2ZzX1NFTEVUVEE2Y1RIQ1c5MkU1aVpNVNIBYEFVX3lxTE1yTHdSMDVSaEYyMHdkM1h1VmZQdFZzQVZpanVtWnhpU0RGWERXMnBFbGFIYjlib0Z1aElDUFNrekRSWGxlNGlvb2ZzX1NFTEVUVEE2Y1RIQ1c5MkU1aVpNVA?oc=5",
+            "category": "AI_Tech",
+            "published": "2026-07-12T21:36:09.343633"
         },
         {
-            "title": "오픈AI 초고성능 모델 ‘GPT-5.6’ 정식 출시 - 조선일보",
+            "title": "세계 최고 권위 AI 학회에서 크래프톤 논문 10편 채택",
             "points": [
-                "오픈AI의 초고성능 모델 'GPT-5.6' 출시는 인공지능 기술 발전의 중요한 이정표이며, AI 산업 전반에 걸쳐 파급력이 매우 큰 소식입니다.",
-                "새로운 모델은 기존 AI 서비스의 성능을 대폭 향상시키고, 다양한 산업 분야에서 혁신적인 애플리케이션 개발을 촉진할 기술적 변화를 가져올 것입니다."
+                "크래프톤은 게임 회사이지만, 세계 최고 권위의 AI 학회(예: NeurIPS, ICML 등)에서 10편의 논문이 채택되었다는 것은 그들의 AI 연구 역량이 글로벌 수준임을 입증합니다. 이는 단순한 게임 개발을 넘어 AI 기술의 근본적인 발전에 기여하고 있음을 보여주는 중요한 소식입니다.",
+                "이러한 연구 성과는 게임 AI, 시뮬레이션, 사용자 경험 최적화 등 다양한 분야에 적용될 수 있으며, AI 기술의 학술적, 산업적 경계를 확장하는 데 기여합니다. 이는 마치 게임 엔진이 자율주행 시뮬레이션에 활용되듯, 특정 분야의 AI 연구가 다른 산업 전반에 파급력을 가질 수 있음을 시사합니다."
             ],
-            "link": "https://news.google.com/rss/articles/CBMigwFBVV95cUxNWmlBU1dZR29VTFhmZklRRHNHWjdFV2w5VlNVT21BV2JmUmdLcGdRMWRtWmhubmdHSk9KQlg0ZkNhdXBlR1hoSDRkNHy2dzBpV2M5MFFabmhabU8zTmFwQld4Qlp0Q2lxQlZkX3ZsXzlCT21NYW92c245UUwxOXluYkFSTQ?oc=5",
-            "category": "IT_Biz",
-            "published": "2026-07-11T21:36:31.399852"
+            "link": "https://news.google.com/rss/articles/CBMiYkFVX3lxTFBvc3RDUy1Ra0wwSUxtbkhJNktIR0NvTUNMTWlLNDJ6bEloemtZZmIwQ2ItSVBfT3VxQWJqS2szczJuSl9vY3hpbDNkSkVOX0hmR1hWNG5HQVlON3RyOEhuRlh3?oc=5",
+            "category": "AI_Tech",
+            "published": "2026-07-12T21:36:09.343642"
         },
         {
-            "title": "SEC 코인 규제 확 푼다...토큰화 시대 본격적으로 열리나 | 엠블록 - 매일경제",
+            "title": "카카오뱅크, UN 산하 AI 행사에서 금융 AI 연구 성과 발표",
             "points": [
-                "미국 증권거래위원회(SEC)의 코인 규제 완화 움직임은 암호화폐 및 블록체인 산업에 대한 정책적 변화를 예고하는 매우 중요한 소식입니다.",
-                "이는 토큰화 시대의 본격적인 개막을 알리며, 디지털 자산 시장의 제도적 안정성과 대규모 투자를 유도하여 금융 산업의 판도를 바꿀 잠재력을 가집니다."
+                "카카오뱅크는 국내 대표 인터넷 은행으로, UN 산하 기관의 AI 행사에서 금융 AI 연구 성과를 발표했다는 것은 그들의 AI 기술이 국제적으로 인정받고 있음을 의미합니다. 이는 국내 기업의 AI 역량이 글로벌 무대에서 주목받는 중요한 사례입니다.",
+                "금융 분야에서 AI는 개인 맞춤형 서비스, 사기 탐지, 신용 평가 등 다양한 혁신을 가져오고 있습니다. 카카오뱅크의 발표는 이러한 금융 AI 기술이 어떻게 실제 서비스에 적용되어 사용자 경험을 개선하고 금융 시스템의 효율성을 높이는지 보여주는 중요한 지표가 됩니다."
             ],
-            "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE1jaHVrWHM5eHdZYk5BZVNncDYzSDBfY1dHTkk1YXMtMExvSmNROTNaSEY2UWo3cUVHUmUtOVpVQXJ3Yk5PazE1dDFDcTFkOHd4b0Ew?oc=5",
-            "category": "IT_Biz",
-            "published": "2026-07-11T21:36:31.399854"
+            "link": "https://news.google.com/rss/articles/CBMi4ANBVV95cUxOdVYzVlhWTGs1ZjFfWHUzamdUdzdpdFFFcUpGdHg3R2k2dDFNenIwTTF2VWVhbWUySk5PREpJcGk2aEptcHYyeUZLYUdjaUJCb0pQRkVMSjMwWXlrUmRKcFlXRWtWQTJCQzRDbWNTNFZ2c3FtQVp3QkZQVTR3X19nQk9YYkcxMlVfckZsMDdZMl9JRlp2WTlJZ0diRkpvb2kxbkZrMlNyLUVEaEttQ3NXSlQ4NXpzUlZfNERsOVFxYVdaaUh6NnVGNlJ6cUl6d2dfZDJkei01TC1CV3JhQUNERFMtYWJMNEpuSnlGdHdvZWM3ekw1a3JpMkxNRWhYV1hvMHo3d0UtR3pFdHM2bkxkZTBaT0dVV2h6dDdZQWN0eHhibnhGR3JBbkVJZTNPQnc1VVlteER3TVF5UHVIQkVHODA1ekZ3a1UtSU94ZFBqa2stUy1xSUQ2TmtCY1kyRnFMTFQ3ZEpqd3g4VEVwbnZHMnpkbDhsYTNUa3dvSjlrZlM2TTFWazR2X3Zrd2gxcUk1NHJkQUdac1RBNU1vMUhUS1lmdHJ1alI0Q19JNzhLSmcwZGNzTUkzOXJIZEtZYXJwUXZDRXp4bktKd0h0Sy1ERU5fdDF4ZUhZbTQxTGM0SG4?oc=5",
+            "category": "AI_Tech",
+            "published": "2026-07-12T21:36:09.343644"
         },
         {
-            "title": "삼성전자·SK하이닉스 긴장…중국 창신메모리, 6조5천억 '실탄' 장전 - v.daum.net",
+            "title": "KT ‘AI 스테이션’, WSIS 프라이즈 수상…기술 경쟁력 넘어 ‘포용적 AI’ 확산",
             "points": [
-                "중국 창신메모리의 6조 5천억 원 규모 대규모 투자는 글로벌 메모리 반도체 시장의 경쟁 구도에 큰 변화를 가져올 수 있는 중요한 소식입니다.",
-                "이는 삼성전자, SK하이닉스 등 기존 강자들에게 직접적인 위협이 되며, 반도체 산업의 기술 개발 및 시장 점유율 경쟁을 심화시킬 경제적 변화를 의미합니다."
+                "KT는 국내 통신 및 AI 분야의 선두 기업 중 하나로, UN 산하 기구인 WSIS(세계정보사회정상회의)에서 'AI 스테이션'으로 프라이즈를 수상한 것은 기술력뿐만 아니라 AI의 사회적 가치와 포용성에 대한 기여를 국제적으로 인정받았다는 점에서 중요합니다. 이는 AI가 단순한 기술을 넘어 사회 전체의 발전에 기여해야 한다는 글로벌 트렌드를 반영합니다.",
+                "'포용적 AI'는 AI 기술의 혜택이 특정 계층에만 머무르지 않고 모든 사람이 접근하고 활용할 수 있도록 하는 것을 의미합니다. KT의 AI 스테이션은 이러한 포용적 AI의 확산에 기여하며, 기술이 사회적 격차를 줄이고 모두에게 이로운 방향으로 발전해야 한다는 중요한 메시지를 전달합니다."
             ],
-            "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE82Zmt2TTVfWGtWbTNvY3FLeHpTd0NrVGU5QUdjVGpKeG1FRnhsN25LcUxSdkd4eGxNRHRRNEhGaXhIaWRSTlR4NE5NTnhfdzA?oc=5",
-            "category": "IT_Biz",
-            "published": "2026-07-11T21:36:31.399855"
+            "link": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE0xSzBxMnlmMHN5MDk3Wm1BN3hybFNCdGVpYVMtblZfbFhxVUpCVmRZUVhsVVRaUzlsTGgwaHcwZHZRSjgxUlNlSVNVUEgwdlhYT01fQ1RncEVSUmNTUEVjZDFVd9IBbEFVX3lxTE50R1RsZHFlMjJRa2VBc2ZXRkNmMTl1NDNCWUk3Vk82alRHV0FhRkxvNS1Kd2pETDJZMEFfWVBoaVR6WnpVdE1YVW9fZVJIVVdZNjlNYU5kUHo5V2lNMWI0YjJFREZjRXpySXdyVA?oc=5",
+            "category": "AI_Tech",
+            "published": "2026-07-12T21:36:09.343646"
         },
         {
-            "title": "떨어지는 로켓을 그물로 받았다…中도 ‘재사용 로켓 회수’ 성공(영상) - 동아일보",
+            "title": "AI·첨단바이오·반도체 총출동…서울대·성균관대·경북대 등 전략기술 산학연 13개팀 선정",
             "points": [
-                "중국이 재사용 로켓 회수에 성공한 것은 우주 산업의 핵심 기술 발전 측면에서 매우 중요한 성과이며, 글로벌 우주 경쟁 구도에 영향을 미칠 소식입니다.",
-                "이는 우주 발사 비용 절감 및 효율성 증대에 기여하며, 스페이스X 등 선두 주자들과의 기술 격차를 줄이고 상업 우주 시장의 경쟁을 심화시킬 기술적 변화를 가져올 것입니다."
+                "서울대, 성균관대, 경북대 등 국내 유수의 대학들이 AI를 포함한 전략 기술 분야에서 산학연 협력팀으로 선정된 것은 국가 차원에서 AI 기술 개발에 대한 강력한 의지와 투자를 보여줍니다. 이는 미래 핵심 기술 경쟁력 확보를 위한 국가적 로드맵의 일환으로, 국내 AI 연구 생태계의 활성화를 의미합니다.",
+                "이러한 대규모 산학연 협력은 AI 기술이 단순한 연구실을 넘어 실제 산업에 적용되고 상용화되는 속도를 가속화할 것입니다. 다양한 분야의 전문가들이 함께 연구하며 시너지를 창출하여, AI 기술이 사회 전반에 미치는 파급력을 극대화하는 중요한 기반이 됩니다."
             ],
-            "link": "https://news.google.com/rss/articles/CBMic0FVX3lxTE5md2JlNHBlV08yZDh4dDhxdGF3WWRVdUJxZl9zamcteXVvcDN0Q3Q2ZHhJRXlRODE4ajVMUWE5aXRzdnNIZTZOclFsNUFBeE16YzJXbmw5ZDFzcTNFUkxFcVM1c1lMeWtWWm5GempaXy1lYk3SAWZBVV95cUxPZmxNQUhrdm00N2VHMWo5QVdjRldoMUNmVHJURGZTdmxkcm9fM3QteXNOLUdEWGUyYzdrU0FvdGFBX09pWndzRVg1Snk3VS1oa2d0am4yS21LWlNDTEFadVFSVzFoSVE?oc=5",
-            "category": "IT_Biz",
-            "published": "2026-07-11T21:36:31.399856"
+            "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxPbVNGYXB1UTFQTnd3VGVYVF9WWFBlYXZ2UF9Na1lsNFk1ZktQRGlsTUh1NzFGWkRZa1hZYlVqbzJiUTRNUU10QldMcFlEYUFNVjY1VUpQRXJmU0F2d0pxdW9ITFdQVGxvOGozVFc5RnBCN25RTmxKNmpRczB2OGdZMA?oc=5",
+            "category": "AI_Tech",
+            "published": "2026-07-12T21:36:09.343648"
         }
     ],
     "Economy": [
         {
-            "title": "BofA \"한은, 다음 주 기준금리 만장일치 인상…긴축 사이클 개시\" - 연합인포맥스",
+            "title": "본격 속도내는 용인 팹… 韓-美-中, 메모리 설비 확충 경쟁 - 동아일보",
             "points": [
-                "한국은행의 기준금리 인상은 가계 대출, 기업 투자, 환율 등 국가 경제 전반에 막대한 영향을 미치는 핵심 거시경제 정책 변화입니다.",
-                "긴축 사이클의 개시는 시장 유동성 축소와 금융 비용 증가로 이어져 전반적인 경제 활동에 중대한 영향을 미칠 것입니다."
+                "이 뉴스는 한국의 대규모 반도체 클러스터 조성과 함께 글로벌 메모리 반도체 시장에서의 한국, 미국, 중국 간의 치열한 설비 투자 경쟁을 다루는 비중 있는 소식입니다.",
+                "국가적 차원의 대규모 투자와 글로벌 공급망 재편 움직임이 맞물려 반도체 산업의 미래 판도를 결정할 핵심적인 경제적 변화를 보여줍니다."
             ],
-            "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE92aUhPTFlycU8xVTJLd1JKRFNqZ0lBSU9wMmY1VndSUWJVWC00UWd5WHdJenI0alNLbTdmU3BzZWRpRmRmOGtRbGhPZ1BXcnFjOVdSQTlqYW1IMkNjLXg2X25WYXJhSGVoN2NmYTloQW0?oc=5",
+            "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTE8xZ2tLUkZXSF9UQ0ZYYkdDTjdFVXZlS1NnaHJJbzcxNjRRZGVwQnhuT0liVG1QNWJ2ejZ2Z01DWnhRbGJ2SzdmaEpJdFh1cy1RZ3ZXSEp2YXUwdUFrVGx5MGpIcU00ckZFbk9TQU9jNm56WlVGblHSAWZBVV95cUxPa3dTdDFqWS1ISkhlTHoxbEVGcWw1cXF5WU1yNWphRW43UVBjdVRvbUdLNjFobmZpMl9TcWpCc3dTUFd1aXZ4MWtJaUlmWl92WTZ5YlU0eEJXeDhZLUFuSl9FZGd2U3c?oc=5",
             "category": "Economy",
-            "published": "2026-07-11T21:37:03.055392"
+            "published": "2026-07-12T21:36:51.779885"
         },
         {
-            "title": "\"삼성·SK하이닉스, 미국서 생산 더 늘리길\"...미 상무장관 투자 압박 - 머니투데이",
+            "title": "\"연말 기준금리 3% 간다\" 전문가 폭탄 전망에…영끌족 '공포' - 한국경제",
             "points": [
-                "미국 상무장관의 발언은 글로벌 반도체 공급망 재편과 미국의 자국 중심주의 정책을 반영하며, 삼성과 SK하이닉스 등 국내 주요 기업의 해외 투자 전략에 직접적인 영향을 미칩니다.",
-                "이는 국내 반도체 산업의 생산 기지 및 투자 계획에 중대한 변화를 요구하며, 장기적으로 글로벌 반도체 시장의 판도를 바꿀 수 있는 정책적 압박입니다."
+                "이 뉴스는 연말 기준금리 인상 가능성에 대한 전문가 전망을 다루며, 이는 가계 부채, 부동산 시장, 기업 투자 등 한국 경제 전반에 막대한 영향을 미칠 수 있는 거시 경제의 핵심 소식입니다.",
+                "기준금리 인상은 대출 금리 상승으로 이어져 가계의 이자 부담을 가중시키고 소비 및 투자 심리를 위축시키는 등 광범위한 경제적 파급 효과를 초래할 것입니다."
             ],
-            "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTFAxczYzSDFrNVlicjV2cHZWOC1CS1hCRFVUU19uWDJUQzZ1bnhsRVNrLWJqWTltS2t2M0tkVlU5SEtzLXNUZTRLNkV0dXFrUlRZck5yb0paaS1QTDV0eXltVV8wWGhQV3dy0gFuQVVfeXFMTmhuR3g4MW1UUHpyV19aMl80TzQyaEVrRkRkUGxfOXNNc0dlcmlyejNDRXB1eDVBaWxJNnV6UWdtOHFHNXQzeVBzZDRTRXh3eVVtbC1DQ2Q2aFpOdGRoaENuRXdxTnBFVGJackVrTHc?oc=5",
+            "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE45UWhFaHhFSENqaDhYY3EwOXpVbnA2emhzNFZ3bFhlVGVzZDZkSVI5TGxxdGNFVVlmZkFZWTdPaHo1MFRaME92dG0xVVBfTVJ1TUdranFCMlQ5UdIBVEFVX3lxTFBZOTBsWWRyTDVadzc3THJpTmN5QzctN20yZUo2bVFHZDFaSXowMjBVTzRWbE05bVl4NHdFNmhvNUc2aXdmc0xfaTdYLU5Lb3NkRXFEbA?oc=5",
             "category": "Economy",
-            "published": "2026-07-11T21:37:03.055398"
+            "published": "2026-07-12T21:36:51.779893"
         },
         {
-            "title": "갑자기 바뀐 대출 조건…혼란 커지는 실수요자 - 한국경제",
+            "title": "종부세 높이되 과세기준 재설정… 양도세는 보유공제 축소 가닥 - 국민일보",
             "points": [
-                "정부의 대출 정책 변화는 가계의 자금 조달 환경과 부동산 시장에 직접적인 영향을 미치며, 실수요자들의 주택 구매 계획에 큰 혼란을 야기합니다.",
-                "이는 금융 시장의 유동성 및 부동산 가격 변동성에 영향을 주어 경제 전반의 소비 심리와 투자 활동에 파급 효과를 가져올 수 있습니다."
+                "이 뉴스는 종합부동산세와 양도소득세 등 부동산 관련 세금 정책의 주요 변화를 예고하며, 이는 국내 부동산 시장과 다주택자 및 실수요자의 자산 운용에 직접적인 영향을 미치는 중요한 정책 변화 소식입니다.",
+                "과세기준 재설정 및 보유공제 축소는 부동산 시장의 거래량, 가격 변동성, 그리고 개인의 세금 부담에 큰 변화를 가져와 부동산 시장의 판도를 바꿀 수 있습니다."
             ],
-            "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFBZdjQweWRpRlI2T3E0M1Fubm1mRUZYSlBLOVNXNVhJT3JVQXdUZGdpaWhqWXVfdmdfNDhuVFlXYkUxbzJWNXlxRkxEcnNFdGw3WENmajBScHFTUdIBVEFVX3lxTE0yUkU1OTJlVHRPZlRkUWpuZm96Nk9DX2xFMUdTdVpOTjh4YXVNTVBubm5FVkhWdTdUeVRmcG9nYlhZcXUxb3BGSXktb2FxZGZ3cXU2aQ?oc=5",
+            "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE1yQmRUcGNkWGltX1hCX1ljNXl0WTR4Q3UyemNfOHRkZnd6V1JqRVBqVGI2R1hraXdQWkN5T3RPNG9ON0JnajBqWHhRZjZsVUYtVzhxdWowMTFxek5OSXBnTW5DbnI0LVnSAWxBVV95cUxQMTVNMTkzeWlHVUdwM0psUkZScnoyQXNsY25CMUFJYmpuOXY1NzExeGFSSVAyZTg3YWFZaUszaF9sTUtXRWdxUWJPMV81cUtRZEh0RmVEU3JOYnUzRXhHbnRPN2V6dXFjUHVKS0c?oc=5",
             "category": "Economy",
-            "published": "2026-07-11T21:37:03.055399"
+            "published": "2026-07-12T21:36:51.779894"
         },
         {
-            "title": "[단독] ’환율타령’ 재정부와 ’홍콩타령’ 靑 김용범, 금융위 누르고 레버리지ETF 만들었다 By 알파경제 alphabiz - Investing.com 한국어",
+            "title": "금속노조, 15일 파업…현대차는 13~15일 부분파업 - 경상일보",
             "points": [
-                "정부 부처 간의 논의 끝에 레버리지 ETF 도입이 결정된 것은 국내 금융 상품 시장의 다양성을 확대하고 투자자들의 선택지를 넓히는 중요한 정책 변화입니다.",
-                "이는 파생상품 시장의 활성화와 함께 고위험-고수익 투자 상품에 대한 접근성을 높여 시장의 역동성과 변동성에 영향을 미칠 수 있습니다."
+                "이 뉴스는 국내 주요 산업인 자동차 산업의 핵심 기업인 현대차의 부분파업을 포함한 금속노조의 파업 소식으로, 국내 생산 및 수출에 직접적인 차질을 야기할 수 있는 중요한 경제적 이슈입니다.",
+                "대규모 노조 파업은 생산량 감소, 공급망 불안정, 기업 실적 악화 등 국내 산업 전반에 부정적인 경제적 영향을 미치며, 노사 관계의 중요한 변곡점이 될 수 있습니다."
             ],
-            "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE1BVFZsbnJ6Tl9iOUZPTkdKc0ZDejYyMWVnOFVMTlVKWVF4ZVFIeTdPaWRXQlByMFVLaXQ1QkY2MVlMVVBRNHZ3RXltcUs3amtJVVQ4TjZoOXBRMEF1UmxuRnBZMEdSemxCYXE3SmFiQnE?oc=5",
+            "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE4yU3VCVmZtalRNeUNkaTFYd09kYUU4eEE4LThOQXR3X1M1eXl1bHNORXJYR2JWR1FsQkFlWkFmN25ZdVp0UUQ4em1UYjFyWGh4azFGekxIbVU3NkNlNENYNUtmaHBWM2ZXeTdnRQ?oc=5",
             "category": "Economy",
-            "published": "2026-07-11T21:37:03.055400"
+            "published": "2026-07-12T21:36:51.779895"
         },
         {
-            "title": "“큰 놈 하나 나오면 분위기 달라지지”…‘3조 소노’ 출격에 공모주 시장 들썩 - 매일경제",
+            "title": "SK하이닉스 ADR 연계 레버리지 ETF 13∼14일 美출시 '봇물' - 연합뉴스",
             "points": [
-                "3조 원 규모의 대형 기업공개(IPO)는 공모주 시장에 막대한 자금을 유입시키고 투자 심리를 크게 활성화시키는 주요 이벤트입니다.",
-                "이는 신규 상장 기업에 대한 관심 증대와 함께 전체 주식 시장의 활력에도 긍정적인 영향을 미쳐 자본 시장의 판도에 변화를 줄 수 있습니다."
+                "이 뉴스는 국내 대표 반도체 기업인 SK하이닉스의 ADR(미국주식예탁증서)과 연계된 레버리지 ETF의 미국 출시 소식으로, 해외 투자자들의 접근성을 높이고 주가 변동성에 영향을 미칠 수 있는 중요한 금융 시장 소식입니다.",
+                "글로벌 금융 시장에서 한국 주요 기업의 파생 상품이 출시됨으로써, 해당 기업의 주가뿐만 아니라 국내외 반도체 관련 투자 심리 및 자금 흐름에 영향을 주는 기술적/경제적 변화를 가져올 수 있습니다."
             ],
-            "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTFBFWkhrN0tXb1FMWFdhaE13LXhVQWhIQl92N3RkdHBzNWIxWDQxbzNJc2pid1QyU18xdG1Md2pqTklDWlhoT3QzQ3FiUUQzazExMmc?oc=5",
+            "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE5PUWNDUnNkVjJ3bnQzRVB3NHBnY2NXanZpMEM1UFhNeGRNQnFBWlhzUWZfbWtYWWJGZWRmcFVZcXQ1clJScjY3b0I0ejFUZDRRUC1oTm5TdlBlZVHSAWBBVV95cUxNaXFWbHJKQXpoYjhUWUFYZ0NiZHdoSWFIWkF4NXYwUnAtbUJyYWhzSnBUdGpSZnhiWTBQaUtfMFNmWHZBS2piNVoyb3ZESkU3NjdBOGM3bWlJelROM1ZFdXM?oc=5",
             "category": "Economy",
-            "published": "2026-07-11T21:37:03.055401"
+            "published": "2026-07-12T21:36:51.779896"
         }
     ],
     "World": [
         {
-            "title": "트럼프 \"암살 시도하면 이란 완전 파괴\"...대이란 강경 경고",
+            "title": "이란 최고지도자 고문 \"호르무즈, 원자폭탄 수십개보다 중요\" - 연합뉴스TV",
             "points": [
-                "전 미국 대통령의 이란에 대한 직접적인 군사적 위협 발언으로, 중동 정세 및 국제 안보에 심각한 영향을 미칠 수 있는 중대 소식입니다.",
-                "미국의 대외 정책 기조 변화 가능성을 시사하며, 이란과의 관계 악화 및 잠재적 군사 충돌 위험을 고조시키는 핵심적인 발언입니다."
+                "호르무즈 해협은 전 세계 원유 수송량의 약 20%를 차지하는 핵심 해상 통로로, 이란의 발언은 국제 에너지 안보에 직접적인 위협이 될 수 있음을 시사합니다.",
+                "이란의 최고위층 발언은 중동 지역의 지정학적 긴장을 고조시키고, 국제 유가 및 에너지 시장에 큰 영향을 미칠 수 있는 중대한 경고로 해석됩니다."
             ],
-            "link": "https://news.google.com/rss/articles/CBMie0FVX3lxTE5PZ3N6eUNEeHBSa1lkU0RZUUhnNHl0UW9DYUdrcHZkMndDSUxMRTZPam56RmJpYWJuM252dE0yV19HUWgzV21scHFUX2w2QXNQMWFTalpLYlFlYUlidW5RbVpYZDk5Zmc1cnlXb1F6YVpmYU90QmY2ZUZJUQ?oc=5",
+            "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE1WMmlmWVNwVzlOYzZSdElSYnhNUHg2cDdFU3lIM3lpU0pXV1JrUExnd3llZVdYdWUwTXBtRUhYSjZCS0IyVXh3NTAxX0trTnZEbFpydXN0U0ZFZUxXR1dUQUdKUFVkSlE?oc=5",
             "category": "World",
-            "published": "2026-07-11T21:37:25.102907"
+            "published": "2026-07-12T21:37:24.594295"
         },
         {
-            "title": "종전 잉크도 안 말랐을 때... 이란, 핵무기 시설 복구했나",
+            "title": "우크라이나, 러시아 유류시설→유조선으로 타격 확대 - 경향신문",
             "points": [
-                "이란의 핵무기 시설 복구 가능성은 핵확산금지체제(NPT)에 대한 중대한 도전이자 국제 안보를 위협하는 핵심 사안입니다.",
-                "이는 국제사회의 이란 핵 협상 노력에 큰 차질을 가져오고, 중동 지역의 군사적 긴장을 극도로 높일 수 있는 변화입니다."
+                "우크라이나가 러시아 본토의 유류 시설을 넘어 유조선까지 공격 대상으로 확대하면서 전쟁의 양상이 새로운 국면으로 접어들고 있음을 보여줍니다.",
+                "러시아의 핵심 에너지 인프라에 대한 공격은 전쟁 비용을 증가시키고, 국제 에너지 공급망에 불안정성을 초래하여 글로벌 경제에 영향을 미칠 수 있습니다."
+            ],
+            "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFBrT3lESmsyNlNFQmg0bm9iUHkyUVNfdHE5b3hWUldWSHRYRUZtY2ZHeGxqWVhBSThMWW45N0NCeWs5Q2R3Yno1aks1Yk9hM1JDMTQxUDNtVlo3UdIBX0FVX3lxTE45U1E0ZEZqcFhBOFhZMHoyUTVtcTNPY21XUGhuM0lkWDhJU01aZU1XY2NVMlZjYTFHTVBFeVByMGYySVhGUTNMY1JjaWxaOWxaOTBFTWRXNnExM2w3N0F6cTQ?oc=5",
+            "category": "World",
+            "published": "2026-07-12T21:37:24.594302"
+        },
+        {
+            "title": "트럼프 “나 암살하면 미사일 1000기로 몰살”…이란에 경고 - 동아일보",
+            "points": [
+                "미국 전 대통령이자 유력 대선 후보인 도널드 트럼프의 이란에 대한 직접적이고 강력한 경고는 양국 간의 극심한 긴장 상태를 반영하며, 향후 미국의 대이란 정책에 대한 불확실성을 높입니다.",
+                "이러한 수위 높은 발언은 중동 지역의 군사적 긴장을 고조시키고, 잠재적인 충돌 위험을 증가시킬 수 있는 국제적 파급력이 큰 소식입니다."
+            ],
+            "link": "https://news.google.com/rss/articles/CBMic0FVX3lxTFBBNTZwOEpYQzRMNXgtSzNqM3RadlRMM0NsaGp2T01neXlxaUtVNjJQb0FLUzdjdVNwczJqQ1U4YWNaNmx4UEpuWmZSaXZCQXNDMFQ5Nks0LWs1TXctUEd6ckNCUFNjbjNpakRDb3hPRWpEME3SAWZBVV95cUxQU3o2dmZ2bXpjcWd6WXFpUEkwejhZM2NFR0ZMQnYxLTdPcGZMWnZVbXZkcTRZR2hZdE12aXBxMXdCaWl5YlNTTC1uWmhJaS1IUkMxUldCQ2VaUnM2LWlhRlJiRTFMbVE?oc=5",
+            "category": "World",
+            "published": "2026-07-12T21:37:24.594303"
+        },
+        {
+            "title": "종전 잉크도 안 말랐을 때... 이란, 핵무기 시설 복구했나 - 조선일보",
+            "points": [
+                "이란이 핵무기 시설을 복구했을 가능성은 핵확산금지조약(NPT) 체제를 위협하고, 중동 지역의 핵 경쟁을 촉발할 수 있는 매우 심각한 국제 안보 문제입니다.",
+                "이는 이란 핵합의(JCPOA) 복원 노력에 큰 걸림돌이 되며, 국제사회의 대이란 제재 및 외교적 압박을 강화하는 계기가 될 수 있습니다."
             ],
             "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxPVWpfTTJYWW10TmxCNW14SmpjcU96cEkyRU5lZUkzeWhubWQ1c0pmQlNPaWY0SXlzTHlEMzRCa2NPNXlHX2J6U0RYZG4tcWNxZVVESHV0T1JYR01WeDh0NVZZbU1JM05sUDVFdGV0bUVHejNnV2l0emZ5N0JDX3NQbjZ5dFZld1V6eVZHNDQ0QkpFNjNwZXYyTm5zTHkxUQ?oc=5",
             "category": "World",
-            "published": "2026-07-11T21:37:25.102914"
+            "published": "2026-07-12T21:37:24.594304"
         },
         {
-            "title": "中, 헬륨 수출 돌연 금지…‘반도체 핵심 소재’ 공급 불안 가중",
+            "title": "美·日 등 14국 \"남중국해서 국제법 준수\"… 한국은 불참, 中 눈치봤나 - 조선일보",
             "points": [
-                "중국이 반도체 생산에 필수적인 헬륨의 수출을 금지한 것은 글로벌 공급망에 심각한 영향을 미치며, 특히 반도체 산업에 큰 타격을 줄 수 있는 정책 변화입니다.",
-                "이는 첨단 산업의 핵심 소재 확보 경쟁을 심화시키고, 국제 무역 관계 및 기술 패권 경쟁에 새로운 변수로 작용할 경제적, 기술적 변화입니다."
+                "미국, 일본 등 14개국이 남중국해에서 국제법 준수를 촉구한 것은 중국의 영유권 주장에 대한 국제사회의 견제와 압박을 강화하는 중요한 외교적 움직임입니다.",
+                "한국이 이 성명에 불참한 것은 미중 경쟁 구도 속에서 한국의 외교적 입지와 전략적 선택에 대한 논란을 불러일으키며, 동아시아 안보 및 국제 관계에 미치는 영향이 큽니다."
             ],
-            "link": "https://news.google.com/rss/articles/CBMic0FVX3lxTFB3TDFtY3NTR0YwOVBrc18xQkUtcTBQcDVTcHFxazlhNG5sTWpYWm50ZmpHOTMtaHpqeDIwZEVfSzgtODFlUnNFUGxWaGpUQkJFT2hnOVRUQkoxMkoxeHdtekZmNW1NMDRoRnBtb3pMN05jOEnSAWZBVV95cUxOSDRET21tN3F0TTBtcm4wSlFzYzM1OXZXN3RlNzZJQlpBQzBDeFlHU3Vpa212akU4aW0wdkZNUlVjRWZvd0JGS3l0V1VHOWxabGg3RWNsbENqZmZpTUR3by1HUS15LVE?oc=5",
+            "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxOOUtRYjlNSmIyemhtb0IzYXJYTXY5enNZSmsxNzVDcVhTTXhNdnZHNF9LSV9nVWlaVVBvdW9mU2RlT0hxNGFuTl9lZ191cHJzZDM0bHBtdFFFV0xJemFULVhtY1RHT1JucjJqM0VRVVdZeml1Q2dRN0U2QmNaSm9Mek9PcjE?oc=5",
             "category": "World",
-            "published": "2026-07-11T21:37:25.102915"
-        },
-        {
-            "title": "전쟁 난 것도 아닌데 일주일에 1만 명 이상 사망‥불 뿜는 폭염 [기후인사이트 37 | 인싸M]",
-            "points": [
-                "전 세계적으로 확산되는 기록적인 폭염으로 인해 대규모 인명 피해가 발생하고 있으며, 이는 기후 변화의 심각성을 보여주는 중대한 글로벌 위기입니다.",
-                "기후 변화가 인류의 생존과 공중 보건에 미치는 직접적인 영향을 보여주며, 각국 정부의 기후 정책 및 재난 대응 시스템의 변화를 요구하는 핵심적인 사회적 문제입니다."
-            ],
-            "link": "https://news.google.com/rss/articles/CBMic0FVX3lxTFB4U1BIZlZfZFd0d3IwUThFelNIeC1GdVJVamtXMFlka2pVb3ZBRl8xQ0N1UlpJNkE3blowUENBV1ZDWmMwR21qLWgxb0FxenJJaWRTcnQxbWFra0w4ZmFib1oyMjdfX0trT1k1WHNhVjh5M0k?oc=5",
-            "category": "World",
-            "published": "2026-07-11T21:37:25.102916"
-        },
-        {
-            "title": "미국 '극좌 테러 대응 회의' 60개국 초청…한국은 빠졌다",
-            "points": [
-                "미국이 주도하는 국제 테러 대응 회의에 한국이 초청되지 않은 것은 국제 안보 협력 구도 및 동맹 관계에 대한 중요한 외교적 메시지를 담고 있습니다.",
-                "이는 미국의 대외 정책 우선순위 변화와 함께 한국의 국제적 위상 및 안보 협력 전략에 대한 재평가를 요구하는 외교적, 안보적 변화 포인트입니다."
-            ],
-            "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE9aa3pQNEc2UjlSTUZ0RXFNam1RQWVYZXFfeWJEc3NMbG9YaS1HUHpKRUVJRHl6WF8zcmVPU2RWc041ZXBhZnZoejAyZ2l0OS1TYmZuTHVGQk50d9IBVEFVX3lxTE9NVHhVaFlBWkdreE5nZkg0U1lZSlNtYTB0SnBKbXJDRXJyYUlVX09pNXJtc0F3eVpaQnl2RjVlT0xvZERMNjhiMVJqU0ozYzRZQVlUZA?oc=5",
-            "category": "World",
-            "published": "2026-07-11T21:37:25.102917"
+            "published": "2026-07-12T21:37:24.594305"
         }
     ]
 }
