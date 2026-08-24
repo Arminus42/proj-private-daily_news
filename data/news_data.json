@@ -1,210 +1,158 @@
 {
     "AI_Tech": [
         {
-            "title": "AI 고객 분석 기술, 세계 최고 학회 인정",
+            "title": "AI로 물리·수학 난제 푼다…정부, 5년간 200억원 투자",
             "points": [
-                "이 뉴스는 AI 기술이 실제 비즈니스 문제 해결에 얼마나 효과적인지, 그리고 그 기술적 우수성이 세계적인 권위 있는 학회로부터 인정받았음을 보여줍니다. 이는 AI가 단순한 연구 단계를 넘어 산업 현장에서 실질적인 가치를 창출하고 있음을 의미합니다.",
-                "고객 분석 AI는 방대한 데이터를 학습하여 고객 행동 패턴, 선호도, 잠재적 요구를 예측하는 기술입니다. 이 기술이 최고 학회에서 인정받았다는 것은, AI가 마케팅, 제품 개발, 서비스 개선 등 다양한 분야에서 의사결정의 정확도를 혁신적으로 높일 수 있는 강력한 도구임을 입증합니다."
+                "대한민국 정부가 5년간 200억 원을 투자하여 데이터 학습을 넘어 물리·수학적 원리를 이해하고 추론하는 차세대 AI 개발에 착수했습니다. 이는 단순 패턴 인식 AI의 한계를 넘어, 과학적 난제를 해결할 수 있는 근본적인 AI 기술 혁신을 목표로 하는 국가적 전략입니다.",
+                "기존 AI가 방대한 데이터에서 패턴을 찾아 학습했다면, 이 차세대 AI는 마치 인간 과학자처럼 물리 법칙이나 수학적 원리를 이해하고 이를 바탕으로 새로운 가설을 세우거나 복잡한 문제를 해결하는 능력을 갖추게 됩니다. 이는 AI가 과학 연구의 핵심 동반자로 진화하는 획기적인 기술적 돌파구가 될 수 있습니다."
             ],
-            "link": "https://news.google.com/rss/articles/CBMiigFBVV95cUxOZGg5SDB5bktPaW5fRHVZdEdBN2N6NF9QTTFWdkI0dEMycTMxQUdPWkFiWUZvRGo3dHA2ZXgteXNJVE5mclMySm9MSlN5X0dXdnBzd3dMQzZJY2doQ29PeXlydzloR0pFOHZyOERvMHFZaThUdWdmYW9wNU9yZ3JUM1FUN3V2QXhtdnc?oc=5",
+            "link": "https://news.google.com/rss/articles/CBMiYAFVX3lxTE12WC1HaWw5eXlxZ0pKWE9IZFRkNE9lZDRvWk1ERS1mMnBPMVY2OW1JQ1lDZmxuME1HejFWY2JXTTdUMmpwaUxSbzVINjJVeUNqZEozU1pObUZCalE5NDFCedIBYAFVX3lxTE12WC1HaWw5eXlxZ0pKWE9IZFRkNE9lZDRvWk1ERS1mMnBPMVY2OW1JQ1lDZmxuME1HejFWY2JXTTdUMmpwaUxSbzVINjJVeUNqZEozU1pObUZCalE5NDFCeQ?oc=5",
             "category": "AI_Tech",
-            "published": "2026-08-23T21:09:08.534655"
+            "published": "2026-08-24T21:16:26.765677"
         },
         {
-            "title": "AI 주권, '보유' 넘어 '운용'으로…한국형 소버린 AI 전략 재설계론",
+            "title": "AI가 설명할수록 인간 판단력 저하…LLM 추천 근거의 역설",
             "points": [
-                "이 뉴스는 국가 차원의 AI 전략이 단순히 AI 모델을 소유하는 것을 넘어, 비상 상황에서도 AI 시스템을 안정적으로 운영하고 지속적으로 발전시킬 수 있는 '운용 역량'이 중요하다고 강조합니다. 이는 글로벌 AI 경쟁에서 각국이 어떤 방향으로 나아가야 할지 중요한 이정표를 제시합니다.",
-                "'소버린 AI'는 특정 국가나 기업에 종속되지 않고 독자적으로 AI를 개발하고 운영할 수 있는 능력을 의미합니다. 이 기사는 AI 시스템이 외부 요인으로 인해 중단되더라도 자체적으로 복구하고 기능을 유지할 수 있는 '회복 탄력성'이 미래 AI 주권의 핵심임을 역설하며, 이는 국가 안보와 경제적 독립성에 직결되는 중요한 기술적, 전략적 변화입니다."
+                "이 연구 결과는 대규모 언어 모델(LLM)이 제공하는 설명이 오히려 인간의 판단력을 저하시킬 수 있다는 역설적인 현상을 지적합니다. 이는 AI의 투명성과 신뢰성을 높이기 위한 '설명 가능한 AI(XAI)'의 방향성에 중요한 질문을 던지는 메이저한 연구 결과입니다.",
+                "AI가 복잡한 의사결정 과정에 깊이 관여하는 시대에, AI의 '설명'이 항상 도움이 되는 것은 아니며, 때로는 인간의 비판적 사고를 방해할 수 있다는 기술적 통찰을 제공합니다. 이는 향후 LLM 기반 시스템 설계와 인간-AI 협업 모델 구축에 있어 중요한 고려사항이 될 것입니다."
             ],
-            "link": "https://news.google.com/rss/articles/CBMic0FVX3lxTE9JS3N1NUo4Z2J1WjExd2Y1S0V6TW5ZSDhicGplRW5CTlppNFdUd1ZLbjlCemZQVzVMd2ZrNklJM29GRUlTVnVCcDZhWnBHX3VJem0xTzhRZjR2d3pSbzJCUFVFNkJoNFZyR1ljbUR3SEJNZUHSAXdBVV95cUxPTFkzM3RLQjdnYXljSDdSWGVXMy1LS3ROWUpIUzRiR3JZQWh1eWgtR2JqM04xN1Z3c2lpazh4SlpKLVQ3ZVlBRFJpUUZZNGJwR1NwVk8xNWxla3ZFQmVYNHlRUGU5NldZbzVFSnFjdkYyNDNfUEI1MA?oc=5",
+            "link": "https://news.google.com/rss/articles/CBMizwJBVV95cUxPb05ZUHozQWVkNHFBT2ZpNUpqcGIzYThkb3ZmbUhkRkJfcVcxb2duWVFlUjBfSkloVWlkWUtzdzJGekpVTVhHUWZBT3RyU1FQWGZURDVmd254eGlDaHRLMkRTa2pZdnV4eFkyMTBQNTZzbWh6WC1qYzA0MURxUTg3RGZpY0RsdEJRUVJCcW5EUjBrVzlQUmp5ZGFEc1ZMUDBjM0lhZHRSWXdjTlpVNXZkcEl4YlBnTnFEV3ppeE05RXlKcWVRUVRMQklkZzZrZ2hYcXVvMEs4c05hVlRQMllTbGphdjhZa1hPZmgyTXRWWlIzSi10ZXNrY0NITEVGNk1HZXJMRDJaOTNxNHhGLXc3dHZNdGl4SkJXdDZOc3BJbktWM3FaY0pEZTFPUmp4SHE1R2Q2MWl1SjlIaThtVHRoSmN4anQ2ek40by1ITW81MA?oc=5",
             "category": "AI_Tech",
-            "published": "2026-08-23T21:09:08.534662"
+            "published": "2026-08-24T21:16:26.765685"
         },
         {
-            "title": "AI 기술 혁명…국산 NPU와 AI 에이전트가 산업 지형 바꾼다",
+            "title": "SKT, 서울대와 AI 인재 육성 나선다…정재헌 CEO 강단에",
             "points": [
-                "이 뉴스는 AI 기술의 핵심 기반인 NPU(신경망처리장치)와 AI 에이전트의 중요성을 강조하며, 이들이 산업 전반에 걸쳐 혁신적인 변화를 가져올 것임을 시사합니다. 특히 '국산 NPU'의 등장은 AI 기술 자립도를 높이고, 특정 국가나 기업에 대한 의존도를 줄이는 데 기여할 수 있습니다.",
-                "NPU는 AI 연산에 특화된 반도체로, 기존 CPU나 GPU보다 훨씬 효율적으로 AI 모델을 구동할 수 있게 합니다. AI 에이전트는 사용자의 의도를 이해하고 자율적으로 작업을 수행하는 AI 시스템으로, 개인 비서부터 복잡한 산업 자동화까지 다양한 분야에서 생산성을 극대화할 잠재력을 가지고 있습니다. 이 두 기술의 발전은 AI의 성능과 활용 범위를 비약적으로 확장시킬 것입니다."
+                "국내 대표 AI 빅테크 기업인 SKT가 서울대학교와 손잡고 'AI 리더' 육성을 위한 산학협력 강좌를 개설했습니다. 이는 AI 분야의 급증하는 인재 수요에 대응하고, 산업계와 학계가 함께 미래 AI 기술을 이끌어갈 핵심 인력을 양성하는 메이저한 움직임입니다.",
+                "SKT의 정재헌 CEO가 직접 강단에 서는 등 기업의 최고 리더십이 교육에 참여함으로써, 실제 산업 현장의 AI 기술 동향과 비전을 학생들이 생생하게 접할 수 있게 됩니다. 이는 이론과 실무를 겸비한 AI 전문가를 배출하여 국내 AI 기술 경쟁력을 강화하는 데 크게 기여할 것입니다."
             ],
-            "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTFBOdEoySE03VTZKTmVZYWVqQ3hVUlRzMFd3ak5UNE53R0JyTmZlVzdPanpaR3RCNjZTUTZVRWJXVjZ6cGIwa2hRbWxHV1hReTkxbFNoWWR4eVFsSU5fWGJ6RzFBVEdaa3Ry?oc=5",
+            "link": "https://news.google.com/rss/articles/CBMiYAFVX3lxTE5JQ1d2ZWZDZl9xZERaT3h5N0RkTjotQ0s0M0ZfaUswdkhhYWp5bHVCd1dzRHFPR3hDYTBMM2ZhUUJyY1dfMTBxdmNsWWRLQ09lYzk2VkVxRnRsdld3UnJCRNIBYAFVX3lxTE5JQ1d2ZWZDZl9xZERaT3h5N0RkTjotQ0s0M0ZfaUswdkhhYWp5bHVCd1dzRHFPR3hDYTBMM2ZhUUJyY1dfMTBxdmNsWWRLQ09lYzk2VkVxRnRsdld3UnJCRA?oc=5",
             "category": "AI_Tech",
-            "published": "2026-08-23T21:09:08.534663"
+            "published": "2026-08-24T21:16:26.765686"
         },
         {
-            "title": "성균관대학교 조성범 교수팀, LLM으로 신소재 합성법 찾는다…‘폐루프’ AI 플랫폼 개발",
+            "title": "숭실대, 美 시더스-사이나이와 AI·바이오 연구 협약",
             "points": [
-                "이 뉴스는 대규모 언어 모델(LLM)이 단순한 텍스트 생성이나 대화를 넘어, 과학 연구 분야, 특히 신소재 개발과 같은 복잡한 문제 해결에 활용될 수 있음을 보여주는 획기적인 사례입니다. 이는 AI가 인간 과학자의 연구 과정을 보조하고 가속화하는 강력한 도구가 될 수 있음을 의미합니다.",
-                "'폐루프(Closed-loop) AI 플랫폼'은 AI가 스스로 가설을 세우고, 실험을 설계하며, 결과를 분석하여 다음 실험에 반영하는 자율적인 연구 시스템을 말합니다. 마치 AI가 스스로 생각하고 배우며 새로운 물질을 찾아내는 과학자처럼 작동하는 것입니다. 이 기술은 신소재 개발에 드는 시간과 비용을 획기적으로 줄여, 배터리, 반도체, 의약품 등 다양한 첨단 산업 분야에 혁신을 가져올 잠재력을 가지고 있습니다."
+                "숭실대학교가 미국 내 주요 의료기관이자 연구소인 시더스-사이나이 메디컬 센터와 AI 및 바이오 융합 연구를 위한 업무협약을 체결했습니다. 이는 국내 대학과 글로벌 선도 의료기관 간의 국제적인 협력으로, AI 기술이 생명과학 및 의료 분야에 적용되는 중요한 글로벌 트렌드를 보여줍니다.",
+                "이번 협약을 통해 AI 기반의 신약 개발, 질병 진단 및 치료법 개선 등 혁신적인 의료 기술 발전에 기여할 것으로 기대됩니다. AI와 바이오 기술의 융합은 인류의 건강과 생명 연장에 직접적인 영향을 미치는 가장 파급력 있는 기술 분야 중 하나로, 이번 협력은 그 가능성을 더욱 확장시킬 것입니다."
             ],
-            "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTFBhRF9aVmhzQlVOOFVMZkRaU3p0NUdKcDByY01KZWhHbGg5NG9MMFNPX3pUQ3JNbXJhQWdlaTMxZG9yTzhydDV2MDVRWjdBWEhQTkYzYnpfMUk0VEJ0NmpsSElCWGRnYmQ2eGNiMEV0X2U?oc=5",
+            "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE5XTkhKcVZ4UzJteXlUWWF5ZWNNUm5IV3lyREJTb3hzUXNNRHptQWZydmw3US02LU5ldUYxODJCeUYwWTZfMkdMQml3eW9YZXBidmIta2dReHFSQQ?oc=5",
             "category": "AI_Tech",
-            "published": "2026-08-23T21:09:08.534663"
+            "published": "2026-08-24T21:16:26.765687"
         },
         {
-            "title": "최종현학술원 \"韓메모리 반도체, AI 경쟁 자산으로 활용해야\"",
+            "title": "국가생명윤리정책원, AI 연구 전문 심의체계 가동",
             "points": [
-                "이 뉴스는 한국이 세계적인 경쟁력을 가진 메모리 반도체 기술을 AI 시대의 핵심 자산으로 적극 활용해야 한다는 전략적 제언을 담고 있습니다. 이는 AI 기술 개발뿐만 아니라, AI 인프라 구축과 관련 산업 생태계 조성에 있어 국가적 강점을 어떻게 극대화할 것인지에 대한 중요한 통찰을 제공합니다.",
-                "AI 모델은 방대한 데이터를 처리하고 학습하기 위해 고성능 메모리 반도체를 필수적으로 요구합니다. 한국의 메모리 반도체 기술력은 이러한 AI 시대의 '두뇌' 역할을 하는 하드웨어 인프라를 제공할 수 있는 독보적인 강점입니다. 이 기사는 단순히 반도체를 생산하는 것을 넘어, AI 연산에 최적화된 차세대 메모리 기술 개발과 이를 AI 서비스와 연동하는 전략적 접근이 글로벌 AI 경쟁에서 한국의 위상을 강화할 핵심 요소임을 강조합니다."
+                "국가생명윤리정책원이 AI 연구에 특화된 전문 심의체계를 가동했습니다. 이는 AI 기술 발전의 윤리적, 사회적 함의에 대한 인식이 높아지면서, AI 연구의 책임성과 신뢰성을 확보하기 위한 국가 차원의 중요한 제도적 기반 마련입니다.",
+                "AI 기술이 의료, 생명과학 등 민감한 분야에 깊이 관여하게 됨에 따라, 기술 개발과 동시에 발생할 수 있는 윤리적 문제를 사전에 검토하고 관리하는 것이 필수적입니다. 이 심의체계는 AI 기술의 건전하고 지속 가능한 발전을 위한 글로벌 AI 거버넌스 트렌드를 반영하며, 기술 혁신과 사회적 책임의 균형을 맞추는 데 기여할 것입니다."
             ],
-            "link": "https://news.google.com/rss/articles/CBMickFVX3lxTE16cFBuWW9xa19DcHg5ZkZ0bjNBdjRZSmpNRnA4cEhTMDhxQjZhUWFxNUJCcDNlNjA5bVhaamhQcFV6NkZfcGJxN2ZJZ2syY1ZnMVMxOVNzWGx0YzBrNklaNWZ4TllTX1dfeTJURG9KRm5mZ9IBckFVX3lxTE16cFBuWW9xa19DcHg5ZkZ0bjNBdjRZSmpNRnA4cEhTMDhxQjZhUWFxNUJCcDNlNjA5bVhaamhQcFV6NkZfcGJxN2ZJZ2syY1ZnMVMxOVNzWGx0YzBrNklaNWZ4TllTX1dfeTJURG9KRm5mZw?oc=5",
+            "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTE5Oend2VFJrVlBiQVJQVWhRUW1yT24yaDJRN0Y2NWoyczJiOC1nUk1wQkRTcUhpWk5qblhYeXlBaVFkWk5qVFJvQ0hOdEl6M3RXMnE1R0g4MjFwUjEzQUY3WUwtNlhSMUlwTjNBQXl6a9IBc0FVX3lxTE5qVV9DZUNvTHBlM2pXTVhGbW8yQXdRMlVSMHlNaU5HMmpwcy1qVWNVS2JtR0M4UWxncUFFeFBkYWFWQV9pZkJ4TUlRSjF2WlNVZ2hRTS16ejZVUUhUTXRwVFcxV1Uxbk9RSk5SdlJqSHdTTk0?oc=5",
             "category": "AI_Tech",
-            "published": "2026-08-23T21:09:08.534664"
+            "published": "2026-08-24T21:16:26.765688"
         }
     ],
     "IT_Biz": [
         {
-            "title": "레이 달리오 \"美 이르면 3년내 부채 위기... 금·비트코인 투자 늘려라\" - 조선일보",
+            "title": "\"메모리가 GPU 역할도\" 삼성 승부수 … 하닉은 20층 HBM 쌓는다",
             "points": [
-                "세계적인 투자자 레이 달리오가 미국의 부채 위기를 경고하며 금과 비트코인 투자를 권고, 글로벌 경제 및 자산 시장에 큰 파급력을 미칠 수 있는 전망입니다.",
-                "미국 경제의 거시적 위험을 진단하고, 전통적인 안전자산(금)과 신흥 디지털 자산(비트코인)의 투자 가치를 재조명하여 투자 전략에 중요한 변화를 시사합니다."
+                "AI 시대 핵심 기술인 HBM(고대역폭 메모리) 시장에서 삼성전자와 SK하이닉스의 기술 경쟁 및 혁신 동향을 다루는 기사입니다.",
+                "메모리가 GPU 역할을 겸하는 기술 발전 방향과 20층 HBM 개발 등 차세대 반도체 기술 경쟁이 AI 산업 전반의 판도를 바꿀 핵심 동력이 될 것임을 시사합니다."
             ],
-            "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxQQXl6eFE1WnpzT1NEbG04RjV2SGp4RkVzdjdObURGTHRDenR1ZHBzY2tpSk9hWFF0NTNQaGoyai1KTmF0cDE1cU1fZUM4UmVqeXNZd0NsSThiT2ZwQjJjZW1FZURsbEJkRGY3WWlFRU81bFp0dWVmTDBzM3ZjaHhGMw?oc=5",
+            "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE9KaUNocl9kdHo2czU1NjJmRmgzUmFQR1NpTHpFa2V0czlDYWgyLVdzcHlicy1xYXEtNlh0enlmaXdVZGh6WWhqd25IeUE5UFk?oc=5",
             "category": "IT_Biz",
-            "published": "2026-08-23T21:09:31.951005"
+            "published": "2026-08-24T21:16:56.467964"
         },
         {
-            "title": "데스크톱 CPU 20% 폭락 속 AMD 신기록… 韓 메모리 판도 변화 - 글로벌이코노믹",
+            "title": "애플 첫 폴더블 아이폰 윤곽… \"휴대성·힌지 호평, 망원 카메라는 빠져\"",
             "points": [
-                "데스크톱 CPU 시장의 급격한 가격 변동과 AMD의 시장 점유율 확대는 반도체 산업의 경쟁 구도 변화를 보여주는 중요한 지표입니다.",
-                "CPU 시장의 변화가 한국의 핵심 산업인 메모리 반도체 시장의 판도에도 영향을 미쳐, 국내외 IT 하드웨어 산업 전반에 걸쳐 공급망 및 가격 전략에 중대한 영향을 미칠 수 있습니다."
+                "글로벌 IT 시장의 거인 애플의 첫 폴더블 아이폰 출시 가능성을 다루며, 스마트폰 시장의 새로운 경쟁 구도와 기술 혁신 방향을 제시합니다.",
+                "애플의 폴더블폰 출시는 전체 스마트폰 시장의 디자인, 기능, 사용자 경험에 큰 영향을 미치며, 관련 부품 산업에도 대규모 변화를 가져올 것으로 예상됩니다."
             ],
-            "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxOLTkzMTAwQUxyWVZ5OTUtOURVQ0MtaTVSb0NUWlZJaG9zWHJwNUpsSkZ5LUFKSkVVVmx4M3prUHpYWFpobUhHT051N3dfMnJsczl4d3pKalQtVGRpaFVYUHdOQlN3YjdFYmR4ZGVDSGhBN3prNG5BeElDUFR4Y2JXY0xHTjhIa19m?oc=5",
+            "link": "https://news.google.com/rss/articles/CBMigwFBVV95cUxNUGJpWmtCZEpqUmhIeVBJOXFVSmxabVFRcFljcEx2WmMzMHJDYjVwYjJPaENsM0ZIa09KRzhTVFZxZ3RTZWRqcEZwNTVmU2NXckIwOEl3b29taE96bTAtSlJFY3VfdzlqOFB1QjItZVoyaEY3cUN3b1BLR0tpQk1iZ2NDWQ?oc=5",
             "category": "IT_Biz",
-            "published": "2026-08-23T21:09:31.951012"
+            "published": "2026-08-24T21:16:56.467971"
         },
         {
-            "title": "네이버가 ‘모두의 AI’에 불참한 속내 - 조선일보",
+            "title": "미국 나랏빚 5경 5천조 원‥금·비트코인 뛰고 AI 랠리 '흔들'",
             "points": [
-                "국내 대표 IT 기업 네이버가 글로벌 AI 연합에 불참한 배경은 AI 기술 개발 및 상용화 전략에 대한 독자적인 비전과 경쟁 구도를 시사합니다.",
-                "이는 네이버의 AI 기술 자립 전략과 글로벌 빅테크 기업들과의 차별화된 접근 방식을 보여주며, 향후 국내외 AI 생태계 및 시장 경쟁에 중요한 영향을 미칠 수 있습니다."
+                "미국의 막대한 국가 부채가 글로벌 경제에 미치는 영향과 함께, 안전 자산(금) 및 디지털 자산(비트코인) 시장의 동향, 그리고 AI 산업 랠리의 불확실성을 종합적으로 분석합니다.",
+                "거시 경제 환경 변화가 IT 산업, 특히 AI 분야의 투자 및 성장에 어떤 영향을 미칠지 예측하며, 글로벌 경제와 기술 시장의 연관성을 보여주는 중요한 소식입니다."
             ],
-            "link": "https://news.google.com/rss/articles/CBMigwFBVV95cUxNUzBpbjlUM294anl0ZGNicTVOeGhOQ0VJdmh0TXdUamhwd2pUN1ZOdTJiUVIwS2Rjd0g3VzAxeWhGYzVOVGhDU1dSRXZQeTRLcThrcVBwV0hDMkU5b1BINHpkU2lJcXFvVzZaektJSVRmaTJJY0JhbUhYQVFjQ0dWcEdfQQ?oc=5",
+            "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTFBRVXpqYjNoZUthcjFORG9hVkd6Y09Xa05jUHB6Z3M4SU4wV3l3TnR5d2xFOGlLdF83Vll0d180QWRqMkNSWURfdkNoODlFdzQ?oc=5",
             "category": "IT_Biz",
-            "published": "2026-08-23T21:09:31.951013"
+            "published": "2026-08-24T21:16:56.467973"
         },
         {
-            "title": "삼성 ‘엑시노스 2700’, 퀄컴 앞섰다…차세대 모바일 AP 경쟁력 입증 - v.daum.net",
+            "title": "데스크톱 CPU 20% 폭락 속 AMD 신기록… 韓 메모리 판도 변화",
             "points": [
-                "삼성전자의 모바일 AP(애플리케이션 프로세서) '엑시노스 2700'이 경쟁사 퀄컴의 성능을 앞섰다는 소식은 모바일 반도체 시장의 경쟁 구도에 큰 변화를 예고합니다.",
-                "이는 삼성 갤럭시 스마트폰의 성능 향상과 더불어, 모바일 AP 시장에서의 삼성의 영향력 확대 가능성을 보여주며, 글로벌 스마트폰 시장의 판도에도 영향을 미칠 수 있는 기술적 진보입니다."
+                "글로벌 데스크톱 CPU 시장의 급격한 변화(폭락)와 그 속에서 AMD의 약진을 다루며, 반도체 시장의 경쟁 구도 변화를 조명합니다.",
+                "이러한 CPU 시장 변화가 한국 메모리 반도체 산업의 판도에도 영향을 미칠 수 있음을 시사하며, 주요 IT 하드웨어 시장의 동향과 그 파급력을 분석합니다."
             ],
-            "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE9WMUZIN1YwYmJWM3BzM0RZczZmaTVsMnV4eHFUTFlQTkxnMEFZX2E5dlB1VFk0VUd6a3d6RDZ0RW5SenB4VjNIaVE2a2hfQWM?oc=5",
+            "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxOLTkzMTAwQUxyWVZ5OTUtOURVQ0MtaTVSb0NUWlZJaG9zWHJwNUpsSkZ5LUFKSkVVVmx4M3prUHpYWFpobUhHT051N3dfMnJsczl4d3pKalQtVGRpaFVYUHdOQlN3YjdFYmR4ZGVDSGgBN3prNG5BeElDUFR4Y2JXY0xHTjhIa19m?oc=5",
             "category": "IT_Biz",
-            "published": "2026-08-23T21:09:31.951013"
+            "published": "2026-08-24T21:16:56.467974"
         },
         {
-            "title": "메모리 품귀에… 美 엔비디아도 항복, AI 서버값 15% 올린다 - v.daum.net",
+            "title": "젠슨 황, 리벨리온 박성현 만났다…\"인수 논의까지\"",
             "points": [
-                "AI 반도체 시장의 핵심 기업인 엔비디아가 메모리 품귀 현상으로 AI 서버 가격을 인상한 것은 글로벌 AI 산업 전반에 걸쳐 막대한 영향을 미치는 소식입니다.",
-                "AI 인프라 구축 비용 상승은 AI 기술 개발 및 상용화 속도에 직접적인 영향을 미치며, 메모리 반도체 공급망의 중요성과 AI 산업의 성장 둔화 가능성을 시사합니다."
+                "글로벌 AI 반도체 시장의 선두 주자인 엔비디아의 젠슨 황 CEO가 국내 AI 반도체 스타트업 리벨리온의 박성현 CEO를 만났다는 소식으로, AI 반도체 분야의 대규모 투자 및 M&A 가능성을 시사합니다.",
+                "이는 국내 AI 스타트업의 기술력과 글로벌 시장에서의 위상을 보여주며, AI 반도체 산업의 미래 경쟁 구도와 생태계 변화에 중요한 영향을 미칠 수 있는 소식입니다."
             ],
-            "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTFBFRjFqWDlsM196TVJHS0MxV19yZXM4cm52NjFUdzFybjZ0M2FSR0NXYl9TUmwtSzNlUlp5bHRqNWROZXFlQmlHcHdCUEJmMUE?oc=5",
+            "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE0tRVdsOVp1R251d2gyV01pYlBZLVJzRy1EcXotd3BJeVp2a0tfa3dkRkJhNks0SUZpMDI1LUIwdkVFbkFQbkM1dzd5NHkzOG9aLXFFOUE5dHlGenFRaGZQZ1k3anJsV2PSAWxBVV95cUxQNGhNQ1czRk45TUlmUU9vMWtsdUNpUk51TGFXNlZXMDFEYjViLTJKX212cGdkNWk4M1phTGZSRFI2US05eHFvTENsZmJ1b0lJZkJPM3oteHRxZ1FOTC12NWMwQkxCbkFzenVOWGI?oc=5",
             "category": "IT_Biz",
-            "published": "2026-08-23T21:09:31.951014"
-        }
-    ],
-    "Economy": [
-        {
-            "title": "미니애 연은 총재 \"美 국채시장 잘 작동…인플레 목표 복귀 확신 못 해\"",
-            "points": [
-                "미국 연방준비제도(Fed) 고위 관계자의 발언으로, 글로벌 금융 시장의 방향성과 인플레이션 전망에 대한 중요한 신호를 제공합니다.",
-                "미국 국채 시장의 건전성 평가와 인플레이션 목표 복귀에 대한 불확실성 언급은 향후 금리 정책 및 투자 전략에 큰 영향을 미칠 수 있는 핵심 경제적 변화 포인트입니다."
-            ],
-            "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE90bXdrVHlCWmFrMkRlYkljVHpvUDB4eGR4OEhhemNjbWNwS1pFSHdJUERicUpncmdnaDhOLWlFSU1WQldFd1BwdHlzc1pxcTByeUxwdHhUbHl4OXhnMGpITFBWR0VoRDV2YjE5OTY2aHNxNw?oc=5",
-            "category": "Economy",
-            "published": "2026-08-23T21:09:57.775099"
-        },
-        {
-            "title": "\"동결해도 끝 아냐\"…한은 금리 인상 사이클 계속",
-            "points": [
-                "한국은행의 통화정책 방향에 대한 전망으로, 국내 경제 전반의 대출 금리, 투자 심리, 가계 부채 등에 직접적인 영향을 미치는 매우 중요한 소식입니다.",
-                "금리 인상 사이클 지속 가능성 언급은 기업과 가계의 자금 조달 비용 및 소비 행태 변화를 야기할 수 있는 핵심 경제적 변화 포인트입니다."
-            ],
-            "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFBpUmZaazZKT0ZlRnJNdkRDWHBIdEhBdkU3RF9LY2duTUFseW1lTWxMbGFpQ3owTm5BUGMtSWdOaG45ZnhYTGJsWVNzbzF3X2tXX1NPbktRbEtHZw?oc=5",
-            "category": "Economy",
-            "published": "2026-08-23T21:09:57.775107"
-        },
-        {
-            "title": "‘삼전닉스’ 주주환원 이어 AI반도체까지…금주 코스피 시험대",
-            "points": [
-                "삼성전자와 SK하이닉스 등 국내 대표 기업들의 AI 반도체 전략과 주주환원 정책은 국내외 투자 시장과 반도체 산업의 판도를 좌우할 수 있는 비중 있는 뉴스입니다.",
-                "글로벌 AI 반도체 시장 경쟁 심화와 주요 기업들의 투자 및 전략 변화는 관련 산업 생태계와 코스피 시장에 큰 영향을 미칠 핵심 기술적/경제적 변화 포인트입니다."
-            ],
-            "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxNdXBvVldNdVNES3owLWwyM2pZUENyQl9HbUVJZUtCSW5Ucm45eDhPQngwWG45SEpJN1pRQy1OcDZqU3UtTzhieVlubzR6SllTQ1VVOXY1Y0FyVTFtUUhoMWhlN1ZpZ0RRWnowcTBDNzFmSHBMdnBxUmVXRDFyUlhEeHp4RkU3elhhMHBCSndn?oc=5",
-            "category": "Economy",
-            "published": "2026-08-23T21:09:57.775108"
-        },
-        {
-            "title": "서울 아파트값 평균 16억 원 돌파...강북권 강세",
-            "points": [
-                "대한민국 수도 서울의 아파트 가격 동향은 부동산 시장뿐만 아니라 가계 경제, 건설 경기, 금융 시장 등 광범위한 국내 경제에 막대한 영향을 미치는 주요 지표입니다.",
-                "특정 지역(강북권)의 강세와 평균 가격 상승은 주택 시장의 불균형 심화와 정책 변화의 필요성을 시사하는 핵심 경제적 변화 포인트입니다."
-            ],
-            "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE5pZGhsUlFIMVBwSkRYRXF3RVBpdGJQaE1tV3preTBLblpQQXE5V1lGckNoTjJsSi1PUWpFT3hqNW80WFQ5TjF0dWhrMENqYU5SNjFMZ2tvQUJPY0JoV2c?oc=5",
-            "category": "Economy",
-            "published": "2026-08-23T21:09:57.775109"
-        },
-        {
-            "title": "임광현 국세청장 “고가 법인주택 42% 사주일가 사적 사용… 탈세 혐의 확인되면 세무조사”",
-            "points": [
-                "국세청장의 발언은 고가 법인주택을 이용한 사주일가의 사적 사용 및 탈세에 대한 정부의 강력한 단속 의지를 보여주는 정책적 변화의 신호탄입니다.",
-                "이는 기업의 지배구조 투명성 강화, 세수 확보, 그리고 불공정 행위에 대한 사회적 경각심을 높이는 중요한 경제적/사회적 변화 포인트로 작용할 것입니다."
-            ],
-            "link": "https://news.google.com/rss/articles/CBMihgFBVV95cUxON01mV24wWHhFNFA4N3R2Rkxlb05lbzdna1Y2eTRPVzBwanZ4cjctSXUyUnkzMG9vTFo1OE9SZ2ZoY3ZlQ0lfcENZdmZEd1NaZExkT1NEd1NuZTRBMi14dlNGanV1VXhCYWVvSk1RVHB0XzducUI4eW5HR0x5WGhFWlptQVg4QdIBmgFBVV95cUxOblk5dU5qaGhTU1EwREhvUHc3T2NDeWZzMmNLTjYzaXdOTHRKdS1CV2dma0VJYk5zbmYyYnRjbWJCZ01HVFp3VU9SWnBNY2dNeGZWQWdac2FVNGRjb1lkZVJMMjZKTGppZmM2czg2TXZtaWZzV2x5eXVybEJwVnAyTzY3d3lSZ1M1VThKSmFkQTNWd1FwYzNXLTZB?oc=5",
-            "category": "Economy",
-            "published": "2026-08-23T21:09:57.775109"
+            "published": "2026-08-24T21:16:56.467975"
         }
     ],
     "World": [
         {
-            "title": "국경 맞댄 미·캐나다, 맞불관세 무역전쟁…\"한때 동맹의 파탄\" - 연합뉴스",
+            "title": "베선트 “이란에 ‘경제적 왕따’ 작전 개시… 관련국 거래 젖줄 끊을 것” - 동아일보",
             "points": [
-                "미국과 캐나다, 두 주요 동맹국 간의 무역전쟁 발발은 북미 경제 및 글로벌 무역 질서에 심각한 영향을 미칠 수 있는 중대한 소식입니다.",
-                "맞불 관세 부과는 양국 경제에 직접적인 타격을 주며, 글로벌 공급망과 국제 무역 관계에 광범위한 파급 효과를 가져올 수 있습니다. 이는 동맹 관계의 균열을 시사하며 국제 정치 역학에도 영향을 미칩니다."
+                "미국의 이란에 대한 강력한 경제 제재 정책 발표로, 국제 유가 및 글로벌 무역 환경에 중대한 영향을 미칠 수 있는 소식입니다.",
+                "미국이 이란과의 거래를 하는 국가들에 대한 압박을 강화하며, 이란의 경제적 고립을 심화시키려는 정책 변화가 핵심입니다."
             ],
-            "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE1mNl9PMW4zcTQweVpUSUVGVTY4R1Jlb2dYVEo4SVhkR2M3bi1qLW0tUzFCVTNsV0dXMVNFbFg5aG9oaWladjFDSHVYS0JldmRPRXIyYnBwWHRaSVHSAWBBVV95cUxQWU9nMTV5ODVfaXBtaE1JTXZnUnRrTHpZTU1USXViS0pWWTIzRTJLVExPTUFGR0FFM01kbGQ0ZGlGZmVwS3FFd2tZZ1Z5WHJZbmxlOUMwSDRXWlJLRHltY3M?oc=5",
+            "link": "https://news.google.com/rss/articles/CBMic0FVX3lxTFBmb3BrOGFRR1QwTWc2cWY0dFVEVzdwM3ZrbXZjMTFBNjlmX05zOWkwQjVUZms0QUY3TUF4LVRHTG9Ma1BXNmZiZ1pDY1luTEJSX0dFTGZYVmhVQUdUQ3VEYlYwcklRb3ZUa2ZsYzNSUkhIUXPSAWZBVV95cUxPMVNvUTNjTTNCWnFvb2JMUUVrcW40a1hZaDBjSkFlVDQ4YkUzVU4zWWVxMDdzU3R3SEpFMThYUEJVMDRwYTlCb3ZvelByVjJXNmZfRTRUeV9KRjdHbExkZ0FBeXl6Tnc?oc=5",
             "category": "World",
-            "published": "2026-08-23T21:10:22.045436"
+            "published": "2026-08-24T21:17:33.268960"
         },
         {
-            "title": "전쟁에서 갈라선 미·이스라엘···트럼프는 대화, 네타냐후는 확전 - 경향신문",
+            "title": "\"韓미사일 받아 우크라에 배치\"…펜스가 꺼낸 한미관계 '반전 카드' - 한국경제",
             "points": [
-                "미국과 이스라엘 간의 외교적 균열은 중동 지역의 안정과 미국의 외교 정책 방향에 중대한 변화를 가져올 수 있는 핵심적인 소식입니다.",
-                "두 주요 동맹국 간의 입장 차이(대화 vs. 확전)는 중동 분쟁의 양상과 해결 방식에 큰 영향을 미치며, 이는 국제 안보 및 에너지 시장에도 파급 효과를 줄 수 있습니다."
+                "마이크 펜스 전 부통령의 발언으로, 한국의 대우크라이나 군사 지원 가능성과 한미 동맹 관계의 새로운 국면을 시사하는 중요한 외교안보 소식입니다.",
+                "한국의 미사일이 우크라이나 전쟁에 배치될 경우, 국제 안보 지형과 한국의 대외 정책에 큰 변화를 가져올 수 있는 정책적 제안입니다."
             ],
-            "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE1OR0NWOFFEUHROQWh0UnNtend2ZEpWTFY2OVR0YmxVZlpacDNoZGctVVRMZGxXZGJnTTR1NENhQzBVc3pRUl9YYkhTeG9uVWZ6Q1BIeE5DVHlMUdIBX0FVX3lxTE8tQ0E1Ti0yVEtVTFJzVmhpVV9MeXllbnJWUUFlZGZuWG1INUZZc2hvUXk2LTFPMmRwbHZZdVdEcWM5andIX0lvLWRTdGdoVi1aVmtwWE5PSzdFSGZwMHNJ?oc=5",
+            "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE5kV0J6MWk3WFdQTmVHRFNQNG45Ul9pcmsxM3pGQUZjalRMYkQ5bGNKZ1plRHNHMUdJRFVvdmxKdEZPM2MxbEE0RUV4LTZfdWVwQThibU81WnhsZw?oc=5",
             "category": "World",
-            "published": "2026-08-23T21:10:22.045441"
+            "published": "2026-08-24T21:17:33.268967"
         },
         {
-            "title": "텔레그래프 \"이란발 사이버 공격에 영국 발전소 나흘간 중단\" - MBC 뉴스",
+            "title": "우크라 정보당국 “러시아 내 북한군 8500명·드론병 400명···5만명 추가 파병 가능성도” - 경향신문",
             "points": [
-                "이란의 사이버 공격으로 영국 발전소가 중단되었다는 소식은 국가 기반 시설에 대한 사이버 전쟁의 위협이 현실화되었음을 보여주는 매우 파급력 있는 사건입니다.",
-                "핵심 인프라에 대한 사이버 공격은 국가 안보를 위협하고 대규모 경제적 혼란을 야기할 수 있으며, 이는 국제 사이버 안보 정책과 국가 간의 긴장 관계에 중대한 영향을 미칩니다."
+                "우크라이나 정보당국이 러시아 내 북한군 파병 규모를 공개하며, 러시아-우크라이나 전쟁의 국제화 및 북한의 개입 심화 가능성을 보여주는 중대한 안보 소식입니다.",
+                "북한군이 러시아 전쟁에 직접 개입하고 추가 파병 가능성이 제기되면서, 동북아시아 및 유럽 안보 환경에 심각한 영향을 미칠 수 있는 군사적 변화입니다."
             ],
-            "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTE94bkJSOEs0OFppdHpFaVh1T0Q3LXlONXRXdG42WU5nUDdsdUNJTmQyNTRjTVc4MWlFdlc3bFduYUdPQWNDWklva3djcWloYktVMGZoY192Z2JNaHpGX19pcU5ieHhRRzhWTkV2allNWjJFaklS0gF0QVVfeXFMT0dPeC1nb21UZjZlOVNpNFB4amQxblYyS2VQemppZnhDbWNJYmwydzNQbS1iUXpON0RYQWZxbEhwbl9QOHZ6ZzMtZ1BQZnlmY0VjYjdFcENKQ2ctUVFkc0VGdHplN1l1NHNEREJvRE9tNzh4Q2g?oc=5",
+            "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE83ZmVlQjdqOWpQSEFxWXBEa3p2MTd0RWJVSHBCaFk3NDg0YW1wV09QbE10NDJmNnRTU0JmS3pHLVRvYVhtOGdQVGpCWXgzSkhyVkdOR0Zta0pLd9IBX0FVX3lxTE5PZU5tQktyakhsOEc3VVNaUzlOSHg0dTdTZHR0LUxSdFF5NGt5YkN1MGY3akVSQWY2ckJYR0tyUUE0Sm1mcEVXelBjUzczYTZFMks4OGhRMTNMVmNOWmdj?oc=5",
             "category": "World",
-            "published": "2026-08-23T21:10:22.045442"
+            "published": "2026-08-24T21:17:33.268968"
         },
         {
-            "title": "이란 협상파 “전쟁 끝내고 경제 살려야”… 정권 내부 갈등 수면위로 - 동아일보",
+            "title": "미 보수 전문가들 “트럼프 ‘한국 패싱→김정은과 회담’ 안 돼” - 한겨레",
             "points": [
-                "이란 정권 내부에서 전쟁 종식과 경제 회복을 주장하는 협상파의 목소리가 커지는 것은 이란의 대외 정책 및 중동 정세에 큰 변화를 가져올 수 있는 중요한 소식입니다.",
-                "이란 내부의 정치적 갈등은 핵 협상, 중동 지역 분쟁, 국제 유가 등 다양한 분야에 영향을 미치며, 이는 국제 사회의 이란 정책에도 변화를 요구할 수 있습니다."
+                "미국 보수 전문가들이 트럼프 전 대통령의 잠재적 대북 정책에 대해 경고하며, 한미 동맹 및 한반도 안보에 미칠 영향에 대한 심도 있는 논의를 담고 있습니다.",
+                "한국을 배제한 김정은과의 직접 회담 가능성에 대한 우려는, 향후 미국의 대북 정책 방향과 동북아시아 외교 지형에 중대한 변화를 초래할 수 있는 정책적 논점입니다."
             ],
-            "link": "https://news.google.com/rss/articles/CBMic0FVX3lxTE9HYUM3b2c2TTNBYng2SmpUa1lpYXJ3TUxtam9TWmFoYVNLdmpHY2RzQ1ZtcEpZT0U5WE9tUDR1RkNyb09pWk9IaERmMUktSTducTJuNXdmT2laSDZNN0o3RzZDU1QwVHVudUt4MlQ4VjdpR3PSAWZBVV95cUxPcmc0RUdIUWpuVXVFdkttRjZ5aTM0VVh2YTZlSXJkdG1odzBjRlVUQ1FnbEdRY1E0a0Rjd2g1Zm1GRFhydWFGR3dWNmNzam5wSzA5X3dlb2VVN2E0UFNhRUFiZW9wNEE?oc=5",
+            "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTE84dkVOTVp6cnUzaF80c0xwZ2VlRElYUE5fLU9IOWZZNlZQSU9lcmpkcW4zNnBNVjJXV2tVMHNubHAtRjZiUHgycThTVi1aM0ZmbVBjS0haQ05YbzZtR002WTF2RFZQeFVUUGtRSTAydXE1LVBR?oc=5",
             "category": "World",
-            "published": "2026-08-23T21:10:22.045443"
+            "published": "2026-08-24T21:17:33.268969"
         },
         {
-            "title": "젤렌스키 \"전시에 선거 치르면 우크라 분열 쓰나미\"(종합2보) - 연합뉴스",
+            "title": "이스라엘, 시리아와 평화협상 준비...美 트럼프 압박 통했나? - 파이낸셜뉴스",
             "points": [
-                "젤렌스키 대통령의 전시 선거에 대한 경고는 우크라이나의 내부 정치적 안정과 전쟁 수행 능력에 결정적인 영향을 미칠 수 있는 매우 중요한 발언입니다.",
-                "전시 중 선거 실시 여부는 우크라이나의 민주주의 과정, 국제 사회의 지원, 그리고 전쟁의 장기적인 방향에 중대한 영향을 미치며, 이는 국제 정치적 논쟁을 심화시킬 수 있습니다."
+                "이스라엘과 시리아 간의 평화협상 준비 소식은 중동 지역의 오랜 갈등 해소 가능성을 제시하며, 지역 안보 및 국제 정세에 큰 영향을 미칠 수 있는 외교적 진전입니다.",
+                "미국의 압박이 평화협상 준비에 영향을 미쳤다는 분석은, 중동 지역에서 미국의 외교적 역할과 정책 변화가 역내 안정에 미치는 파급력을 보여줍니다."
             ],
-            "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFBraElqd2kwQmRhUjhCMU1WU3ZvTXB5Z1I5UjU4UEIwMzRXdURTSjFhOXNYU0ZlQVNFSzFqejA0UDZMcGJxNi1yZklHQXRaN1RMT3h4bE9ZMUl2TE3SAWBBVV95cUxPaDFxanZOdk11cEI5cGFyZ3VsdFVTTTJRb1MzdjF0bkpIaWwtZmZkTy1hb05uNDk5ZjItTjRsb1lnX2xJcjBkVXNpMlFPRnpvNGhBNnA2QkhuWDROdDgxMWE?oc=5",
+            "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE1NcmJaNGhDVmNMd1dnN2J3V1pfeklJT2E3SmRuM2dqVEFGdDR6alpoNFNaSUEwbExQUkNsV3pqN2pxaDlVTFRkQmRkMHA0UEE3a0lyUV9ySURDdw?oc=5",
             "category": "World",
-            "published": "2026-08-23T21:10:22.045443"
+            "published": "2026-08-24T21:17:33.268970"
         }
     ]
 }
