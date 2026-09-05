@@ -1,210 +1,54 @@
 {
-    "AI_Tech": [
-        {
-            "title": "포스텍, 차세대 AI 원천기술 개발 나선다… 국책사업 2건 동시 선정",
-            "points": [
-                "국내 최고 수준의 연구기관인 포스텍이 차세대 AI의 핵심 기반 기술 개발을 위한 2개의 대규모 국책사업에 동시에 선정되어, 한국 AI 연구 역량의 글로벌 위상을 높이는 데 기여할 것입니다.",
-                "이는 단순한 응용 기술이 아닌, 미래 AI 발전을 이끌어갈 근본적인 '원천기술' 확보에 국가적 자원과 최고 연구진이 투입된다는 점에서 기술적 파급력이 매우 큽니다."
-            ],
-            "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTFBJQ043ZnBGRzJxcEJ0RUpjX0I2LVdOaTZoQTNwUFVEOWM5V2s4UDdCXzQwQkVCRHBmVy1iUlZna2pOeEwtdHhMdW9hMkZkZFdaYzgwdjNodlVLb0RiRGd1ZlNaUWU2M2Rvb0E?oc=5",
-            "category": "AI_Tech",
-            "published": "2026-09-04T22:35:34.656367"
-        },
-        {
-            "title": "LG, ‘스파크 2026’ 개최…빅테크와 AI 기술 공유",
-            "points": [
-                "글로벌 대기업 LG가 '스파크 2026' 행사를 통해 전 세계 주요 빅테크 기업들과 AI 기술을 공유하고 협력을 강화하는 것은, AI 기술의 개방과 생태계 확장이 글로벌 트렌드임을 보여줍니다.",
-                "이러한 협력은 LG의 AI 역량을 강화할 뿐만 아니라, 다양한 산업 분야에서 AI 기술이 빠르게 융합되고 새로운 서비스와 제품이 탄생하는 계기가 될 것입니다."
-            ],
-            "link": "https://news.google.com/rss/articles/CBMid0FVX3lxTE1nSjdZZFVqUnpnQkpVUjlxbkYzc2xMbnZGclhNR2RmdFdJOVNucXBaSm94VUY4OV9LQ3FzUm1EUWpsbDhWV0pMYlBQU3BDbnR3VXBiWk5KZjNYczJqdHRZY1hsUXduYW1INTZxM0Q5Y2Yzb0FybDNV0gF3QVVfeXFMTWdKN1lkVWpSemdCSlVSOXFuRjNzbExudkZyWE1HZGZ0V0k5U25xcFpKb3hVRjg5X0tDcXNSbURRamxsOFZXSkxiUFBTcENudHdVcGJaTkpmM1hzMmp0dFljWGxRd25hbUg1NnEzRDljZjNvQXJsM1U?oc=5",
-            "category": "AI_Tech",
-            "published": "2026-09-04T22:35:34.656376"
-        },
-        {
-            "title": "제주대 차세대 AI 원천 기술 연구… 6년간 110억 지원",
-            "points": [
-                "제주대학교가 6년간 110억 원이라는 대규모 국비 지원을 받아 차세대 AI 원천 기술 연구에 나서는 것은, 특정 지역을 넘어 국가 전체의 AI 연구 기반을 강화하는 중요한 움직임입니다.",
-                "이는 미래 AI 기술 패권 경쟁에서 필수적인 기초 연구 역량을 확보하고, 장기적으로 혁신적인 AI 모델이나 응용 기술 개발의 토대가 될 수 있다는 점에서 의미가 큽니다."
-            ],
-            "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE5ZVFk1cUM2TE12S1R5U2xOUW5MYUxVOHZ3dFl2MHozSTh1dUZRMzAzNWZUQlRkSzUxeWNzaFprd2ZhNGNpV0tGNWxRUG5FazUtaWQwZ2ZST0I4REV1RVFOZVVJM2hFWDcx?oc=5",
-            "category": "AI_Tech",
-            "published": "2026-09-04T22:35:34.656377"
-        },
-        {
-            "title": "바디프랜드, IFA 2026 참가…생성형 AI·로봇 기술 선봬",
-            "points": [
-                "세계적인 가전 박람회 IFA 2026에서 바디프랜드가 '생성형 AI'와 '로봇 기술'을 접목한 헬스케어 제품을 선보이는 것은, AI가 단순한 소프트웨어를 넘어 실제 생활 제품에 깊이 통합되고 있음을 보여줍니다.",
-                "생성형 AI(스스로 새로운 콘텐츠를 만들어내는 AI)가 로봇 기술과 결합하여 개인 맞춤형 마사지 등 혁신적인 사용자 경험을 제공함으로써, AI 기술의 상업적 활용 범위가 크게 확장될 것임을 시사합니다."
-            ],
-            "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTE0zWVVlWDd6QUdoTWNLY0lOeGh0WEt5S0kxdi1GTFJ2SnF1T2UzVmVYcjJVemVlREJxTS1uZU5ydEpIaDQyRDRYWmZQWkhQQUFmZktySk8tVzJ6eFdHUkN0dTg2YXpXdktnY1d3MllR?oc=5",
-            "category": "AI_Tech",
-            "published": "2026-09-04T22:35:34.656378"
-        },
-        {
-            "title": "새로운 AI 전략: 연구 및 응용에서 AI를 통한 포괄적인 국가적 변혁으로의 전환",
-            "points": [
-                "베트남이 AI를 단순한 연구나 응용을 넘어 국가 전체의 포괄적인 변혁을 이끄는 핵심 동력으로 삼는 새로운 전략을 발표한 것은, AI가 전 세계 국가 경쟁력의 핵심 요소로 부상했음을 보여주는 중요한 사례입니다.",
-                "이러한 국가적 차원의 AI 전략은 미래 기술 개발 방향을 제시하고, AI 인프라 구축 및 인재 양성에 대규모 투자를 유도하여 글로벌 AI 기술 발전의 큰 흐름에 영향을 미칠 것입니다."
-            ],
-            "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxOT3kwa1dMZklIdTJoVnRISlFzOUI1WnAtMXI3UUlxSlVETEZDaFBpUUFPd2FkRW9wZHVKSTBOS2RZT2Fsd05ySnA4dUxvVFM1aU9ORzZmaGJCWFNxZzNXSnBWOFhrNmtnTVNPLS1mMDUyNlRaUTVsZFhqN1lLX1BraHNCR2VlOXFFWkpvSlRLNjMwa3AxUlNlZEVFbEVWeVMtY1FmbWExWE1CZjZEOExMZEFSd3VYM0E?oc=5",
-            "category": "AI_Tech",
-            "published": "2026-09-04T22:35:34.656379"
-        }
-    ],
-    "IT_Biz": [
-        {
-            "title": "오픈AI, 압도적 성능 'GPT-6 아스트라' 공개…\"AGI 시대 진입\" 선언",
-            "points": [
-                "이 뉴스는 전 세계 AI 산업의 판도를 바꿀 수 있는 중대한 기술 혁신 발표입니다.",
-                "오픈AI의 차세대 모델 'GPT-6 아스트라'는 기존 AI의 성능을 압도하며, 인공일반지능(AGI) 시대의 도래를 선언하여 AI 기술 발전의 새로운 이정표를 제시합니다."
-            ],
-            "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE9VVlNDc1V1cGpKb0dfYVVVVDN2RF96bWZ5M0taa2RWbDJmWWFaM3JBWmdPQi03TVdqTHk1Tlc4ZWxJekRMVE40cTE1Rl9FOWNHMmlkcUJ1VHRHTnljeG8tTm0teFBIYjY5RHc?oc=5",
-            "category": "IT_Biz",
-            "published": "2026-09-04T22:36:01.471234"
-        },
-        {
-            "title": "핸들·페달 없는 금빛 테슬라 무인택시…머스크 \"사이버캡 폭풍\"",
-            "points": [
-                "이 뉴스는 테슬라의 자율주행 기술 발전과 미래 모빌리티 시장의 혁신 가능성을 보여주는 핵심 소식입니다.",
-                "핸들, 페달 없는 완전 무인택시 '사이버캡'의 등장은 운송 산업의 패러다임을 변화시키고, 자율주행 기술 상용화의 가속화를 의미합니다."
-            ],
-            "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE1IYUFxbXl2dFhQZE5ucWZzRUg5MkhpS180WVhva0RLTVdjZW0tdlk1MzF2MzdkV0RjUF96cFZSeGFJUmRZdUk1SGRnY0hFMmNFZnZfVE5GaUR2Tk3SAWBBVV95cUxPYmRqdXBrdk5TYTZha0VsaDVVbTNiNFJYaFZKVW1NeE9YUlNjVnFEX3h1U2YxczF6VmRZc3N1M0tXUjdDRGRXbUFjWWV4UWR0U1VfdVY2WERtZENpREdJVUY?oc=5",
-            "category": "IT_Biz",
-            "published": "2026-09-04T22:36:01.471241"
-        },
-        {
-            "title": "[단독] '모두의 AI' 카카오·SKT·KT, 운영비로 100억씩 받는다 - 머니투데이",
-            "points": [
-                "이 뉴스는 국내 주요 IT 기업들이 정부 지원을 받아 AI 기술 개발에 박차를 가하는 대규모 투자 및 정책 변화를 다룹니다.",
-                "카카오, SKT, KT 등 국내 대표 기업들이 각각 100억 원의 운영비를 지원받아 AI 생태계 조성 및 기술 경쟁력 강화에 기여할 것으로 예상됩니다."
-            ],
-            "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE84ejRWMjVOUFRvY0c1TUo5TW9yUEhDb1ZDWlU4ekhoc1ExeXBTTGZPOUJpZkJFaVJrQXl4U2YzdTZXYldSeUFIRVhpRzBuNW5mdklzMDBSbHdKcnA4cXhNb3ZOaEk2X2_SAWxBVV95cUxQWjI1Q1RFbnRKdEdpWXJJQVZ1SzRieGRVdVpFS3ZvM3VwTURiaVdYYUJSb0J1WEREUF84aEZXRUEwNjFiVS1uOGEwanhaMURSR1laVVEwR19kNGVZZGEzTkFiZHc2UjloN1JsMU8?oc=5",
-            "category": "IT_Biz",
-            "published": "2026-09-04T22:36:01.471242"
-        },
-        {
-            "title": "\"정부가 로봇 200대 사준다\"…증권가가 찍은 수혜주는? [분석+]",
-            "points": [
-                "이 뉴스는 정부가 로봇 산업 활성화를 위해 대규모 구매 정책을 추진하는 것으로, 국내 로봇 시장에 큰 영향을 미칠 정책 변화입니다.",
-                "정부의 로봇 200대 구매는 관련 기업들의 성장을 촉진하고, 로봇 기술의 산업 전반 확산을 가속화할 경제적 파급 효과를 가져올 것입니다."
-            ],
-            "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFBncU5qejlKaTZPUlZKbXhyLUdYOVN2dTZ3Q2NNakprVThZdExadnMyX3RyWmU4TExxTEktN1hMMzh4RWRIeUJ4VWVrSmM1eVZxNHJRZFdibGtJZw?oc=5",
-            "category": "IT_Biz",
-            "published": "2026-09-04T22:36:01.471243"
-        },
-        {
-            "title": "“영끌대출 막히니 코인 1300억 팔았다”…집 사려 가상자산도 손 댄 3040",
-            "points": [
-                "이 뉴스는 부동산 시장의 변화와 가상자산 시장이 상호작용하며 나타나는 대규모 투자자금 이동 현상을 보여주는 중요한 경제 동향입니다.",
-                "3040세대가 주택 구매를 위해 가상자산을 매도하는 것은 거시 경제 환경 변화가 IT 기반 자산 시장에 미치는 영향을 보여주며, 투자 패턴의 변화를 시사합니다."
-            ],
-            "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTFBBZGwxRm5qcnJpd0dNZVN1bTY2NG5iYURPMGNUS0g4X2NlcU9hMGdEQ253QmVtTnMxNl9EandaS25qV2dtV2VHT1ZCWGdsVldNc2VNag?oc=5",
-            "category": "IT_Biz",
-            "published": "2026-09-04T22:36:01.471244"
-        }
-    ],
-    "Economy": [
-        {
-            "title": "비상장주식 내년 2월부터 '토큰증권'으로 사고판다 - 한국경제",
-            "points": [
-                "금융위원회의 정책 변화로 비상장주식 시장에 큰 변화를 가져올 중대한 소식입니다.",
-                "토큰증권(STO) 도입은 자본시장법 개정 없이도 가능해져, 새로운 투자 및 자금 조달 방식이 제도권으로 편입되며 금융 시장의 판도를 바꿀 수 있습니다."
-            ],
-            "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFBadWJqb3BsbDZaTWFtYkIzTEpTajNZR2cwaEJTUFZWZmVZdjQ1TzlpSkRHVnRJUktYVjQ2ZEdBY3ZiM1ZadS1RcHAwRFVxdElMOEpnZjdxYmhwUQ?oc=5",
-            "category": "Economy",
-            "published": "2026-09-04T22:36:36.726504"
-        },
-        {
-            "title": "현대제철 미국 전기로 제철소 첫발…탄소저감 강판 270만t 생산 - 연합뉴스",
-            "points": [
-                "현대제철의 미국 내 대규모 투자는 글로벌 철강 산업의 탄소 저감 노력과 공급망 재편에 중요한 영향을 미치는 소식입니다.",
-                "전기로 제철소 건설은 친환경 생산 방식으로의 전환을 가속화하며, 연간 270만 톤의 탄소저감 강판 생산은 산업 전반에 긍정적 파급 효과를 기대하게 합니다."
-            ],
-            "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE4yaVozNzJQSVpaUDFHX2M4QmV4NVFDamFkbUJzT1hSWFZxR0tCTkVOTEs0SGItQ3ZlcDRLekg4OUZ1R1NYQTlrakVuTUZ3N1ZYZzM1eFhNYXdOb2_SAWBBVV95cUxQY285aE9uWUU1c3BrTmlnVVd4RWhZN3kxUmFQeWk2aG04Z2NWYmsxdmt5ODhESkg3bEVsSlE3ZGRf0SzUWM3dThWdW94R1RqazVLWFFVOFZPbDJZVWJ4Mzc?oc=5",
-            "category": "Economy",
-            "published": "2026-09-04T22:36:36.726511"
-        },
-        {
-            "title": "미 교통당국, 테슬라 사이버캡 출시 직후 ‘안전성 조사’ 착수 - KBS 뉴스",
-            "points": [
-                "미국 교통당국의 테슬라 사이버캡 안전성 조사는 자율주행 기술의 상용화와 규제 방향에 중대한 영향을 미칠 수 있는 소식입니다.",
-                "테슬라의 핵심 신기술에 대한 정부 차원의 조사는 관련 산업의 기술 개발 및 안전 기준 설정에 중요한 선례가 될 것이며, 자율주행 시장 전반에 파급 효과를 가져올 수 있습니다."
-            ],
-            "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFBKZ3dRTUYtS1Zad0Q0VGlNQmZsR3J4aUtqamlnNlNvMjBHaHlkZnY3LUhCY1ZRWDdvT1VZQ25Lc0NSeW1vS1RxbzhyV0ZoQmZqb3ZNbXBVdTVEbXc?oc=5",
-            "category": "Economy",
-            "published": "2026-09-04T22:36:36.726512"
-        },
-        {
-            "title": "청와대 “대미투자, 반도체도 논의 대상…안보협상 진행 쉽지 않아” - 한겨레",
-            "points": [
-                "청와대의 공식 발언으로, 미국과의 대규모 투자 및 반도체 협력이 단순 경제적 이슈를 넘어 안보 협상과 밀접하게 연관되어 있음을 보여주는 중요한 정책적 시그널입니다.",
-                "반도체 산업의 지정학적 중요성과 국가 안보 차원의 접근이 강조되며, 향후 대외 경제 정책 방향에 큰 영향을 미칠 수 있습니다."
-            ],
-            "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTFA4UzZnVldjXzJhTlVlbWNXSTFqRW9fRkE0SmlrVzd2S0RJeExMZ0JSMlRnUmFfdmJoQURxSnpMRXdRU05ZTEFhMFBoQzR4OFNUdkp3VWtveUNuNy1ROTF0UjQ2djAzcmM0Ymhn?oc=5",
-            "category": "Economy",
-            "published": "2026-09-04T22:36:36.726513"
-        },
-        {
-            "title": "美 첨단기업 4곳, 韓에 20억달러 투자…반도체 관세 논의도 진행 - 인더스트리뉴스",
-            "points": [
-                "미국 첨단기업 4곳의 한국에 대한 20억 달러 규모 투자는 국내 산업, 특히 반도체 분야에 큰 활력을 불어넣을 대규모 경제 협력 소식입니다.",
-                "반도체 관세 논의는 글로벌 무역 정책 및 반도체 공급망에 중대한 변화를 가져올 수 있는 핵심 의제로, 국제 경제 관계에 큰 영향을 미칠 것입니다."
-            ],
-            "link": "https://news.google.com/rss/articles/CBMickFVX3lxTE53OU5ySWF3QXIxOXp3UUYza2hWbGFiV0NWSVh1TVlzYTQ1TndBampmUk1QYWJjZkJ2S3FyMnM5U1h4UG9Qd19Mc2ZtaEJGMEVwMkM0MWJaTDRQbDZQb3hRZFc4Ym5sU3VfbWJTbFllakRSUQ?oc=5",
-            "category": "Economy",
-            "published": "2026-09-04T22:36:36.726514"
-        }
-    ],
     "World": [
         {
-            "title": "미-우크라이나 협상 계속...러시아-우크라이나 전쟁 격화",
+            "title": "미군 \"이란 유조선 3척 대응 타격‥필요하면 이란 원유선단 파괴\" - MBC 뉴스",
             "points": [
-                "러시아-우크라이나 전쟁은 현재 세계에서 가장 큰 지정학적 갈등으로, 국제 안보 질서와 에너지 시장에 막대한 영향을 미칩니다.",
-                "미국과 우크라이나 간의 협상 지속 및 전쟁 격화는 전 세계 동맹 관계, 군사 지원 정책, 그리고 글로벌 경제에 직접적인 변화를 가져올 수 있습니다."
+                "미국과 이란 간의 군사적 긴장이 최고조에 달했음을 보여주는 직접적인 위협으로, 중동 지역의 정세 불안을 심화시킬 수 있는 중대 소식입니다.",
+                "미국의 이란 원유 선단 파괴 위협은 국제 유가에 즉각적인 영향을 미치고, 글로벌 에너지 시장의 불안정성을 증폭시킬 수 있는 경제적 파급력이 큽니다."
             ],
-            "link": "https://news.google.com/rss/articles/CBMickFVX3lxTE1uTldmbUJvdGJ5Q0liZGNnbVR5WXF4d1RDc1h1NDZVSFVzdUs4QmlYd1dXcFJRd3lQOFJ6Z05hSXhsZU51OXRjalVKNlhCM2xyRlhqbi1GSHh1QWNIWFRBc1JZYkdWX0JXdjZFOHJMRzR0UdIBdEFVX3lxTFBkUDluamdHMnJ5TEVob3ZhcHhnTmpqRkh4U2VjcC12NTNreUdtQnZtcXJ3NmdCUnVMU294OEZ4c2NwUURIaHk2UXd6ZzVfWEs1NElBSTh3WElQdzhWUGM1Z1hsTVk3dFI4STJnVUJ0Z0VBN1VE?oc=5",
+            "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTE1kcXRma2JaRFJfcDNIV3l3OE5IS0p5ZGZqM1FycEQwTk9Kgy0weDUyWUZvU0wyUkxVbTd6UEROcWV1b0xoY1hrSzl4Z3FPcUFIRUJLMm1CWVRHTTNsTUFnaXFnSzNFeHlfbWxXS0VCaTM5Qmtr0gF0QVVfeXFMT3NWS21lUllhazRSaEFMUXBCYk1DalZyZmRkS2tiUGUzXzJ6S1E2ZU43Vm9MZHZONXBra01DTFZzanN5NkdicUZ4Zi1Ibnc5RXlFWVhpTDFOQ2V1RTRaTmp4a0hFZWljWi1zdUthbkRDdGU5ZEU?oc=5",
             "category": "World",
-            "published": "2026-09-04T22:37:38.096302"
+            "published": "2026-09-05T22:27:02.677468"
         },
         {
-            "title": "네타냐후 “이란 정권 가장 약해져…무너뜨리는 것이 핵심 임무”",
+            "title": "대홍수 10일째 네팔·티베트 사망자 1375명, 실종자 5500명 이상 - 경향신문",
             "points": [
-                "이스라엘 총리의 이란 정권 붕괴를 직접적인 임무로 언급한 것은 중동 지역의 지정학적 긴장을 최고조로 끌어올리는 매우 중대한 발언입니다.",
-                "이는 이스라엘의 대이란 정책에 있어 군사적 행동 가능성을 시사하며, 중동 정세의 급변과 국제 유가 등 글로벌 경제에 심각한 영향을 미칠 수 있는 정책 변화의 전조가 될 수 있습니다."
+                "네팔과 티베트 지역에서 발생한 대규모 홍수로 인한 심각한 인명 피해와 광범위한 재산 손실을 알리는 주요 인도주의적 재난 소식입니다.",
+                "기후 변화의 심각성을 보여주는 사례이자, 국제 사회의 인도적 지원 및 재건 노력이 시급함을 강조하는 사회적, 경제적 영향을 가집니다."
             ],
-            "link": "https://news.google.com/rss/articles/CBMic0FVX3lxTE5Ja2pxRjZWYTAzOTBXX1BSU25jRGhYSWdnSWozazFEaGNVVE5IVUFOQXZRYThoaVVabUFlRWUtUUE0b3owbEZCNHBkQndqTHZBMDJhdUNNSnFBUUdNSmwwd296VHV2bDJ3TzVScHcxZXJZTFnSAWZBVV95cUxNNGdvMzl2MTRPdnU0RkFnd2RJbzhaTDk4WGRSWm5wbGZIWkxSRjJiTXBMQjIwR2RTUWJUU1N6YTlseUt6TDZxdHpsU3lSUmszd2Q1akxaX3RIMTBVVTEwWFJ4NEQ4ckE?oc=5",
+            "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE1ZVjdxQjhOLW84NkpOeEktY0l4dE5CMnlNdmt1YlhOcmh0Z19RTUlsTnROSVBFMXNPVHRxZ1QzUkRBVi1FcURDTVp5aWFvck5VU1JBQmZtU3pFQdIBX0FVX3lxTE5QMEJWTWhjZHZBaUpYRTRxSTdHdnVQemIyTldUZGRIblZQT3kxUElZLXFTOGZvR1AxUXhoQ1VQQ0pfSzlkd1g4dWpvWW85d0VjZHhVYkZibjgxLTJuWkN3?oc=5",
             "category": "World",
-            "published": "2026-09-04T22:37:38.096309"
+            "published": "2026-09-05T22:27:02.677476"
         },
         {
-            "title": "트럼프 \"이란 '곡괭이산' 곧 공격할 수도 있다\"",
+            "title": "푸틴, 키이우 공습 72시간 중단 지시… 美 특사 모스크바 도착 - 파이낸셜뉴스",
             "points": [
-                "전 미국 대통령의 이란에 대한 잠재적 군사 공격 언급은 중동 지역의 긴장을 극도로 고조시키고 국제 사회에 큰 파장을 일으킬 수 있는 발언입니다.",
-                "이는 미국의 대이란 정책 방향에 대한 중요한 신호로 해석될 수 있으며, 호르무즈 해협 등 주요 해상 운송로의 안보와 글로벌 에너지 시장에 직접적인 영향을 미칠 수 있습니다."
+                "러시아-우크라이나 전쟁의 주요 전개 상황으로, 푸틴의 공습 중단 지시는 일시적 휴전 또는 외교적 협상 가능성을 시사하며 국제 정세에 큰 영향을 미칩니다.",
+                "미국 특사의 모스크바 방문은 양국 간의 고위급 대화 재개 가능성을 보여주며, 우크라이나 사태 해결을 위한 외교적 노력이 강화될 수 있음을 의미합니다."
             ],
-            "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE05OTNtNFN4X0RIMU5BM0lEYlhTQ2tacHU5Ny1JSVUyVFJxN1hwb3lTcVZtZkJmdkRQYm5VS0RjUHJZY25NRWVKWEhrS1BjN1ZHYmUtRlNqN3p4RnPSAWBBVV95cUxPMnRBUXBVWFNuWTYwSW5nSVQzTVRQdXZxOEJlTldCNnJFbjVZOFFuUGM1TWpFS0psdWluRFQyMGtoVHkyZlhyQTE0RUN4Ty13NGd0UHlfRjRfaUhTMVdzZVM?oc=5",
+            "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFB5X2FSQWphSDhZaUQwcGtMRzg1b3FrTm5xYmJ1MDhjd1Z1dEx4aENFZDJaTzM5OFpfcUd2TTM3MnBNbldnbVFMdU9PUEk2ZmtUZWxnVE9xWEY3Zw?oc=5",
             "category": "World",
-            "published": "2026-09-04T22:37:38.096310"
+            "published": "2026-09-05T22:27:02.677477"
         },
         {
-            "title": "연말 '북미정상회담' 열리나…다시 고개 든 '코리아 패싱' 우려[노컷브이]",
+            "title": "트럼프 “시진핑 부부, 9월 24일 방미…국빈만찬 열 것” - 경향신문",
             "points": [
-                "북미정상회담 개최 가능성 및 '코리아 패싱' 우려는 한반도 비핵화와 동북아시아 안보 지형에 결정적인 영향을 미칠 수 있는 중대 외교 사안입니다.",
-                "회담 성사 여부와 결과에 따라 북한의 핵 프로그램, 대북 제재, 그리고 역내 국가들의 외교 전략에 큰 변화가 예상되며, 이는 글로벌 안보에도 영향을 미칩니다."
+                "미국과 중국 간의 최고위급 외교 행사로, 양국 관계의 현 주소와 미래 방향을 가늠할 수 있는 중요한 지표입니다.",
+                "글로벌 경제 및 무역 정책, 그리고 지정학적 안정성에 지대한 영향을 미치는 두 강대국의 정상회담은 전 세계의 이목을 집중시키는 핵심 경제/외교 소식입니다."
             ],
-            "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTFBoMWdpd0g1TWgtMG1ISHlnYW10NFB1YUhTeS1BLThLbW9UTDJTLVJLWW12ODRjdmxQNjQwanJHbDl6U3ZKaGhpMDNocVN1ZmFlQkE?oc=5",
+            "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE53YmVhbG9yOVpSOXRDLU9KS1ZRV3hBVGdfQ254T3F5Y3VVRDRDTDJBUFFvX2pVYUJFcEFZaXUxRXFFZVBiWkxFOTh2YWRmTlU0NmM0UHRJWWRGQdIBX0FVX3lxTE1DSmRVMmlxVVdONXpPTnlJRk1Za3dhakhxLXM2bG92Tm9xN29zcGoyb3hvOHN6Z3FMLXVrRlF3aExYQ21wSGd1UTFWMTRrZGY1LVQydnIxZmpVQV81MTdF?oc=5",
             "category": "World",
-            "published": "2026-09-04T22:37:38.096311"
+            "published": "2026-09-05T22:27:02.677478"
         },
         {
-            "title": "예멘 정부군·후티, 바브엘만데브 교전 격화... 129명 사망",
+            "title": "美 관세 공세에 번진 반미… 캐나다, 여행·소비 '탈미국' - 글로벌이코노믹",
             "points": [
-                "예멘 내전의 격화는 심각한 인도주의적 위기를 심화시키고 있으며, 바브엘만데브 해협은 세계 주요 해상 무역로 중 하나로 글로벌 경제에 직접적인 영향을 미칩니다.",
-                "교전 격화는 중동 지역의 불안정성을 증대시키고, 홍해를 통한 에너지 및 상품 운송에 차질을 빚어 국제 물류 및 유가 변동을 야기할 수 있는 중요한 지정학적 변화입니다."
+                "미국의 보호무역주의 정책(관세)이 주요 동맹국인 캐나다의 경제 및 소비 패턴에 직접적인 변화를 가져오고 있음을 보여주는 중요한 경제 뉴스입니다.",
+                "'탈미국' 움직임은 글로벌 공급망 재편 및 국제 무역 질서 변화의 신호탄이 될 수 있으며, 이는 전 세계 경제에 장기적인 영향을 미칠 수 있는 파급력이 큰 변화입니다."
             ],
-            "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxOcVk0LWxTVWlkNmRCSHByRmR0OExLd191Vmd5N3FMb09NckZqWDNhVkZuTXFsdkpfcXRhMUxVMXJacThjNnRKbmJvd3JJTFZzOWFpUHFDRXBCcjlQenRVdTdWMk5mRmJpeEtjdVNDWlNqZkJfRlU0dEIwLW5kYVdONmNTWXF0R1kxY1VSTXMzeDFOazg1UlZ6MVpCVlc5Zw?oc=5",
+            "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxOTS1jckVqc1kzZjQ2NzI1dHI1TVZKb2lRMGNNMU1JS1NWZ3MxWm04RnlmRDNaekp6WWxHM192d252NzB4MFBSNVNTS1RQUFFuNGNIeWllQW1FMG9peE5GVTdLTWktekhTbHBLX1dlaWgyLUhYVVZQR0F2cTZxVXR3NloxZkg4Vi1s?oc=5",
             "category": "World",
-            "published": "2026-09-04T22:37:38.096312"
+            "published": "2026-09-05T22:27:02.677478"
         }
     ]
 }
