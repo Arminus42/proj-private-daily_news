@@ -1,54 +1,210 @@
 {
+    "AI_Tech": [
+        {
+            "title": "EPFL, LLM에 ‘의심 탐지기’ 결합한 GOLLuM 개발 공개: \"불확실성 아는 AI로 과학 실험 최적화\"",
+            "points": [
+                "스위스 연방 공과대학교(EPFL)는 세계적인 연구기관으로, 이들의 AI 연구는 글로벌 기술 트렌드에 큰 영향을 미칩니다. 특히 대규모 언어 모델(LLM)의 한계인 '환각' 문제를 해결하려는 시도는 AI 신뢰도를 높이는 데 매우 중요합니다.",
+                "GOLLuM은 LLM에 '의심 탐지기'를 결합하여 AI가 자신의 답변에 대한 불확실성을 인지하고 표현할 수 있게 합니다. 이는 AI가 '모른다'고 말할 수 있게 함으로써 과학 실험 최적화와 같은 고위험 분야에서 AI의 오용을 줄이고 신뢰성을 획기적으로 향상시키는 기술적 돌파구입니다."
+            ],
+            "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE9SQmhXUXlXaWVRNC1lWU15R1R3c1k0dHc0Q1JITE9CbVZaMGR2MUg1X2RuOXlnNmZoQVAyaFJucGpTbDZEV1RrS2luMThqRmpQdllEeG95c25CSTF0bloyNHluOTBBbTg?oc=5",
+            "category": "AI_Tech",
+            "published": "2026-09-06T22:28:54.315373"
+        },
+        {
+            "title": "과기정통부, 미국 이어 유럽에 'AI 공동연구랩' 세운다",
+            "points": [
+                "대한민국 정부가 미국에 이어 유럽에 AI 공동 연구소를 설립하는 것은 국가 차원의 AI 기술력 강화 및 글로벌 협력 확대를 의미합니다. 이는 한국 AI 기술의 국제적 위상을 높이고, 유럽과의 공동 연구를 통해 새로운 AI 기술 발전을 모색하는 중요한 전략적 움직임입니다.",
+                "이 공동 연구랩은 한국과 유럽의 AI 연구자들이 협력하여 차세대 AI 기술을 개발하고, 인력 교류를 통해 AI 생태계를 확장하는 기반이 될 것입니다. 이는 특정 기술의 직접적인 돌파구라기보다는, 미래 AI 기술 발전을 위한 국제적 연구 인프라를 구축하는 중요한 경제적, 기술적 투자입니다."
+            ],
+            "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTFA1cERUc1JFZDRmR25XNnN0NEhvRUc2LWpKSVo3U1BkV0MtOVVMakc1RnBJS3NOdmpsa29TSVBJRzV5MzZLRERJUnJFNkhYQ0c1Nks0bEVsRHlwcFl6S2dTQjBBUVB2dHJOWGRQNtIBbEFVX3lxTFA1cERUc1JFZDRmR25XNnN0NEhvRUc2LWpKSVo3U1BkV0MtOVVMakc1RnBJS3NOdmpsa29TSVBJRzV5MzZLRERJUnJFNkhYQ0c1Nks0bEVsRHlwcFl6S2dTQjBBUVB2dHJOWGRQNg?oc=5",
+            "category": "AI_Tech",
+            "published": "2026-09-06T22:28:54.315380"
+        },
+        {
+            "title": "넷플릭스, AI 영화기술에 6억달러 베팅",
+            "points": [
+                "글로벌 미디어 공룡 넷플릭스가 AI 영화 기술에 6억 달러(약 8천억 원)를 투자하는 것은 엔터테인먼트 산업 전반에 AI가 미칠 파급력을 보여주는 중요한 신호입니다. 이는 단순한 기술 도입을 넘어, 콘텐츠 제작 방식과 시청 경험을 근본적으로 변화시킬 수 있는 대규모 전략적 투자입니다.",
+                "넷플릭스의 투자는 AI가 영화 제작의 기획, 촬영, 편집, 특수효과 등 전 과정에 걸쳐 혁신을 가져올 것임을 시사합니다. 예를 들어, AI 기반의 스토리 생성, 가상 배우 활용, 실시간 시각 효과 구현 등이 가능해져 제작 효율성을 높이고 창의적인 표현의 폭을 넓힐 수 있습니다. 이는 AI가 예술과 기술의 경계를 허물며 새로운 산업 표준을 제시할 잠재력을 보여줍니다."
+            ],
+            "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxQN004Y21jT3NWWmppOW5QUHBlVGNhVVhoZDkzblFCYkQyOF9hXzdzc3hDOGZNZFJJTGhLS2dfOEtxWkhkZ2lQVE0xRkF1T0J0aFdBVjlGaUpzWmF1NUUxam14dzBiN0NKSmhrY0JDU3FGd1M1c2x2MU1FUjI5cWZtbTFndDY2d3NDVnNrRk0zWEduZ3lDOURycWNtXzM4Z2ZDVkdrRjRFYW1jekExTms5YkUyeW5QaHNCRHVhOXYtdFRrdw?oc=5",
+            "category": "AI_Tech",
+            "published": "2026-09-06T22:28:54.315381"
+        },
+        {
+            "title": "\"AI 모델 다음은 산업현장…韓, 피지컬 AI·에이전트 육성해야\"",
+            "points": [
+                "이 기사는 단순한 기술 발표가 아닌, AI 기술 발전의 다음 단계에 대한 중요한 통찰을 제공합니다. 대규모 언어 모델(LLM)을 넘어 실제 산업 현장에서 작동하는 '피지컬 AI'와 'AI 에이전트'의 중요성을 강조하는 것은 글로벌 AI 트렌드가 이론적 모델에서 실질적인 적용과 자동화로 확장되고 있음을 보여주는 핵심적인 논의입니다.",
+                "'피지컬 AI'는 로봇이나 자율주행차처럼 물리적 세계와 상호작용하며 작업을 수행하는 AI를 의미하며, 'AI 에이전트'는 복잡한 목표를 스스로 계획하고 실행하는 지능형 소프트웨어입니다. 이 기사는 이러한 기술들이 제조업, 물류, 서비스 등 다양한 산업 분야에서 생산성을 혁신하고 새로운 비즈니스 모델을 창출할 잠재력을 가지고 있음을 제시하며, AI 기술의 실질적인 산업 적용 방향을 조명합니다."
+            ],
+            "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE1lVEtEOXEwZlBCU1l0bGx1MENzdW9NSXEzRWpkWGhWamJsaGVtamNlbUR2dzRRNWxvRFhpdkFyUkZHRVctSGIyYVdLRXlrS2dmX0R4VUVn?oc=5",
+            "category": "AI_Tech",
+            "published": "2026-09-06T22:28:54.315382"
+        },
+        {
+            "title": "제주대, 세계적 AI 신진 연구 인재 육성…국비 110억원 확보",
+            "points": [
+                "한국 정부가 제주대학교에 110억 원이라는 대규모 국비를 지원하여 '세계적 AI 신진 연구 인재'를 육성하는 것은, AI 기술 경쟁력의 핵심인 인력 양성에 대한 국가적 의지를 보여줍니다. 이는 특정 기술 개발만큼이나 중요한, 미래 AI 기술 발전을 위한 장기적인 투자입니다.",
+                "이 사업은 AI 분야의 젊고 유능한 연구자들이 최첨단 AI 기술을 연구하고 개발할 수 있는 환경을 제공함으로써, 향후 한국이 글로벌 AI 기술 리더십을 확보하는 데 필요한 인적 기반을 다지는 역할을 합니다. 이는 새로운 AI 모델이나 알고리즘의 직접적인 개발보다는, 그러한 혁신을 이끌어낼 인재 풀을 확대하고 연구 역량을 강화하는 데 중점을 둡니다."
+            ],
+            "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE8tZHpraWJzaHdLZ2R3ck9SRVMwOVN2VFJEcEowRVBxa2pMQ2R5dEVjdjhFVUxURzhxY3NsRkRqM0tsUXJ3U25qMGlveXl6TWpJMko2dlBqOEc0TzVqWWR1Q2dleXdlYVE?oc=5",
+            "category": "AI_Tech",
+            "published": "2026-09-06T22:28:54.315383"
+        }
+    ],
+    "IT_Biz": [
+        {
+            "title": "안보 위협·불공정 덤핑 막아라… 美 자동차 업계, 중국산 커넥티드 차 ‘영구 퇴출’ 촉구",
+            "points": [
+                "미국 자동차 업계가 중국산 커넥티드 차량의 영구 퇴출을 촉구하며, 이는 미중 기술 패권 경쟁과 글로벌 공급망 재편에 중대한 영향을 미칠 수 있는 소식입니다.",
+                "국가 안보 위협 및 불공정 덤핑을 명분으로 한 무역 장벽 강화는 자동차 산업의 국제적 판도를 변화시키고, 관련 기술 표준 및 시장 경쟁 구도에 큰 파장을 일으킬 것입니다."
+            ],
+            "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxPMm42Y0FXb2pzMzlSdGlKZ2trbVJpazNUMTJlVzkzQ2VLSjRPS2FaMC02MTdyTGxIOHhGczVJWTZwODR3Q2Y3N3NmbnZGZzJUazgxWWRjY0JHT2VyWldpbFFlRUZjeE1ncm9OcWFZZDRxRWk1eHYtc2drYThyemZ0bUI1ZGtDdkt3VFJZSUpyZFlFM0FJTF9OMklTQUNTUdIBsgFBVV95cUxQRHduN2VIempydlQzVjJsdHZyQUdpZ0NVZFJNZDNGdWhuWXRBem91aW13Nzl6bnNuQlJGcGE1YUQ4VDZMR2NKalpheXlSQ1JiWHhlZHdibXJCb0R2RS04amRaaHdoRWVDZWtMYnpDN3hnYkhVYndEX0FpNTRXajlNcjlEYnA1TFdCR1dCNHMwd1N0WDhrQkRqbWx1S1k3LTlDZzVidXdLUHY3dkdtVjVJVUxB?oc=5",
+            "category": "IT_Biz",
+            "published": "2026-09-06T22:29:20.500148"
+        },
+        {
+            "title": "GPT-6 아스트라, 수능 전 과목 만점…450점 ‘AI 최초’",
+            "points": [
+                "GPT-6 아스트라가 수능 전 과목 만점을 기록하며 AI의 지능적 능력 발전이 가속화되고 있음을 보여주는 상징적인 사건입니다.",
+                "이는 AI가 인간의 고등 인지 능력을 모방하고 뛰어넘는 수준에 도달하고 있음을 시사하며, 교육 시스템, 직업 시장, 사회 전반에 걸친 AI의 역할과 영향력에 대한 논의를 심화시킬 것입니다."
+            ],
+            "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxOck9Wd2VtTFNBRlc3QTUycXJHLVBHMVZ5V2VhYXp6aTRkc3ZTQUlsX3BZaG82cVF1NFIyWFRyak1IRng0UnNaNjJmYndlSmU2R0xrcTZ2cGJhNWV3Tkp1THRHN1MwT1lmZ3pKa1hZZ05hc0I3VlRxaW5HUjAxZ2NLeQ?oc=5",
+            "category": "IT_Biz",
+            "published": "2026-09-06T22:29:20.500154"
+        },
+        {
+            "title": "SEC, XRP·솔라나 상품 기준 편입…암호화폐 ETF '15% 룰' 열렸다",
+            "points": [
+                "미국 증권거래위원회(SEC)가 XRP와 솔라나를 상품 기준으로 편입하고 암호화폐 ETF의 '15% 룰'을 허용하면서, 암호화폐 시장의 제도권 편입이 가속화될 수 있는 중대한 규제 변화입니다.",
+                "이는 더 많은 기관 투자자의 암호화폐 시장 진입을 촉진하고, 관련 금융 상품의 다양성을 확대하며, 암호화폐 시장의 신뢰도와 유동성을 높이는 데 기여할 것입니다."
+            ],
+            "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNczRSTWd4bkdlb2tJM1ZNQmhsVG1MRjZ3dFF6TEY4SUhtQ1hjLUU2ZXBMRnN2VGZnUVp4OHU0QzBKRFpZUFBsNTNMam5YXzIyQmpMTUFnbWR1UTNkdGx2am9mXzFpSklMUnlhaWk2SmxPYURRbHE4SUE4NHNWQXZjY20yd2Jvc0th?oc=5",
+            "category": "IT_Biz",
+            "published": "2026-09-06T22:29:20.500155"
+        },
+        {
+            "title": "운전대·페달 없는 테슬라 ‘사이버캡’…출시 몇 시간 만에 美정부 조사",
+            "points": [
+                "테슬라가 운전대와 페달이 없는 완전 자율주행 차량 '사이버캡'을 공개하고 즉시 미국 정부의 조사를 받게 된 것은 자율주행 기술의 혁신성과 동시에 규제 및 안전성 논란이 심화되고 있음을 보여줍니다.",
+                "이는 미래 모빌리티 산업의 방향을 제시하는 동시에, 기술 발전 속도와 사회적 수용 및 규제 간의 균형점 찾기가 얼마나 중요한 과제인지를 부각시킵니다."
+            ],
+            "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxPa1dpdWlDX1JqVktneUtNZzE1TmJOMm84UUo2R1Nzdms5Z2RlMkdTLUY1ZHRZN2RlSlFpamE0QWh0cHZXR01BV2RaTmIxSjV4ZVd0N1NqNFZmZWxqVVZPWkJCN2NkSWFENnFLR0oxT3lHbzNRVFRWS3Y3alVCTWo4eA?oc=5",
+            "category": "IT_Biz",
+            "published": "2026-09-06T22:29:20.500156"
+        },
+        {
+            "title": "“버티던 애플마저 결국”…메모리값 4배 폭등에 ‘아이폰18’ 가격 오른다",
+            "points": [
+                "글로벌 메모리 반도체 가격의 폭등으로 인해 애플마저 아이폰 가격 인상을 고려하게 된 것은 전 세계적인 반도체 공급망 불안정과 인플레이션 압력이 IT 산업 전반에 미치는 심각한 영향을 보여줍니다.",
+                "이는 주요 IT 기업들의 원가 부담 증가와 소비자 가격 인상으로 이어져, 글로벌 경제와 소비자 구매력에 직접적인 영향을 미칠 수 있는 중요한 경제적 변화입니다."
+            ],
+            "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE13QkFWejh4M19uZ3gxZHQ2dVhERkVwbi12Z1hxMzVDLWVxX0t6ZHl6RkN4LVRIZzRkMVJybHhPQU1sbnV2bENaa0IyRmtCbkE?oc=5",
+            "category": "IT_Biz",
+            "published": "2026-09-06T22:29:20.500157"
+        }
+    ],
+    "Economy": [
+        {
+            "title": "볼수록 신기한 '트럼프 경제학'…무역흑자 내면 금리 낮춘다? [이상은의 워싱턴나우]",
+            "points": [
+                "미국 대선 후보 트럼프의 독특한 경제 정책 구상(무역 흑자 시 금리 인하 등)을 다루며, 이는 기존 경제학 이론과 상이하여 글로벌 금융 시장 및 통화 정책에 큰 불확실성을 야기할 수 있는 중대한 소식입니다.",
+                "미국 대선 결과에 따라 세계 경제 질서와 주요국 중앙은행의 통화 정책 방향에 근본적인 변화를 가져올 수 있는 잠재적 파급력이 있습니다."
+            ],
+            "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFBHZG8xWjhGd09vbkhUNXRpdm5Xdk01NXBQOWlwNVZlVUdZOTE3TmI3d21tVF81eHZUWEgyVU9YbDV1VmhqWDhBeW1OaWtMUkNJTjhtRVl0ekhLQQ?oc=5",
+            "category": "Economy",
+            "published": "2026-09-06T22:29:53.307881"
+        },
+        {
+            "title": "50% 관세 넘고 공급망 잡는다, 현대제철-포스코 美제철소 첫삽",
+            "points": [
+                "국내 주요 철강 기업인 현대제철과 포스코가 미국에 대규모 제철소 건설을 추진하는 소식으로, 이는 미국의 높은 관세 장벽을 우회하고 글로벌 공급망 재편에 대응하기 위한 전략적 투자입니다.",
+                "미국 인플레이션 감축법(IRA) 등 보호무역주의 강화에 대한 한국 기업들의 직접적인 대응 사례이며, 글로벌 철강 산업의 지형 변화와 공급망 안정화에 기여할 수 있는 중요한 경제적 변화입니다."
+            ],
+            "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTFBPOTZ3X19kODYyV24xbG5MOVBlbHQyWjh1VkhmcTRDREtCR3dHbXpHQU9nZ01sMVdZWTFoMEwzLUp3MlE1NngxUEk3SlVuc1ZHRWZwUldfdnp2NEdZbHRWM21kbi1LY0VOcWt4anVldnNaUGJZUEHSAWZBVV95cUxQelFGRTJILWRqOGhtLUpOUjZ0by1qRG9XWFdfWTNSNVpvaDRiZ2wwdDd5VnFEUm5TaERfSjF1a01UMmV6ZlJNVVFabW5FbTBJaUVOVlVsZ3VWaWlRaEpXeC1ZaW9oSEE?oc=5",
+            "category": "Economy",
+            "published": "2026-09-06T22:29:53.307888"
+        },
+        {
+            "title": "‘역대급 수출’ 떠받친 석유제품…정유사 “물량 남는데 빗장 풀자”",
+            "points": [
+                "한국의 주요 수출 품목인 석유제품의 수출 실적과 정유업계의 수출 규제 완화 요구를 다루며, 이는 국가 전체의 무역 수지 및 에너지 산업 정책 방향에 영향을 미치는 중요한 경제 소식입니다.",
+                "정유 산업의 경쟁력 강화 및 수출 활성화를 위한 정부 정책 변화 가능성을 시사하며, 국내외 에너지 시장의 수급 균형과 가격 안정성에도 영향을 줄 수 있습니다."
+            ],
+            "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE5ucWVEQUowU3hvUzIxR2JCWFZQbm9iY1F6eE0tZHZpWWx4V1dZMl9RS0JjRmtlbVZLS21jektrVFlITFQwSk1zNVpiVGpEbnA4RC14UGhWY1QtZ9IBX0FVX3lxTE0zWkhFTjZocERQeHpBMHF5c3pTZ1EzUzhfQmtpSmgxd0xLNXNIYWJhaTcyYWtPd0xja0NRS0swdVBnZl9xT2dKRGhJODB3WHdiR2hUcnA5Q2dVWUhPSFlr?oc=5",
+            "category": "Economy",
+            "published": "2026-09-06T22:29:53.307889"
+        },
+        {
+            "title": "임대주택 공급 3년새 81% 뚝 …'기업형 임대' 늘려 전월세난 대응",
+            "points": [
+                "정부의 임대주택 공급이 급감하고 전월세난이 심화되는 상황에서 '기업형 임대' 확대 등 새로운 주택 정책 방향이 논의되는 소식으로, 이는 서민 주거 안정과 부동산 시장 전반에 큰 영향을 미칠 수 있는 중대한 정책 변화입니다.",
+                "주택 공급 방식의 변화와 함께 전월세 시장의 구조적 문제 해결을 위한 정부의 정책적 의지를 보여주며, 향후 부동산 시장의 안정화 및 주거 복지 개선에 중요한 전환점이 될 수 있습니다."
+            ],
+            "link": "https://news.google.com/rss/articles/CBMiWEFVX3lxTFB5S0k1bmhvQkoyNTdNOFZlSDdZQ1VzSWJGelQweWtwT0lCcjhFbWVaVXJHczlidFp0LUJfajEwdnhQeDZicGJ1Z1dJNE56Y0JMT3lXTU0zcTY?oc=5",
+            "category": "Economy",
+            "published": "2026-09-06T22:29:53.307890"
+        },
+        {
+            "title": "LG전자 ‘로봇 관절’ 빅테크 공급 임박",
+            "points": [
+                "LG전자가 로봇 핵심 부품인 '로봇 관절'을 글로벌 빅테크 기업에 공급할 예정이라는 소식으로, 이는 LG전자의 미래 성장 동력 확보와 함께 국내 로봇 산업의 기술 경쟁력을 입증하는 혁신적인 서비스/기술 출시 사례입니다.",
+                "로봇 산업의 핵심 기술인 로봇 관절 분야에서 국내 기업이 글로벌 시장을 선도할 가능성을 보여주며, 인공지능(AI) 및 로봇 기술 발전의 가속화와 함께 관련 산업 생태계에 큰 파급 효과를 가져올 것입니다."
+            ],
+            "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE5vWDBFTWdrX2tSZ2xXc0FqMy1XRjhyMUZEYWVmcGVDT2xoU1Y1SnJjaGdYdXFQMzdaaGk3UDZQenVORU1Fa3FYakQ4SldpYTVwQXBwbU9HWTFQZ9IBX0FVX3lxTE5CZGU0WmFUamlzdm9vcVFtczZ0dk1uYU1Oa3luX2ZKcW1ISVVKS1ltM0VvLVNoN0xzdHBaM2VMR0ZLMFhpR3ZGeW5jN1JadWFyWEdxNnhQdEVGSXRQa05F?oc=5",
+            "category": "Economy",
+            "published": "2026-09-06T22:29:53.307891"
+        }
+    ],
     "World": [
         {
-            "title": "미군 \"이란 유조선 3척 대응 타격‥필요하면 이란 원유선단 파괴\" - MBC 뉴스",
+            "title": "이란군 \"美 항공모함·구축함에 탄도미사일 공격‥괴멸적 응징 각오하라\" - MBC 뉴스",
             "points": [
-                "미국과 이란 간의 군사적 긴장이 최고조에 달했음을 보여주는 직접적인 위협으로, 중동 지역의 정세 불안을 심화시킬 수 있는 중대 소식입니다.",
-                "미국의 이란 원유 선단 파괴 위협은 국제 유가에 즉각적인 영향을 미치고, 글로벌 에너지 시장의 불안정성을 증폭시킬 수 있는 경제적 파급력이 큽니다."
+                "이란이 호르무즈 해협 인근에서 미군 항공모함 및 구축함에 대한 탄도미사일 공격 가능성을 언급하며 직접적인 군사적 위협을 가했습니다. 이는 중동 지역의 긴장을 최고조로 끌어올리는 발언입니다.",
+                "이러한 위협은 세계 원유 수송의 핵심 통로인 호르무즈 해협의 안보를 직접적으로 위협하며, 국제 유가 변동성 확대 및 글로벌 에너지 공급망 불안정을 초래할 수 있습니다."
             ],
-            "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTE1kcXRma2JaRFJfcDNIV3l3OE5IS0p5ZGZqM1FycEQwTk9Kgy0weDUyWUZvU0wyUkxVbTd6UEROcWV1b0xoY1hrSzl4Z3FPcUFIRUJLMm1CWVRHTTNsTUFnaXFnSzNFeHlfbWxXS0VCaTM5Qmtr0gF0QVVfeXFMT3NWS21lUllhazRSaEFMUXBCYk1DalZyZmRkS2tiUGUzXzJ6S1E2ZU43Vm9MZHZONXBra01DTFZzanN5NkdicUZ4Zi1Ibnc5RXlFWVhpTDFOQ2V1RTRaTmp4a0hFZWljWi1zdUthbkRDdGU5ZEU?oc=5",
+            "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTE0zYms2MmxOZHVEYlpYUXlQcVJXWHIwR1hUVGZnSFAyQzJOLU12c1Z5RVB0OEY5cnRITlozY1JCYl9sVXJWcjJ3V3hwdzYwQW5NQlFmTExGd0V5YmhudFVxbnVyQ0g3WE5ac1pNaGh3b3ZWZnFw0gF0QVVfeXFMTTdjUW9IM1ZwMFEtb3pxUUpTUFR4cnhIV3ZEa01Fdm1uNXVwYVBQVXN0WDFEUUpXalA0WjRhbjZXeTNXY0duT0VBWmtKYVZlY1dENlNPbmczbWdpcGZqaC1JS054N2xzOHhCYzF1MFpIUk5HdnM?oc=5",
             "category": "World",
-            "published": "2026-09-05T22:27:02.677468"
+            "published": "2026-09-06T22:30:21.026251"
         },
         {
-            "title": "대홍수 10일째 네팔·티베트 사망자 1375명, 실종자 5500명 이상 - 경향신문",
+            "title": "위트코프·쿠슈너, 푸틴 이어 젤렌스키 회동…우크라 종전 협상 재개 논의 - 뉴스핌",
             "points": [
-                "네팔과 티베트 지역에서 발생한 대규모 홍수로 인한 심각한 인명 피해와 광범위한 재산 손실을 알리는 주요 인도주의적 재난 소식입니다.",
-                "기후 변화의 심각성을 보여주는 사례이자, 국제 사회의 인도적 지원 및 재건 노력이 시급함을 강조하는 사회적, 경제적 영향을 가집니다."
+                "전 미국 행정부의 핵심 인물인 재러드 쿠슈너 등이 푸틴과 젤렌스키를 연이어 만나 우크라이나 종전 협상 재개를 논의한 것은 전쟁의 외교적 해결 가능성을 모색하는 중요한 움직임입니다.",
+                "이는 우크라이나 전쟁의 장기화 속에서 새로운 중재자 역할과 외교적 돌파구를 마련하려는 시도로, 전쟁의 향방에 중대한 영향을 미칠 수 있는 잠재적 변화를 시사합니다."
             ],
-            "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE1ZVjdxQjhOLW84NkpOeEktY0l4dE5CMnlNdmt1YlhOcmh0Z19RTUlsTnROSVBFMXNPVHRxZ1QzUkRBVi1FcURDTVp5aWFvck5VU1JBQmZtU3pFQdIBX0FVX3lxTE5QMEJWTWhjZHZBaUpYRTRxSTdHdnVQemIyTldUZGRIblZQT3kxUElZLXFTOGZvR1AxUXhoQ1VQQ0pfSzlkd1g4dWpvWW85d0VjZHhVYkZibjgxLTJuWkN3?oc=5",
+            "link": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE1hQWFMd3h3bVU0MGNBMVFwd2V2dERsRUdsQ1FucEZMZ3JVbGdvRFdHY0MxYS1Fc1l6dUNVdlB1eVJUa2tyMnoxWVBTZFR5MnE0OXEyUWp0ajhRX1Bx?oc=5",
             "category": "World",
-            "published": "2026-09-05T22:27:02.677476"
+            "published": "2026-09-06T22:30:21.026257"
         },
         {
-            "title": "푸틴, 키이우 공습 72시간 중단 지시… 美 특사 모스크바 도착 - 파이낸셜뉴스",
+            "title": "美, ’비확산법’ 위반 한국기업 제재 7개월 만에 조기 종료 - 연합뉴스TV",
             "points": [
-                "러시아-우크라이나 전쟁의 주요 전개 상황으로, 푸틴의 공습 중단 지시는 일시적 휴전 또는 외교적 협상 가능성을 시사하며 국제 정세에 큰 영향을 미칩니다.",
-                "미국 특사의 모스크바 방문은 양국 간의 고위급 대화 재개 가능성을 보여주며, 우크라이나 사태 해결을 위한 외교적 노력이 강화될 수 있음을 의미합니다."
+                "미국이 한국 기업에 대한 '비확산법' 위반 제재를 7개월 만에 조기 종료한 것은 한미 동맹 관계의 강화와 양국 간 경제 협력 증진에 긍정적인 신호입니다.",
+                "이번 조치는 제재 대상 기업들의 경영 불확실성을 해소하고, 한국의 방위 산업 및 첨단 기술 분야에 대한 미국의 신뢰를 재확인하는 계기가 되어 관련 산업의 활성화에 기여할 수 있습니다."
             ],
-            "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFB5X2FSQWphSDhZaUQwcGtMRzg1b3FrTm5xYmJ1MDhjd1Z1dEx4aENFZDJaTzM5OFpfcUd2TTM3MnBNbldnbVFMdU9PUEk2ZmtUZWxnVE9xWEY3Zw?oc=5",
+            "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE5NTVN1NG9LZVlZSzBlT0VSSENQdDFzZEw4QlVHQlU3Y0ZPVEt5Tm9HMHhkV0FqVXNQdFJTXzlqZ1JDWW5abTNlNUVmSVVYaExWZW9oeTkyaG1fcVZUNUNnZEpjRE5Yamc?oc=5",
             "category": "World",
-            "published": "2026-09-05T22:27:02.677477"
+            "published": "2026-09-06T22:30:21.026258"
         },
         {
-            "title": "트럼프 “시진핑 부부, 9월 24일 방미…국빈만찬 열 것” - 경향신문",
+            "title": "예멘 정부군-후티 교전 격화 300명 사망…홍해 관문 향해 진격 - news1.kr",
             "points": [
-                "미국과 중국 간의 최고위급 외교 행사로, 양국 관계의 현 주소와 미래 방향을 가늠할 수 있는 중요한 지표입니다.",
-                "글로벌 경제 및 무역 정책, 그리고 지정학적 안정성에 지대한 영향을 미치는 두 강대국의 정상회담은 전 세계의 이목을 집중시키는 핵심 경제/외교 소식입니다."
+                "예멘 내전이 격화되어 300명 이상의 사망자가 발생하고 후티 반군이 홍해 관문으로 진격하는 것은 예멘의 인도주의적 위기를 심화시키고 중동 지역의 불안정성을 증대시키는 중대한 사안입니다.",
+                "홍해는 주요 국제 해상 무역로이므로, 이 지역의 통제권 변화는 글로벌 해상 물류 및 에너지 수송에 직접적인 영향을 미칠 수 있으며, 주변국들의 개입을 촉발할 위험이 있습니다."
             ],
-            "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE53YmVhbG9yOVpSOXRDLU9KS1ZRV3hBVGdfQ254T3F5Y3VVRDRDTDJBUFFvX2pVYUJFcEFZaXUxRXFFZVBiWkxFOTh2YWRmTlU0NmM0UHRJWWRGQdIBX0FVX3lxTE1DSmRVMmlxVVdONXpPTnlJRk1Za3dhakhxLXM2bG92Tm9xN29zcGoyb3hvOHN6Z3FMLXVrRlF3aExYQ21wSGd1UTFWMTRrZGY1LVQydnIxZmpVQV81MTdF?oc=5",
+            "link": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE9HM1lKcFRyeHVJcHRIZVRLZGNVc3lBMWlyTUJYUFM0bnBJYVRhdDJ1S3ZkdGdqcWk2bEdaV0NMYzN2dEJBQ1FQZHlzN0h0RFM2bEZYS09JUVBja29kRmhrUTNn0gFnQVVfeXFMUE11ZFhDY0RrWGZQSW1CVVBtSGdOUTNDZUd4d0Y3QnlmdWhxdnU3c0tCdW9Xa1ZPU3BYY2xkcVhYQldKeXAxVlV3Z0hhelhCLW9wcWFDbzJpMU01MzBSTHpiNVpXcTJjQQ?oc=5",
             "category": "World",
-            "published": "2026-09-05T22:27:02.677478"
+            "published": "2026-09-06T22:30:21.026259"
         },
         {
-            "title": "美 관세 공세에 번진 반미… 캐나다, 여행·소비 '탈미국' - 글로벌이코노믹",
+            "title": "이스라엘, 레바논 남부 공습해 4명 사망… 레바논, 美 개입 촉구 - 연합뉴스",
             "points": [
-                "미국의 보호무역주의 정책(관세)이 주요 동맹국인 캐나다의 경제 및 소비 패턴에 직접적인 변화를 가져오고 있음을 보여주는 중요한 경제 뉴스입니다.",
-                "'탈미국' 움직임은 글로벌 공급망 재편 및 국제 무역 질서 변화의 신호탄이 될 수 있으며, 이는 전 세계 경제에 장기적인 영향을 미칠 수 있는 파급력이 큰 변화입니다."
+                "이스라엘이 레바논 남부를 공습하여 사상자가 발생하고 레바논이 미국의 개입을 촉구한 것은 중동 지역의 또 다른 주요 분쟁 지역인 이스라엘-레바논 국경의 긴장 고조를 의미합니다.",
+                "이는 레바논 내 헤즈볼라와 이스라엘 간의 충돌이 확대될 가능성을 높이며, 미국의 개입 요청은 역내 안보 상황이 국제적 문제로 비화될 수 있음을 시사하여 중동 정세에 큰 파급력을 가집니다."
             ],
-            "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxOTS1jckVqc1kzZjQ2NzI1dHI1TVZKb2lRMGNNMU1JS1NWZ3MxWm04RnlmRDNaekp6WWxHM192d252NzB4MFBSNVNTS1RQUFFuNGNIeWllQW1FMG9peE5GVTdLTWktekhTbHBLX1dlaWgyLUhYVVZQR0F2cTZxVXR3NloxZkg4Vi1s?oc=5",
+            "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE94bGQ3c1FoRkpDM0dERTdXZ3E3Rll2QnlMS3djcE41MmRkM0ZDX3VuOFNoT1BldGswQWdLRlR3ZWg0TGdjNHBWQUg3dUNhVDFsZXIwSHcyMDQ5em_SAWBBVV95cUxNUjhyTDJNWF8yMkwyOFdJSmlUelpOazdJeTFHUkVYeFhIQ1dhNjFrdW45NTY5aUk3SUFOSW9uSHlVejVHd0E2MmhNODdLaXRwYnpjbmdLRm1WRHg5bmJ2enQ?oc=5",
             "category": "World",
-            "published": "2026-09-05T22:27:02.677478"
+            "published": "2026-09-06T22:30:21.026259"
         }
     ]
 }
