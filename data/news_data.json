@@ -1,210 +1,158 @@
 {
-    "AI_Tech": [
-        {
-            "title": "삼성전자, 일본 요코하마에 AI 반도체 연구 거점 구축…한일 기술 교류 가속화",
-            "points": [
-                "글로벌 반도체 및 AI 분야의 선두 주자인 삼성전자가 AI 반도체 연구를 위한 해외 거점을 구축하는 것은 미래 AI 기술 주도권을 확보하려는 전략적 움직임입니다. 이는 단순한 투자 발표를 넘어, 글로벌 AI 생태계에 미칠 파급력이 매우 큽니다.",
-                "AI 반도체는 AI 모델의 성능을 좌우하는 핵심 두뇌와 같습니다. 삼성전자가 일본에 새로운 연구 거점을 마련함으로써, 차세대 AI 반도체 개발 속도를 높이고 한일 간 기술 교류를 통해 혁신적인 AI 하드웨어 솔루션이 탄생할 수 있습니다. 이는 고성능 AI 구현을 위한 기반 기술을 강화하고, 관련 산업의 성장을 촉진할 것입니다."
-            ],
-            "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE5iU2FyMWhsaHFIaTA1NU5teDRVcmVFU3hoUzhQRWVLNVlpaWJhcXUwNHRiVUszTV94cWdNb1FUT09jeHRjVTVDN2NybzU1dUVGT283V1EyN1lOQQ?oc=5",
-            "category": "AI_Tech",
-            "published": "2026-09-09T22:48:30.041755"
-        },
-        {
-            "title": "다임리서치·IBM·한국과학기술원, 피지컬 AI 상용화 '맞손'…제조 현장 숙제 푼다",
-            "points": [
-                "글로벌 IT 기업 IBM과 국내 최고 연구기관인 KAIST가 협력하여 '피지컬 AI' 상용화에 나서는 것은, AI 기술이 단순 소프트웨어를 넘어 실제 물리적 세계와 상호작용하는 로봇 및 자동화 시스템으로 확장됨을 의미합니다. 이는 AI 연구의 중요한 전환점이며, 산업 전반에 걸쳐 혁신을 가져올 잠재력이 큽니다.",
-                "'피지컬 AI'는 마치 사람의 몸처럼 움직이고 주변 환경을 인지하며 작업하는 로봇 AI를 말합니다. 이 기술이 상용화되면, 공장 자동화, 물류, 서비스 로봇 등 다양한 제조 및 산업 현장에서 인간의 개입 없이 복잡한 작업을 수행할 수 있게 됩니다. 이는 생산성 향상, 비용 절감은 물론, 위험하고 반복적인 작업에서 인간을 해방시키는 경제적, 사회적 가치를 창출할 것입니다."
-            ],
-            "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTFBUWmtJbVdEZGdvY294TmFoWTVUVlVUYkE0MnpuWU83cjd0QV82X0hEb2JlVHZ0T0lnMDZxTzhGaFdqSW9hZEpyUTVSSkRWZ0t0S3NKZEJEdFdVNnJiaE5J?oc=5",
-            "category": "AI_Tech",
-            "published": "2026-09-09T22:48:30.041762"
-        },
-        {
-            "title": "한국-프랑스, AI·반도체·양자 동맹 넓힌다…공동연구 넘어 시장 진출까지",
-            "points": [
-                "한국과 프랑스라는 두 주요 국가가 AI, 반도체, 양자 기술과 같은 미래 핵심 기술 분야에서 단순한 연구 협력을 넘어 시장 진출까지 목표로 하는 '동맹'을 맺는 것은 매우 중요한 국제적 협력 사례입니다. 이는 각국의 기술 경쟁력을 강화하고 글로벌 기술 패권 경쟁 속에서 중요한 전략적 위치를 확보하려는 움직임입니다.",
-                "AI는 모든 산업의 혁신을 이끄는 '디지털 오일'이며, 반도체는 그 AI를 구동하는 '엔진', 양자 기술은 미래 컴퓨팅의 '게임 체인저'로 불립니다. 이 세 분야에서 양국이 협력하면, 각국의 강점을 결합하여 시너지를 창출하고, 공동 연구를 통해 개발된 기술을 실제 시장에 빠르게 적용하여 새로운 산업 생태계를 구축하고 경제적 가치를 극대화할 수 있습니다."
-            ],
-            "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTFBrZXF0VUxsSUVKRnZHanY0Tmk4MGVpMGhTcGJJNE5hU0h5aVRUZ3Z6TFNFM3BFa0JWYkVnR1d3cW1nSy0wbFJDaGs4WVhrSXZXT0dqN3lhZmlJRGxqbUI5cjhjQ1c3NWs?oc=5",
-            "category": "AI_Tech",
-            "published": "2026-09-09T22:48:30.041764"
-        },
-        {
-            "title": "카카오, 공공 AX부터 영상 생성까지…AI 기술·서비스 확장",
-            "points": [
-                "국내 대표 IT 기업인 카카오가 공공 분야의 'AI 전환(AX)'부터 고도화된 '영상 생성 AI'에 이르기까지 AI 기술 및 서비스 영역을 전방위적으로 확장하는 것은, AI가 더 이상 특정 분야에 머무르지 않고 우리 생활과 산업 전반에 깊숙이 침투하고 있음을 보여주는 중요한 신호입니다. 이는 카카오의 미래 성장 동력 확보와 직결됩니다.",
-                "'영상 생성 AI'는 텍스트나 간단한 이미지 입력만으로 고품질의 동영상을 만들어내는 기술로, 마치 영화감독이 아이디어만으로 영상을 만들 수 있게 해주는 것과 같습니다. 이 기술은 콘텐츠 제작, 마케팅, 교육 등 다양한 분야에서 혁신적인 변화를 가져올 것입니다. 또한, 공공 분야의 AI 전환은 행정 효율성을 높이고 시민 편의를 증진하는 등 사회 전반의 디지털 혁신을 가속화할 경제적, 사회적 가치를 창출할 것입니다."
-            ],
-            "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE1oMU9vc09JX2U4NENaejJza2RJODhtVGg3Z29FNWhnMUNVQkhlQzhvcFFIWDFwUlA1SWc3MGxlcFdBdThaU1hTMDZVTkhPcE5JRDdsYzN3eXhRS2ZPRFoyOGtZZWRlSkdnNQ?oc=5",
-            "category": "AI_Tech",
-            "published": "2026-09-09T22:48:30.041765"
-        },
-        {
-            "title": "ETRI-육사, AI 인글라스 개발 협약…미래 전장 지휘·상황인지 기술 연구",
-            "points": [
-                "국내 최고 국책 연구기관인 ETRI와 육군사관학교가 미래 국방 분야의 핵심인 'AI 인글라스' 기술 개발에 협력하는 것은, AI가 국가 안보와 직결되는 중요한 분야에서 어떻게 활용될 수 있는지를 보여주는 대표적인 사례입니다. 이는 단순한 기술 개발을 넘어, 미래 전장의 패러다임을 바꿀 수 있는 전략적 중요성을 가집니다.",
-                "'AI 인글라스'는 안경이나 헬멧 등에 AI 기술을 접목하여 착용자가 실시간으로 전장 정보를 파악하고, 복잡한 상황을 즉시 분석하여 최적의 판단을 내릴 수 있도록 돕는 기술입니다. 마치 영화 속 아이언맨의 헬멧처럼, 병사들이 눈앞에서 적의 위치, 아군 상황, 지형 정보 등을 한눈에 파악하고 AI의 도움을 받아 신속하고 정확하게 지휘 및 상황 인지를 할 수 있게 됩니다. 이는 전술적 우위를 확보하고 인명 피해를 최소화하는 데 기여하며, 국방 기술의 혁신을 이끌 것입니다."
-            ],
-            "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTE9fRTI4eGVsNlFXdXdDeVhGalV6Wk5RQmItVWs0YXU1a0NLdXRNQTh0YWQzNVdHUDhyN1I4SjE4Z2tVVDJXck9Sb2xnYmlMRlhscUJ6U2ZaNjlWMzJsUWI5bkplMU5nOWVZN2xaaVNR?oc=5",
-            "category": "AI_Tech",
-            "published": "2026-09-09T22:48:30.041766"
-        }
-    ],
     "IT_Biz": [
         {
-            "title": "[단독]비밀번호까지 털렸는데 몰랐다…수만 건 카드정보 유출에 금감원, PG사 2곳 현장검사",
+            "title": "부채 210조 한전, 웨스팅하우스 지분 인수?…“도시바엔 ‘상장 폐지 원인’”",
             "points": [
-                "수만 건의 카드 정보 유출은 심각한 개인정보 침해 사건으로, 금융 IT 보안의 취약성을 드러내고 소비자 신뢰에 큰 타격을 줍니다.",
-                "금융감독원의 PG사(결제대행사) 현장 검사는 관련 업계의 보안 규제 강화 및 시스템 개선을 촉발할 수 있는 중요한 정책 변화의 신호탄입니다."
+                "한국전력공사의 대규모 해외 지분 인수 추진은 국가 에너지 정책, 막대한 부채 문제 해결, 그리고 글로벌 원전 산업 재편에 중대한 영향을 미칠 수 있는 소식입니다.",
+                "210조 원에 달하는 부채를 안고 있는 한전의 웨스팅하우스 지분 인수는 국내외 경제 및 에너지 시장에 파급력이 크며, 과거 도시바의 사례를 통해 투자 리스크와 전략적 중요성을 동시에 보여줍니다."
             ],
-            "link": "https://news.google.com/rss/articles/CBMiRkFVX3lxTE5HZnpQRnpXTEtzQTNaZjJFR3dERnFRMUI2X0NJR3FJUEE4SVBlU2xqcDdEMDZ4SllSejcwMGlDTE9DNHYtWFE?oc=5",
+            "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE5CX0tpRHNaVFBNclpLRE43bDZQZFdQRjd5RkV2akQwSWYtUXJEZ0UtRHoxNlBBYlJEWFBtaUsyNGhrVXpkR2FZUHZIYzNSblQ2bmRkdENhZ21RZW1mQXVGaXBvSXJBQU5OaHRjbQ?oc=5",
             "category": "IT_Biz",
-            "published": "2026-09-09T22:49:04.597435"
+            "published": "2026-09-10T22:51:44.494718"
         },
         {
-            "title": "오픈AI ‘아스트라’, ‘인간 인증’ 캡차 48단계 모두 통과",
+            "title": "현대차 '보스턴'이 LG전자 베어로보틱스의 나스닥行 쳐다보는 이유",
             "points": [
-                "오픈AI의 '아스트라'가 고난도 캡차를 통과한 것은 AI의 시각 인지 및 추론 능력이 인간 수준에 근접했음을 보여주는 혁신적인 기술 발전입니다.",
-                "이는 AI가 단순 반복 작업을 넘어 복잡한 인증 시스템을 우회할 수 있음을 시사하며, AI 보안 기술 및 인간-AI 상호작용 방식에 대한 광범위한 재평가를 요구할 것입니다."
+                "현대차의 보스턴 다이내믹스 인수와 LG전자의 베어로보틱스 투자 등 국내 대기업들이 로봇 산업에 대규모 투자를 단행하고 있으며, 나스닥 상장을 통해 글로벌 시장 확장을 모색하는 움직임은 로봇 산업의 성장성과 미래 가치를 보여줍니다.",
+                "이는 국내외 로봇 기술 개발 및 상용화 경쟁을 가속화하고, 자본 시장을 통한 대규모 자금 조달을 통해 로봇 산업의 판도를 바꿀 수 있는 주요 경제적 변화입니다."
             ],
-            "link": "https://news.google.com/rss/articles/CBMigwFBVV95cUxOTVhpYjJRSVZDRmNyOEpRN3FJXzh2eWpnYU9xZkoxVGlncGtMZTc2MkFwaDlIdXRITVVvaWw0emZmM1hVY2t5YTBNa3F3TDFvTkl4YjgtZVozRnlVX3otZnp1a0lWWXdsSTBUZ1htdUpvRC1EbzU2Qm1ZSU96MmV0dTQ2bw?oc=5",
+            "link": "https://news.google.com/rss/articles/CBMigwFBVV95cUxPRWlZRVdETXNZbjN4QzdJdE1jeVJVdzJ1LVJWZFV5azdRSWRsZW9nVTkyYWxQRHdzSm9HUUdmWGU4Nnl2REpVdnBGcDBEb09Rb3QxemNZWFFUSXhTU3NnNnU3RUxijanpQX0V3SDZpdGV4U3NLQlR4eW9LWGc2NjVCR0F4VQ?oc=5",
             "category": "IT_Biz",
-            "published": "2026-09-09T22:49:04.597442"
+            "published": "2026-09-10T22:51:44.494726"
         },
         {
-            "title": "애플도 마침내 '접는다'…내일 새벽 첫 폴더블 아이폰 등판",
+            "title": "“AI가 인류 멸종시킬 수도”… AI發 종말론 불지핀 ‘자기개선형 초지능’ 뭐길래",
             "points": [
-                "애플의 폴더블 아이폰 출시는 스마트폰 시장의 판도를 바꿀 수 있는 대규모 혁신적인 서비스/제품 출시로, 경쟁사들의 전략에도 큰 영향을 미칠 것입니다.",
-                "애플의 참전은 폴더블폰 시장의 대중화를 가속화하고, 관련 부품 및 소재 산업에 대규모 투자와 기술 경쟁을 유발할 것으로 예상됩니다."
+                "인공지능(AI) 기술의 발전이 인류의 미래에 미칠 수 있는 파급력에 대한 심도 있는 논의를 다루며, '자기개선형 초지능'과 같은 개념은 AI 윤리, 규제, 그리고 연구 방향에 대한 전 세계적인 정책 변화를 촉발할 수 있는 중요한 의제입니다.",
+                "AI 기술이 단순한 도구를 넘어 인류의 존재론적 질문을 던지는 수준에 이르렀음을 보여주며, 이는 AI 개발의 방향성과 사회적 합의 형성에 결정적인 영향을 미칠 수 있는 핵심적인 기술적, 사회적 변화입니다."
             ],
-            "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE5ydklsaTQwUTRlTGVMcTZjZVFzVEJvOFhsZUVLQ2lNNHFYM1BFZDItUlNkSWZhOHlfTjZBUlBlazNaUEFfRDZJSXhvUHNRQk1ncVBUQm5Ia042ZmNqTUx6dE5UbkvSAXhBVV95cUxOZ3AybnhodnBLZTJZdkFuaGhHV0hoc05vYjJSS2dyUGYtY01CUEVKUV9kUFp4UUxZdGtWWXJQUS1tY0JpYk5mV2JqLThuYU1SNUZYMGs2V1I3dWJvaklaeWhXVjVKdW9Lc3ZraXJNTHFFWHhhOFRCSVA?oc=5",
+            "link": "https://news.google.com/rss/articles/CBMiggFBVV95cUxPQ2w3ZTItVmdrNlJBRjlSNUIzbEJPUFctY2FnU1duWkE3dEt2SEJCOThISkV0VVJJOF81SnNYb1d2YnZCaTFaQ1RGcjFCdWtmWHRnR0thMmxoeHRkWmF1ci1Tc3JfUFpGM0s2SW13WTByNVVraXJ0dm1EY3pIN0FPWktn0gGWAUFVX3lxTE8wZU1wcjdhWlctNms5NUt3SU5Fak9DblpSSzNmci1qTm1FTFE4QXh0eWlsYUVkM1pJR3hVYkEzcmphTElnWGZ0UDN1OF9ZQzJkQ2Z4NlNYcm1qdks1ZlA4X0o5MjZKLV9pUnFBWTNZaG1UaFNfUHV1ZzdfaHhoODJlNDlYYVh4OU1BbEtnekVMUEF3Q01PUQ?oc=5",
             "category": "IT_Biz",
-            "published": "2026-09-09T22:49:04.597444"
+            "published": "2026-09-10T22:51:44.494727"
         },
         {
-            "title": "삼전닉스만 있는 게 아니었다…AI 랠리 '다음 타자' 정체",
+            "title": "'비트코인 암호' 며칠만에 풀까…아이온큐가 실험했더니",
             "points": [
-                "AI 산업의 다음 투자처와 성장 동력을 분석하는 기사로, 대규모 자본의 흐름과 미래 IT 산업의 핵심 트렌드를 제시합니다.",
-                "이는 반도체 이후 AI 관련 소프트웨어, 서비스, 특정 하드웨어 분야로 투자가 확산될 가능성을 보여주며, 관련 기업들의 전략 변화와 신규 서비스 출시에 영향을 미칠 것입니다."
+                "양자 컴퓨팅 기술이 비트코인과 같은 암호화폐의 보안을 위협할 수 있다는 실험 결과는 블록체인, 사이버 보안, 그리고 금융 시스템 전반에 걸쳐 혁신적인 변화와 함께 새로운 위협에 대한 대비를 요구하는 중대한 소식입니다.",
+                "아이온큐(IonQ)와 같은 양자 컴퓨팅 선도 기업의 연구는 현재의 암호화 기술이 미래에는 무력화될 수 있음을 시사하며, 이는 차세대 보안 기술 개발 및 디지털 자산 보호 전략에 필수적인 기술적 변화를 예고합니다."
             ],
-            "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE5RMVFLTk5TemJpdG1DT2VDQ2hTdWZ1ejBSMVVkLXE4Nk5wMGRpWmpxZnFhdm5LLWlBX0pxT3FLZTljNnZ6MVEzRHVHYTVhc2QwZGRjVTNtQndkQQ?oc=5",
+            "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE1RTnpPRnk3RThINmNkUEJyeGhvVWRucnFwenF2QkJrZDlDc2dDR3JQaG9fa1pIVVBOM1JkUWRMQng5eUpVSGRER2pGTXJraEgyUFpNOExB?oc=5",
             "category": "IT_Biz",
-            "published": "2026-09-09T22:49:04.597445"
+            "published": "2026-09-10T22:51:44.494729"
         },
         {
-            "title": "88시간 만에 ‘세계 7대 수학 난제’ 난제 풀었다더니…오픈AI 발표 하루 만에 진흙탕 싸움",
+            "title": "삼전닉스 130조 쐈는데...\"코리아 디스카운트해소? 역부족\" 진단, 왜",
             "points": [
-                "오픈AI와 연관된 '세계 7대 수학 난제' 해결 주장은 AI의 한계와 가능성에 대한 대중의 인식을 형성하는 중요한 사건이며, AI 연구의 윤리적, 과학적 검증 과정에 대한 논의를 촉발합니다.",
-                "이 논란은 AI 기술의 발전 속도와 신뢰성, 그리고 거대 AI 기업의 발표 방식에 대한 업계 및 학계의 비판적 시각을 보여주며, 향후 AI 연구 및 상용화 방향에 영향을 줄 수 있습니다."
+                "삼성전자와 SK하이닉스 등 국내 반도체 기업들의 130조 원 규모 대규모 투자는 한국 경제의 핵심 동력인 반도체 산업의 미래 전략과 글로벌 경쟁력에 대한 중요한 지표입니다.",
+                "이러한 막대한 투자에도 불구하고 '코리아 디스카운트' 해소가 어렵다는 진단은 국내 증시의 구조적 문제와 기업 가치 평가에 대한 근본적인 질문을 던지며, 국내 산업 정책 및 금융 시장의 변화를 요구하는 경제적, 정책적 변화 포인트입니다."
             ],
-            "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE80a2twdVpWVWhxM2Jfa243cFEwVVIybm1nMno0VlhoQjRVTzh1dXZJUE55MWZsbl9XZnJlekJ5SWlON0lUZWRTUHE1RzB0eU0?oc=5",
+            "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE13bWhGb1A3YWJ2YThZZEtmdzlEdzV4SWRLbUVPcmJtdjBsUnVrX0FrLTl1MjJjUDZxOThTaUxBSklKQlM5YldmNU9oaDJDdmYwd2F1ZUpzNDZCZTRtdEdvU3YtZ1VMNlJW0gFuQVVfeXFMTVh0SnFBNEI0T0lKUU5TOHFzZFhYdzJVZWFicDd6LTA5eFZmZFg0YzZMOExqc0lWVVFBRjlCUE9CZS16TFhzdW1FTkUyMHgzNG5ubHlWcjFkeWpiMkpiNzVNWlhnQkxyTm9CZnZYWXc?oc=5",
             "category": "IT_Biz",
-            "published": "2026-09-09T22:49:04.597446"
+            "published": "2026-09-10T22:51:44.494730"
         }
     ],
     "Economy": [
         {
-            "title": "뉴욕증시, 유가 100달러 돌파·美국채금리 상승에 3일째 하락 - 연합뉴스",
+            "title": "유가 폭등에 미국 ‘살인적 물가’…국채금리는 또 급등 - KBS 뉴스",
             "points": [
-                "국제 유가가 배럴당 100달러를 돌파하고 미국 국채금리가 상승하는 등 글로벌 거시 경제의 주요 지표들이 불안정한 움직임을 보이며 뉴욕 증시가 하락세를 이어갔습니다.",
-                "고유가는 인플레이션 압력을 가중시키고 기업 비용을 증가시켜 경제 전반에 부정적인 영향을 미 미치며, 국채금리 상승은 기업과 가계의 자금 조달 비용을 높여 투자 및 소비 심리를 위축시킬 수 있습니다. 이는 전 세계 금융 시장과 실물 경제에 광범위한 파급 효과를 가져올 수 있는 중요한 경제 지표 변화입니다."
+                "국제 유가 폭등이 미국 내 살인적인 물가 상승을 부추기고 있으며, 이는 미국 경제의 주요 악재로 작용함.",
+                "물가 상승 압력으로 인해 미국 국채금리가 다시 급등, 전반적인 금리 인상 압력과 금융시장 불안정을 심화시킴."
             ],
-            "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFBXMmI5elcxMW5McEhidlo3Zl9wd0hRUDJpckdtQld1RHNWQmYyakdCMDI1cEc4dDNFREptR3d6WWRfd2NIT19wc3FiaThib0lmN254STZBM1FfRlnSAWBBVV95cUxQeFVlYzJFZFhEb0YwQ1lhWmg4NFlPenJoUUZyLTAzbzkzdEVCdFk5Y2VPdXBYeWVjWUxpbEVieDNsVEc2ZG5WeDJnQXA5Mnd1dUFJYjRUaWdzb3VwVlJFNnU?oc=5",
+            "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE1wQWx1Sk4zR001Yk1oY3h2NFF5clFQZlV4cDRNVmxtclh6YVpTdjEyclBJMTEzVlN0Z3pkdnh4eklQY25RWlM4cDRXSmJXZ1hUZHlxOHVmeVZIOVk?oc=5",
             "category": "Economy",
-            "published": "2026-09-09T22:49:36.346784"
+            "published": "2026-09-10T22:53:15.367463"
         },
         {
-            "title": "미국 재무부, 장기 국채 바이백 60억달러로 확대…금리는 오히려 상승 - KBS 뉴스",
+            "title": "[뉴욕채권] 국채가 급락…'악재 쓰나미'에 10년물 금리 5% 가시권 - 연합인포맥스",
             "points": [
-                "미국 재무부가 장기 국채 바이백(환매) 규모를 60억 달러로 확대했음에도 불구하고, 시장의 예상과 달리 국채금리가 오히려 상승하는 이례적인 현상이 발생했습니다.",
-                "미국 재무부의 국채 정책은 전 세계 채권 시장과 금리 방향에 막대한 영향을 미칩니다. 바이백 확대는 일반적으로 금리 하락 요인이지만, 금리 상승은 시장의 복합적인 수급 불균형, 인플레이션 기대, 연준의 통화 정책 전망 등 다양한 요인이 작용한 결과로 해석될 수 있으며, 이는 글로벌 금융 시장의 변동성을 키우는 중요한 신호입니다."
+                "미국 10년물 국채금리가 5%에 근접하며 글로벌 금융시장에 큰 충격을 주고 있음.",
+                "이는 전 세계 대출 금리, 투자 심리, 통화 정책 방향에 광범위한 영향을 미칠 핵심 경제 지표 변화임."
             ],
-            "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE1Hd05vbTJtbWlyVXhHN1JBTFNDMjFIOGJjRXBSZmh0bkRXSTJha2NNUXNGVDJ5Z20zYnhBaVBvR3NYX2V6dVpLSkxzazZlWm1hUGNHWVNkYzB3aW8?oc=5",
+            "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE1nZWxia01hekQ0d1QzcFM2c3ZzLTFmd25lNk5BeThwaGMwODRYczF0Tmk0RjZ3a3luVHFId2tDQmFHM05zUUQ1UmQwS0xYMUFwRjBzdVFkU0lPZzZtZlBQTVF6V2JmUlE2VTd6empWYmI?oc=5",
             "category": "Economy",
-            "published": "2026-09-09T22:49:36.346790"
+            "published": "2026-09-10T22:53:15.367470"
         },
         {
-            "title": "LPDDR6까지 따라온 中 CXMT… D램 추격 빨라졌지만 공정 격차는 3년 - 조선비즈 - Chosunbiz",
+            "title": "ECB, 예금금리 또 0.25%p 인상…중동발 유가 충격에 긴축 가속(종합) - v.daum.net",
             "points": [
-                "중국 반도체 기업 CXMT가 최신 D램 기술인 LPDDR6 개발에 성공하며 한국과의 기술 격차를 빠르게 줄이고 있다는 소식입니다.",
-                "이는 글로벌 반도체 산업의 판도를 바꿀 수 있는 중대한 변화입니다. 중국의 D램 기술 추격은 한국의 삼성전자, SK하이닉스 등 주요 메모리 반도체 기업들에게 직접적인 경쟁 압력으로 작용하며, 미중 기술 패권 경쟁 속에서 글로벌 반도체 공급망 및 시장 전략에 큰 영향을 미칠 것입니다."
+                "유럽중앙은행(ECB)의 추가 금리 인상은 유로존의 인플레이션 억제 및 통화 긴축 기조를 강화하는 주요 정책 결정임.",
+                "중동발 유가 상승이 긴축 가속화의 배경으로 언급되어, 에너지 시장 불안정이 글로벌 경제에 미치는 영향을 보여줌."
             ],
-            "link": "https://news.google.com/rss/articles/CBMiggFBVV95cUxPbnF1SWhxWVg0VDZNbkVpY0xsWXIyV2p2S1RtQW9fZlJUQXNfT3J4MkJWSWJBVUFnWG9nbkpGUVhQcl9YNkJLaHFxNlBFQl9aMjJEcjBWdDI5MGFRUkVnZWN3N0lZeFN0WUY2alpyNEZHNHdEVklEU0NxYkh6TjNIN0hB0gGWAUFVX3lxTFBBV3BDd0o0RXplWnVhM1MxYmJjRVpaa1pMcUtBQlQwZU5EeG05RXRGMjNTU1p4VWRLQjVHbTBkTGlXSFhXRVptMlAycHZLUUFGVXV5d3RjSjFrV1hzaUR0aEw5RE1aWDBvMGExYVBOUThkbzZ2azZyX1dyMmJ6YzcxOVRWRU1rUDl4TmRNdWFxZW55VVhSQQ?oc=5",
+            "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE9DSTJ6T0pqZG9KOXQtYXBQQUdnTmhmZUdhT01ZZVh0RFVXNlRaZlh0aUM3MkotM2daMUw2X2hEbmtmemRGblRjOWc5Y2lWM0U?oc=5",
             "category": "Economy",
-            "published": "2026-09-09T22:49:36.346792"
+            "published": "2026-09-10T22:53:15.367472"
         },
         {
-            "title": "58년 ‘무파업’ 깨진 포스코… 포항·광양제철소 2개 공정 멈췄다 - 조선비즈 - Chosunbiz",
+            "title": "김정관 “대미 투자 협상 마무리차 방미”…러트닉과 막판 조율 전망 - KBS 뉴스",
             "points": [
-                "국내 대표 철강 기업인 포스코에서 58년 만에 처음으로 파업이 발생하여 포항과 광양 제철소의 일부 공정이 중단되었습니다.",
-                "포스코는 국내외 주요 산업에 철강재를 공급하는 핵심 기업으로, 이번 파업은 국내 산업 전반의 생산 및 공급망에 심각한 영향을 미칠 수 있습니다. 특히 자동차, 조선, 건설 등 철강 수요가 높은 산업에 직접적인 타격을 주며, 장기화될 경우 국가 경제에도 상당한 파급 효과를 가져올 수 있는 중대한 노동 이슈입니다."
+                "한국과 미국 간의 대규모 투자 협상 막바지 조율 소식으로, 양국 경제 관계 및 특정 산업 분야에 중대한 영향을 미칠 수 있는 대규모 투자 유치 또는 집행이 예상됨.",
+                "국가 간 경제 협력 및 투자 흐름의 변화를 시사하는 중요한 외교-경제적 움직임임."
             ],
-            "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxNdWo3Q2oxNHljYm5fZmJ6ODFDdTd1Yjk3ZHJsNXlCeUpGb3U2Mi1oRTVmMlZMRGRsQXlBSm1yTDVQM09rcHlnYzVXRG1WNUxDcWFiU012V3RJOVZyR09VSGlmMWZEUjdraEJjeW4xV19Jd0RweUMwUHZ4VmdaRVA5WUdOUEXSAZgBQVVfeXFMT0g2Tjk5X21sMkFmV0ZOVUZGclVEU2lqMUlTMWVGUzlhaXItdlUzRmpYbG9BaUhPemhnZ0tIWm5RSWxLNUYxelQ2b1NkTEozMlFfX3RTM0k5V3dsbUtiaG5aXzYxZ0pwSHVySzJCTzJwN1puWjNhSzF3WUN6U1p0dEM5V0M0cFhHcnpnTDBqdUVjLTFoQ1VnWnQ?oc=5",
+            "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE5FeC0ybWNaTl9PTWllYWpXdloyR2ZPVDQ4LVZOVnhHdzYxb1Q2TlVSOTY0bUR4RUJwVVlnV3d6NFpTdjg1R2xETW8xOTROYml5ZHdrSnMxbWZiVFk?oc=5",
             "category": "Economy",
-            "published": "2026-09-09T22:49:36.346793"
+            "published": "2026-09-10T22:53:15.367473"
         },
         {
-            "title": "한-프, AI·반도체·양자 협력 강화…공동연구·투자 확대 - KBS 뉴스",
+            "title": "강남·서초 이어 송파도 하락 전환... 서울 아파트 83주 연속 상승 - 조선일보",
             "points": [
-                "한국과 프랑스가 인공지능(AI), 반도체, 양자 기술 등 첨단 분야에서 협력을 강화하고 공동 연구 및 투자를 확대하기로 합의했습니다.",
-                "이는 미래 핵심 기술 분야에서 국가 간 협력을 통해 기술 주도권을 확보하고 새로운 성장 동력을 창출하려는 정책적 움직임입니다. 대규모 공동 연구와 투자는 관련 산업의 기술 혁신을 가속화하고, 글로벌 기술 경쟁 구도에 영향을 미치며, 양국 경제에 장기적인 긍정적 파급 효과를 가져올 수 있는 중요한 정책 변화입니다."
+                "서울 아파트 가격이 83주 연속 상승세를 마감하고 강남 3구(강남, 서초, 송파)를 중심으로 하락 전환된 것은 국내 부동산 시장의 중요한 변곡점임.",
+                "이는 가계 자산, 건설 경기, 금융 시장 등 국내 경제 전반에 광범위한 영향을 미칠 수 있는 주요 경제 지표 변화임."
             ],
-            "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE9nZ3hhWkhuZ0dMU3ZDZDV6Vl9hbVMxSTc5VDhTbC1CenRuSEYxZVZyYnNEd3lvcEdEQ3RBdGZLeVp4eVdXTXgybXViUl9LQ2pGLTdFeTVJdHliUTA?oc=5",
+            "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPd1hJeGdfUkk0cmp5Tkp3MmNYQjE3bUFOcEhwSDFwbkZWekhwd25QbnlJTFljVVlJVThXbXhJeWd6TDJkaWVIbmgxVUlXdy0yVTRVSUlZODdnR1N2R2g2U1Q4VEZFT2ZYeTFpWUFkUHEza01ncTBMX1NyOW5GNXFpNDlmbDZRaW15?oc=5",
             "category": "Economy",
-            "published": "2026-09-09T22:49:36.346794"
+            "published": "2026-09-10T22:53:15.367474"
         }
     ],
     "World": [
         {
-            "title": "IAEA 이사회, 이란 핵 문제 유엔 안보리 회부 결의 - VOA 한국어 홈페이지",
+            "title": "IAEA 이사회, 20년만에 이란 핵 문제 유엔 안보리 회부 결의",
             "points": [
-                "국제원자력기구(IAEA)가 이란 핵 문제를 유엔 안전보장이사회에 회부하기로 결의한 것은 이란의 핵 활동에 대한 국제사회의 우려가 최고조에 달했음을 보여주는 중대한 외교적 조치입니다.",
-                "이는 이란에 대한 국제적 압박을 강화하고, 향후 제재 가능성 및 중동 지역 정세 불안정으로 이어질 수 있는 중요한 정책 변화입니다."
+                "국제원자력기구(IAEA) 이사회가 이란 핵 문제를 20년 만에 유엔 안전보장이사회에 회부하기로 결의한 중대한 외교적 조치입니다. 이는 이란의 핵 프로그램에 대한 국제사회의 우려가 최고조에 달했음을 보여줍니다.",
+                "이번 결의는 이란에 대한 추가 제재 가능성을 높이며, 중동 지역의 지정학적 긴장을 고조시킬 수 있습니다. 이는 국제 에너지 시장과 안보 환경에 광범위한 영향을 미칠 수 있습니다."
             ],
-            "link": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE5sajJzWEpLSGZzWXNDVUpfeWFZYXBENHBnZ0Q3SkRnTTRuT0ttU1FpNnpKVVZ4NENYNTVubjM2VkFacG9EVHVRVUtUNHpzcjVX0gFTQVVfeXFMT0hUU3AwTmFQOEdZQ2ZIbFZKUHQ0QnB6djg3VXZ0S1dJY1hIS0MxSEwzTGNTWjdiNzh3Z3JQTWpQZnpBbWJzTTF3OUY3SG5Oc3cxWnM?oc=5",
+            "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE1jby1YOVpONkMwaHViVGxTNGhFUzgwQWNfbzZjRS1QVHhxSG1Va3Jhcjh6ZHhiY0tXUlcwZzRZTlFDUG5qM1ZyOEVmUUhHd3pkZllldXpiYzFjZ9IBX0FVX3lxTFB3R1prWnktYlV1WUkzcXFyWDdTTUNGQ2loMlJCS0UyekY3UXJsUGt5RjlfT3NmY1htSlpJa2F0STN4TXkyX21aZ2FUMFRrRElOTUtHVWoweWhOZk5tM0Vv?oc=5",
             "category": "World",
-            "published": "2026-09-09T22:50:05.594419"
+            "published": "2026-09-10T22:55:09.023897"
         },
         {
-            "title": "IAEA “北 강선 핵시설 별관 올 1월부터 가동 포착” - 동아일보",
+            "title": "이란 혁명수비대 \"호르무즈서 미국 스파이 무인정 타격\"",
             "points": [
-                "국제원자력기구(IAEA)가 북한 강선 핵시설 별관의 가동을 포착했다는 소식은 북한의 핵 프로그램이 지속적으로 진전되고 있음을 보여주는 중대한 안보 위협입니다.",
-                "이는 한반도 비핵화 노력에 대한 심각한 도전이자 국제사회의 대북 제재 및 외교 정책에 중대한 영향을 미칠 수 있는 기술적/정치적 변화입니다."
+                "이란 혁명수비대가 전략적 요충지인 호르무즈 해협에서 미국 스파이 무인정을 타격했다고 주장하며, 미국과 이란 간의 군사적 긴장이 최고조에 달했음을 시사합니다.",
+                "호르무즈 해협은 전 세계 원유 수송량의 상당 부분이 지나가는 핵심 해상 통로로, 이곳에서의 군사적 충돌은 국제 유가 급등 및 글로벌 경제에 심각한 영향을 미칠 수 있습니다."
             ],
-            "link": "https://news.google.com/rss/articles/CBMid0FVX3lxTE15RHJwWTFWdHQxTEROX0dYZVlhamNQWS1PbHpFQ0dSOUpEbENJNUtNZ1Y0dnJBYzc0NERPZWExLVFWRXluYzdyeXc3X0UwVWVQQmNSUEIyTFUxWTMtLVIxVHFNdTJkRGk0UUhadUd0cjBmLTNGS0Iw0gFmQVVfeXFMTmkwZjJuVGZxclp4MHE2OUNVQnJ1RUJuUW15S0VoNkxRcHpQV1B0TDBaMkhwc01vRndKUGtGWlVJeVhQazBzalliQnlSY0lJNDdZSE85TGlYajFXOHNGaFRCd1NkWjR3?oc=5",
+            "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTE85SXlKMWNXdjZsNHhiaUNmeDB6ZXFxZjJmQk9uNlB2WVJuVFlvbklzdTJnSHNCWFBydGlEXzNsVWxGX1NRX3dpVHMza2UtYndNWkJoaExwWkFpZFdlQnZaTVROMV9xdXpka1BkZTBEX3lrYVUy0gF0QVVfeXFMT2ppZkdUZmVkdHlmUk42S2FLR1hTd2htNnY3SVBiNnk2Zi10MWhJd1ppVUNnLVhGN0dhal82bzlPVUFmN2M0azJlZk04VDhQZjRLSWgtYTBmX1J6QkpiWUZCWUdaMHNHT0JILTZURW5oeU9pTlY?oc=5",
             "category": "World",
-            "published": "2026-09-09T22:50:05.594425"
+            "published": "2026-09-10T22:55:09.023904"
         },
         {
-            "title": "미국의 첨단 무인 잠수정, 이란혁명수비대 손에 넘어갔다 - 조선일보",
+            "title": "우크라, 러시아 ’가스 수도’ 타격…국경서 3,000㎞ 거리",
             "points": [
-                "미국의 첨단 무인 잠수정이 이란 혁명수비대에 넘어간 사건은 미국과 이란 간의 군사적 긴장감을 고조시키고, 첨단 군사 기술 유출 가능성에 대한 우려를 낳는 중요한 안보 이슈입니다.",
-                "이는 중동 지역의 군사 균형과 정보전 양상에 영향을 미칠 수 있으며, 양국 관계에 새로운 갈등 요인으로 작용할 수 있습니다."
+                "우크라이나가 러시아 국경에서 3,000km 떨어진 러시아의 주요 가스 시설을 타격했다는 소식은 전쟁의 확전 양상을 보여주는 중요한 사건입니다. 이는 러시아의 에너지 인프라에 대한 직접적인 공격으로 해석됩니다.",
+                "러시아의 핵심 에너지 시설 타격은 유럽을 포함한 글로벌 에너지 시장에 불안정성을 가중시키고, 국제 유가 및 가스 가격에 영향을 미칠 수 있습니다. 또한, 전쟁의 장기화와 예측 불가능성을 높이는 요인입니다."
             ],
-            "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxNbnNma213a1hBellSM1E3eVBzczhReE96d3dvSzVlOV83RzRyQ3I0a01fOEVrUkNHR0lPbkxXZVh1WXhFczhQVXlQLXBxYlIzSXBUS0BUZlJvOUJyek1zOWFtQ1lYMnFUbS1vUGk1VUc1TnlXbHFBUmViTXFSUlVXRndFR2NpemtUU280WHhZNkFGOGxhdmpIVEY0YmRpZw?oc=5",
+            "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE5MeVU0YWhocjZNN3dsNWVqQ0Z5LUFvMzlYRVpWbXJSM2NLV21EVUdqREJweVNwbU8zOTR4eHNYU1JDSk5iR0Y2ZUV3Y1dRQ0dxYkJXTWo4OG8wOHVJRENPMVBXbmpxbzA?oc=5",
             "category": "World",
-            "published": "2026-09-09T22:50:05.594426"
+            "published": "2026-09-10T22:55:09.023906"
         },
         {
-            "title": "이란 혁명수비대 “해상 통제구역 아라비아해 일부까지” - 국제신문",
+            "title": "뉴욕증시, 유가 고공행진·美 국채금리 급등에 나흘째 하락",
             "points": [
-                "이란 혁명수비대가 해상 통제구역을 아라비아해 일부까지 확장하겠다고 선언한 것은 중동 지역의 해상 안보와 국제 무역로에 대한 이란의 영향력 확대를 시사하는 중대한 발표입니다.",
-                "이는 호르무즈 해협을 비롯한 주요 해상 운송로의 긴장을 고조시키고, 주변국 및 국제사회의 안보 전략에 변화를 요구할 수 있는 지정학적 변화입니다."
+                "미국 뉴욕증시가 유가 고공행진과 미국 국채금리 급등의 영향으로 나흘 연속 하락한 것은 글로벌 경제에 대한 우려를 반영하는 핵심 지표입니다. 이는 전 세계 투자 심리에 직접적인 영향을 미칩니다.",
+                "고유가와 고금리 기조는 기업의 생산 비용 증가와 소비 위축으로 이어져 글로벌 경기 둔화 압력을 높일 수 있습니다. 이는 각국 중앙은행의 통화 정책 결정과 기업 투자 전략에 중대한 영향을 미칩니다."
             ],
-            "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxPV3g1NDBPRnVXXzVYenJzNTJiVGhrT29acU9IR2s4ZWpMVk5NSXBTdlRGMmprUlQzT0NqZVZ4a0ZWTXhlcDRCU0p2VVBVX2tsYjZ1Ymxza2s5aE9pSldMSXRWN3BmdERLRk5XcktCa0lrSWdUQmd6NjBmSTBUdTd2Tm5IaDFkZXl0UWVpU1BoZFZKRGc?oc=5",
+            "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE5qOWI1dm9DalNrRlJDS015WjdZNVhRRDJDUnJyMUpkQ2MwQWx6a0VvVV9aLTlwcGJmVWo5Zy1OU1otVU5vWGtMWGNsbENPSklyMk53VXA0bDVrcVXSAWBBVV95cUxNNUM1M3dmWU93TGpQcnhmYklXU0lSc0NHWGF0VWJUdnJzNDVlZmF6R3NBRkxISE04VTE2RDJ6Tkh6NG5kWWRZZ3RpNkRQNWRUMlk3MkNGOFk3TEd0VmIzUmw?oc=5",
             "category": "World",
-            "published": "2026-09-09T22:50:05.594427"
+            "published": "2026-09-10T22:55:09.023907"
         },
         {
-            "title": "네팔 “홍수 부른 온난화는 선진국 책임” 유엔에 보상금 요청 - 동아일보",
+            "title": "예멘 후티 반군, 전략적 요충지 모카 진입",
             "points": [
-                "네팔이 홍수 피해의 원인인 온난화에 대한 선진국의 책임을 주장하며 유엔에 보상금을 요청한 것은 기후 변화로 인한 손실과 피해(Loss and Damage) 문제에 대한 국제적 논의를 심화시키는 중요한 정책 제안입니다.",
-                "이는 기후 정의 실현을 위한 국제적 재정 메커니즘 구축과 선진국들의 책임 이행에 대한 압박을 강화하며, 향후 기후 협상에 중대한 영향을 미칠 수 있습니다."
+                "예멘 후티 반군이 전략적 요충지인 모카에 진입했다는 소식은 예멘 내전의 전황에 중요한 변화를 가져올 수 있으며, 홍해 항로의 안정성에도 영향을 미칠 수 있는 군사적 진전입니다.",
+                "모카는 홍해와 아덴만을 잇는 바브엘만데브 해협과 가까워 국제 해상 운송에 중요한 지역입니다. 후티 반군의 장악은 지역 안보를 불안정하게 만들고, 국제 무역로에 잠재적인 위협을 가할 수 있습니다."
             ],
-            "link": "https://news.google.com/rss/articles/CBMic0FVX3lxTE9hTllXcnB1ZXRrVFhmUnRKbkFQYjgwRGhiZ01kc3NvTURnRVJfNlZVMHFuZjdocTI1d1p2OWV4a0c4ZmthZmFFN3IwMkY4LWJxTnhMX3NYVURVRk9fR2hLcjJLTTZLNlRiQlpNUHBhcnVGTUXSAWZBVV95cUxPbDRKS1UxTnhsY19tZFBFbGszSTdYT2lkV005Uzc0UWQwYWRwcVhGcUc1Q3NmbV9sVWg1T2RHMUl1RmYwdTUzdkg4R3NyWGJzeTdvdWJRam5QVkx4LXZZQ3pldVBOeXc?oc=5",
+            "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxORHFRYXNlX0xDYkx5OEE0dmZkdndBX2hSb3lMWnhac3VxOGphcUtzR3dGYVNUWWVqMF93UkRXdWhmc3RZcDlFQi11NlR2LVBEWFpncjFELTEyUWlYRUZnbFVDVk8xVmNCY1N5U3ZkOUdoRi1vSDdpQ2IyVjRMMWhlRkdMcm5qM21lamNUZjkxUUNWOFNi0gGXAUFVX3lxTE5VQjRPem9SV0YwZHVYNHRmN1hpTHdOWnhzS0o5UjgyZ1hCLURQRU5Za09KaUlBUzV5dnp2a1ljbTd3S3dZbnBheFo4Q3hfekZscmNQWVNheVpIT2YybEFiaS1SLUVnX3lOcDVmd0pManNJeDNnaWRzcWxrNEtER21JNnBxaGVlTUpiVFJkQi1qZDFfUWF5UjA?oc=5",
             "category": "World",
-            "published": "2026-09-09T22:50:05.594428"
+            "published": "2026-09-10T22:55:09.023908"
         }
     ]
 }
