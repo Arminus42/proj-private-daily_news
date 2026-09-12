@@ -1,210 +1,106 @@
 {
     "AI_Tech": [
         {
-            "title": "게임 그래픽도 생성형 AI 시대… ‘DLSS 5’ 혁신인가 개성 삭제인가 - IT조선",
+            "title": "앤트로픽, 생물학 무기 연루 연구 AI 계정 차단",
             "points": [
-                "엔비디아는 AI 칩과 그래픽 기술의 선두 주자로, DLSS는 AI를 활용한 그래픽 혁신의 핵심 기술입니다. DLSS 5 출시는 게임 및 3D 렌더링 분야에 큰 파급력을 가집니다.",
-                "AI가 게임 그래픽을 실시간으로 향상시키는 기술로, 낮은 해상도의 이미지를 AI가 고해상도로 업스케일링하여 게임 성능을 높이면서도 시각적 품질을 유지합니다. 이는 게임 개발 비용 절감 및 사용자 경험 향상에 기여합니다."
+                "앤트로픽은 OpenAI와 함께 선두적인 생성형 AI 개발사로, AI 안전 및 윤리 분야에서 중요한 목소리를 내는 글로벌 빅테크 기업입니다.",
+                "AI 기술의 오용 가능성, 특히 생물학 무기 개발과 같은 치명적인 분야에 대한 경각심을 높이고, AI 개발사들이 윤리적 가이드라인과 안전 프로토콜을 강화해야 한다는 인식을 확산시킵니다. 이는 AI 기술의 책임감 있는 개발과 배포에 대한 글로벌 논의를 촉진하며, 장기적으로 AI 산업의 신뢰도와 지속 가능성에 영향을 미칩니다."
             ],
-            "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE91SHpWeDB5T2NaRDhLRnNjeG5XZi05X2o3aEdQaFh6enp0OVhLU3JhZHRvT2Nib3BjcDd6V2VDdXI0T0c5a3hVOERNUFU5ckFid3R6UVQyUEE3cFpScHBlU3ZyR3lSc2N3VHBqU1RhMHfSAXRBVV95cUxQN0t4OXFtdVJqcGh3SEF4M25valU1Z0lBbXhUemxNT1NGamVma1ZMZG5XT3hwVzQ0ODhNRXFpU1ljc1BJLXhfb2o1ZjJERk5BLVhPVFZ3SWdVZlJvWHFjS0hQUlZBVVlqMnRiejRQa0ZLX2VfRQ?oc=5",
+            "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTE1TQ1MzWFJQd29Va2llLWNFLXB5ZnVRX0xjYnpyOFlFcEdrRGVKdldlNFl5anRjdGx3dXZrVHZ3cEpPLUlMdWc0U1V3WXNMYkU2bnpFSXB1VHJGamRuTkxXMUlONVJnMXRteVdEQ2xR?oc=5",
             "category": "AI_Tech",
-            "published": "2026-09-11T22:49:59.612271"
+            "published": "2026-09-12T22:41:16.568889"
         },
         {
-            "title": "국민연금, LG AI연구원과 손잡고 ‘AI 환율 분석 서비스’ 개발 - 조선일보",
+            "title": "중국 최고인민법원, 첫 'AI 사법지침' 발표…생성형 AI 산출물 침해 판단 기준 제시",
             "points": [
-                "국내 최대 연기금인 국민연금과 국내 대표 AI 연구기관인 LG AI연구원의 협력은 AI가 국가 경제 및 금융 시스템에 깊이 통합되고 있음을 보여주는 중요한 사례입니다.",
-                "AI가 방대한 금융 데이터를 분석하여 환율 변동을 예측하고, 이를 통해 국민연금의 기금 운용 효율성과 안정성을 높이는 데 기여합니다. 이는 금융 시장의 불확실성을 줄이고 투자 수익률을 극대화하는 데 중요한 기술적 진보입니다."
+                "중국 최고인민법원은 세계에서 가장 큰 사법 시스템 중 하나를 운영하며, AI 기술의 법적, 윤리적 측면에 대한 공식적인 지침을 발표하는 것은 글로벌 AI 거버넌스 논의에 큰 영향을 미칩니다.",
+                "생성형 AI가 만든 콘텐츠의 저작권 침해 여부를 판단하는 구체적인 기준을 제시함으로써, AI 창작물의 법적 지위와 책임 소재를 명확히 합니다. 이는 AI 콘텐츠 산업의 불확실성을 줄이고, 개발자와 사용자 모두에게 새로운 법적, 윤리적 프레임워크를 제공하여 AI 기술의 상업적 활용과 확산에 중요한 이정표가 됩니다."
             ],
-            "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxQMUg4LUUtOEtucHB1Zkc0U2xtdHlRcURoV0Q2TXlWMVFXdm5aR2l6SHV4bWVpSEw1RnptenVHX3NOcnJVWnpCa0ppcFBZaC1FcWRsOHZvQ1hzM2VLVkFLTFhGMk5hdG55N1hEUkp2d1Q5eDV5ZUVIeXkwVnl0akdrOA?oc=5",
+            "link": "https://news.google.com/rss/articles/CBMi3gJBVV95cUxNT2sta3htNjJMYXhXaVliRW1LaVFxTEVYbFQyZHlPWkxpeEx5Zm9PdWtBOXRjWXdSTzRpd2xrVVRlMDBGcTFNZThYNDZLcnBtQ2o2NFJJdm9tUEFKNGRmSEsyVkhuWnA0V3M3UlpoV1ZUUHd0UEloWjdxQVFrTnU4UGNUVTJsUGRZNjd1R052dDBEajdkcG1tZ21VLWw4ZXFpLXp5WTJ0RkxIdlAwSERHMVdFekhIRDRiaU9QcjFiZlBGOVdHSXkyRlVwMUdaakVwYk11VGQ2Tm1UaWxnVng1SEdSTC1YUkVGaUtFcUtYTllQV2xXLTl2VUk4NmFVYmdTVVAtd1JnS05aaHZWWEZBTEVBOEZicGxQNUxVdjJBQXhsTzRmM054Nk96emNrZWhCeXFvRl9vcHhHQ3gweHJwaUNCQWp2YjlVcHAxcjRSd3dMeHdMc2dlWmNOc1NPdw?oc=5",
             "category": "AI_Tech",
-            "published": "2026-09-11T22:49:59.612277"
+            "published": "2026-09-12T22:41:16.568896"
         },
         {
-            "title": "[기획] ‘삼성 vs LG’ AI 홈 대격돌…가전, LLM 집사로 진화 - 소년한국일보",
+            "title": "ETRI 창립 50년: 한국형 AI의 뿌리에서 시각장애인 안내 로봇까지",
             "points": [
-                "삼성과 LG는 글로벌 가전 시장의 양대 산맥으로, 이들의 AI 가전 경쟁은 AI가 일상생활에 얼마나 깊숙이 들어오고 있는지를 보여주는 대표적인 사례입니다. 특히 LLM(대규모 언어 모델)의 가전 통합은 사용자 경험을 혁신할 잠재력이 큽니다.",
-                "LLM 기반의 AI 집사는 사용자의 음성 명령을 더 자연스럽게 이해하고, 개인화된 서비스(예: 식단 추천, 에너지 절약 제안)를 제공하여 스마트 홈의 편의성과 효율성을 극대화합니다. 이는 가전 시장의 새로운 성장 동력이자 AI의 대중화에 기여합니다."
+                "한국전자통신연구원(ETRI)은 대한민국의 대표적인 국책 연구기관으로, 지난 50년간 국내 정보통신기술(ICT) 및 AI 연구를 선도해왔습니다. 그들의 성과는 한국 AI 기술 발전의 중요한 축을 이룹니다.",
+                "ETRI의 50년 역사는 한국이 AI 기술의 기초를 다지고 다양한 응용 분야(예: 시각장애인 안내 로봇)로 확장해 온 과정을 보여줍니다. 이는 국내 AI 기술의 자립과 발전에 대한 중요성을 강조하며, 미래 AI 연구 방향과 국가 경쟁력 강화에 대한 시사점을 제공합니다."
             ],
-            "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTFBIWnhmbEMwN3FkNVNLM0c3ODE4azNWazRRczdwTUtzbWtZeW9aZjF3TGotZW9ZTDhoeV9keTN3VktJYzNRSHZ4eUV6ZE4zUGZHMXd0OUV5WlNTLTlYX3hkZzFjcm0xQ2R0N1ZHMdIBcEFVX3lxTE5HX0U0QzNaOE0xZjZpWmtqbEJYWnA1Rldtem5YNHAyN29iTExqWHhpRm14bVp1dU1uX2lqWEpOZUFxcE9TdWszZnR6amJPaE1faVRzcEpZMzJfNkVWMEVGUS1mUVBjbUFDY1ZzNjFCanM?oc=5",
+            "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE93SjJrYWxqcksxMlhXeGxjM1VyNFRRWnFoZGFEOHozQzlRLXV6S2xxdDM3aW4xYkhHLVZZMVNWUlJMRnBCWWhWNDlCN2ZqUmJPaEZoZ1hsMFpxMW5ZQTQ3N01lNGRiSXYxRlE?oc=5",
             "category": "AI_Tech",
-            "published": "2026-09-11T22:49:59.612279"
+            "published": "2026-09-12T22:41:16.568897"
         },
         {
-            "title": "[과학 속 AI: 인공지능이 연구를 변화시키는 방식] 데이터 분석부터 신약 개발, 기후 연구, 천문학, 유전체학에 이르기까지 AI는 연구자들이 더 빠르고 효율적으로 성과를 낼 수 있도록 돕고 있다. AI가 과학 연구를 변화시키는 주요 방식들 - ainet.link",
+            "title": "한동대학교-포스코DX, 'AI·로봇·스마트팩토리' 연구개발 협약 체결",
             "points": [
-                "이 기사는 특정 기술 발표는 아니지만, AI가 과학 연구 전반에 걸쳐 혁신적인 변화를 가져오고 있다는 광범위한 트렌드를 다룹니다. 신약 개발, 기후 변화 예측, 우주 탐사 등 인류의 난제를 해결하는 데 AI가 필수적인 도구가 되고 있음을 보여줍니다.",
-                "AI는 방대한 데이터를 분석하여 패턴을 발견하고, 복잡한 시뮬레이션을 수행하며, 가설 검증 시간을 단축시킵니다. 이는 연구 개발 속도를 획기적으로 높여 경제적 가치를 창출하고, 인류의 삶의 질을 향상시키는 근본적인 변화를 이끌어냅니다."
+                "포스코DX는 국내 주요 대기업인 포스코 그룹의 IT/OT(운영기술) 전문 기업으로, 산업 현장의 디지털 전환을 주도합니다. 한동대학교와의 협력은 학계와 산업계의 시너지를 통해 실질적인 AI 기술 적용을 가속화할 수 있습니다.",
+                "이번 협약은 AI, 로봇, 스마트팩토리 기술을 실제 산업 현장에 적용하기 위한 구체적인 연구개발을 목표로 합니다. 이는 제조업의 생산성 향상, 비용 절감, 안전성 강화 등 산업 전반에 걸친 혁신을 가져올 잠재력을 가지며, 국내 산업 AI 기술 발전의 중요한 동력이 될 것입니다."
             ],
-            "link": "https://news.google.com/rss/articles/CBMiQEFVX3lxTE1aXzFrTWxCclRhWDVmWTdNMnRCb3Y3TE85YWFJV2RscThKajRlZEpGVHdtdUlYVUxCVWoxNzctcVY?oc=5",
+            "link": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE1mTjc3ay1NcU5rODhNQ0ZiaURwcnUyUi00WVNqUVZlVjRPSmlIeGpGMUVSczRHRzM2NGE3ZE5sNXhmcHYzSDd6QWtPLVZMTnJuTXowM29TakE2RV9kdFhwNWZR?oc=5",
             "category": "AI_Tech",
-            "published": "2026-09-11T22:49:59.612279"
+            "published": "2026-09-12T22:41:16.568898"
         },
         {
-            "title": "[K-ICT WEEK 2026] 파이랩 소개한 메가존 ‘클라우드 넘어 피지컬 AI로’ - 디지틀조선TV",
+            "title": "DGIST, 사람 많은 곳에서 충돌 줄이는 소형 AI 기술 개발",
             "points": [
-                "'피지컬 AI'는 AI가 소프트웨어 영역을 넘어 로봇, 자율주행 등 물리적 세계와 상호작용하는 형태로 진화하고 있음을 보여주는 핵심 트렌드입니다. 이는 AI의 적용 범위가 확장되고 있음을 시사하며, 미래 산업에 큰 영향을 미칠 잠재력을 가집니다.",
-                "피지컬 AI는 로봇이 복잡한 환경에서 스스로 학습하고 행동하며, 인간과 협력하는 새로운 시대를 엽니다. 이는 제조업, 물류, 의료, 서비스 등 다양한 산업 분야에서 자동화와 효율성을 극대화하여 생산성을 높이고 새로운 비즈니스 모델을 창출할 것입니다."
+                "DGIST(대구경북과학기술원)는 국내 4대 과학기술원 중 하나로, 기초과학 및 응용기술 연구에서 중요한 역할을 합니다. 이들의 AI 기술 개발은 특정 문제 해결을 위한 구체적인 기술적 진보를 의미합니다.",
+                "이 '소형 AI 기술'은 복잡하고 유동적인 환경(예: 인파 속)에서 로봇이나 자율주행 기기가 충돌 없이 안전하게 이동할 수 있도록 돕는 핵심 기술입니다. 이는 물류 로봇, 서비스 로봇, 자율주행차 등 다양한 분야에서 AI의 실용성을 높이고 안전성을 확보하는 데 기여하며, AI 시스템의 효율성과 적용 범위를 확장하는 데 중요한 기술적 돌파구가 될 수 있습니다."
             ],
-            "link": "https://news.google.com/rss/articles/CBMifEFVX3lxTFBDSEdnSnVkVmxweGhNeVp2TXVUa2VaVUVzdzhjNDE2U3pRbWEyLXRSQ0xzbkFXN25Lc3EzYWYzazJ2Ykh0aE15elhudndidmZlOU1OWHdJZkJ2Q2JZLU56VEZoZ3VFY1cxbDdTYXp2OC1CRmxxM1JzUkpEVWI?oc=5",
+            "link": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE80ZHJ1V0c4aGZKQ0F0cGEwdFlyZ3BNQ2lBT0dva2xTS1BwbF8tVjJZeVhZWG0teU9HRkIxcmFPSG5ENV9lbXNuSkR6VFk1dDhPWUJyR2NsS00?oc=5",
             "category": "AI_Tech",
-            "published": "2026-09-11T22:49:59.612280"
+            "published": "2026-09-12T22:41:16.568899"
         }
     ],
     "IT_Biz": [
         {
-            "title": "中배터리 택한 포드에 美 정부 제동…K-배터리 몸값 다시 오른다",
+            "title": "AI가 인간 죽일 수도\" 경고에 젠슨 황 \"공포가 수요 만든다\"",
             "points": [
-                "미국 정부가 주요 자동차 기업(포드)의 중국산 배터리 사용에 제동을 걸면서 글로벌 공급망 재편 및 미중 기술 패권 경쟁이 심화되고 있음을 보여줍니다.",
-                "이는 K-배터리 산업에 긍정적인 영향을 미칠 수 있는 정책적 변화로, 전기차 및 배터리 시장의 판도에 직접적인 영향을 줍니다."
+                "이 뉴스는 AI의 윤리적, 사회적 영향에 대한 논의가 활발한 가운데, 엔비디아 CEO 젠슨 황이 AI 발전의 불가피성과 시장 수요를 강조하며 업계의 방향성을 제시하는 중요한 발언입니다.",
+                "AI 기술 발전의 속도와 방향, 그리고 이에 대한 기업 리더의 시각을 보여주며, AI 산업의 미래 전략과 투자 흐름에 영향을 미칠 수 있는 핵심적인 메시지입니다."
             ],
-            "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE1TYmxleU9WbTJFRGVPUnJwTFVhVzRQaVNGY1VscmRyT3EzSGVmc2txb0Z6NDVxaG04WmFyd3JLaHdWUGI4cW9RS2tnZkN5d2c?oc=5",
+            "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE5rYzhMS3J1S2FHOFplSGZNZmNBb0c5Y3hwcHlHSTFhbjRXcEF3TFVqZkZRQ1pveEdNTEVMMHJCdzdTWFpUM2V6NFlzVWN5Unc?oc=5",
             "category": "IT_Biz",
-            "published": "2026-09-11T22:50:22.585326"
+            "published": "2026-09-12T22:41:43.893690"
         },
         {
-            "title": "美언론 “한국, 美 원전·텍사스 가스발전에 1000억달러 투자 임박”…김정관 “대미투자 협상 마무리하기 위해 방미”",
+            "title": "\"팀 쿡이 갤럭시폰으로 바꿨습니다\"…애플 폴더블폰에 삼성의 견제구",
             "points": [
-                "한국이 미국 에너지 분야(원전, 가스발전)에 1000억 달러 규모의 대규모 투자를 추진하는 소식으로, 이는 양국 간 경제 협력 강화 및 에너지 안보에 지대한 영향을 미칠 수 있는 중대한 투자 결정입니다.",
-                "국가 간 대규모 투자 및 에너지 정책 변화는 관련 산업의 성장 동력과 국제 관계에 큰 파급력을 가집니다."
+                "애플의 폴더블폰 시장 진출 가능성과 이에 대한 삼성전자의 반응을 다루며, 글로벌 스마트폰 시장의 주요 경쟁 구도 변화와 혁신 방향을 보여주는 소식입니다.",
+                "애플의 폴더블폰 출시는 모바일 시장의 새로운 성장 동력이 될 수 있으며, 삼성전자와의 기술 경쟁 심화로 이어져 전체 스마트폰 산업의 판도를 바꿀 수 있습니다."
             ],
-            "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE92ZTFXVXFHNURBWFI4VXMyeVU3RnlWTlJTbUVEU0g2bE1rZzdhdDBtWTRlWGYtMXA4ekt6aGM4SGFzR3ZTLTNsQ0FuYzJKTlE?oc=5",
+            "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE9rVUxBNjIxeE9KNzNtSjA3T0hINWNINFlBY0g0Znkxa3BjMk5SY04zRDZNbDA2U09xR0YtUjFCdzZXX1FTLVVfc2t0cng4Sms?oc=5",
             "category": "IT_Biz",
-            "published": "2026-09-11T22:50:22.585333"
+            "published": "2026-09-12T22:41:43.893696"
         },
         {
-            "title": "오픈AI, ‘아스트라’ 수요 폭증에 월 200달러 프로 신규 가입 중단",
+            "title": "\"한달 200달러? 내 돈 가져가십쇼\"…GPT-6 가입폭주에 일시중단",
             "points": [
-                "선도적인 AI 기업 오픈AI의 핵심 서비스(아스트라 프로) 신규 가입 중단은 AI 서비스 시장의 폭발적인 수요와 공급 불균형 현상을 명확히 보여줍니다.",
-                "이는 AI 기술의 상용화 및 확산 속도가 예상보다 빠르며, 인프라 및 서비스 제공 역량 확충이 시급함을 시사하는 중요한 지표입니다."
+                "GPT-6(또는 유사한 차세대 AI 서비스)의 출시와 폭발적인 사용자 수요를 보여주며, AI 기술이 실제 서비스로 구현될 때 시장에서 얼마나 큰 파급력을 가질 수 있는지 입증하는 소식입니다.",
+                "고가의 구독료에도 불구하고 서비스가 일시 중단될 정도로 수요가 몰린다는 것은 AI 서비스의 상업적 성공 가능성과 기술 혁신이 가져올 경제적 가치를 명확히 보여줍니다."
             ],
-            "link": "https://news.google.com/rss/articles/CBMigwFBVV95cUxPV2xEQzFxUlVEOW5kdkxsQVVNOHVkZWxidVB3Q2R2eExDNHdoT1hMcFVnV1cwbE8yYm54TjVnY0toWnNTZ2lBT1hjdU02OTNheFRsQ2dGX2xTaDdjaFpWUno2bDNMTzRWU1EydllaQUh5aXl3dDF1UWJMdXNaUE55OTZZNA?oc=5",
+            "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTFAtMUlNbXJOZGV2RG0zQnk2bjZSeGtjaDZ1SVlDODc5MmZFN0JpSUEtSFVSNmN0bzVUZ2RLT3VQLXlrT3lMOW1UNFdLSHMycXNFeXY4Wlh3?oc=5",
             "category": "IT_Biz",
-            "published": "2026-09-11T22:50:22.585334"
+            "published": "2026-09-12T22:41:43.893697"
         },
         {
-            "title": "젠슨 황 \"AI 다음 시장은 이 분야\"…예언 적중할까",
+            "title": "GPU 백만개가 무슨 소용? 젠슨 황 사로잡은 광섬유 뭐길래[김창영의 실리콘밸리 룩]",
             "points": [
-                "AI 산업의 핵심 인물이자 엔비디아 CEO인 젠슨 황의 차세대 유망 시장 예측은 AI 기술 발전 방향과 관련 산업의 미래 성장 동력에 대한 중요한 통찰을 제공합니다.",
-                "그의 발언은 기술 투자자와 기업들에게 미래 전략 수립에 큰 영향을 미칠 수 있는 비전 제시로 평가됩니다."
+                "엔비디아 CEO 젠슨 황이 AI 시대의 핵심 인프라로 광섬유 기술의 중요성을 강조하며, AI 연산 능력 향상을 위한 하드웨어 및 네트워크 기술 발전의 새로운 방향을 제시하는 소식입니다.",
+                "AI 데이터센터의 병목 현상 해결과 효율적인 대규모 AI 학습을 위해 GPU뿐만 아니라 고속 데이터 전송 기술(광섬유)의 중요성이 부각되며, 관련 산업의 투자와 기술 개발에 영향을 미칠 것입니다."
             ],
-            "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTFBiTl85R2ozb3NCR05HSHBWNktUSWM3UUNwa2Y1dm44V1NYYUsybnBrTjFPNU54OUp4RHcweVNIcGdCbEFEbVRfWWxQMzVhZEZ5QTJtQk8td0NrOWRfMWRjdV9FY05mckE?oc=5",
+            "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE1VTmNsdk94amhlT2RWVEx5RWc1TFhiVEItUGI1NlctdWpzMG42VjQzbEJhd09VRDhpdm1qMW1FcXZDUHozcnhPMUlwaFUtRkdoZXfSAVNBVV95cUxPalIteWQyVjdISjRKaTJwYVgySkgxNzNjdk9lREkyTUxTaEo3dmZOR2ZqTXpmU1d2Tk8tb1hCV05XZE9hRXgyYm9UX1pNOTFjb1diOA?oc=5",
             "category": "IT_Biz",
-            "published": "2026-09-11T22:50:22.585335"
+            "published": "2026-09-12T22:41:43.893698"
         },
         {
-            "title": "앤트로픽 연구원의 섬뜩한 경고… “AI, 10년 내 인류 멸망시킬 수도”",
+            "title": "중·러, AI를 ‘무기 개발자’ 삼았다…미사일 설계하고 바이러스 개량",
             "points": [
-                "주요 AI 연구 기업인 앤트로픽 연구원의 AI 위험성에 대한 강력한 경고는 AI 기술의 윤리적, 사회적 영향 및 규제 논의의 중요성을 전 세계적으로 부각시킵니다.",
-                "이는 AI 개발 방향과 안전성 확보에 대한 근본적인 질문을 제기하며, 향후 AI 관련 정책 및 연구 개발에 큰 영향을 미칠 수 있는 중대한 이슈입니다."
+                "AI 기술이 군사 및 전략적 목적으로 활용되는 심각한 국제적 상황을 다루며, AI 윤리, 국제 안보, 그리고 기술 통제에 대한 전 세계적인 논의를 촉발하는 매우 비중 있는 뉴스입니다.",
+                "AI가 무기 개발 및 생화학 연구에 사용될 가능성은 기술의 양면성을 극명하게 보여주며, AI 기술 개발 및 활용에 대한 국제적 규제와 협력의 필요성을 강조합니다."
             ],
-            "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTFB2UlpFdFlfWmx4SHNCT3FYYVptcEhXdEJmaWlaeXp5d1NFVzNPQWl6b3ZsT01Ya0Z5aFU5bFN5ZmVZRVpFTjBhbkdNVmliQUxVcXdqa3h6MUI5dUtoVlQxYmJDcG9PcW_SAWxBVV95cUxNNmpfNXNKdWNweWRCb3VVcy05SXNCVW1PUEJCNV9lZEVRUVduUnpNMWNMam96aTB6dEtpTnlfLVZFRGFoeDNwLUZaYkEtdElNS0JBdnd4ZHZGa3Nnb1JOUGFmSEh0dWZBWEFjaWE?oc=5",
+            "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE1qb0JqZGVrc3lnZkZFQUFic0ZJM2VWdkxqWGl2amNfQzJuZnRGcEt0UzUxWjBXbVFtbVJOLTVDeFM0NHFEZHRGSFdaRUR2Zzg?oc=5",
             "category": "IT_Biz",
-            "published": "2026-09-11T22:50:22.585336"
-        }
-    ],
-    "Economy": [
-        {
-            "title": "美 근원 CPI 예상 웃돌아…금리인상 확률 90% 육박 - hankyung.com",
-            "points": [
-                "미국 근원 소비자물가지수(CPI)가 예상치를 상회하여 인플레이션 압력이 지속되고 있음을 시사합니다.",
-                "이는 미국 연방준비제도(Fed)의 금리 인상 확률을 90% 가까이 끌어올려, 글로벌 금융 시장의 긴축 기조와 자본 흐름에 큰 영향을 미칠 핵심 경제 지표입니다."
-            ],
-            "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFBIZ2pkRHlGQkM1T0RUTkFBYlgxVGVoc2RsWEhvZkgtSUc5di1sRTdadHdXelEzRGJjSkYzM0pSeW5DV0VfTXRhbXgxQjJTTk9qOU16OWxGRUM5QQ?oc=5",
-            "category": "Economy",
-            "published": "2026-09-11T22:50:52.379842"
-        },
-        {
-            "title": "“美 국채금리 결국 5% 뚫는다”… 고유가에 수급 부담까지 ‘겹악재’ - 조선비즈 - biz.chosun.com",
-            "points": [
-                "미국 국채금리가 결국 5%를 돌파할 것이라는 전망은 고유가와 수급 부담이 겹치면서 글로벌 금융 시장에 심각한 악재로 작용할 수 있음을 나타냅니다.",
-                "이는 전 세계적인 차입 비용 증가와 투자 심리 위축을 초래하여, 기업 투자 및 경제 성장에 부정적인 영향을 미칠 수 있는 중대한 경제적 변화입니다."
-            ],
-            "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxQWmVBTEhoNXZVSWhfV3BtYl9lSWpzY1FUOFdGQksxOEdnSDhWOGUtR1hmajBJZ2o0dDBIYzFsTTFzdm9iLWZpVjFxRG14X0hqZ0NwX09fdE9iVDlmUE4xOC00c0RXVmdDWEdhRnlwS0I0TXdpUktGNUgzWGFjYnFfelBNbEp4dmlL0gGcAUFVX3lxTE5xUjlFUmo4ZW9OVWp6UDNzNjRlZ0hHbUhyWF83WjEyQV96ZkNwSTNRSzg4Y2hheHY1VXhHWVFWQmtocFhVT3dmRkZnU3JCa3g1UkVpQVR2SmFFazNubF9qOEw5eGdIdTd2Q3hYa1hrVXFMT2JSb2pHWmI3UmNVQTE1YjhjV2RtdGYtSUFtSXNTcFVTekI1dzBlXy1UYQ?oc=5",
-            "category": "Economy",
-            "published": "2026-09-11T22:50:52.379848"
-        },
-        {
-            "title": "중동 불안에 '기름값·국채금리' 급등…코스피 7,000 반납 - v.daum.net",
-            "points": [
-                "중동 지역의 지정학적 불안정성이 국제 유가와 국채금리의 급등을 야기하며, 국내 코스피 지수가 7,000선 아래로 하락하는 등 금융 시장에 즉각적인 충격을 주고 있습니다.",
-                "이는 지정학적 리스크가 글로벌 원자재 시장과 주요국 금융 시장에 미치는 파급력을 보여주며, 투자 심리 위축과 경제 불확실성 증대를 초래하는 중요한 사건입니다."
-            ],
-            "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTFAzNWN1Rk1vME93X29fNExFMkZBaUVCc0Y4M3lYRWRSSENyMXZWMm9MaVVMN21WN3d4SmdJcWJ0SGY0Ni1HSGhjNThiSGlEck0?oc=5",
-            "category": "Economy",
-            "published": "2026-09-11T22:50:52.379849"
-        },
-        {
-            "title": "알트먼 \"첨단 AI 개발 속도 조절 검토…타 회사 동참 제안\" - AI타임스",
-            "points": [
-                "오픈AI CEO 샘 알트먼이 첨단 인공지능(AI) 개발 속도 조절을 검토하고 타 회사들의 동참을 제안한 것은 AI 기술 발전의 방향성과 규제 논의에 중대한 전환점이 될 수 있습니다.",
-                "이는 AI 산업의 미래 판도를 바꿀 수 있는 정책적 변화와 윤리적 고려를 담고 있으며, 장기적으로 글로벌 경제 및 사회 전반에 걸쳐 혁신과 안정성 사이의 균형을 모색하는 중요한 움직임입니다."
-            ],
-            "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE1QOUM0cjBDMy05TXlrVW1LUW5keGJ3YnZPMHVjeHh1STdsWkc4X3VnMy1hZVZLRGVZV1RSWUF3T1kteTJ3MS1iZlBtYkhleU5OMU15UjJ4VlVvMnUxZWxXU0p6YkpCTUNWd1E?oc=5",
-            "category": "Economy",
-            "published": "2026-09-11T22:50:52.379850"
-        },
-        {
-            "title": "[단독] 웨스팅하우스 지분 확보 ‘줄다리기’…수출 제약 함께 푼다 - JTBC",
-            "points": [
-                "한국이 웨스팅하우스 지분 확보를 위한 협상을 진행하며, 이를 통해 원전 수출 제약까지 함께 해소하려는 움직임은 국내 원자력 산업의 해외 진출과 에너지 안보에 결정적인 영향을 미칠 수 있습니다.",
-                "이는 국가 핵심 전략 산업의 경쟁력을 강화하고, 국제 에너지 시장에서의 위상을 높일 수 있는 대규모 투자 및 정책 변화를 의미합니다."
-            ],
-            "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE5tS0lYVENwbUNaR1JKY2JiOWJPVXRPaW9lS1k3bnltclVjRm8tdHlNZF9aQjZCNzlXampNaTZWczBjSlc4ZDhkYW0zenRHRHB0c19Tbw?oc=5",
-            "category": "Economy",
-            "published": "2026-09-11T22:50:52.379851"
-        }
-    ],
-    "World": [
-        {
-            "title": "“후티 반군, 바브엘만데브해협 섬 장악”…원유 운송 차질 우려↑ - 한겨레",
-            "points": [
-                "바브엘만데브 해협은 전 세계 원유 및 가스 운송의 핵심 길목으로, 후티 반군의 장악은 국제 에너지 시장과 해상 무역에 심각한 위협을 초래하는 중대한 지정학적 변화입니다.",
-                "주요 해상 운송로의 불안정성 증대로 국제유가 상승 압박 및 글로벌 공급망 교란 가능성이 커지며, 중동 지역의 지정학적 긴장이 고조되어 세계 경제에 직접적인 영향을 미칩니다."
-            ],
-            "link": "https://news.google.com/rss/articles/CBMiggFBVV95cUxPNHNUdV80aUJOcVRtYVkyWExHRjBuY2EyNTJvNldQaHRZOFNOcS1oeHJJcDF3NUdIUHQ5TS1iRkN0YV9FVmVYQS1TQzcybXR2M0w5WGxMY2hwTVd0X1dYSmlxWF9YaDc0YUx6MGp5STBaVks5NHBkaGh2SGl5QlktanVR?oc=5",
-            "category": "World",
-            "published": "2026-09-11T22:51:22.913110"
-        },
-        {
-            "title": "WSJ \"트럼프, 노골적 매표행위…관세철회가 美에 경제적 배당\" - 연합뉴스",
-            "points": [
-                "도널드 트럼프 전 대통령의 잠재적 관세 정책 변화는 미국 경제뿐 아니라 글로벌 무역 질서에 막대한 영향을 미칠 수 있는 중대한 정책 변화 가능성을 시사합니다.",
-                "관세 정책의 변화는 국제 무역 관계 재편, 특정 산업의 경쟁력 변화, 글로벌 공급망 조정, 그리고 주요 국가들의 경제 성장률에 직접적인 영향을 줄 수 있는 핵심 경제적 변화입니다."
-            ],
-            "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE9xQjh4VUJ6VThoQm9XVjRMVjNfcDREcTJaMXJFVzFwaGtyWmFvYkUwTG5BMTUtUFFYeUFYX2dtVkozenZRcnpUZE14RHMwM2pBc3I5M1l1NnRocFXSAWBBVV95cUxNQW0zTFNCMXpkd09XT2dCbWZvM2FaRTJOMHVPSDdlUlp6TGFmRWRvTHZuWDdXNGlPaEcwTVpheXIwWURQQ3l4MEd6ZTNBdHEtQUJHRzlKNG85UTNLWmFvNl8?oc=5",
-            "category": "World",
-            "published": "2026-09-11T22:51:22.913116"
-        },
-        {
-            "title": "미 해군장관대행 \"이란, 바레인 미군 기지 박살내\" - yonhapnewstv.co.kr",
-            "points": [
-                "미국 고위 국방 당국자의 발언은 이란과 미국 간의 군사적 긴장이 최고조에 달했음을 시사하며, 중동 지역의 전면전 가능성을 높이는 매우 위협적인 국제 안보 소식입니다.",
-                "실제 공격 발생 시 중동 지역의 안보 지형이 급변하고, 국제유가 폭등, 글로벌 경제 불안정 심화, 그리고 국제 동맹 관계의 재편 등 광범위한 파급 효과가 예상됩니다."
-            ],
-            "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE5GNXp3MXozSTlfUld4alBIM0wwdVp4NDVKZHdEMXI0LV9EenhFSWlEQ3lkQXhCb3Q5WkJCS3RxNEVjVzZMdWhpYWk1Z05vWlBoUDN1UUtnWWZJRnNoSVFhQXdEVTN4Vnc?oc=5",
-            "category": "World",
-            "published": "2026-09-11T22:51:22.913117"
-        },
-        {
-            "title": "국제유가, 중동분쟁 격화 등 영향 상승세 지속-WTI도 배럴당 100달러 넘어서 - 포커스온경제",
-            "points": [
-                "중동 분쟁 격화로 인한 국제유가 상승은 전 세계 경제에 직접적인 인플레이션 압력을 가하고, 각국의 통화 정책 및 경제 성장에 중대한 영향을 미치는 핵심 경제 뉴스입니다.",
-                "유가 100달러 돌파는 에너지 비용 증가로 인한 기업 생산비 상승, 소비자 물가 인상, 각국 중앙은행의 금리 인상 압박 강화, 그리고 글로벌 경기 둔화 우려를 심화시키는 경제적 변화를 야기합니다."
-            ],
-            "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE54aHViQkxaa3VRMnVPc0xTOGhCOVlGcE9DNjY1Nkhya0tnRzAtTVlDdFAwTGd4WWtzaDF4eE1TQmFXVXQwMDFDTzFQd0U3bnJWZjljY2EtZFk5WUxQWEE?oc=5",
-            "category": "World",
-            "published": "2026-09-11T22:51:22.913118"
-        },
-        {
-            "title": "브릭스 정상회의 앞두고 만난 푸틴·모디…경제·국방 협력 논의 - 연합뉴스",
-            "points": [
-                "브릭스(BRICS)는 주요 신흥 경제국들의 연합체로, 푸틴과 모디의 회담은 서방 중심의 국제 질서에 대항하는 새로운 경제 및 안보 블록의 영향력 확대를 의미하는 중요한 외교적 움직임입니다.",
-                "이들의 협력 논의는 글로벌 경제 및 안보 지형에 변화를 가져오고, 다극화된 국제 질서의 가속화, 새로운 무역 및 금융 시스템 구축 가능성, 그리고 서방 국가들과의 경쟁 심화를 초래할 수 있습니다."
-            ],
-            "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFBGOEZxWkFhU3p2MEx1dHN2Mmh3T05fQUxvUXBLcGgyVjZOQVVBdGxNSHBkcmFuWVBGa2gyNVJjRFZLYkxCMGlsOEt2RUF6YjQ1QVgzSjd6ZUhWSlHSAWBBVV95cUxPbGtiS0N6cTVLY0V1bXE5RzQ0dEFNcmZsSVhCRDJXR1pMaGdvVkxBZG5nUUtGUW16aWlEalZFQUNlME5EMzdhblFGamdYYTB3N0VYWGJ0QWttUnZWZEFPTWk?oc=5",
-            "category": "World",
-            "published": "2026-09-11T22:51:22.913119"
+            "published": "2026-09-12T22:41:43.893699"
         }
     ]
 }
