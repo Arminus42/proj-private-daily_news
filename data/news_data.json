@@ -1,210 +1,210 @@
 {
     "AI_Tech": [
         {
-            "title": "항우연, 연구·행정 전반 AI 전환 본격화…'KARI BRAIN' 구축",
+            "title": "LG AI, 논문 그림 속 분자까지 읽는다…엘스비어 연구 플랫폼에 적용",
             "points": [
-                "한국항공우주연구원(KARI)은 국가 핵심 연구기관으로, AI를 연구 및 행정 전반에 도입하는 것은 국가 차원의 AI 전략과 대규모 적용 사례를 보여줍니다. 이는 다른 공공기관 및 연구소에도 파급 효과를 미칠 수 있는 중요한 선례입니다.",
-                "'KARI BRAIN'이라는 자체 AI 시스템 구축은 단순한 AI 도구 도입을 넘어, 기관의 특수성과 효율성을 극대화하기 위한 맞춤형 AI 개발 및 통합을 의미합니다. 이는 AI가 특정 도메인에 깊이 있게 적용될 때 어떤 혁신을 가져올 수 있는지 보여주는 기술적 진보입니다."
+                "LG AI는 국내 주요 대기업의 AI 연구 조직으로, 글로벌 학술 출판사인 엘스비어와의 협력은 그 기술의 신뢰성과 파급력을 보여줍니다.",
+                "AI가 논문 이미지에서 분자 구조와 같은 복잡한 정보를 직접 추출하고 분석하는 기술입니다. 이는 연구자들이 방대한 학술 자료를 더 빠르고 정확하게 이해하고 새로운 발견을 할 수 있도록 돕는 획기적인 기술적 진보입니다. 마치 AI가 과학 논문의 '숨겨진 그림 언어'를 해독하여 연구 속도를 비약적으로 높이는 것과 같습니다."
             ],
-            "link": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE50Tk5rSThCajdzRk5CVUZZZUYyZWU0SGEtQTJENVFZR0EtU1gyLWJqWG5qQVA2Sy1YUVg0QThNT19wXzNNdEZEX3cwSXpiZw?oc=5",
+            "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE05LUVXM0JlQ0lMeUMxMjZJNXNSZlh5djBHalM4VGN4UVdvMFJPc2xONVVmRjA5Q1BMUUFld1lRcXZ1YzhpU19VNWhtaFhEMFE?oc=5",
             "category": "AI_Tech",
-            "published": "2026-09-14T23:32:51.239884"
+            "published": "2026-09-15T23:14:02.448850"
         },
         {
-            "title": "POSTECH, AI 최고급 신진연구자 지원사업 2건 선정",
+            "title": "생성형 AI의 치명적 약점 해결…MIT, 안전 규칙 지키는 AI 기술 ‘하드플로우’가 안전선 지킨다",
             "points": [
-                "POSTECH(포항공과대학교)은 국내 최고 수준의 과학기술 연구기관으로, AI 분야의 '최고급 신진연구자'를 지원하는 것은 미래 AI 기술 발전을 위한 핵심 인재 양성과 연구 생태계 강화에 직접적으로 기여합니다. 이는 장기적인 관점에서 AI 기술 트렌드를 이끌 중요한 기반이 됩니다.",
-                "신진 연구자 지원은 당장의 기술적 돌파구보다는 미래의 획기적인 기술 개발을 위한 '씨앗'을 심는 행위입니다. 이는 AI 연구의 지속 가능성과 혁신 잠재력을 높이는 투자이며, 궁극적으로 새로운 AI 모델이나 응용 기술의 탄생으로 이어질 수 있는 기술적, 경제적 파급력을 가집니다."
+                "세계 최고 수준의 연구기관인 MIT의 발표로, 생성형 AI의 가장 큰 문제점 중 하나인 '환각(hallucination)'이나 유해 콘텐츠 생성 문제를 해결하려는 시도입니다.",
+                "'하드플로우(HardFlow)'라는 새로운 AI 기술은 생성형 AI가 특정 안전 규칙이나 제약 조건을 반드시 준수하도록 설계되었습니다. 이는 AI가 아무리 창의적인 답변을 내놓더라도, 마치 '안전 가이드라인'을 벗어나지 않도록 하는 브레이크 시스템과 같아서, AI의 신뢰성과 안정성을 크게 향상시켜 실제 산업 적용을 가속화할 수 있는 중요한 기술적 돌파구입니다."
             ],
-            "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTE96U3NlZDh6TXp5RWJIR0g0S09jNzJvLW5yR24yakxzdVN3QUpWR3NDaW5feHRyWGJIYXdhdnE5aVBmaDBQZ3pNZGRtZDlTYWMzNkZOeERlM0M5eHZfQVpIbXl3VVAyVVJxRUxz?oc=5",
+            "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE5FYS1PdFdvX3N6VlVnaHdzMDMyTFJ2THpSRVRSVnpEZ05SSUVkcloyY21LS0pBRUEwZDQ4c2pwVmFyVXYwZlJyLXlORkJjUzNRaHp1b1VmT2FHNEd6U3MzelZJdnVNdUU?oc=5",
             "category": "AI_Tech",
-            "published": "2026-09-14T23:32:51.239892"
+            "published": "2026-09-15T23:14:02.448857"
         },
         {
-            "title": "신동빈 롯데그룹의 '탈경계' AI 활용 : 브랜드 분석·디자인 통합 넘어 바이오·헬스케어·에너지 '미래 기술' 확보 추진",
+            "title": "KT, 분산 AIDC 잇는 6G 기술 연구…AI 트래픽 지연 줄인다",
             "points": [
-                "롯데그룹과 같은 대기업이 AI를 단순한 효율화 도구를 넘어, 바이오, 헬스케어, 에너지 등 미래 핵심 산업의 '기술 확보' 수단으로 활용하겠다는 전략은 AI가 기업의 핵심 성장 동력으로 자리매김하고 있음을 보여줍니다. 이는 글로벌 기업들의 AI 투자 방향과도 일치합니다.",
-                "AI를 활용하여 기존 사업 영역(브랜드 분석, 디자인)을 넘어 새로운 고부가가치 산업(바이오, 헬스케어, 에너지)으로 확장하려는 시도는 AI가 산업 간 경계를 허물고 새로운 가치를 창출하는 '탈경계' 기술임을 증명합니다. 이는 AI가 미래 산업 지형을 재편하는 핵심 동력이 될 것임을 시사합니다."
+                "국내 대표 통신 기업인 KT가 차세대 통신 기술인 6G와 AI 데이터센터(AIDC)를 연계하는 연구는 AI 시대의 핵심 인프라 구축에 대한 비전을 제시합니다.",
+                "AI 모델의 복잡성이 증가하고 데이터 처리량이 폭증하면서, AI 데이터센터 간의 효율적인 연결과 데이터 전송 속도가 중요해졌습니다. KT의 6G 기술 연구는 AI 트래픽의 지연을 최소화하여, 마치 고속도로의 차선을 늘리고 신호등을 최적화하여 AI 데이터가 막힘없이 흐르도록 하는 것과 같습니다. 이는 미래 AI 서비스의 성능과 사용자 경험을 좌우할 핵심 기술입니다."
             ],
-            "link": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE1BUV84TVZGRUEweVlHZXcxYVlIRFBjcW8xeU5jQ2ltQnFfTjlQVXd0X0RxQTdOUjQ1SlRiLXEwT05IdUZxLTk2VzA2RUpiSV9Ld3lFNjVXbw?oc=5",
+            "link": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE1KSW5BQWEzUjMybF9GcTNVTkl0VUM2NUxPYnU4aUI2QkJqNV9OazlLLVRlcEh0am03NmtmQnRoTmUyM3YyZHZpbHRMSVNFOUVTd1IzeGpwYWZlanlJeVZaMGJDcEU0Z9IBZkFVX3lxTE1KSW5BQWEzUjMybF9GcTNVTkl0VUM2NUxPYnU4aUI2QkJqNV9OazlLLVRlcEh0am03NmtmQnRoTmUyM3YyZHZpbHRMSVNFOUVTd1IzeGpwYWZlanlJeVZaMGJDcEU0Zw?oc=5",
             "category": "AI_Tech",
-            "published": "2026-09-14T23:32:51.239894"
+            "published": "2026-09-15T23:14:02.448858"
         },
         {
-            "title": "보이스봇 상담 완결률 75% 달성 … KT, 생성형 AI로 AICC 고도화",
+            "title": "MS, 자체 AI에 '헌법' 마련...'인간 통제 따라야'",
             "points": [
-                "KT는 국내 주요 통신 및 AI 빅테크 기업으로, 생성형 AI를 활용한 AICC(AI 컨택센터) 고도화는 실제 비즈니스 환경에서 AI의 실질적인 성과를 입증하는 사례입니다. 75%라는 구체적인 완결률은 기술의 상용화 수준과 파급력을 보여줍니다.",
-                "생성형 AI가 고객 상담의 복잡한 요구사항을 처리하여 완결률을 높였다는 것은, AI가 단순 반복 업무를 넘어 고차원적인 문제 해결 능력까지 갖추게 되었음을 의미합니다. 이는 고객 서비스 분야의 생산성 혁신과 비용 절감에 크게 기여할 수 있는 경제적, 기술적 변화입니다."
+                "글로벌 AI 기술을 선도하는 마이크로소프트(MS)가 자체 AI에 '헌법'을 마련했다는 것은 AI 개발의 윤리적, 사회적 책임에 대한 중대한 선언입니다.",
+                "이 'AI 헌법'은 AI가 인간의 통제와 가치에 따라 작동하도록 하는 원칙과 가이드라인을 포함합니다. 이는 단순히 기술 개발을 넘어, AI가 사회에 미칠 영향력을 고려하여 안전하고 책임감 있게 발전시키기 위한 노력입니다. 마치 AI에게 '기본적인 도덕률'을 심어주는 것과 같아서, AI 기술의 신뢰성을 높이고 사회적 수용성을 확보하는 데 결정적인 역할을 합니다."
             ],
-            "link": "https://news.google.com/rss/articles/CBMiRkFVX3lxTE1Uc3c4emhrUXJqRWtfc2FPUjZULWVmeENTT1YwQmk0TWhOLXlTVHp1WlJ6QlV5UENCdlU0VE9pZGZJM2hBSWc?oc=5",
+            "link": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE00eWU0Q3ZCWjdyYkxBd1Z6YWxMRnhWYVdCWkgzM2RocDdfYjNhbUNHckRJTlhmMERTN0pJMlUwWmxNUmxTQ3FPd1B4NG83dWl0dFVKVWtzMFJycFhEeVVFVXZTWVlmUdIBakFVX3lxTE94ejVKQ2V3V1h5TTdpMVoxblZnaWRtQVBRdWdvbE8wY25ZWXZScWNTamlJNFJ2ejV3SnJLbFhSTFlDSnlVM2xXN2h1YjdvTVNFNWlPT3VITGZ1dGtSdDZiTjZuMzltc09hMWc?oc=5",
             "category": "AI_Tech",
-            "published": "2026-09-14T23:32:51.239895"
+            "published": "2026-09-15T23:14:02.448859"
         },
         {
-            "title": "제이엘케이, 한국형 ‘ARPA-H 프로젝트’ 참여",
+            "title": "차세대 의료 AI 원천기술 개발…GIST, 110억 규모 국책사업 선정",
             "points": [
-                "'한국형 ARPA-H 프로젝트'는 미국 국방고등연구계획국(DARPA)을 벤치마킹한 국가 주도의 고위험-고성과 연구개발 사업입니다. 여기에 AI 기술 기업이 참여한다는 것은 국가 차원에서 AI를 활용한 혁신적인 기술 개발에 집중하고 있음을 보여주며, 해당 프로젝트에서 나올 성과가 큰 파급력을 가질 것임을 시사합니다.",
-                "ARPA-H 프로젝트는 기존의 점진적 연구가 아닌, 파괴적 혁신을 목표로 하는 경우가 많습니다. AI 기술이 이러한 국가 핵심 프로젝트에 활용된다는 것은 AI가 단순히 효율성을 높이는 도구를 넘어, 난치병 해결이나 국방 등 인류의 근본적인 문제 해결에 기여할 수 있는 '게임 체인저' 기술로 인정받고 있음을 의미합니다. 이는 AI의 기술적 한계를 확장하고 새로운 시장을 창출할 잠재력을 보여줍니다."
+                "국내 과학기술 선도 대학인 GIST(광주과학기술원)가 대규모 국책사업에 선정되어 차세대 의료 AI 원천기술 개발에 나서는 것은, AI가 인류의 건강과 삶의 질 향상에 기여할 잠재력을 보여줍니다.",
+                "이 사업은 질병 진단, 치료법 개발, 신약 발견 등 의료 분야 전반에 걸쳐 AI의 핵심 기반 기술을 구축하는 것을 목표로 합니다. 마치 의료 현장에 '슈퍼 의사 AI'를 투입하기 위한 기초 체력을 기르는 것과 같아서, 미래 의료 패러다임을 혁신하고 정밀 의료 시대를 앞당길 중요한 기술적 발판이 될 것입니다."
             ],
-            "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTE9SYkpIdmM2SkxDMjIzQ2ZpN1JoRUJhdjBRNkNTOXY5WE5Gamc0N0doN3ZYVDJncHZ1bld3OTEtVmJtTTJUUHFMSGhzWGN3R3ZqU0lFOVRsbmllaDlYY2VnMy1TQWFIdFFaOE5SeTBB0gFuQVVfeXFMT1JiSkh2YzZKTEMyMjNDZmk3UmhFQmF2MFE2Q1M5djlYTkZqZzQ3R2g3dlhUMmdwdnVuV3c5MS1WYm1NMlRQcUxIaHNYY3dHdmpTSUU5VGxuaWVoOVhjZWczLVNBYUh0UVo4TlJ5MEE?oc=5",
+            "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTFBjTV9qV2RndUh2MnhBMGhXRVg0MmVqcmdvQkNxOExzajhjZWhORUt3M2swV2IydHozTzIzVDlRVW5pVU1aUkFNY1Y5SXk5aEg4VEZLbjNoRWxEVkl5UzVLejdJQjJ5dHNKYlY2VlFtaw?oc=5",
             "category": "AI_Tech",
-            "published": "2026-09-14T23:32:51.239896"
+            "published": "2026-09-15T23:14:02.448860"
         }
     ],
     "IT_Biz": [
         {
-            "title": "일론 머스크의 140조 ‘우주혁신’…“하루 30번 스타십 로켓 쏜다” [최준영의 글로벌 워치]",
+            "title": "젠슨 황, 트럼프와 공개 통화⋯\"AI 늦추는 전략은 잘못\"",
             "points": [
-                "일론 머스크의 스페이스X가 140조 원 규모의 대규모 우주 혁신 프로젝트를 추진하며, 스타십 로켓의 발사 빈도를 극대화할 계획입니다.",
-                "이는 우주 운송 비용을 획기적으로 낮추고, 위성 인터넷(스타링크) 확장 및 달/화성 탐사 등 미래 우주 산업의 판도를 바꿀 잠재력을 가집니다."
+                "엔비디아 CEO 젠슨 황이 전 미국 대통령(이자 유력 대선 후보) 트럼프와 AI 전략을 논의한 것은 AI 기술 개발 속도와 정책 방향에 대한 최고위급의 관심과 논쟁을 보여줍니다. 이는 글로벌 AI 산업의 미래와 국가별 경쟁 전략에 중대한 영향을 미칠 수 있습니다.",
+                "AI 기술 개발 속도 조절에 대한 논의가 정치권과 산업 리더 간에 이루어지고 있으며, 이는 AI 산업의 규제 방향과 투자 환경에 영향을 미칠 수 있습니다. 엔비디아의 AI 칩 시장 지배력과 리더십이 다시 한번 부각됩니다."
             ],
-            "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE1qajlsc29ZaEo2NmlYQXpfQnNPWi1zSmJFckZXOVB6NXM5cUxlX3l1dHViN0J6QnZSYy1TU24zWlVmYWZEYnU2MUhEQlI5bkU?oc=5",
+            "link": "https://news.google.com/rss/articles/CBMiRkFVX3lxTE14NlBuVWhGcUNFNWZNV0owYmZ1eEd1aFB4dzFYMzhQSHN2WXVjLXR2M3BhWkJFTzVtU0JKN1ZSalNnYnp5WXc?oc=5",
             "category": "IT_Biz",
-            "published": "2026-09-14T23:33:19.408055"
+            "published": "2026-09-15T23:14:33.919117"
         },
         {
-            "title": "삼성전자·SK하이닉스, '25조 전기료 선납' 한전 제안 거절",
+            "title": "삼성전자, 내년 1분기 메모리 가격 30~40% 인상..애플도 '수용'",
             "points": [
-                "국내 대표 반도체 기업인 삼성전자와 SK하이닉스가 한국전력공사의 25조 원 규모 전기료 선납 제안을 거절했습니다.",
-                "이는 대규모 전력 소비 산업의 운영 비용 및 재무 전략에 대한 중요한 결정으로, 국내 주요 산업의 전력 수급 및 비용 구조에 영향을 미칠 수 있습니다."
+                "삼성전자가 메모리 반도체 가격을 대폭 인상하고, 주요 고객사인 애플까지 이를 수용했다는 것은 글로벌 반도체 시장의 공급망과 가격 결정 구조에 큰 변화가 있음을 시사합니다. 이는 전 세계 IT 제품 가격과 관련 기업들의 수익성에 광범위한 영향을 미칠 것입니다.",
+                "메모리 반도체 시장의 공급자 우위 심화, IT 제품 원가 상승 압력, 삼성전자와 애플 등 주요 테크 기업 간의 공급망 역학 관계 변화."
             ],
-            "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE51eWR1bEJhRHlJZmhuZmhUakNCR1RXZlJIbTI1c0FWRkg4Vy1iMTQ5Z29ZRFh2U2tZR2E2ZTFjamZyb3ZkNGV0QlE2UGtWT25McGNQWFNSZDBxUnPSAWBBVV95cUxPZkJ6bTlydHVLMWdQTEt3eFU5YTZDSWxsT1Nybkc2MmRpbDV3bHlZTWp6eHNLNmg0NmpURS1nOHAyc2sydFpsSUN1S0t6b1FvNTkwUTZmVEdwMFV3dVhKd2U?oc=5",
+            "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE1rM2p1V2t2TGhmN1o5cUtxZ2xpNnRjMWRSaWdRaExpT1RHMDhjN2dpSnlleGdxQmlFVDJxazlEbVNueW1ES1lIS2ZiVFNheDg?oc=5",
             "category": "IT_Biz",
-            "published": "2026-09-14T23:33:19.408062"
+            "published": "2026-09-15T23:14:33.919133"
         },
         {
-            "title": "美 규제에도…현대차 BD 출신 설립 美 로봇업체, 중국산 몸체 추진",
+            "title": "美 상원, 가상자산 '클래리티 법안' 절차 표결 부결",
             "points": [
-                "현대차 출신이 설립한 미국 로봇업체가 미국의 대중국 규제에도 불구하고 중국산 로봇 몸체 사용을 추진하고 있습니다.",
-                "이는 글로벌 기술 공급망의 복잡성과 미중 기술 패권 경쟁 속에서 기업들이 직면하는 전략적 딜레마를 보여주며, 로봇 산업의 생산 및 공급망 전략에 중요한 영향을 미칩니다."
+                "미국 상원에서 가상자산 관련 주요 법안이 부결된 것은 글로벌 암호화폐 시장의 규제 불확실성을 증폭시키고, 향후 미국 내 가상자산 산업의 발전 방향에 큰 영향을 미칠 수 있습니다. 이는 전 세계 암호화폐 시장의 투자 심리와 제도화 과정에 중요한 변수가 됩니다.",
+                "미국 가상자산 규제 환경의 불확실성 지속, 암호화폐 시장의 제도화 지연 가능성, 블록체인 및 웹3.0 산업의 법적 기반 마련 난항."
             ],
-            "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxQSDdpUFZzZFdUcC1hME0wS0xzY3V1dm5tM18taWNETXpHV0FaV1BHeklkdWdQcENtVmxqc2N4allvZlJqYzR2MERQbFJaU2NOTnJRWjJVMU9OTVlyR21MSnV4bnpOSzdlUGdWd0VmNmZNSXRrRDhiYmI4NFlnTG1DbQ?oc=5",
+            "link": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE5uZmRDV0E2VnlRNncyWXNhOU5OOWVOUFRUVlNzU2lMS2pOUTNrYTNxR0Z0eVFpTlNoNkZEOFZNQ1UxdEYzOWpZa0tISVVFMnJN?oc=5",
             "category": "IT_Biz",
-            "published": "2026-09-14T23:33:19.408064"
+            "published": "2026-09-15T23:14:33.919134"
         },
         {
-            "title": "韓 휴머노이드, 美 수출길 막혔다…“정부, 특단의 대책 서둘러야”",
+            "title": "보스턴다이내믹스 누적 손실 1.7조·상장 연기… 현대차, ‘로봇 프리미엄’ 빠졌다",
             "points": [
-                "한국산 휴머노이드 로봇의 미국 수출이 규제로 인해 난항을 겪고 있으며, 이에 대한 정부의 특단 대책 마련이 시급하다는 지적입니다.",
-                "이는 첨단 로봇 산업의 글로벌 경쟁력과 수출 전략에 직접적인 영향을 미치는 정책 및 무역 장벽 문제로, 국내 로봇 기술 발전과 해외 시장 진출에 중대한 변수가 됩니다."
+                "세계적인 로봇 기업 보스턴 다이내믹스의 대규모 누적 손실과 상장 연기는 첨단 로봇 기술의 상업화와 수익성 확보가 여전히 어려운 과제임을 보여줍니다. 이는 로봇 산업 전반의 투자 심리와 현대차 등 관련 기업들의 사업 전략에 영향을 미칠 수 있습니다.",
+                "첨단 로봇 기술의 상업화 및 수익성 확보 난관, 로봇 산업 투자 리스크 재평가, 현대차의 로봇 사업 전략 및 기업 가치에 미치는 영향."
             ],
-            "link": "https://news.google.com/rss/articles/CBMiTkFVX3lxTFBxVW5oTnR2akRsZHFkMGVIdFo5Yk40M210emQ1MXM5S1FKS0ozdzRaNmYwNW1JazJNWkpEbnVXZWtEX2M2VVZ3cy1hZ3NnZw?oc=5",
+            "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNNTlGMFg2dF92d0ZIcmNXLXJibU9kTEZwa3VndVJTaDJRNVQtcW9Palp5Yk13U3V4dFNtOUNEN0ZGbXJTWlJqbmtFRVE0cGxqT2lDak91THc3M2JCMTZZc2NPdThsU0NudlNEaDVTRTdrVUx4eEZiemw4bjFtNS1ncHZhNkczeVhw0gGcAUFVX3lxTE1MTFAwNkhmYzVsVjBzZ1o1R3JkRG5sMFZuZUhaYURZX1dLSWVMQVdUczRyUFgzT3dBM1NIRXhRaFVIY2EtY2lyMXctOEx5ZGV5YVo3WFA2Nk91b241ZG90T0hVYUFKTTBwa3Q2VnNuRmE2S19mSzB6ZnZsNGloRW5GX095Q3Q2a2ljSUNyZmkyYWUzU01xbTdRSVZnSA?oc=5",
             "category": "IT_Biz",
-            "published": "2026-09-14T23:33:19.408065"
+            "published": "2026-09-15T23:14:33.919136"
         },
         {
-            "title": "월가 애널리스트가 '강력 매수' 찍은 양자 컴퓨팅 유망주 3선 주목",
+            "title": "[단독] 한국 정부, 웨스팅하우스 지분 15% 인수 타진",
             "points": [
-                "월가 애널리스트들이 미래 핵심 기술인 양자 컴퓨팅 분야의 유망주를 '강력 매수' 종목으로 추천하며 시장의 주목을 받고 있습니다.",
-                "양자 컴퓨팅은 기존 컴퓨팅의 한계를 뛰어넘는 혁신 기술로, 대규모 투자와 기술 개발 경쟁이 가속화될 것으로 예상되며, 이는 IT 산업 전반의 패러다임을 바꿀 잠재력을 가집니다."
+                "한국 정부가 미국의 주요 원자력 기업 웨스팅하우스의 지분 인수를 추진하는 것은 국가 에너지 안보 강화 및 글로벌 원전 시장에서의 영향력 확대를 위한 대규모 전략적 투자입니다. 이는 국내외 에너지 산업 판도와 국제 관계에 중요한 변화를 가져올 수 있습니다.",
+                "국가 에너지 안보 강화 전략, 대규모 해외 투자 및 국부 유출/유입, 글로벌 원자력 산업의 재편 가능성, 한국의 에너지 외교 및 기술 협력 확대."
             ],
-            "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxOWnI2b1dKWndXUXJvaTcyQzJJdERTNHdsUmU0TndUR3VPbkNZS1hoMWY1STVNZFFwQ3V0XzhlcDJ1UVdrU2c0Tko3QnFMYmc2X0RQN000cDZrSjBYRzdnemxCWWFqb1Uyb1FNTXJVNUkzTFBKMGN5ZDE4bUVUSmF1MVVEMU5pazdE?oc=5",
+            "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE5RQ3VYWGJkTlA3X3hPdlFXSDJkSXo5Vm5fNzlzMy1pN190RlVBVlVyMnFjXzZ4UHFrZGpMbTdreVJDVzZNcDdKc1hCemFZU3dXVFhCb1llb1pnQQ?oc=5",
             "category": "IT_Biz",
-            "published": "2026-09-14T23:33:19.408066"
+            "published": "2026-09-15T23:14:33.919136"
         }
     ],
     "Economy": [
         {
-            "title": "트럼프, AI '속도 조절론' 비판…\"황금알 낳는 거위 죽이지 말라\"(종합)",
+            "title": "미 국채 금리·유가 상승 계속…뉴욕증시 이틀 연속 하락",
             "points": [
-                "트럼프 전 대통령의 AI 규제 반대 입장은 향후 미국 AI 정책 방향에 큰 영향을 미칠 수 있는 주요 발언입니다.",
-                "AI 기술 개발 속도 조절론에 대한 비판은 AI 산업의 혁신과 투자 방향에 대한 정치적 시그널로 해석될 수 있습니다."
+                "글로벌 경제의 핵심 지표인 미국 국채 금리와 국제 유가가 지속적으로 상승하고 있음을 보도하여, 전 세계 금융 시장의 불안정성을 보여줍니다.",
+                "이러한 거시 경제 지표의 변화가 뉴욕 증시의 하락으로 이어져 투자 심리에 직접적인 영향을 미치고 있음을 분석합니다."
             ],
-            "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTFBiZndXZWlmT1hQTGgwTy1xR3R6a1BpXzkyWjVmdHFHaFE1MTR0ZXBKZHdOTzUtWkU0TzJZdmJOSkh2RzFyMnJQUmx4VTl1SjNWNWxUYzdCa1dmb1B6a2doNmVGdk1MdjFvZDNyeGpaZE0?oc=5",
+            "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTFB1aGZka1FDempQbERIVjNPYU44dFRlT2RxbVdOdmlHMjEyRHU0VU8tZ3hodjlZRWFuUWpaVDk4WWpmdnR5ZzVfemc5QVJTa2Nxckc0YUtUZzJ4U2c1NzdfbGtHV1hwS00?oc=5",
             "category": "Economy",
-            "published": "2026-09-14T23:33:47.926403"
+            "published": "2026-09-15T23:15:04.061014"
         },
         {
-            "title": "미 10년물 국채 금리 5% 돌파…반도체주 급락",
+            "title": "백악관 \"내일 연준 금리 인상하더라도 존중…나라면 반대표\"",
             "points": [
-                "미국 10년물 국채 금리 5% 돌파는 글로벌 금융 시장의 주요 변동 요인으로, 전 세계 투자 심리와 자금 흐름에 큰 영향을 미칩니다.",
-                "고금리 환경은 기술주, 특히 반도체주의 투자 매력을 감소시켜 주가 하락을 유발하며, 이는 전반적인 경제 성장 둔화 우려를 반영합니다."
+                "미국 백악관이 연방준비제도(Fed)의 금리 인상 가능성에 대해 언급하며, 행정부와 중앙은행 간의 미묘한 관계 및 통화 정책에 대한 시각차를 드러냅니다.",
+                "이는 향후 미국의 금리 정책 방향과 글로벌 경제에 미칠 영향에 대한 중요한 단서가 되며, 시장의 기대 심리에 큰 영향을 줄 수 있습니다."
             ],
-            "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE5oU0QzYkhPaHZVaUY4azNSLWtQRWpxU3VkMnZwcllHc25WWTNiaFhGTHQwWnI5RlBvSkFELVREbHYtMElFUUluYmNJQWdobjk2Z3VwWjZfVUwxbGM?oc=5",
+            "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE1DSWY0RE9QdlA5cjFpbTRWb0RIX2RqcGVuU3dNY3ZQUWEzQ3BLWjhIRHZPU2NrX2JqNVdSN0lhcUlCcW41Y2pGN0FfenJiSDl1eUp5X05uTGh5R3k3YXdnNWYxU2FNQnZDX3dnRUZKeHY?oc=5",
             "category": "Economy",
-            "published": "2026-09-14T23:33:47.926411"
+            "published": "2026-09-15T23:15:04.061020"
         },
         {
-            "title": "연준 금리 인상 베팅 92.4%로 상승...월가도 인상 전망 동참",
+            "title": "[뉴욕유가] 하루만에 반등…美·이란 협상 기대감에 상승폭은 축소",
             "points": [
-                "연준의 금리 인상 가능성 증가는 글로벌 유동성 축소와 투자 심리 위축으로 이어져 전 세계 경제에 광범위한 영향을 미칩니다.",
-                "월가의 금리 인상 전망 동참은 시장이 연준의 긴축 기조를 기정사실화하고 있음을 보여주며, 이는 기업 투자 및 가계 소비에 직접적인 영향을 줄 수 있습니다."
+                "국제 유가의 변동성은 글로벌 경제와 인플레이션에 미치는 영향이 크다는 점에서 중요한 뉴스입니다.",
+                "미국과 이란 간의 협상 기대감이 유가 상승폭을 제한하는 요인으로 작용하고 있어, 지정학적 리스크와 에너지 시장의 연관성을 보여줍니다."
             ],
-            "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE0zdUVLQjFQbmFfOV94RDJlS3haTVNCbW0xRTQ2ZXcteUZFTlo3U1RLSWhoVFl6UklfTm9ZV1QtNk56cjAxLXFDLWFLLTRmbGlYeXlSVG1zbXFKZWxSZGc?oc=5",
+            "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE9URGJRa09fUWc1YThlS194WUlMMVpLNDM1eTBqX2tBc2I1REE5TVQzRkRVUl85aHpyZ2ZQTjYzRHQ2aFA0aUlGQmF5ZndLSVZNRG43SG56a3QzQlhzdlZxMzRzaWN2cnFrZ01RaG82N3A?oc=5",
             "category": "Economy",
-            "published": "2026-09-14T23:33:47.926412"
+            "published": "2026-09-15T23:15:04.061021"
         },
         {
-            "title": "연준 금리인상 베팅 90%대…워시, 트럼프 인하 압박에 맞서나",
+            "title": "[단독] 한도 2천억달러 이미 넘었는데…미, 사용후핵연료 처리 ‘파이로’ 투자 요구",
             "points": [
-                "연준의 금리 인상 가능성에 대한 시장의 높은 베팅은 통화 정책의 긴축 기조가 강화될 것임을 시사하며, 이는 글로벌 경제에 중대한 영향을 미칩니다.",
-                "트럼프 전 대통령의 금리 인하 압박은 연준의 독립성과 향후 통화 정책 결정에 정치적 변수가 작용할 수 있음을 보여주는 중요한 대목입니다."
+                "미국이 사용후핵연료 처리 기술인 '파이로프로세싱'에 대한 대규모 투자(2천억 달러 이상)를 요구하고 있다는 단독 보도로, 국제 에너지 정책 및 핵 기술 개발 방향에 중대한 영향을 미칠 수 있습니다.",
+                "이는 에너지 안보, 환경 문제, 그리고 국가 간 기술 협력 및 투자 규모에 대한 중요한 논의를 촉발할 수 있는 비중 있는 소식입니다."
             ],
-            "link": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxPdkM0Y2ZlS3NzUTdWcV9sdGRzSVY3LTN4Sjc0MEdycmJkMkRFcDRuU0VEY3NVd3dDVkZXNmdJdmxTYzVwVXBmWWdsTnNUTXZ3dDdOaEhiVUEyX1EtV0RIb3gzalFLRXNnLXZQcDZrS0RRZGNtaGFZdEcwYWJ6XzFNd2pQbmd5UmU5Ujd3MlZObnQtMTFpb0lPTXVDZnVyc0c3ZjNpYm1LenJhcVNTMWdRdVN0NWVsT1dMbkFnb09OWnFrenhQMXZYZ3Njel9sb1RSZ1VTcHhB?oc=5",
+            "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTE9DRW42N2toM3pQWlRXTXZ5bWx1UDlBTkxCdW93SGZhbFJHSjJrODJWa3Fva2dDQnhSemhzeDBSdHNjNlIxVWZsRkduWkFyMlFEQ3dFclRRVWQ5Y1RKY0JDNHlEcUxOMktNT3h3?oc=5",
             "category": "Economy",
-            "published": "2026-09-14T23:33:47.926413"
+            "published": "2026-09-15T23:15:04.061022"
         },
         {
-            "title": "산업부, ‘중동 긴장 재고조’에 원유 수급 긴급 점검",
+            "title": "[단독]IMF 자료에 있다더니…한은 비공개한 외환보유액 순위, 확인 어려워[시장팀의 마켓워치]",
             "points": [
-                "중동 지역의 긴장 재고조는 국제 유가 상승과 원유 공급 불안정성을 야기하며, 이는 전 세계 에너지 시장과 물가에 직접적인 영향을 미칩니다.",
-                "정부의 긴급 점검은 에너지 안보와 국내 산업의 원가 부담 증가에 대한 우려를 반영하며, 관련 정책 변화 가능성을 시사합니다."
+                "한국은행이 외환보유액 순위를 비공개하고 있다는 의혹을 제기하며, 국가의 재정 건전성 및 투명성에 대한 중요한 질문을 던집니다.",
+                "IMF 자료와의 불일치 가능성 제기는 중앙은행의 신뢰도와 국가 경제의 대외 신인도에 영향을 미칠 수 있는 민감한 사안입니다."
             ],
-            "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFBGb200bVM1cm5rWmdQR0d3TWU0dlEyZ29Cb3lyZVc1ZzQ3WmRoVzZ1ejBjRHFwbW9WcnFkNy1XR0FJR25QbU5FUGxRWHpOcGIyM0lla1hXVWhDcHc?oc=5",
+            "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTFB3RXBrdC1TbUFSQnRNTUFnbGV6OFpseHVpLXFsWUlyZ2V4VmFsVW1nTEhLejZlUUNSYk5kaUJpMEpCRlUxc01RZlFOR0M0dkE?oc=5",
             "category": "Economy",
-            "published": "2026-09-14T23:33:47.926414"
+            "published": "2026-09-15T23:15:04.061023"
         }
     ],
     "World": [
         {
-            "title": "송유관 피격에…\"사우디, 호르무즈 통한 원유 수출 확대 모색\" - 연합뉴스",
+            "title": "미 “지구 궤도에 우주무기 배치” 첫 인정…중·러 위성 무력화 가능 - 한겨레",
             "points": [
-                "중동 지역의 지정학적 긴장 고조로 인한 글로벌 에너지 안보 위협을 보여주는 소식입니다.",
-                "세계 최대 산유국 중 하나인 사우디아라비아가 주요 원유 수송로인 호르무즈 해협을 통한 수출 확대를 모색하는 것은 국제 유가 및 에너지 시장에 큰 영향을 미칠 수 있는 정책 변화입니다."
+                "이 뉴스는 미국이 지구 궤도에 우주 무기를 배치했음을 처음으로 공식 인정했다는 점에서 전 세계 안보 전략의 중대한 변화를 알립니다.",
+                "이는 우주 공간의 군사화 경쟁을 심화시키고, 중·러 등 주요국의 위성 시스템 무력화 가능성을 시사하며 국제 안보 질서와 군비 통제 논의에 막대한 영향을 미칠 것입니다."
             ],
-            "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFB0RWRrS1U3UUlBM1dZVm9oRVFxNUFNSXluTDliX081U1BJMHA5NnFxWU1Bd0JZQkMyYkF1b0cyaDEyQ1lUcU9TTGdMaGhpNFV5WENJWElGWXR4TjTSAWBBVV95cUxONmYxNzY3SG5SbEtERGllQ1RwYjFWcnZvTkY5UVgxdktnRlB4UjA2VUZ3S3RUWW02bVNlR2F3ZlV6VVBJUU9JYkpSWFZZREZ5RXA0U1lpLXFqdFFpNWpTTE0?oc=5",
+            "link": "https://news.google.com/rss/articles/CBMiggFBVV95cUxNS2xsVjZVd3hobnhxM3p5VDhoMDVzVkhMV21CdF9ic09OZjVkUkpFQjlRMkhiNlJLOTloWV9NazRPTkNyRDJxUDhzVFpkMXQ2YmlVc1Q0bXltZEZJcWxWX1hYejBkOGt1Rm93QVJWZ2EwNG85cXJRWWp3RDdGelFvRzVR?oc=5",
             "category": "World",
-            "published": "2026-09-14T23:34:24.166397"
+            "published": "2026-09-15T23:15:34.315029"
         },
         {
-            "title": "나토 수장 \"폴란드 접경 때린 러 드론, 우크라 지원 확대로 대응\" - 연합뉴스",
+            "title": "김정은, 푸틴에 답전 \"공동사업 전면적 확대 심화\"‥군사 협력 시사 - MBC 뉴스",
             "points": [
-                "러시아-우크라이나 전쟁이 NATO 회원국 접경 지역으로 확산될 수 있는 심각한 지정학적 위협을 나타냅니다.",
-                "NATO의 우크라이나 지원 확대는 전쟁의 양상과 유럽 안보 지형에 중대한 변화를 가져올 수 있는 정책 결정입니다."
+                "이 뉴스는 북한과 러시아 간 군사 협력의 전면적 확대 심화를 시사하며, 이는 한반도 및 우크라이나 전쟁 상황에 직접적인 영향을 미칠 수 있는 중대한 지정학적 변화입니다.",
+                "양국 간의 군사 기술 교류 및 무기 거래 가능성은 국제 제재 체제를 약화시키고 동북아시아와 유럽의 안보 균형에 심각한 파장을 일으킬 수 있습니다."
             ],
-            "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE43X2JjRnl1Z0VHQk0zb2JhWGZIeklKRFFqZkhvaUI1dGJlS3EySmVnbVY2SkVCdG9PQVBQREV1UXFQN1h6bGVzX3d4OEdRbGdBcEhzUGNlRjNKMUXSAWBBVV95cUxOMUVNWVZMYWhudkdITDVCdTdQREloTEtFeW9yblJCR1d1RklJbXVtMnJRYWMtcjY0U1dZcUVZM0xfTjFqMWJYcWIxVnFXb2Y2ei1uS2VkQkxLeWF0MjZGNjU?oc=5",
+            "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTE4wS0UxWXpoY21fS0Jva0RMRkR4VzR2YzNBbVFFaVFhc0dyYmNNYlBZRjhmY2xYRDUxaDEwTU0tR05qdUtMS0dNanNhQUc0aTlySnY4OURCNDF6MkJPUjl3TDl3VXNybjhTN1J5bmNzVXoyd3NoaERCZdIBeEFVX3lxTE8xNTRvTXk3Z1NhVjh5TmtBYkNaSmVxc2FXT1FxbFRYTFlBWGs2ZGhLdGNMdzltQjNfQWJVMWdRRjBrWmJ5NDROdTlaYnF5aHVsUnVmY0RDU1p4WFoxLVNwZGpGR1pkWks3NlNHRURTOFA5N3VaeDNDVw?oc=5",
             "category": "World",
-            "published": "2026-09-14T23:34:24.166404"
+            "published": "2026-09-15T23:15:34.315035"
         },
         {
-            "title": "트럼프 대통령, “러·우크라 ‘에너지 시설 공격 중단’ 합의” - VOA 한국어 홈페이지",
+            "title": "트럼프 '에너지 휴전' 발표 하루 만에…러·우크라 또 공방(종합) - 연합뉴스",
             "points": [
-                "러시아-우크라이나 전쟁의 주요 전선 중 하나인 에너지 시설 공격 중단에 대한 합의 가능성을 시사하며, 전쟁의 향방과 글로벌 에너지 시장에 영향을 미칠 수 있는 외교적 움직임입니다.",
-                "미국 전 대통령의 발언으로, 향후 국제 사회의 중재 노력과 전쟁 종식 가능성에 대한 기대를 불러일으킬 수 있습니다."
+                "이 뉴스는 트럼프의 '에너지 휴전' 제안에도 불구하고 러시아-우크라이나 간 공방이 재개되었음을 알리며, 이는 전쟁의 장기화 가능성과 국제 사회의 평화 중재 노력의 한계를 보여줍니다.",
+                "에너지 시설 공격 재개는 유럽의 에너지 안보를 위협하고 국제 유가 변동성을 높이는 등 세계 경제에 직접적인 영향을 미칠 수 있습니다."
             ],
-            "link": "https://news.google.com/rss/articles/CBMickFVX3lxTE5lSEtObFAtSU93aDN5bFVNeEdPaGZFdXhUUFRST2xyRC05cG1RQWdDOG90dVU3ejZ5ejZONDBRby1WaHd4cjhRaEo3SU54RzlNVkxmWGduM3lRVXlBVHlrM3hMbUVxeUlIX1dSWG9rV0JDd9IBdEFVX3lxTE9CSzQtRHlQNFRaUTlqbGE1dkJJUkY3bVhYdThQZkplY3p1bmRsNG1yUTRGbzREUGNQcmpkbzNTbmJGSHNlU0FqRDF4dGgtZG9HMndJc1VFRG9BZ2J2VFp4QjU5WDhJSy1DR1VFaHpZWEt2TDVl?oc=5",
+            "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE1lYnZRS0toXzlqc2lPZ0dRZnB0UkNCU25NWVVMUGh3VkhTbzdROWY4M1dZb1lHX0tYRjRWQXZXZVQ5R256N083NjY4X0xaNkNxOEVnVHpaN1daa0HSAWBBVV95cUxONGF2M2g5OGMwZVE1V0FXd002dW9hSjliWkZzR3JTZzJsRi1Ud09jWGVoQlBGd0Y2bUlkZzlHMWl2RFBtOUVLdEpkUjlWajVjUXdPUjZhLUhXeEdSZ2cyQU4?oc=5",
             "category": "World",
-            "published": "2026-09-14T23:34:24.166405"
+            "published": "2026-09-15T23:15:34.315036"
         },
         {
-            "title": "혁명수비대 \"호르무즈서 초대형 유조선 기뢰 충돌…불길 휩싸여\" - 파이낸셜뉴스",
+            "title": "미군, 호르무즈서 “무인수상정 나포하려던 이란 선박 2척 파괴” - 동아일보",
             "points": [
-                "세계 원유 수송의 핵심 통로인 호르무즈 해협에서 발생한 유조선 피격 사건으로, 글로벌 에너지 공급망의 취약성을 드러내고 국제 유가 상승 압력을 가중시킬 수 있는 중대 사건입니다.",
-                "중동 지역의 군사적 긴장 고조와 해상 안보 위협이 국제 경제에 미치는 직접적인 영향을 보여줍니다."
+                "이 뉴스는 호르무즈 해협에서 미군과 이란 선박 간의 직접적인 충돌을 보여주며, 이는 중동 지역의 군사적 긴장 고조와 국제 해상 운송의 안보 위협을 의미합니다.",
+                "세계 주요 원유 수송로인 호르무즈 해협에서의 군사적 대치는 국제 유가에 즉각적인 영향을 미치고, 미국-이란 관계 악화로 이어져 중동 정세 불안정을 심화시킬 수 있습니다."
             ],
-            "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFBiMzBpNmdsT3J1NzUxQ1NEZ1AtU0Q5WEp1bjRYRGJzX0o3cEZkNm5jNkQ0QmxabWN1NW5FTzdGWE53bHZWeEU0d3BuU3R5QlJMclluZjdPNXdJdw?oc=5",
+            "link": "https://news.google.com/rss/articles/CBMic0FVX3lxTE9jTlRVUzVLQi1CbWZjZ21YazYzVVpiWWtIMDZJMkQxVlJxUmFndFpJVkxHbmktMWFxWHk3bGMwMzZkMjlZRldEQ25YT2dwRHk0SEtzTmZYVVdQZS1JTEpLekFWZkhaYWIzajN2MjRKeEVBTDDSAWZBVV95cUxOMlZHdTY3ZUJwM1ZNRi15bUg3Yzdkc1lCd3ZvMk8tZ0t3SkRuTjhZRUJad1Q5UDVZRW5DSGFwUEJSRHNJWnFTNEFXS3BlZlRhVmxNa0duUk1Qck9qTFlza09VYURtTXc?oc=5",
             "category": "World",
-            "published": "2026-09-14T23:34:24.166406"
+            "published": "2026-09-15T23:15:34.315037"
         },
         {
-            "title": "BBC “북한, 러시아에 추가 파병할 듯…경제적 실익 커” - 연합뉴스TV",
+            "title": "사우디-후티 교전 격화‥성지 메카에도 첫 위협 경보 - MBC 뉴스",
             "points": [
-                "북한이 러시아-우크라이나 전쟁에 병력을 파병할 가능성을 제기하며, 전쟁의 국제적 확전 양상과 북한의 대외 정책 변화를 시사하는 중대한 지정학적 소식입니다.",
-                "이는 국제 사회의 대북 제재 및 러시아-우크라이나 전쟁에 대한 국제적 대응에 복잡한 영향을 미칠 수 있습니다."
+                "이 뉴스는 사우디아라비아와 후티 반군 간의 교전이 격화되어 이슬람 성지 메카까지 위협받는 상황을 보여주며, 이는 중동 지역의 인도주의적 위기와 종교적 긴장 고조를 의미합니다.",
+                "예멘 내전의 확전은 중동 지역의 안정성을 심각하게 위협하고, 국제 유가에 영향을 미치며, 이슬람 세계 전반에 걸쳐 광범위한 파장을 일으킬 수 있습니다."
             ],
-            "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE5OLUNPbV90eVktbUdmQ0Q3Q1k4TnJCT05iZnYzOWR6cVhNTU9LU1lrWW42Sk1WWUlNUzFEQ2xfdXF6UlNlaE1QdXg4SXlDN0Zvc3lsZXl4eFpXV2FjZVlVbGFWX3BLWlE?oc=5",
+            "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTFBFSzF2dnM2N0hGRGpkTURBOHp6MDZZWERqLWk5c0FiTzBVQWhsZ1pYT1doNm85T0ppNndTMjRac1c5Mi0tLVBCOTZzSVkwVzg2ZmNZTEg1eUtMR0JacS1WT0s1YkIySzlJU1FTLVo2dTJaWS1X0gF0QVVfeXFMTXZZdHNpX3Z6c0VKNWt0UkNySkhRRUM5MHUwb1lwZHJsU0FNa3pLbnR0WWxPQlRwQVpEaExOdXgwZTdSMm5QVVJPeHVZZzk5WmxRTVo5Wkt2U1NhQms1eWNmakdxaDJRZFkwNkUxVGQ5RWd1UFY?oc=5",
             "category": "World",
-            "published": "2026-09-14T23:34:24.166407"
+            "published": "2026-09-15T23:15:34.315038"
         }
     ]
 }
