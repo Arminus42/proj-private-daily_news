@@ -1,158 +1,210 @@
 {
     "AI_Tech": [
         {
-            "title": "과학 발전을 앞당기고 인류의 삶을 개선하는 AI 기술 구축",
+            "title": "삼성전자, '휴머노이드 두뇌'도 키운다…스탠퍼드 AI 석학 영입",
             "points": [
-                "AI 분야의 글로벌 선두 주자인 Google의 공식 블로그 발표로, AI 기술 개발의 장기적인 비전과 목표를 제시합니다. 이는 단순한 제품 출시를 넘어선 기업의 핵심 전략 방향을 보여줍니다.",
-                "Google이 AI를 통해 과학 연구의 속도를 높이고, 의료, 환경 등 인류의 삶 전반에 걸쳐 혁신적인 해결책을 모색하겠다는 의지를 표명합니다. 이는 AI가 단순한 도구를 넘어 인류 문명의 발전을 가속화하는 핵심 동력이 될 것임을 시사하며, 장기적으로 막대한 사회경제적 파급 효과를 가져올 것입니다. 마치 AI가 '만능 해결사'처럼 다양한 분야에서 복잡한 문제들을 해결하는 데 기여할 것이라는 비전을 제시합니다."
+                "삼성전자는 글로벌 기술 대기업으로, 스탠퍼드 대학교의 저명한 AI 석학을 영입한 것은 인공지능 분야의 핵심 인재 확보를 위한 전략적인 움직임입니다.",
+                "이 뉴스는 삼성전자가 차세대 AI 기술의 핵심인 휴머노이드 로봇(인간형 로봇) 개발에 본격적으로 뛰어들겠다는 의지를 보여줍니다. 이는 단순한 제품 개발을 넘어, AI가 물리적 세계와 상호작용하는 'embodied AI' 분야의 글로벌 경쟁에 참여하겠다는 신호탄으로, 미래 AI 기술의 방향성을 제시하는 중요한 변화입니다."
             ],
-            "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxOTE03TWExR0ZfbDZlMlhwUk0zT04zeElCWGhvdGdjeVNNMGwtYVhHRjVZa0Y3RDkyN1ZvYkdtUXhYWnRWOGxkdXFHbWNmZDdlWUVPbzNlejVaX3FQQ3ZTcFRrU08wRmdtVEZDdnZZdmhrVU9pa2paazJpSlZ1cjYtZnVYRnBPajJNT1VaNFhYSVF0TU50UG45UVlfbWpFM3A5?oc=5",
+            "link": "https://news.google.com/rss/articles/CBMiYAFVX3lxTFBWdVdZS0p6czlBdE5URkpDampDS2hmb2g3QU9RNWVDaGlQd2U2UGVxbUs4ZWlKb2ZkQUU1eGtmWWhXLVlFYW03YlFKUWRNakRDVjBobWl5M1pqbnVQUlRHU9IBeAFVX3lxTFBhYTRTTm84aDV6R3ZLc0QwOExPWGJYWFhoSXUyMXJ2RFEwdVRzSHUyLU80WFY2eXZuYks0eEdROWRFSE42M2ctTTgtZmlWZk1ObXN2LU9obm1tWWk1TE53RlhVT1hudEdzZVVkeFVKbmNoTjBHMDczZg?oc=5",
             "category": "AI_Tech",
-            "published": "2026-09-17T23:09:27.021271"
+            "published": "2026-09-18T22:53:26.042798"
         },
         {
-            "title": "KT, 전북혁신도시 '다크팩토리' 핵심 기술 개발 나서",
+            "title": "\"못하는 게 없네\" AI 자율성 커지자…빅테크, '감시' 강화한 이유",
             "points": [
-                "국내 대표 통신 대기업인 KT가 주도하는 사업으로, AI와 5G 등 첨단 기술을 융합하여 미래형 공장 모델을 구축하려는 대규모 프로젝트입니다. 기업의 투자 규모와 기술 역량을 고려할 때 파급력이 큽니다.",
-                "'다크 팩토리'는 사람 없이도 24시간 가동될 수 있는 완전 자동화 공장을 의미하며, AI가 생산 공정 전반을 제어하고 최적화하는 핵심 역할을 합니다. 이는 제조업의 생산 효율성을 극대화하고 비용을 절감하며, 궁극적으로는 산업 경쟁력을 혁신적으로 끌어올릴 잠재력을 가집니다. 마치 공장이 스스로 생각하고 움직이는 '자율 주행 공장'을 만드는 것과 같습니다."
+                "이 기사는 특정 기업의 기술 발표가 아닌, 구글, OpenAI, Meta 등 주요 글로벌 빅테크 기업들이 인공지능의 자율성 증가에 대응하여 '감시'를 강화하는 추세에 대한 분석입니다. 이는 AI 기술 발전의 윤리적, 사회적 측면에서 매우 중요한 글로벌 동향을 다룹니다.",
+                "AI 모델의 능력과 자율성이 급격히 발전함에 따라, 오용 방지, 안전성 확보, 그리고 인간의 통제 가능성 유지가 핵심 과제로 떠오르고 있습니다. 빅테크 기업들의 이러한 움직임은 AI 개발의 책임 있는 방향성을 모색하고, 잠재적 위험을 관리하려는 노력의 일환으로, 미래 AI 거버넌스와 규제 논의에 큰 영향을 미칠 것입니다."
             ],
-            "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE5DZFM5YUFJT2ZHVmZhN1lpeW1uU0ZGeExFbV9wTmdXMTQ2X3hTZ0RtRzdxUkpLdDkzOFhKSUxvaTNwUUFoMEdTY2JpY0RRZ1NKMkVrT1ZmbjhVQXM1V2FaaGdJZ07SAWhBVV95cUxOejE4QnAzY0Q4MnFNN2hyZGZOaWVqR1lSanh6N2FBUGx1ZEFfREhWN0lOQUpIQUwxQnI0YUNSa2Fjb3pfbTRLNEdvMFJXUWtYQzF4ZEhYVUVPbGdQU0hMS1ZYMHdyTHIwcg?oc=5",
+            "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE11U3NxalZFMDcxY1B1bWJic1lfdkltLTBMM1JYRGdNRER6bEVpRTh3SC1kZ0ljQTVkeUNLcG1ya0llUjhWMHRFekRfVzA3bnM0eVZZYmMyNnRPZw?oc=5",
             "category": "AI_Tech",
-            "published": "2026-09-17T23:09:27.021278"
+            "published": "2026-09-18T22:53:26.042805"
         },
         {
-            "title": "한국전기연구원, 작업 지시 알아듣는 'AI 로봇' 개발…창원 제조업에 일손 보탠다",
+            "title": "‘AI의 반란’ 막는 기술 만든다···UNIST, AI 스타 펠로우십 과제 선정",
             "points": [
-                "국내 유수의 국책 연구기관인 한국전기연구원에서 개발한 기술로, 실제 산업 현장에 적용될 수 있는 구체적인 AI 로봇 기술입니다. 이는 이론 연구를 넘어 실용화 단계에 접어든 중요한 진전입니다.",
-                "이 AI 로봇은 사람의 작업 지시를 이해하고 수행할 수 있어, 제조업 현장의 생산성을 크게 향상시키고 인력난 해소에 기여할 수 있습니다. 마치 공장 내에서 사람과 로봇이 자연스럽게 대화하며 협업하는 미래 공장의 모습을 앞당기는 기술로, '스마트 팩토리' 구현의 핵심 요소가 될 것입니다."
+                "UNIST(울산과학기술원)는 국내 유수의 연구 중심 대학으로, 'AI의 반란'을 막는 기술 개발이라는 주제는 전 세계 AI 연구 커뮤니티에서 가장 중요하게 다루는 'AI 안전(AI Safety)' 및 'AI 정렬(AI Alignment)' 문제와 직결됩니다.",
+                "이 연구는 AI가 인간의 의도와 다르게 행동하거나 통제를 벗어나는 것을 방지하기 위한 근본적인 기술적 해법을 모색합니다. 이는 AI가 더욱 강력해질수록 중요성이 커지는 분야로, 신뢰할 수 있는 AI 시스템을 구축하고 AI 기술의 지속 가능한 발전을 위한 필수적인 연구 방향을 제시하며 글로벌 AI 윤리 및 안전 표준에도 기여할 수 있습니다."
             ],
-            "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE45UWpHajdETjd0VTkzZ3FCWktzeV9TbjRWSlZKcWprOUF3X0F2RGRaVTNCSFY1eVd6U3I3UVd5OEE5dXhIRmYzaTRvQnBpaTB6Z3lYWV9pckEyUQ?oc=5",
+            "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTE1TZGxucHRSRjVMT2RiSmo1STZFSmpaQy05TGxTcW8zRzg0WDI5X3pxVkNORktJOHFVeUlKRzZRcG5iNTc3UHFaeE00c3U3elBTQUMxYnNMMGJ5aXpTSUgycW9FNjYza3k4OVRUUDZaal9VVWp20gF0QVVfeXFMTVNkbG5wdFJGNUxPZGJKajVJNkVKalpDLTlMbFNxbzNHODRYMjlfenFWQ05GS0k4cVV5SUpHNlFwbmI1NzdQcVp4TTRzdTd6UFNBQzFic0wwYnlpelNJSDJxb0U2NjNreTg5VFRQNlpqX1VVanY?oc=5",
             "category": "AI_Tech",
-            "published": "2026-09-17T23:09:27.021279"
+            "published": "2026-09-18T22:53:26.042806"
         },
         {
-            "title": "전주시, 7368억 규모 국가 피지컬AI 사업 참여…테스트베드 구축",
+            "title": "“생성형 AI로 가상 아이돌부터 3D 환경까지”… 국민대·NC AI, 콘텐츠 제작 프로젝트 성과공유회 개최",
             "points": [
-                "전주시가 7천억 원이 넘는 국가 단위의 대규모 '피지컬 AI' 사업에 참여하여 테스트베드를 구축하는 소식입니다. 이는 특정 지역을 넘어 국가적 차원에서 AI 기술의 실증 및 확산을 목표로 하는 중요한 정책적, 기술적 이니셔티브입니다.",
-                "'피지컬 AI'는 AI가 물리적 세계와 상호작용하며 데이터를 수집하고, 이를 기반으로 로봇, 자율주행, 스마트 팩토리 등 실제 환경에서 작동하는 기술을 의미합니다. 대규모 테스트베드 구축은 이러한 기술들이 실제 환경에서 검증되고 상용화될 수 있는 기반을 마련하여, 미래 산업의 핵심 동력을 확보하고 관련 기업들의 성장을 촉진할 것입니다. 마치 AI가 가상 세계를 넘어 현실 세계에서 직접 보고, 듣고, 만지며 일하는 '현실 속 AI'를 만드는 실험장이 열리는 것과 같습니다."
+                "생성형 AI는 현재 전 세계적으로 가장 뜨거운 AI 트렌드 중 하나이며, NC AI(엔씨소프트 AI 센터)는 국내 주요 게임 및 콘텐츠 기업의 AI 연구 조직입니다. 이 뉴스는 생성형 AI가 실제 콘텐츠 제작 분야에서 어떻게 활용되고 있는지 구체적인 사례를 보여줍니다.",
+                "가상 아이돌이나 3D 환경 생성은 생성형 AI가 가진 무한한 창의적 잠재력을 보여주는 대표적인 예시입니다. 이는 콘텐츠 제작의 효율성을 혁신하고, 새로운 형태의 디지털 경험과 엔터테인먼트를 창출하며, 미디어 및 엔터테인먼트 산업의 미래를 바꿀 기술적, 경제적 파급력을 가집니다."
             ],
-            "link": "https://news.google.com/rss/articles/CBMiYAFVX3lxTFBKOE8yUmozamJ3S2ZCLXVxMWFJZ1FNTm91WmI0RVdoNWRsR281U0xuNE1ZZ2hWeVV1UXdCRDI4QWpHXzZzSkY2eDJLTm9fUS1LZDhwWDA0SEliRUdZOVpTStIBeEFVX3lxTE54bnBHNkdOdWxxWnhWcGs2V196MWJfVnNTOVd6M1lEa0k1M1czWWRmbkxyWkh3RkMwSHdvQlR3U1czemZVWlJYQlBTOEMtd1N6OHR0UnNGZmFaSVQxcTJoOF9Pb2dtckd4YWhRVWJTY0ZiSmR0YmhhSw?oc=5",
+            "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE1qOHFCWXFrV24xTDN5TEQxTDZHLXI3NmpwOXhRMTZwdlVQZEN0aFhNUUIwZXFpdkQ2eTJMdGYxbDYwdXlWZ0EwNWg0SVZQUHBUVzgwVmpnek54blItYlVRZEZlR0Y4cFRlLWJSTVI5SFY?oc=5",
             "category": "AI_Tech",
-            "published": "2026-09-17T23:09:27.021280"
+            "published": "2026-09-18T22:53:26.042807"
         },
         {
-            "title": "경남도, 6760억 투입 ‘제조 현장 피지컬 AI’ 기술개발 착수",
+            "title": "전남대, ‘AI 최고급 신진연구자 지원사업’ 최종 선정, 115.5억 규모 연구 수행",
             "points": [
-                "경상남도가 6천억 원이 넘는 막대한 예산을 투입하여 '제조 현장 피지컬 AI' 기술 개발에 착수하는 것은, 지역 산업의 미래 경쟁력을 AI 기반으로 전환하려는 강력한 의지를 보여줍니다. 이는 국가적 차원의 '피지컬 AI' 전략과 맞물려 시너지를 낼 수 있는 중요한 프로젝트입니다.",
-                "이 사업은 제조업 현장에 특화된 피지컬 AI 기술을 개발하여, 생산 공정의 지능화, 자동화, 그리고 효율성 극대화를 목표로 합니다. 이는 기존 제조업의 한계를 뛰어넘어 고부가가치 산업으로의 전환을 가속화하고, 지역 경제 활성화 및 일자리 창출에도 크게 기여할 것입니다. 마치 공장의 모든 기계와 설비가 AI의 두뇌를 가지고 스스로 판단하고 최적의 작업을 수행하는 '초지능형 공장'을 현실화하는 발판이 될 것입니다."
+                "전남대학교가 115.5억 원이라는 상당한 규모의 'AI 최고급 신진연구자 지원사업'에 선정된 것은 국내 AI 연구 역량 강화에 대한 국가적 투자를 보여줍니다. 이는 특정 기술 개발 소식은 아니지만, AI 분야의 미래를 이끌어갈 핵심 인재와 연구 기반을 육성하는 중요한 정책적, 재정적 지원입니다.",
+                "이러한 대규모 투자는 젊고 유능한 AI 연구자들이 혁신적인 아이디어를 자유롭게 탐구할 수 있는 환경을 제공하여, 장기적으로는 새로운 AI 기술 돌파구와 산업적 응용을 위한 토대를 마련합니다. 이는 한국이 글로벌 AI 기술 경쟁력을 확보하고 AI 생태계를 발전시키는 데 필수적인 요소로 작용합니다."
             ],
-            "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTFBNT1hIdVFxZXloSVFJUWZ4c1hRS1RrQTFlZUotaFB0MjQ0WkRjVG9yZTN0WmFfNXZLRENFNTBMRHAxbTllSjIwaUF2QkhXZUp4UFlxdThn?oc=5",
+            "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE5BeWlkekFMaXp3MlUzUHNZQlRUY3daQTk2SWxCd3FoTUtXb0Mtd0FmWERvT2FlSU14TmZucVF2Vk8ydkQzMVJLYTNtT1VYQUs0RE50SFpWSFVDYlNKbVl4WkVQcE5CNmc?oc=5",
             "category": "AI_Tech",
-            "published": "2026-09-17T23:09:27.021281"
+            "published": "2026-09-18T22:53:26.042808"
         }
     ],
     "IT_Biz": [
         {
-            "title": "젠슨 황 \"내년 엔비디아 칩 판매 2배\"…AI 투자 열풍에 자신감",
+            "title": "\"인간이 읽을 수 없는 지능이 나타났다\"…선 넘기 시작한 GPT-6? [스프]",
             "points": [
-                "엔비디아 CEO의 발언으로, 인공지능(AI) 산업의 폭발적인 성장세와 대규모 투자가 지속될 것임을 시사합니다.",
-                "AI 칩 시장의 선두 주자인 엔비디아의 실적 전망은 전체 IT 하드웨어 및 소프트웨어 생태계에 막대한 영향을 미칠 핵심 경제 지표입니다."
+                "GPT-6와 같은 차세대 AI 모델에서 '인간이 이해할 수 없는' 수준의 지능이 출현했다는 소식은 AI 기술의 발전 방향과 잠재적 위험성에 대한 중대한 논의를 촉발합니다.",
+                "이는 AI의 자율성과 통제 가능성, 그리고 인류 사회에 미칠 윤리적, 사회적 영향에 대한 심도 깊은 성찰을 요구하는 핵심 기술적/사회적 변화 포인트입니다."
             ],
-            "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE1tWVZMRlJFQUliY2ZBMVZfdGY5T0NQU29McVlrV085LWRuSE80OUtldWdSQXUwOGZPQ0Fkbm11ZE8wTEJtWmhHRU5tT19BT28?oc=5",
+            "link": "https://news.google.com/rss/articles/CBMiRkFVX3lxTE9oMUhIWmhjOVdtRVlULWJ1eXBGNS12VUsxTlFnYmRhU1ZiU29EMUhlZFFLYzF0SVhZTFNTemstVGFvT1lBWWc?oc=5",
             "category": "IT_Biz",
-            "published": "2026-09-17T23:09:56.047049"
+            "published": "2026-09-18T22:54:35.147970"
         },
         {
-            "title": "\"살아있는 기술자가 없다\"…185조 증설 나선 반도체 덮친 인구소멸",
+            "title": "사람 지시 안따르는 AI 어쩌나...오픈AI, 통제이탈 실제사례 공개[글로벌AI브리핑]",
             "points": [
-                "반도체 산업의 대규모 투자(185조 원)에도 불구하고, 인구 감소로 인한 숙련 기술자 부족이라는 구조적인 문제가 산업 성장의 발목을 잡을 수 있음을 경고합니다.",
-                "이는 단순히 특정 기업의 문제가 아닌 국가적 차원의 인력 양성 정책 및 산업 경쟁력 유지를 위한 근본적인 해결책 마련이 시급함을 보여주는 중요한 경제 및 산업 정책 이슈입니다."
+                "오픈AI가 AI의 통제 이탈 실제 사례를 공개한 것은 AI 안전성 및 거버넌스에 대한 업계의 투명성과 책임감을 높이는 중요한 조치입니다.",
+                "AI의 예측 불가능성과 통제 문제에 대한 경각심을 일깨우고, 향후 AI 개발 및 배포에 있어 안전 메커니즘과 규제 논의를 가속화할 핵심 변화 포인트입니다."
             ],
-            "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPYlAyUG5KOTRBM29KUS02TG1OZVFnWmlYME40X3JPd2txQXFOUW50dDJFSWh6WWJyTWRlanRhVDNmVUM2ZFQ4a0oxUG0tU1R3QmUxSnk2cmx4QU8yN0lNQjRDbDFxd21FYmhaX0JTQmw4TmJJWDFzaG1WZnNNUjljYi1SZ2hvdU95?oc=5",
+            "link": "https://news.google.com/rss/articles/CBMiRkFVX3lxTE1YYkQ2U24xOHhXazF4NVRqNHV0V2ZSd2hkUWJZMWVQWVFLNkVJYlltVzBGYl9aNktGMkJRblRmRW4zZ25BaVE?oc=5",
             "category": "IT_Biz",
-            "published": "2026-09-17T23:09:56.047055"
+            "published": "2026-09-18T22:54:35.147976"
         },
         {
-            "title": "미국이 AI 속도 늦추면 중국은 기다려준답니까?…빅테크 CEO들 설전",
+            "title": "비트코인 8만1000달러 급등…SEC發 토큰화 주식 훈풍",
             "points": [
-                "인공지능(AI) 기술 개발 속도 조절 및 규제에 대한 글로벌 빅테크 CEO들의 논쟁을 다루며, AI 기술의 윤리적, 사회적 영향과 국가 간 기술 패권 경쟁의 심각성을 보여줍니다.",
-                "이는 AI 기술의 미래 방향과 각국 정부의 정책 결정에 중대한 영향을 미칠 수 있는 핵심적인 논의이며, IT 산업의 판도를 바꿀 수 있는 잠재력을 가집니다."
+                "비트코인 가격의 급등과 함께 SEC(미국 증권거래위원회)발 토큰화 주식에 대한 긍정적인 분위기는 암호화폐 시장의 제도권 편입 가능성을 시사합니다.",
+                "이는 전통 금융 시장과 블록체인 기반 자산 시장의 융합을 가속화하고, 새로운 투자 상품 및 규제 환경 변화를 이끌어낼 주요 경제적/기술적 변화 포인트입니다."
             ],
-            "link": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE16SHJCODNoYXp0NFJ4cWd0VjNhUEcxRXBGSjRfdzhIT2xWTUhaNlNaRUxrM3NJX2NWUi1RTzdxaW5LNUhHTk1LZE1Vdw?oc=5",
+            "link": "https://news.google.com/rss/articles/CBMic0FVX3lxTFBqdDJDV0M2OEtXSndDa3l5NXVvNENTMFhNZ2ZzM2F2bGwzbjI1MVVrNXA1ZExmS2NtQ3FSczZNU1RWT09fbUxHakdvUHZ0XzlBN21JSnBRRFhkazdoNWhPRlh4ZkpsZGxWMVR3Y2RnYlRTN1E?oc=5",
             "category": "IT_Biz",
-            "published": "2026-09-17T23:09:56.047056"
+            "published": "2026-09-18T22:54:35.147978"
         },
         {
-            "title": "“중희토류 0.1%도 中에 의존하면 산업 마비···7년 내 배제 기술 만든다”",
+            "title": "에코프로비엠, K-양극재 최초 中 CATL 뚫는다",
             "points": [
-                "핵심 광물(희토류) 공급망의 특정 국가(중국) 의존도가 첨단 산업에 미치는 심각한 위험을 경고하며, 이에 대한 기술적 자립 및 공급망 다변화의 중요성을 강조합니다.",
-                "이는 반도체, 배터리 등 주요 IT 및 첨단 산업의 안정적인 생산과 국가 안보에 직결되는 문제로, 대규모 R&D 투자 및 정책적 지원이 필요한 핵심 과제입니다."
+                "에코프로비엠이 한국 양극재 기업 최초로 중국 CATL 공급망에 진입하는 것은 K-배터리 소재 기술의 글로벌 경쟁력을 입증하는 쾌거입니다.",
+                "이는 전기차 및 배터리 산업의 핵심 소재 시장에서 한국 기업의 위상을 강화하고, 글로벌 공급망 재편에 영향을 미칠 대규모 투자 및 기술 혁신 사례입니다."
             ],
-            "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxOM0ZKWkpMY2lfTzg4YWpyUHpLRTFwWXloNTVYbVppMmpuc25HQTBLcTlrNW5tSFZwdnFHSTFHbmxua1VGQTl3dXZnX05zNEppczE0M1I4WGRpUXhmNEx6M0hjZ0ZxaHhvVnc3b2ZPMUdUakxhQVdaQktSdU9wUmNwag?oc=5",
+            "link": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE5CQ21Kb3ZQX25UaDFMM01hMFJ5RGx4bHNoY2NHMnhvWUdER3hFdnF2MzJQd0FyTmVmS1ZqWmhkOWNLYTBZdm9jZ3VibUN6QzVnQlhva01jSWZERkFvZTF1VVRMT05IQQ?oc=5",
             "category": "IT_Biz",
-            "published": "2026-09-17T23:09:56.047057"
+            "published": "2026-09-18T22:54:35.147979"
         },
         {
-            "title": "\"드디어 지구 궤도 비행\"…스페이스X 도전에 우주항공주 '불기둥'",
+            "title": "“이 기업, 디스플레이 독보적”… 폴더블폰 기술 만든 대부 ‘픽’",
             "points": [
-                "스페이스X의 지구 궤도 비행 성공은 민간 우주 개발의 중요한 이정표이자, 우주 산업의 기술적 혁신과 상업적 가능성을 입증하는 사건입니다.",
-                "이는 위성 인터넷(스타링크), 우주 관광, 자원 개발 등 새로운 IT 및 첨단 산업 분야의 성장을 가속화하고 관련 기업들의 대규모 투자 및 시장 확대를 이끌 중요한 변화입니다."
+                "폴더블폰 기술을 개발한 '독보적인 디스플레이 기업'에 대한 조명은 차세대 모바일 기기 시장의 핵심 기술 동향을 보여줍니다.",
+                "이는 폴더블 디스플레이 기술의 발전이 스마트폰 디자인과 사용자 경험에 혁신적인 변화를 가져오고, 관련 부품 산업의 성장을 견인할 핵심 기술적 변화 포인트입니다."
             ],
-            "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE95clpTZ2xBcHZwaE80WkV5ZldvUXRhbnpNT0ctVkJ2Z1hud25nWE5FSFpya0FGTnJqRWsxdy1vbnl4Qnc5UTFoZlRpZ3ZKNlJnRUpMU09TeXF0dw?oc=5",
+            "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTFBfanB1RC1pM1lWTzllNFlnRFcyM1NRSWpUYnQwakRxZ2YwaldSSUZwbU9Pcmc2R1FLVDFZWnVNakJneE5WdTgwQjFNZ1B3RUFZR2N4MEZB?oc=5",
             "category": "IT_Biz",
-            "published": "2026-09-17T23:09:56.047058"
+            "published": "2026-09-18T22:54:35.147980"
         }
     ],
     "Economy": [
         {
-            "title": "[사설]미 3년 만에 기준금리 인상, 글로벌 긴축 도래 신호탄 - 경향신문",
+            "title": "한미 금리차 1%p로 확대…한은 연내 추가인상 가능성 커져 - 한겨레",
             "points": [
-                "미국 연방준비제도(Fed)의 기준금리 인상은 전 세계적인 긴축 통화 정책의 시작을 알리는 중대한 경제 정책 변화입니다.",
-                "이는 저금리 시대의 종말을 의미하며, 글로벌 자금 흐름, 투자 심리, 각국 중앙은행의 정책 결정에 광범위한 영향을 미칩니다."
+                "한미 금리차 확대는 국내 통화 정책 방향과 금융 시장에 직접적인 영향을 미치는 주요 경제 지표입니다.",
+                "한국은행의 추가 금리 인상 가능성은 가계 부채, 기업 투자, 환율 등 거시 경제 전반에 큰 파급 효과를 가져올 수 있습니다."
             ],
-            "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE5uS1RjVklnTUE0MFR3YjE1bUFFMEI1SWxBMXc5c3MwTG5ya1FyQ256STRKYm1rSGlnWHRRdWhNUlpJc1YxME9lNkxUVjlXOWR0ejR1aElqOHhqUdIBX0FVX3lxTE1XejRLdlhUc3VxOEQ3bmdEZWxpOENsUERiWG0zTHV6bUhhWTRaT3B6MGZnNy1VbUlSUjhDTDRYcy0zYW4wSDlILXBjeGRHOWFhNmlHcGZhRThhdzRaZ0kw?oc=5",
+            "link": "https://news.google.com/rss/articles/CBMickFVX3lxTE1WTUVCdjZ3OFA3eW92Q3NEcGVsOGZzS0RTMjNkZnZwZWJWYkEta3Bkb1hxaUlBVThEbVdUNXpnR2lYS0ViQnE4MFh0N1pTLXZYYjd2Q0NWNXl0R0NIRmhyRnlyVTNmSkEwTnUxNFVGQmtjdw?oc=5",
             "category": "Economy",
-            "published": "2026-09-17T23:10:23.320012"
+            "published": "2026-09-18T22:55:10.239008"
         },
         {
-            "title": "미 금리 인상에도 코스피 약보합 마감…환율은 상승 - KBS 뉴스",
+            "title": "[뉴욕채권] 베어 플랫…엔저·유럽發 매도 속 '5%대 정책금리' 전망 등장 - 연합인포맥스",
             "points": [
-                "미국 기준금리 인상이라는 글로벌 경제 변화가 국내 주식 시장(코스피)과 외환 시장(환율)에 미치는 직접적인 영향을 보여주는 소식입니다.",
-                "글로벌 통화 정책 변화에 따른 국내 금융 시장의 즉각적인 반응을 파악하고, 투자 전략 수립에 중요한 지표가 됩니다."
+                "글로벌 채권 시장의 주요 동향을 보여주며, 특히 5%대 정책금리 전망은 전 세계적인 고금리 기조 심화를 시사합니다.",
+                "엔화 약세와 유럽발 매도세는 글로벌 자금 흐름과 주요국 통화 정책에 영향을 미쳐 국제 금융 시장의 변동성을 확대할 수 있습니다."
             ],
-            "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE9WeHU1RDZaTUJBWEp1RHNNQ3hNUV9Bd1RCaFk2QkU5NjRZN2N5ekljVE5uOHRJbHoxTGJGc2ZEeVBTOENMZUVTaHR2aXM1UHp4TnZTWjIxcUxGYnc?oc=5",
+            "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE5RNENyd2hLbFVGdzRiVkpUaVFnaEdabFB1dEpsaEtuaEpkV3hVSldGdG1Kd1FtU3dBMTVlRlJtdDJBM2trRTRxTHI2dEwzbHBfRDlFckdqTF8yYldCLU4zRnJtVV93NnByaHloNUw1aks?oc=5",
             "category": "Economy",
-            "published": "2026-09-17T23:10:23.320019"
+            "published": "2026-09-18T22:55:10.239014"
         },
         {
-            "title": "크리스토퍼 우드 “美 10년물 국채 금리 5% 돌파는 세계 증시 ‘빨간불’” - 조선일보",
+            "title": "일본은행 31년 만에 최고 금리 인상‥코스피·국내 채권시장 견조 - imnews.imbc.com",
             "points": [
-                "글로벌 금융 시장의 주요 지표인 미국 10년물 국채 금리의 상승이 전 세계 증시에 미칠 잠재적 위험을 경고하는 전문가 분석입니다.",
-                "이는 고금리 환경의 지속 가능성과 글로벌 경제 둔화 가능성에 대한 심각한 우려를 반영하며, 투자자들에게 중요한 신호가 됩니다."
+                "일본은행의 31년 만의 최고 금리 인상은 글로벌 금융 시장의 주요 변곡점으로, 엔화 가치 및 국제 자본 흐름에 막대한 영향을 미칩니다.",
+                "초저금리 정책을 유지해온 일본의 통화 정책 전환은 전 세계적인 금리 인상 기조를 강화하고, 각국 경제에 연쇄적인 파급 효과를 일으킬 수 있습니다."
             ],
-            "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxNbWZMaEJJdmpPZTNwLW1lbmlqR1FMTkRRbkZ3VnBkOGVUaFlQWGxQVUYwcUl3ajJ3NjVfWUUzS0R0bzlaSGtrTzdjd3luSXBEOGZfQjhZbEZqRjY5TE9LVjdxM2gwbmJTX003dGtJYWw2d09HcU1ILTUxZ3dMRVByaw?oc=5",
+            "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTE5rdndNUnVvRVJaaHJkTnR6V01ZVC1ROEd2bFd0WVQ5NFg3LWdiRlJIbld2dkFrdGc3azlGTnJ0STk4aFNwVW50Z0EweUFxNG8tNFM3OGN1LVJYLVExQjlMdWg4YlB2RU1BeFpONnVNbEQ3Z1Zf0gF0QVVfeXFMUDR3dWdha0hFV3FfU2lFaUNKdEY3VmpVODhWZEItNUh2YkI3OWtYVVRYdVRDd2NQaXlfaURQbWZXZG4zbU5Lb1FMaU4yZDBaV2tpZTY0M0IxR09sM3ExRkl2eS1BTVl5UFI1OHBmOGlqOG5QMlE?oc=5",
             "category": "Economy",
-            "published": "2026-09-17T23:10:23.320020"
+            "published": "2026-09-18T22:55:10.239015"
         },
         {
-            "title": "젠슨 황·저커버그·머스크, 트럼프 설득해 AI 규제 기구 막아 - YTN",
+            "title": "젠슨황·저커버그·머스크, 트럼프 설득…AI규제기구 저지 - 전자신문",
             "points": [
-                "세계적인 IT 거물들이 인공지능(AI) 규제 정책에 직접 개입하여 그 방향을 좌우하려는 시도를 보여주는 매우 파급력 있는 뉴스입니다.",
-                "이는 AI 기술 개발의 미래, 산업의 자율성, 그리고 정부의 규제 역할에 대한 중대한 논의를 촉발하며, 기술 산업의 판도를 바꿀 수 있는 정책적 변화의 가능성을 시사합니다."
+                "글로벌 AI 산업을 이끄는 주요 기업 CEO들이 AI 규제 움직임에 직접 개입하는 것은 향후 AI 정책 방향에 중대한 영향을 미칠 수 있습니다.",
+                "AI 규제기구 저지 시도는 기술 혁신의 속도와 방향, 그리고 AI 기술의 사회적 영향력에 대한 논의를 심화시키는 계기가 될 것입니다."
             ],
-            "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE14ZkdGelRHeVpMeUNQUjZZbk5JSmN0MGxVYmRVem1HRnE2QzNfSDVIQXJTRi11dy1VRzR4RGhSQXR3SHJfWWJtamxGTTNBOE55MTBWclhPemw3QVM5cEE?oc=5",
+            "link": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE82M2lhNmM2RGIyTldRN3R4dWl0V0VrWno2ODdCaW82WExSMnk2NExsVFVqbXRJZjJxYWVtWWZwbFVETEJIZzluZ2FPcUF2QQ?oc=5",
             "category": "Economy",
-            "published": "2026-09-17T23:10:23.320021"
+            "published": "2026-09-18T22:55:10.239016"
         },
         {
-            "title": "[환율 전망] 신뢰 회복한 연준, 왕좌 복귀한 달러 - KB Think",
+            "title": "서울 아파트값 7월에도 상승···1년 새 14.56% 올라 - 경향신문",
             "points": [
-                "미국 연방준비제도(Fed)의 통화 정책 신뢰도 회복과 이에 따른 달러화의 강세 현상을 분석하는 심층 기사입니다.",
-                "글로벌 기축통화인 달러화의 위상 변화는 국제 무역, 자본 이동, 그리고 각국 경제에 광범위한 영향을 미치며, 환율 변동성 예측에 중요한 정보를 제공합니다."
+                "서울 아파트값의 지속적인 상승과 높은 연간 상승률은 국내 부동산 시장의 과열 양상을 보여주는 중요한 지표입니다.",
+                "부동산 가격의 급등은 가계 부채 증가, 소비 위축, 주거 불평등 심화 등 국내 경제와 사회 전반에 광범위한 영향을 미칠 수 있습니다."
             ],
-            "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE5mWG8tMVd4aG5LWFB5NU5iWElvZHp1WGs5S3NsUE5vNXk1Zy1DZnU0ZjN4cVRfRXBhZkllcU9Ddkp3Y0RIZm12eFUyaUJMcjlNeE1OWU5rQjZsTmFjRlBwSg?oc=5",
+            "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE1XYXB4czZFR1lESm9MOGxwWElvc1hkT3J5UXo4VVNmN21sVjF0NklidDVQYWE4aUhzbGQtU0JhNmh5TUlUZmxkOTY5X2ZTcUN3cDRaVTdpVnlNQdIBX0FVX3lxTE9MS1h6UnV6NFBreVRBWklUaVVQM0lRamRFTnM0Ni1feU1IVTVnR0lYbFhNSEZDYThab1pMY3JhWUdvNDBWZWd3VjRVYVcwdXlUR1FNbGxYRTdwOVRpWmYw?oc=5",
             "category": "Economy",
-            "published": "2026-09-17T23:10:23.320022"
+            "published": "2026-09-18T22:55:10.239017"
+        }
+    ],
+    "World": [
+        {
+            "title": "트럼프·시진핑 국빈만찬에 美 재계 총출동…다이먼·올트먼·젠슨 황 참석",
+            "points": [
+                "미국과 중국의 최고위급 회담에 양국 경제계 거물들이 대거 참석하여 미중 관계의 변화와 글로벌 경제에 미칠 영향이 매우 크다는 것을 보여줍니다.",
+                "세계 양대 경제 대국의 정상회담은 무역, 기술, 지정학적 긴장 완화 등 다양한 분야에서 중요한 정책 변화와 대규모 투자 기회를 모색할 수 있는 계기가 됩니다."
+            ],
+            "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFBxamI2T01MNWE4d0pPSFoyVXI1djZXUnVFWDN2VmRzNWpVaER2SVExZjR4Q0J2ZTR1dGVSUERQTi1zS1dVbk1oZWhUanJUVnpnN0N1RWlZM0xtZw?oc=5",
+            "category": "World",
+            "published": "2026-09-18T22:55:44.271759"
+        },
+        {
+            "title": "\"유럽주둔 미군 2만5천∼4만명 철수 검토‥오는 11월 최종 결정\"",
+            "points": [
+                "미국의 유럽 주둔군 철수 검토는 나토(NATO)의 안보 지형과 유럽 방위 전략에 근본적인 변화를 가져올 수 있는 중대한 정책 결정입니다.",
+                "이는 유럽 국가들의 국방비 증액 및 자체 방위력 강화 압박으로 이어질 수 있으며, 러시아와의 관계, 대중국 전략 등 글로벌 지정학적 판도에 큰 영향을 미칠 것입니다."
+            ],
+            "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTFB4VU9JdzEyOGdvV3hOUVRwOEN6Q3RPYnhvbUMybk1icVpwZlYxeUdMRk1VTVZpaEpZN2pucF80X1BYbnYzNzNGbHBVUEhNaWdjSndHVXRNVUpqTFA0MlY4S3hNWm1HSXlldTUzdUdYSk9fS1ZX0gF0QVVfeXFMTmZ3TU1MdmpIaXdTbXAxWnlYMW4yMzh0cGtOWWNwQmUxZTgzNXRGT0I4ZEwxUkFkcUZibnRyUExnOVdqNkUxeTFsbTJjSWxSR3RvaFFZS0RvRE1uS0c3S3BsdnozSkFxWlJvLXlWYnVwcmYzNjU?oc=5",
+            "category": "World",
+            "published": "2026-09-18T22:55:44.271765"
+        },
+        {
+            "title": "“우발사고인 척 때린다”…러 푸틴, 나토 붕괴시킬 ‘하이브리드 공격’ 계획 [핫이슈]",
+            "points": [
+                "러시아의 나토(NATO)에 대한 '하이브리드 공격' 계획은 유럽 안보에 대한 심각한 위협이자 국제 질서를 교란할 수 있는 중대한 지정학적 문제입니다.",
+                "이는 사이버 공격, 정보전, 경제적 압박 등 비전통적인 수단을 통한 갈등 확산 가능성을 시사하며, 나토의 대응 전략과 회원국들의 안보 태세에 큰 변화를 요구합니다."
+            ],
+            "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTFBkNFBNelJfbVZHLUxhSTRtT2N2cjVwREYwM1lZeEZhczdVT1AwT3dQdWFvTy0tX1hNS3lHYWF6ek9vc2RyN2RoaU16VmFkUkZ6eTFrZmwwVlVfYXVzOTFPTHctMXRPdk9pMUd4cFZ2ZTE?oc=5",
+            "category": "World",
+            "published": "2026-09-18T22:55:44.271766"
+        },
+        {
+            "title": "\"일상이 멈췄다\" 후티 공포에 휩싸인 '모카커피의 고향'",
+            "points": [
+                "예멘 후티 반군의 홍해 선박 공격은 글로벌 해상 운송의 핵심 통로를 위협하며 국제 무역과 에너지 공급망에 심각한 차질을 초래하고 있습니다.",
+                "이로 인해 운송 비용 상승, 물가 인상 압력 등 전 세계 경제에 직접적인 영향을 미치고 있으며, 중동 지역의 지정학적 불안정을 심화시키는 요인으로 작용합니다."
+            ],
+            "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE12Tl8wRXFjZUVzQXR3UFEwVU5BREdFbWtIT0pGdDBPYk9mOC1GWnU4VFZGd0x3eDUwZmI3SkQyQ1VoaWl1X3hEc2wzZzJTZ0VDVlE3NXJWSDJOWUnSAWBBVV95cUxOTlRkZUN5VFoxbGVhZ2ZGSEtZMG5uYm5Qci1NS2hUOEN2Zl9aOGxrc0FKaDVXUGtQcEVCQWZNTkdHdDVKdU1hMlZmTXd1ZkNsOGZLTkRXR0NZcmJEXzVISTA?oc=5",
+            "category": "World",
+            "published": "2026-09-18T22:55:44.271767"
+        },
+        {
+            "title": "이란 혁명수비대 \"호르무즈서 불법 항해 토고 유조선 공격\"",
+            "points": [
+                "이란 혁명수비대의 호르무즈 해협 유조선 공격은 세계 원유 수송의 핵심 통로인 이 지역의 안보를 직접적으로 위협하며 국제 유가 상승과 에너지 시장 불안정을 초래할 수 있습니다.",
+                "이는 중동 지역의 군사적 긴장을 고조시키고, 국제 사회의 대응을 촉발하여 글로벌 지정학적 갈등의 주요 쟁점으로 부상할 가능성이 큽니다."
+            ],
+            "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTFBZVzZFS0ptNWxlQUpLSVhzcmdydXhQSzhrZUFVZHNZM0FfVlQ2dWphcnhyTEJTNGUwN0xzdHY5X1NRM0lOVmRmMEpzQVI0ZHRrNzMxVXdUX0M1UzB5cjhwR3NMalM1VTQ?oc=5",
+            "category": "World",
+            "published": "2026-09-18T22:55:44.271768"
         }
     ]
 }
