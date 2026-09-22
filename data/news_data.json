@@ -1,210 +1,158 @@
 {
     "AI_Tech": [
         {
-            "title": "SK하이닉스 사장, 'AI 메모리 수요 높게 유지'…패키징·AI 기술 협력 강화",
+            "title": "오픈AI, \"미국이 AI 기술 표준 주도해야\" 제안…한국, 영국 등 10개국과 협력 강조",
             "points": [
-                "SK하이닉스는 글로벌 반도체 시장의 핵심 플레이어이자 AI 시대의 필수 요소인 고대역폭 메모리(HBM) 분야의 선두 주자입니다. 이 뉴스는 AI 기술 발전에 필수적인 하드웨어 인프라의 중요성을 강조합니다.",
-                "AI 메모리(HBM)는 대규모 언어 모델(LLM)과 같은 최첨단 AI 모델의 연산 속도와 효율성을 결정하는 핵심 부품입니다. SK하이닉스의 수요 전망과 기술 협력 강화는 AI 산업 전반의 성장세와 기술 발전 방향을 가늠할 수 있는 중요한 지표입니다."
+                "이 뉴스는 세계적인 AI 선도 기업인 오픈AI가 AI 기술의 미래 방향과 국제 거버넌스에 대한 비전을 제시했다는 점에서 매우 중요합니다. 오픈AI와 같은 빅테크 기업의 제안은 전 세계 AI 기술 개발 및 상용화에 막대한 파급력을 가집니다.",
+                "AI 기술 표준을 특정 국가가 주도하려는 움직임은 향후 AI 생태계의 규칙과 방향을 결정하는 핵심적인 변화입니다. 이는 단순한 기술 개발을 넘어 AI 윤리, 보안, 상호 운용성 등 광범위한 영역에 영향을 미치며, 국제 협력을 통해 글로벌 AI 기술의 신뢰성과 안전성을 확보하려는 시도로 볼 수 있습니다."
             ],
-            "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTE9JRE5fRlBfUmlXLUhJRE9NdmJ5Yzl1NGc5WW1LSnhhSUg0X3RqZkZnTjlWU2RlVm10eUFIc3F6M0hRMkZSTXZ2Vld5cUREUGFpNW0ydENPSEpBdFdnVmFkNktFMWl5bGFmMkhR?oc=5",
+            "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE9XdzVyMmlVX1o2djI4eWpyRTlIZWdJdHBRSE04aU0zZ3E3ZUhNNDU2UF9PNE0wckxnZlVuX1lBYnhlUWlKRUotTGZ6YjZGaFJCMnlFcl8tLUdYc2hWWlHSAV5BVV95cUxPV3c1cjJpVV9aNnYyOHlqckU5SGVnSXRwUUhNOGlNM2dxN2VITTQ1NlBfTzRNMHJMZ2ZVbl9ZQWJ4eVFpSkVKLUxmemI2RmhSQjJ5RXJfLS1HWHNoVlpR?oc=5",
             "category": "AI_Tech",
-            "published": "2026-09-21T23:42:12.799552"
+            "published": "2026-09-22T23:18:59.179079"
         },
         {
-            "title": "라이너-카이스트 박경렬 교수 연구실, 정책연구 특화 AI 에이전트 공동 개발",
+            "title": "ETRI, AI·6G 특허로 1조 2731억원 기술이전 성과…기술 상용화 박차",
             "points": [
-                "KAIST는 국내 최고 수준을 넘어 세계적으로도 인정받는 과학기술 연구기관이며, '라이너'는 AI 기반 생산성 도구로 주목받는 스타트업입니다. 이들의 협력은 학계와 산업계의 시너지를 통해 AI 기술의 실제 적용 가능성을 높입니다.",
-                "'AI 에이전트'는 단순한 정보 검색을 넘어 스스로 목표를 설정하고, 계획을 세우고, 실행하는 차세대 AI 기술입니다. 정책 연구와 같은 복잡하고 전문적인 분야에 AI 에이전트를 적용하는 것은 AI가 인간의 고차원적 의사결정을 지원하는 방향으로 진화하고 있음을 보여주는 중요한 기술적 돌파구입니다."
+                "한국전자통신연구원(ETRI)은 국내 AI 및 통신 기술 개발을 선도하는 대표적인 국책 연구기관입니다. 1조 원이 넘는 기술이전 성과는 ETRI가 개발한 AI 및 6G 기술이 단순한 연구를 넘어 실제 산업 현장에서 큰 가치를 창출하고 있음을 증명하며, 이는 국내 AI 기술의 신뢰도와 경쟁력을 높이는 중요한 지표입니다.",
+                "AI와 6G는 미래 핵심 기술로, 이 분야에서의 특허 확보는 국가 기술 경쟁력과 직결됩니다. ETRI의 활발한 특허 활동과 기술 상용화는 국내 기업들이 글로벌 시장에서 경쟁력을 갖추고 새로운 비즈니스 기회를 창출하는 데 필수적인 기술적 기반을 제공한다는 점에서 파급력이 큽니다."
             ],
-            "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE9QZTZJRDlCaW45M1JkdnZFR3hKQkZnRFN5S25PZWRiTF96VlVLSHFrTkc4VTFHalB4a3J2a3BLUUdZSW5LbVQ0R0syMmdYWm8?oc=5",
+            "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE1acmt4QXE5RWRxN1F6QThvSUR5WnA5aE9iNTJRbmhoZUV4blNGU2U0TU5HVVBUb3J1TnlzRDZaNERyRkRSOXpnY0NQYVdLUDlRY0VtWkkzWTd1ZmVxX0lrQUdnbXRQWmPSAWdBVV95cUxNWnJreEFxOUVkcTdRekE4b0lEeVpwOWhPYjUyUW5oaGVExnNGU2U0TU5HVVBUb3J1TnlzRDZaNERyRkRSOXpnY0NQYVdLUDlRY0VtWkkzWTd1ZmVxX0lrQUdnbXRQWmNc?oc=5",
             "category": "AI_Tech",
-            "published": "2026-09-21T23:42:12.799559"
+            "published": "2026-09-22T23:18:59.179086"
         },
         {
-            "title": "서강대·LG CNS, AI·기술경영 산학협력 업무협약",
+            "title": "라이너, KAIST 정책 연구에 AI 에이전트 '스콜라' 투입…공동 AI 개발 추진",
             "points": [
-                "LG CNS는 국내 주요 IT 서비스 기업으로, 다양한 산업 분야에 AI 솔루션을 제공하며 디지털 전환을 선도하고 있습니다. 서강대학교와의 산학협력은 AI 기술의 실질적인 산업 적용과 미래 인재 양성에 중요한 역할을 합니다.",
-                "이 협약은 AI 기술 개발뿐만 아니라 '기술경영'이라는 측면에서 AI를 기업의 비즈니스 전략에 효과적으로 통합하고 관리하는 방법을 모색합니다. 이는 AI가 단순한 도구를 넘어 기업의 핵심 경쟁력이 되는 시대에 필요한 실질적인 접근 방식이며, 국내 AI 산업 생태계 강화에 기여할 것입니다."
+                "이 뉴스는 국내 대표 연구기관인 KAIST와 AI 스타트업 라이너의 협력을 통해 AI 기술이 단순한 정보 검색을 넘어 복잡한 '과학기술정책 연구'라는 고차원적인 지적 활동에 직접 활용되고 있음을 보여줍니다. 이는 AI의 적용 범위가 확대되고 있음을 시사하는 중요한 사례입니다.",
+                "AI 에이전트 '스콜라'가 정책 연구에 투입된다는 것은 AI가 방대한 데이터를 분석하고, 복잡한 맥락을 이해하며, 정책 결정에 필요한 통찰력을 제공하는 수준으로 발전하고 있다는 의미입니다. 이는 AI가 인간의 전문적인 업무를 보조하고 효율성을 극대화하는 'AI 비서'의 역할을 넘어, 실제 연구의 한 축을 담당하는 기술적 돌파구로 볼 수 있습니다."
             ],
-            "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTFBNRUFUZEpjTlBwZ3I5MDRGc2FYLXhLZk1iNTQwNkxuM1A1dUozS1JSUklKYUp4U3k4R2p0STFKNXV1NFhxeXR4bzRLWE90OGhScjBOczhB?oc=5",
+            "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE9YUENRbWhHT0pHY2FXSlVGUEVMclBZV05uaHA5XzF2eEhDNkdtVTFpd3lvNkE0bTVXaG9pRFhGNFZ5N09tdVVTa202bE8tWmJ5Z3lmN3hR?oc=5",
             "category": "AI_Tech",
-            "published": "2026-09-21T23:42:12.799559"
+            "published": "2026-09-22T23:18:59.179087"
         },
         {
-            "title": "“AI 특허 21일 만에 첫 심사 결과 받아”... ETRI 기술, 핵심·표준특허 넘어 사업화로",
+            "title": "경상국립대 연구팀, AI 신뢰성 높이는 '뉴로심볼릭 AI' 기반 드론 음성 제어 기술 개발",
             "points": [
-                "ETRI(한국전자통신연구원)는 국가 주요 ICT 연구기관으로서 AI 분야에서 선도적인 연구를 수행하고 있습니다. 이 뉴스는 국가 연구기관의 AI 기술 개발 역량과 그 성과가 시장으로 빠르게 연결되는 과정을 보여줍니다.",
-                "AI 기술의 특허 심사가 21일 만에 완료되고 사업화로 이어진다는 것은 AI 연구 개발의 속도가 얼마나 빠르게 진행되고 있는지, 그리고 혁신적인 기술이 상용화 단계로 얼마나 신속하게 전환되고 있는지를 보여주는 중요한 지표입니다. 이는 AI 기술 혁신이 경제적 가치 창출로 이어지는 중요한 흐름을 반영합니다."
+                "이 뉴스는 AI의 핵심적인 과제 중 하나인 '신뢰성' 문제를 해결하기 위한 획기적인 기술 개발 소식입니다. 뉴로심볼릭 AI는 딥러닝(신경망)의 강력한 패턴 인식 능력과 기존 규칙 기반 AI(심볼릭 AI)의 논리적 추론 능력을 결합하여, AI가 왜 그런 결정을 내렸는지 설명할 수 있게 해주는 차세대 기술로, AI의 '블랙박스' 문제를 해결하는 데 중요한 돌파구입니다.",
+                "특히 드론 음성 제어에 이 기술을 적용했다는 것은, 자율 비행 시스템과 같이 안전이 중요한 분야에서 AI의 오류를 줄이고 예측 불가능성을 제어할 수 있는 가능성을 열었다는 점에서 파급력이 큽니다. 이는 AI가 더욱 안전하고 책임감 있게 실제 환경에 적용될 수 있는 기반을 마련합니다."
             ],
-            "link": "https://news.google.com/rss/articles/CBMiSEFVX3lxTE1zMEZtV1FrdEgwRGhmenl5eEx0NUdsVS1lVGZfTm1UaUgzdDI3TWY4Z01xM2RodGV5Z1ktSXZSZTl0TnVFZjZYTA?oc=5",
+            "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTE5jeUJMMXM1XzdKbDhXN3lJTjkxQ2lsbjVHY19RRW1aNGR1c0RKTnZEUmRRaGM1TUVmTVlldzZsaFlHLXlBcG9hc0RDaUQxZVlsQlVHQmlHc3NIUFlwSnU3Zm5UTVJFaDZLbU0xdlFHNNIBb0FVX3lxTE5jeUJMMXM1XzdKbDhXN3lJTjkxQ2lsbjVHY19RRW1aNGR1c0RKTnZEUmRRaGM1TUVmTVlldzZsaFlHLXlBcG9hc0RDaUQxZVlsQlVHQmlHc3NIUFlwSnU3Zm5UTVJFaDZLbU0xdlFHNA?oc=5",
             "category": "AI_Tech",
-            "published": "2026-09-21T23:42:12.799560"
+            "published": "2026-09-22T23:18:59.179088"
         },
         {
-            "title": "부산백병원, 국책연구 3건 선정…AI·첨단기술로 ‘맞춤형 치료’ 개발",
+            "title": "튜닙, 한국어 최적화 생성형 AI 안전장치 개발…AI 윤리 및 신뢰성 강화",
             "points": [
-                "부산백병원이 '국책연구' 3건에 선정되었다는 것은 국가적 차원에서 AI를 활용한 의료 기술 개발에 대한 높은 관심과 투자를 의미합니다. 이는 국내 의료 AI 분야의 발전 방향을 제시하는 중요한 소식입니다.",
-                "AI와 첨단 기술을 활용한 '맞춤형 치료' 개발은 의료 분야에서 AI의 가장 중요한 적용 사례 중 하나입니다. 환자 개개인의 특성과 데이터를 기반으로 최적화된 치료법을 제공함으로써, 의료의 효율성과 정확성을 혁신하고 환자 치료 결과를 크게 향상시킬 잠재력을 가지고 있습니다."
+                "생성형 AI의 발전과 함께 AI가 생성하는 콘텐츠의 유해성, 편향성, 허위 정보 등의 문제가 심화되면서 'AI 안전장치'는 기술 개발의 필수적인 요소가 되었습니다. 이 뉴스는 국내 기업이 이러한 중요한 AI 윤리 및 신뢰성 문제를 해결하기 위한 기술을 개발하고 있다는 점에서 파급력이 큽니다.",
+                "특히 '한국어 최적화'라는 점은 국내 AI 생태계에 매우 중요합니다. 글로벌 모델의 안전장치는 한국어의 특성과 문화적 맥락을 완벽하게 반영하기 어렵기 때문에, 한국어에 특화된 안전장치 개발은 국내 사용자들이 더욱 안전하고 신뢰할 수 있는 생성형 AI 서비스를 이용할 수 있도록 하는 기술적 진보입니다."
             ],
-            "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE9ZWlZhMHgyZTNGcVJkVThOZnRhbzBPdDd5ajJrUDUzek9HbXFfekVHOERhU2lqMUtCcUphZ25zMzFrQjVOQW43a3BQMjZJSWJYcm5rTFR1dEdiQTl6OUZZdmNyQWVpMXVWM3c?oc=5",
+            "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE03cGNNd01iWk51R1hHSkxiWDVHRkdIejV1WDVhNkctUlRGTmg4NklVdnFPdlpfc25SMjBBbm9uUjhGOFRuRXhsMDZtb1NWUGtmWDhYSk4tVnBsQnN6a2RQVjdERXRSTzZrSEN6ODRiZ0rSAXRBVV95cUxQRTk2d0FyUFM4Y2czNjVkbDdNT1J1d1NYaEZxOFItRGYwMXlNTUQ2NE9PYUxqUU5KN3VTSTJHWDR1SmlPTmNOSHhiRmZWdERETTNLQ2VIcWJ6T3FfdTdid1p2TE9EclQ0TElybUdIRXVua21qQw?oc=5",
             "category": "AI_Tech",
-            "published": "2026-09-21T23:42:12.799561"
+            "published": "2026-09-22T23:18:59.179089"
         }
     ],
     "IT_Biz": [
         {
-            "title": "“AI가 인류 죽인다?”…‘2030년 종말론’에 젠슨 황 한 말",
+            "title": "텍사스, AI 데이터센터 허가 전면 중단",
             "points": [
-                "엔비디아 CEO 젠슨 황이 AI의 미래와 잠재적 위험성에 대해 언급하며, 인공지능 기술의 윤리적, 사회적 영향에 대한 글로벌 논의를 촉발하는 중요한 발언입니다.",
-                "AI 기술 발전의 방향성과 안전성, 그리고 인류와의 공존 방식에 대한 주요 기술 리더의 비전과 우려를 엿볼 수 있는 핵심적인 메시지입니다."
+                "미국 주요 주(텍사스)의 AI 데이터센터 허가 전면 중단은 AI 산업의 인프라 확장에 직접적인 제동을 거는 중대한 정책 변화입니다.",
+                "이는 AI 기술 발전 속도와 전력 소비 문제에 대한 규제 당국의 우려를 반영하며, 향후 AI 인프라 투자 및 입지 전략에 큰 영향을 미칠 것입니다."
             ],
-            "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE5ITnVmSWVDU1dqdEdOd0ljZkxoWHh1VEVJTGhVVFB6NFJBdlpRNGZUREFZV0U0VGc4cThXVUVvZGc4Ul94dnZKRzdJekR2enc?oc=5",
+            "link": "https://news.google.com/rss/articles/CBMigwFBVV95cUxNa0Y3WEI5Wm5BeGZUaXlqRkF1VFp6aUJZWTFLWVVDa25zcjQ2ZE5KNnlPcXpFRk93RXpYSWkwZl9KMGFLZGcyNkJPRzNRaDhZTEtreU52N1hYYXpDb0ZNaHRlaG1RMXgyY2ljVlZEUXlFX1VDN2U1NTNvVkR6bjdsbkk0aw?oc=5",
             "category": "IT_Biz",
-            "published": "2026-09-21T23:42:47.733682"
+            "published": "2026-09-22T23:19:29.180960"
+        },
+        {
+            "title": "뉴욕 월가, AI 데이터센터에 갈수록 회의적… IPO 연기 늘어",
+            "points": [
+                "세계 금융의 중심지인 뉴욕 월가에서 AI 데이터센터 투자에 대한 회의론이 확산되고 IPO 연기가 늘어나는 것은 AI 산업 전반의 자금 조달 및 성장 전망에 부정적인 신호입니다.",
+                "이는 AI 인프라 구축 비용, 전력 문제, 수익성 등에 대한 시장의 신중한 접근을 보여주며, AI 관련 기업들의 투자 유치 전략에 변화를 요구할 것입니다."
+            ],
+            "link": "https://news.google.com/rss/articles/CBMiRkFVX3lxTE9DNDJGT243enpzT2dfVEhNcFN6QzV6WDFtYWhpR3N3RFJsLVZfLVI4MjNxSjZ1b1FpSlNocGJKdmM0Zkhqemc?oc=5",
+            "category": "IT_Biz",
+            "published": "2026-09-22T23:19:29.180967"
+        },
+        {
+            "title": "“엔비디아 잘난 척도 끝이다”…알리바바 신형 AI칩 어느 정도길래",
+            "points": [
+                "알리바바의 신형 AI칩 출시는 엔비디아가 독점하다시피 한 AI 반도체 시장에 강력한 경쟁 구도를 형성하며, AI 하드웨어 생태계의 판도를 바꿀 잠재력을 가집니다.",
+                "이는 AI 칩 기술 혁신을 가속화하고, AI 개발 비용 절감 및 다양한 AI 서비스의 등장을 촉진할 수 있는 핵심 기술적 변화입니다."
+            ],
+            "link": "https://news.google.com/rss/articles/CBMiRkFVX3lxTE9HOEFxV1U4VlA2cDYtbE1yY25BNjVwOU9QTFBGSEI0VnBQLWxyRDJ5eUFwR05sb3plQXVfc3VOZzZpaWFLRXc?oc=5",
+            "category": "IT_Biz",
+            "published": "2026-09-22T23:19:29.180968"
+        },
+        {
+            "title": "챗GPT보다 75배 빠른데 비용은 170분의 1… ‘판단 전용’ AI 돌풍",
+            "points": [
+                "기존 AI 모델 대비 압도적인 속도와 비용 효율성을 가진 '판단 전용' AI의 등장은 AI 기술의 상업적 활용 가능성을 크게 확장하는 혁신적인 서비스 출시입니다.",
+                "이는 특정 목적에 최적화된 AI 모델 개발의 중요성을 부각시키며, AI 서비스의 대중화와 다양한 산업 분야로의 적용을 가속화할 기술적 변화를 예고합니다."
+            ],
+            "link": "https://news.google.com/rss/articles/CBMigwFBVV95cUxOVXdDZEVZU2x0MWtWTWF0UW0zUld4STdWSmtSOHZfc25LQVlzWTQteDlFSVhpMVo3QTcyVndIV2REU0pBVjEtS1hrSy00NFZvLW5xb2I3N0wwZDFtaUYyVXpOa3pYV3BOOHB4eHZ6Sm82OTRtM1V0Q0hWako0clZEY2VtYw?oc=5",
+            "category": "IT_Biz",
+            "published": "2026-09-22T23:19:29.180969"
         },
         {
             "title": "中 자본, 9200억원에 7조짜리 한국 IP 삼켰다",
             "points": [
-                "중국 자본이 한국의 대규모 지식재산권(IP)을 인수하는 9200억원 규모의 거래는 한국 콘텐츠 및 기술 산업의 지형 변화와 해외 자본의 영향력 확대를 보여주는 중대한 경제 뉴스입니다.",
-                "이는 한국의 핵심 IP 자산 유출 및 산업 주도권 변화 가능성을 시사하며, 국내외 투자 및 M&A 시장에 큰 파급력을 가질 수 있는 사건입니다."
+                "중국 자본이 7조 원 규모의 한국 지식재산권(IP)을 인수한 것은 국내외 콘텐츠 및 기술 IP 시장에 대규모 투자가 이루어지고 있음을 보여주는 중요한 경제적 사건입니다.",
+                "이는 한국 IP의 가치를 재평가하고, 향후 국내 IP 산업의 소유권 구조 및 글로벌 경쟁 환경에 중대한 영향을 미칠 전략적 변화를 의미합니다."
             ],
-            "link": "https://news.google.com/rss/articles/CBMigwFBVV95cUxNZGc1QlFTMF82UzhQQk9vTUJ2aUdsWUNHUTM1TGIyeVhBR2p6U09nNFJJUkZENUkxT2F1ZHZURkJ0OFFHVElyb3UzbHotVkhjU3E4Wjl0YUt2S0lRcG5EYjc4OUtESVVmMGxkbTlwbUF5cnFvRVZaQ3V6eGNWWFZMd1AxUQ?oc=5",
+            "link": "https://news.google.com/rss/articles/CBMigwFBVV95cUxNZGc1QlFTMF82UzhQQk9vTUJ2aUdsWUNHUTM1TGIyeVhBR2p6U09nNFJJUkZENUkxT2F1ZHZURkJ0OFFHVElyb3UzbHotVkhjU3E4Vzl0YUt2S0lRcG5EYjc4OUtESVVmMGxkbTlwbUF5cnFvRVZaQ3V6eGNWWFZMd1AxUQ?oc=5",
             "category": "IT_Biz",
-            "published": "2026-09-21T23:42:47.733690"
-        },
-        {
-            "title": "[단독] ‘1000만’ 아이폰 이용자, 긴급구조 사각지대…애플, 경찰이 ‘실종자’ 위치 요청해도 불응",
-            "points": [
-                "애플이 수백만 아이폰 이용자의 긴급구조 요청에 불응하는 정책은 공공 안전과 개인 정보 보호 사이의 중요한 윤리적, 법적 논쟁을 야기하며 사회적 파급력이 큽니다.",
-                "이는 글로벌 IT 기업의 사회적 책임, 데이터 프라이버시 정책, 그리고 정부 및 사법기관과의 협력 관계에 대한 중대한 질문을 던지며 향후 관련 법규 및 기업 정책 변화를 이끌 수 있습니다."
-            ],
-            "link": "https://news.google.com/rss/articles/CBMiRkFVX3lxTE1lTE50d1pfUVJUZERDQzNFNmp4NEJ5WkV6NjFFR2FKclk2QU4yMlBfTmoyVGxZOGMzd0pZY0U0MEhNUXZORlE?oc=5",
-            "category": "IT_Biz",
-            "published": "2026-09-21T23:42:47.733690"
-        },
-        {
-            "title": "‘통설’ 뒤집은 GPT-6 아스트라, 108년 된 독일군 암호 해독",
-            "points": [
-                "GPT-6 아스트라가 108년 된 독일군 암호를 해독했다는 소식은 인공지능, 특히 대규모 언어 모델(LLM)의 기술적 한계를 뛰어넘는 혁신적인 성과를 보여줍니다.",
-                "이는 AI의 문제 해결 능력과 학습 범위가 예상보다 훨씬 광범위함을 입증하며, 보안, 정보 분석, 역사 연구 등 다양한 분야에 걸쳐 AI 적용 가능성을 재정의할 수 있는 기술적 전환점입니다."
-            ],
-            "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE9SZktoSkhzZ3JuYUYxNlZkeDM4WFlUSzJkTEg5cTZ6LXJWUkUwZDlUMnZGT2JIQkVfZlhtNkExTGFUeVc4cERRVl9ySjhDY3lkRUhKOGRRMmZnWDdKa0pYSS04VGpBYmJtbXc?oc=5",
-            "category": "IT_Biz",
-            "published": "2026-09-21T23:42:47.733691"
-        },
-        {
-            "title": "SEC 토큰화 주식 5년 조건부 허용, 비트코인 8만6000달러 돌파",
-            "points": [
-                "미국 증권거래위원회(SEC)가 토큰화된 주식의 조건부 허용을 발표한 것은 블록체인 기반 금융 상품의 제도권 편입을 알리는 중대한 규제 변화입니다.",
-                "이는 전통 금융 시장과 디지털 자산 시장의 융합을 가속화하고, 새로운 투자 상품 및 거래 방식의 등장을 촉진하여 핀테크 산업 전반에 혁신적인 영향을 미칠 것입니다."
-            ],
-            "link": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE9VMVNPNFhIaFVWWE9GYzQ1ODgwbC04S1FWYzV3MnlqMGQ2TjZualBaZGRHWjVOSklSQTE0N2VVRnFnbWswNWRaRTJEVHktNnZQVHpiWjczMzQ2QzM?oc=5",
-            "category": "IT_Biz",
-            "published": "2026-09-21T23:42:47.733692"
-        }
-    ],
-    "Economy": [
-        {
-            "title": "중산층도 최장 20년 거주… ‘이재명표 기본주택’ 부활 - 조선일보",
-            "points": [
-                "정부의 주택 정책 방향 변화를 시사하며, 중산층의 주거 안정성 강화에 중점을 둔다.",
-                "장기 거주 가능한 공공주택 공급 확대로 부동산 시장 및 주거 복지 정책에 큰 영향을 미칠 수 있다."
-            ],
-            "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxQVXI2U0xUc0E0c1hHLVVOWTUzZlhnbU9BaWx6QjFwTldjbE5SQ0RsT0tOTVRVOEZQM1VoT1lseDExZWY3ZENZTGNtMHRrbmdpRFFyWmQ0c2VQTGZTNnJvMDV6eHRLZXI0Y0hnN290cDVSck1sb0hXdWZ4V09NQjM1TkRnS2RXYzJp?oc=5",
-            "category": "Economy",
-            "published": "2026-09-21T23:43:17.064470"
-        },
-        {
-            "title": "’AI낙관론’에 뉴욕증시 급등…나스닥 사상 최고치 - 연합뉴스TV",
-            "points": [
-                "인공지능(AI) 기술에 대한 강력한 시장의 기대감과 낙관론이 글로벌 증시를 견인하고 있음을 보여준다.",
-                "나스닥 사상 최고치 경신은 AI 관련 기술 기업들의 성장 잠재력과 투자 심리를 반영하며, 기술주 중심의 경제 성장을 시사한다."
-            ],
-            "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE8wMnZqSUZILVhONnhwSkw4MU9Id1pyaVNxZWhDX0owNWlJSEpfeXVBU3MtZk5EaGhnUTlaRnROLS1qVlhNT24yVEdPTTYweGtJeW13eUNzRWJjWVZvQkVxdVV6eU1ENTA?oc=5",
-            "category": "Economy",
-            "published": "2026-09-21T23:43:17.064478"
-        },
-        {
-            "title": "D램은 중국에, HBM은 미국에…협공 당하는 K-메모리 - 한국무역협회-KITA.NET",
-            "points": [
-                "글로벌 반도체 시장, 특히 메모리 반도체 분야에서 한국 기업들이 직면한 미중 기술 패권 경쟁과 지정학적 리스크를 명확히 보여준다.",
-                "D램과 HBM(고대역폭 메모리) 시장에서의 전략적 중요성과 경쟁 심화는 한국 반도체 산업의 미래 방향과 글로벌 공급망 재편에 중대한 영향을 미칠 수 있다."
-            ],
-            "link": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxPTm9Ha0xiWHZYZ2J3V2FhbXM2My1QSndjN2lKZThtNnNFbjRLc2xMajn4S0RESloxaERUbTJBOTFDODJVc0dsc0RuMzhKZlZ2QTkzM0hxLXFwUFQxeUdvUFVjR2tsRl8wWk1GRXVJZ3hQcWxsbGZPS2ZYLTc4QUJybmxXR2YxT3NFaUE1NGUxREc5b2p1MHBZcWYwNW5ISk5zRm5wa01SajQ0VWcyel9Menc3enBMUGNDYWhvRWdlMUx0NF9aVHZ3S3NRNWRDUFJqV1ZFaUpR?oc=5",
-            "category": "Economy",
-            "published": "2026-09-21T23:43:17.064478"
-        },
-        {
-            "title": "신소재 개발부터 양산성까지...LG엔솔, 35년 배터리 기술 AX에 녹인다 - 지디넷코리아",
-            "points": [
-                "LG에너지솔루션이 인공지능(AX) 기술을 배터리 개발 및 생산 전반에 적용하여 혁신을 추구하는 사례를 보여준다.",
-                "이는 배터리 산업의 기술 경쟁 심화 속에서 AI 기반의 신소재 개발 및 생산 효율성 향상이 미래 경쟁력의 핵심이 될 것임을 시사한다."
-            ],
-            "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE1pamJSTWQ1R1NLVllNcnp5aFlnaGR4R1F3a1c4T0tEN3pOMTJzLUVFbkprR3hMcWJvM1NYQ18xVDFSOXdPWG9JSU1RZTJETmhLajFucXpB?oc=5",
-            "category": "Economy",
-            "published": "2026-09-21T23:43:17.064479"
-        },
-        {
-            "title": "사우디 송유관 복구에 최대 5주…UAE ‘원유 대체국’ 급부상 - 경향신문",
-            "points": [
-                "사우디아라비아의 송유관 문제로 인한 원유 공급 차질은 국제 유가 변동성과 글로벌 에너지 안보에 직접적인 영향을 미친다.",
-                "아랍에미리트(UAE)가 대체 원유 공급국으로 부상하는 것은 중동 지역의 지정학적 역학 관계 변화와 국제 에너지 시장의 재편 가능성을 보여준다."
-            ],
-            "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE1XckFQTktEOGxhWHRiQXJHaUdvMWs4c3VmUU1zaTFwRVZGcW5VTGt0SV9RbTNma3F5b2swdHc2UDFNTE5zMV9PbG5jZXVfZzdoT3RsbDQ1LW9VQdIBX0FVX3lxTE1NVW1mclg1RlFwdm5qVFh2UmxIN25sWlJzd0ZYTFlHV2JUSUxQLVVFUnFuMFlyMnlaODBiT05VMGV4cDNTQ1hBNzJNdy12MXBYb0VmWWl4OGVfS0o5dmVz?oc=5",
-            "category": "Economy",
-            "published": "2026-09-21T23:43:17.064480"
+            "published": "2026-09-22T23:19:29.180970"
         }
     ],
     "World": [
         {
-            "title": "미중, 정상회담 앞 무역·AI 의제 조율…베선트 \"매우 성공적\"(종합2보)",
+            "title": "트럼프 유엔 연설 “이란, 합의냐 전멸이냐 결정해야…선거 후 합의 믿어” - 한겨레",
             "points": [
-                "세계 양대 경제 대국인 미국과 중국 간의 고위급 회담 의제 조율은 글로벌 경제 및 안보 환경에 막대한 영향을 미치는 주요 외교 소식입니다.",
-                "무역 갈등 완화 및 인공지능(AI) 기술 협력/경쟁 방향 설정은 전 세계 산업 판도와 기술 표준에 중대한 변화를 가져올 수 있습니다."
+                "도널드 트럼프 전 미국 대통령의 유엔 연설은 미국의 주요 외교 정책 방향, 특히 이란 핵 합의에 대한 강경한 입장을 보여주는 중요한 발언입니다.",
+                "이는 중동 정세와 국제 핵 비확산 체제에 큰 영향을 미칠 수 있는 정책 변화를 시사하며, 향후 미국 대선 결과에 따라 이란과의 관계 및 국제 유가 등 경제적 파급 효과를 가져올 수 있습니다."
             ],
-            "link": "https://news.google.com/rss/articles/CBMiW1FVX3lxTFBwandLZ1ZZbXplODJsWS13Y19XUm5rRFNfYUNQQnNOMUVJVnFIV1NXSUZ2cHpDRXBWUGZQcjlvOWxnRGl3OXROWUV6MzktNnAxNURpelRRY1F2WTDSAWBBVV95cUxNNWt4Y2NsOEdwUjNJTGcxcklVRlJEOHB3MXFKcmdiN0t3OHpPaFg3bzA4NGNUSzVLTjh1eVhmY1RPVHlhY1g2bUFjb3lIcmw4eFdweTVlWm1ySVBCT2c0STc?oc=5",
+            "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTFBWamZ4V21kLVlJWVlBNjZwOTViYjIzS01QdW45Y1hHWmlvemNTeW9sWFdKZGpNSll3M3lfT0V1c1k2Yjg3bjhLMkNyQ09xUlJYdFU5ck5SV2FUbmd5N1piM1kxVHB2Skpuc2I2Mjh4UQ?oc=5",
             "category": "World",
-            "published": "2026-09-21T23:43:49.602793"
+            "published": "2026-09-22T23:22:32.408014"
         },
         {
-            "title": "미군 \"호르무즈 유류·가스 수송 6개월 만에 최고치\" 발표 직후 유조선 공격받아",
+            "title": "젤렌스키 “러시아와 어떤 형태의 에너지 휴전도 준비돼 있어···무의미한 전쟁 겨울 전에 끝나야” - 경향신문",
             "points": [
-                "세계 에너지 공급의 핵심 통로인 호르무즈 해협에서의 유조선 공격은 국제 유가 및 가스 시장의 불안정성을 증폭시키고 중동 지역의 군사적 긴장을 고조시키는 중대한 사건입니다.",
-                "주요 해상 운송로의 안보 위협은 글로벌 공급망에 직접적인 영향을 미치며, 에너지 가격 상승과 무역 비용 증가로 이어질 수 있습니다."
+                "볼로디미르 젤렌스키 우크라이나 대통령의 발언은 러시아-우크라이나 전쟁의 향방과 종전 가능성에 대한 국제사회의 관심을 집중시키는 핵심적인 메시지입니다.",
+                "에너지 휴전 제안은 유럽의 에너지 안보와 글로벌 에너지 시장에 직접적인 영향을 미칠 수 있으며, 전쟁이 겨울 전에 끝나야 한다는 언급은 인도주의적 위기와 국제 경제에 미치는 전쟁의 장기적 영향에 대한 우려를 반영합니다."
             ],
-            "link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxNdWduVDZpOWNjUktoelZraDRLQkJCWU9QODZLOURwYmRrTndDWlhHVUNIMzBiQkQ0STJBQlloa3RpQmVCNENfS1JpSkNtbndtTnhLUEZiSnZJd3dyVGh6TlQ2NjhvVTVIckY4NEJRVW9UVWp5RHIxVTFsVmNveTdpb3ZPLXFILW16R2dDMDZEaDg3MnBpVm55Rl9tcjdWaXl3ZXdjU2VQVGFYMUZjSlNKak44TE81c2Q3Nlo3Y0gtb1p3b2JkSVHSAcgBQVVfeXFMTTZFbG1sYXdHdmVHV2xlc3B2QmFEM1lUc2E0bjNrc2taQXBMc0NLWGlHOU5SNHVPRzBHSFVub1ZWNjVBWFZLS3pScDFJcFBWX092U3VjYUo1cjhGQzFtdy04M3NrQS12VHdFcVBhQTZ1Tnd1emZGNlctRVdISVd4dko4b08wM0VYTVp6M1BWSFNELUd6ZEZYdngtclBQWUpLbHVjdTRBZkx5LW5ZTjRjZXl6T24tajdQdzdqRnRwVXR6Z1lGZ05LYi0?oc=5",
+            "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE9lTndWMG9UMVlTRG9ob1NEN2pmN3ctREVkSk5BeXRXb3dyX1B1aTFZakoyckIxU0ZubTl0czZvTDZ3RENMaVdkbzU4MXBtSVhxVE9BRThqYlJLd9IBX0FVX3lxTFB4MmJXdk5weHBZTnVjZzhub0Y3TjZ1eVA3TFN5dE85U19jRFd0VEk0Y1JUdW1QZEo5R2NFQTBsWWxkUnRnRTMySjhXZ0N0YzdfT21yMWNIUTVodk1pYTJv?oc=5",
             "category": "World",
-            "published": "2026-09-21T23:43:49.602800"
+            "published": "2026-09-22T23:22:32.408021"
         },
         {
-            "title": "한·미·일 외교장관 \"북한 비핵화 의지 확인...北 대화 복귀해야\" - 뉴스핌",
+            "title": "[오늘의 1면 사진] 北, 극초음속 미사일 시험 - 한국일보",
             "points": [
-                "한국, 미국, 일본 3국 외교장관의 공동 성명은 동북아시아 안보의 핵심 현안인 북한 비핵화 문제에 대한 국제사회의 단합된 의지를 보여주는 중요한 외교적 움직임입니다.",
-                "북한의 대화 복귀 촉구는 역내 긴장 완화 및 비핵화 협상 재개의 가능성을 시사하며, 이는 한반도 및 국제 안보 환경에 중대한 영향을 미칠 수 있습니다."
+                "북한의 극초음속 미사일 시험은 한반도 및 동북아시아 안보 상황에 직접적인 위협을 가하며, 국제사회의 대북 제재와 비핵화 노력에 중대한 영향을 미칩니다.",
+                "극초음속 미사일 기술 개발은 미사일 방어 체계를 무력화할 수 있는 잠재력을 가지므로, 역내 군비 경쟁을 촉발하고 국제 안보 질서에 변화를 가져올 수 있는 기술적, 군사적 파급력이 큽니다."
             ],
-            "link": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE5nVW9KMHBBeUhoeXRfQWd6Wl9lTWw5QkRsU2F3WEtVbU1uLWVQWHczY2hERmtCMG9mZEMzbkdJV2piRVRlbWlBR0ZNWW8tUHA3bjNtSGlxSi1jaHRS?oc=5",
+            "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTE5vZXJUQmxCRmU0MDB6TU9mdUVEa2xVLUhlY0hyUTQ2R0RfMElMR1ZHcUR1NjNxSGxkem5XQm9zWTJ2eGF5WGMxTmJfa0MxZnhxa2p2QXZ5YUxVN3oxZThBNTg5R2V0Wlp2Nm01Qldn0gFzQVVfeXFMTUQycktqTUVSamtCZUFkckRxZDVoclZ3b3pVR0R3VGxOU2lGalFITWtZRUZoMHpPNWo5MUR0ZVVHYVZpSDhsWGV3bFVleGJJbzAtdE5mZTVDV1htY1FJcGkyV3Q4QktRa0VjV1BMZEdLWWdEbw?oc=5",
             "category": "World",
-            "published": "2026-09-21T23:43:49.602801"
+            "published": "2026-09-22T23:22:32.408022"
         },
         {
-            "title": "트럼프 \"나라 전체 날려버릴 수도\"…이란에 최후통첩하나",
+            "title": "한·미·일, 美서 외교장관 회담… \"대만해협 평화·안정 유지 중요\" - 조선일보",
             "points": [
-                "전 미국 대통령의 이란에 대한 강력한 경고는 중동 지역의 지정학적 긴장을 최고조로 끌어올리며, 국제 사회에 잠재적인 군사적 충돌 가능성에 대한 우려를 확산시키는 주요 소식입니다.",
-                "이러한 발언은 국제 유가 변동성 확대, 해상 운송로의 안보 위협, 그리고 중동 정세 불안정 심화 등 전 세계 경제 및 안보에 광범위한 파급 효과를 가져올 수 있습니다."
+                "한·미·일 외교장관 회담은 동북아시아 및 인도-태평양 지역의 안보 협력 강화와 중국 견제라는 큰 틀에서 매우 중요한 외교적 움직임입니다.",
+                "대만해협의 평화와 안정 유지는 글로벌 공급망, 특히 반도체 산업에 결정적인 영향을 미치며, 미·중 갈등의 핵심 전선 중 하나로서 국제 정세의 주요 변곡점이 될 수 있는 정책적 중요성을 가집니다."
             ],
-            "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFAwS3N1YVpsd2wyTkZUVFdJUHFaRmg1X0FFS2t4LTFGcmYtQjJyVEl0TE1WNVJHb3lPNHlvV2lyYWhuYnJoTlp5Q21fa25CazZlclM3VnJRXzdxZw?oc=5",
+            "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxQR0xGR1BfeWJVVU1UTlNYT3FGRjVQRE8xY3BtN1FVMFVQT2VQUWVsS2dWazFueFpSVjAxSVRSQXg1ekZiQWtnd2lwcWhhaEZvOTJRbG42NG04aEVaTVlRWTJNZ2ZIdWY4VWJSTEZDeWZSQzdmTEtaMGxtaW5hZWFVa3Y5dzQ?oc=5",
             "category": "World",
-            "published": "2026-09-21T23:43:49.602801"
+            "published": "2026-09-22T23:22:32.408022"
         },
         {
-            "title": "푸틴 집권당, 러 총선 압승…국가두마 전체 의석 중 80% 장악 전망",
+            "title": "러, 우크라 점령지서도 총선… 군인들이 투표함 들고 마을 돌았다 - 조선일보",
             "points": [
-                "푸틴 대통령의 집권당이 러시아 총선에서 압도적인 승리를 거두며 권력을 공고히 한 것은 러시아의 국내외 정책 방향에 대한 예측 가능성을 높이고, 국제 정세에 미치는 러시아의 영향력을 강화하는 중요한 정치적 사건입니다.",
-                "이러한 결과는 러시아의 에너지 정책, 군사 전략, 그리고 서방 국가들과의 관계 등 글로벌 경제 및 안보 환경에 지속적인 영향을 미칠 것입니다."
+                "러시아가 우크라이나 점령지에서 총선을 강행하는 것은 국제법을 위반하고 우크라이나의 주권을 침해하는 행위로, 국제사회의 강력한 비난을 받고 있습니다.",
+                "이는 전쟁의 장기화와 러시아의 점령지 합병 의지를 보여주는 것으로, 향후 전쟁의 외교적 해결 가능성을 더욱 어렵게 만들고 국제 질서에 심각한 영향을 미치는 중요한 정치적, 군사적 사건입니다."
             ],
-            "link": "https://news.google.com/rss/articles/CBMiXEFVX3lxTFB1MEdaU0hwSFhUWm5kX3lWZzI1NlVZUzV3djRlUHlaOHRWUmpYTnN2ZjNJYTNvdnV6N0NlYTA5MHhjNnVMN0I5Y0Rjakc1bUFlUXlJMWlhUlByTXJE?oc=5",
+            "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxOeWgyNE1KcFQzYTktMFFBVDF3TUVZeWgtSUttRTd0MEx0cERKYy14Z1Y4S1JlV3RkSkJZTEh1bld3RnpqUjRFSE5mdmJ2d1k5RlJVb2Y4Ri1SSUJaaVl5cHg0ZXROX0Zrc2V3X1VGNWNucnhqVk5mYl93eDBoVTVVQ1V5ZlVQOVVpYlk4VEM1NmJ2dklveG41ZGx3NWFUZw?oc=5",
             "category": "World",
-            "published": "2026-09-21T23:43:49.602802"
+            "published": "2026-09-22T23:22:32.408023"
         }
     ]
 }
