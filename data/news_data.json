@@ -1,158 +1,210 @@
 {
     "AI_Tech": [
         {
-            "title": "오픈AI, \"미국이 AI 기술 표준 주도해야\" 제안…한국, 영국 등 10개국과 협력 강조",
+            "title": "KAIST·스카이인텔리전스·다임리서치, 제조 피지컬 AI 연합: 연구부터 현장 실증까지",
             "points": [
-                "이 뉴스는 세계적인 AI 선도 기업인 오픈AI가 AI 기술의 미래 방향과 국제 거버넌스에 대한 비전을 제시했다는 점에서 매우 중요합니다. 오픈AI와 같은 빅테크 기업의 제안은 전 세계 AI 기술 개발 및 상용화에 막대한 파급력을 가집니다.",
-                "AI 기술 표준을 특정 국가가 주도하려는 움직임은 향후 AI 생태계의 규칙과 방향을 결정하는 핵심적인 변화입니다. 이는 단순한 기술 개발을 넘어 AI 윤리, 보안, 상호 운용성 등 광범위한 영역에 영향을 미치며, 국제 협력을 통해 글로벌 AI 기술의 신뢰성과 안전성을 확보하려는 시도로 볼 수 있습니다."
+                "국내 최고 과학기술원인 KAIST가 주도하는 협력으로, AI 연구의 최전선에 있는 대학과 산업계가 힘을 합쳐 실제 산업 현장에 적용될 수 있는 AI 기술을 개발한다는 점에서 파급력이 큽니다.",
+                "'피지컬 AI'는 로봇이 물리적 세계를 이해하고 상호작용하며 작업을 수행하는 AI를 의미합니다. 이는 단순한 소프트웨어 AI를 넘어, 공장 자동화, 로봇 공학 등 실제 제조 현장의 생산성과 효율성을 혁신적으로 끌어올릴 잠재력을 가집니다. 마치 로봇이 사람처럼 보고, 듣고, 만지며 스스로 판단하고 작업하는 능력을 갖게 되는 것과 같습니다."
             ],
-            "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE9XdzVyMmlVX1o2djI4eWpyRTlIZWdJdHBRSE04aU0zZ3E3ZUhNNDU2UF9PNE0wckxnZlVuX1lBYnhlUWlKRUotTGZ6YjZGaFJCMnlFcl8tLUdYc2hWWlHSAV5BVV95cUxPV3c1cjJpVV9aNnYyOHlqckU5SGVnSXRwUUhNOGlNM2dxN2VITTQ1NlBfTzRNMHJMZ2ZVbl9ZQWJ4eVFpSkVKLUxmemI2RmhSQjJ5RXJfLS1HWHNoVlpR?oc=5",
+            "link": "https://news.google.com/rss/articles/CBMickFVX3lxTFB2RnhJWFBpVUhMR1pBN2o0MVFVSThhWHJlSnM1NU5URjB2bHdiNEduSW95eUJSN0hxUzdGMUEwZmo0YW4wRjBoNnE2eXl2OXJjejZ5NEJmb002SHRxR3U3Z0c3cUFmYXo4RzdKeFdrR0dmd9IBdEFVX3lxTFBBUUdyalc5WUtWMW5mOWRqc3JQd0tZMWRtUndrTGdNd1NINGhaN3BHT2kzQ2YwcXNEb2ctNm1DZzh2QU16NzlYZDhpSjBBeU9ic19Qa2RoNThHdlFNal9IUy1UX3hKYkJ3VVNGOXlTWllnSk0w?oc=5",
             "category": "AI_Tech",
-            "published": "2026-09-22T23:18:59.179079"
+            "published": "2026-09-23T23:15:25.658760"
         },
         {
-            "title": "ETRI, AI·6G 특허로 1조 2731억원 기술이전 성과…기술 상용화 박차",
+            "title": "튜닙, 한국어 최적화 생성형 AI 안전장치 개발: 서울AI허브 2027",
             "points": [
-                "한국전자통신연구원(ETRI)은 국내 AI 및 통신 기술 개발을 선도하는 대표적인 국책 연구기관입니다. 1조 원이 넘는 기술이전 성과는 ETRI가 개발한 AI 및 6G 기술이 단순한 연구를 넘어 실제 산업 현장에서 큰 가치를 창출하고 있음을 증명하며, 이는 국내 AI 기술의 신뢰도와 경쟁력을 높이는 중요한 지표입니다.",
-                "AI와 6G는 미래 핵심 기술로, 이 분야에서의 특허 확보는 국가 기술 경쟁력과 직결됩니다. ETRI의 활발한 특허 활동과 기술 상용화는 국내 기업들이 글로벌 시장에서 경쟁력을 갖추고 새로운 비즈니스 기회를 창출하는 데 필수적인 기술적 기반을 제공한다는 점에서 파급력이 큽니다."
+                "전 세계적으로 생성형 AI의 윤리적 사용과 안전성 확보는 가장 중요한 과제 중 하나입니다. 튜닙과 같은 AI 스타트업이 한국어 환경에 특화된 안전장치를 개발하는 것은, 글로벌 AI 트렌드에 발맞춰 책임감 있는 AI 개발을 선도하는 중요한 움직임입니다.",
+                "생성형 AI는 유용한 정보를 만들지만, 때로는 편향되거나 유해한 콘텐츠를 생성할 위험이 있습니다. 이 '안전장치'는 AI가 마치 필터처럼 부적절한 내용을 걸러내고, 사용자가 안전하게 AI를 활용할 수 있도록 돕는 핵심 기술입니다. 이는 AI 서비스의 신뢰도를 높여 더 많은 산업 분야에서 생성형 AI 도입을 가속화할 것입니다."
             ],
-            "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE1acmt4QXE5RWRxN1F6QThvSUR5WnA5aE9iNTJRbmhoZUV4blNGU2U0TU5HVVBUb3J1TnlzRDZaNERyRkRSOXpnY0NQYVdLUDlRY0VtWkkzWTd1ZmVxX0lrQUdnbXRQWmPSAWdBVV95cUxNWnJreEFxOUVkcTdRekE4b0lEeVpwOWhPYjUyUW5oaGVExnNGU2U0TU5HVVBUb3J1TnlzRDZaNERyRkRSOXpnY0NQYVdLUDlRY0VtWkkzWTd1ZmVxX0lrQUdnbXRQWmNc?oc=5",
+            "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTFBFOTZ3QXJQUzhjZzM2NWRsN01PUnV3U1hoRnE4Ui1EZjAxeU1NRDY0T09hTGpRTko3dVNJMkdYNHVKaU9OY05IeGJGZlZ0RERNM0tDZUhxYnpPcV91N2J3WnZMT0RyVDRMSXJtR0hFdW5rbWpD0gF0QVVfeXFMUEU5NndBclBTOGNnMzY1ZGw3TU9SdXdTWGhGcThSLURmMDF5TU1ENjRPT2FMalFOSjd1U0kyR1g0dUppT05jTkh4YkZmVnRERE0zS0NlSHFiek9xX3U3YndadkxPRHJUNExJcm1HSEV1bmttakM?oc=5",
             "category": "AI_Tech",
-            "published": "2026-09-22T23:18:59.179086"
+            "published": "2026-09-23T23:15:25.658766"
         },
         {
-            "title": "라이너, KAIST 정책 연구에 AI 에이전트 '스콜라' 투입…공동 AI 개발 추진",
+            "title": "라이너, KAIST 과기정책대학원에 '학술 AI 에이전트' 지원",
             "points": [
-                "이 뉴스는 국내 대표 연구기관인 KAIST와 AI 스타트업 라이너의 협력을 통해 AI 기술이 단순한 정보 검색을 넘어 복잡한 '과학기술정책 연구'라는 고차원적인 지적 활동에 직접 활용되고 있음을 보여줍니다. 이는 AI의 적용 범위가 확대되고 있음을 시사하는 중요한 사례입니다.",
-                "AI 에이전트 '스콜라'가 정책 연구에 투입된다는 것은 AI가 방대한 데이터를 분석하고, 복잡한 맥락을 이해하며, 정책 결정에 필요한 통찰력을 제공하는 수준으로 발전하고 있다는 의미입니다. 이는 AI가 인간의 전문적인 업무를 보조하고 효율성을 극대화하는 'AI 비서'의 역할을 넘어, 실제 연구의 한 축을 담당하는 기술적 돌파구로 볼 수 있습니다."
+                "국내 최고 연구기관인 KAIST에 '학술 AI 에이전트'가 도입된다는 것은, AI가 연구 및 지식 생산 과정에 깊숙이 통합되는 중요한 변화를 의미합니다. 이는 AI가 단순한 도구를 넘어 연구자의 파트너로서 기능하는 새로운 패러다임을 제시합니다.",
+                "'학술 AI 에이전트'는 방대한 학술 자료를 분석하고, 연구 아이디어를 제안하며, 논문 작성까지 돕는 지능형 비서와 같습니다. 이는 연구자들이 자료 탐색에 쓰는 시간을 줄이고, 더 창의적이고 심층적인 연구에 집중할 수 있게 하여, 전반적인 학술 연구의 생산성과 질을 혁신적으로 향상시킬 것입니다."
             ],
-            "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE9YUENRbWhHT0pHY2FXSlVGUEVMclBZV05uaHA5XzF2eEhDNkdtVTFpd3lvNkE0bTVXaG9pRFhGNFZ5N09tdVVTa202bE8tWmJ5Z3lmN3hR?oc=5",
+            "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTFBvaGRQa0JxV3NLSmtrMzRNSzFuSnZhQnNMT0NNSW94TzA5WmtYOUlzQ2JyMHByUk9NSU11Vk1jQWxQVkV6dEhLekFpQ2h0X00yQjN5dURfeDcxSnpwaUROZUN2a0V3RTI1OXd0bzBKWdIBb0FVX3lxTFBvaGRQa0JxV3NLSmtrMzRNSzFuSnZhQnNMT0NNSW94TzA5WmtYOUlzQ2JyMHByUk9NSU11Vk1jQWxQVkV6dEhLekFpQ2h0X00yQjN5dURfeDcxSnpwaUROZUN2a0V3RTI1OXd0bzBKWQ?oc=5",
             "category": "AI_Tech",
-            "published": "2026-09-22T23:18:59.179087"
+            "published": "2026-09-23T23:15:25.658768"
         },
         {
-            "title": "경상국립대 연구팀, AI 신뢰성 높이는 '뉴로심볼릭 AI' 기반 드론 음성 제어 기술 개발",
+            "title": "서울과기대·KAI, 항공·국방 부품 제조 AI 기술 공동개발 착수",
             "points": [
-                "이 뉴스는 AI의 핵심적인 과제 중 하나인 '신뢰성' 문제를 해결하기 위한 획기적인 기술 개발 소식입니다. 뉴로심볼릭 AI는 딥러닝(신경망)의 강력한 패턴 인식 능력과 기존 규칙 기반 AI(심볼릭 AI)의 논리적 추론 능력을 결합하여, AI가 왜 그런 결정을 내렸는지 설명할 수 있게 해주는 차세대 기술로, AI의 '블랙박스' 문제를 해결하는 데 중요한 돌파구입니다.",
-                "특히 드론 음성 제어에 이 기술을 적용했다는 것은, 자율 비행 시스템과 같이 안전이 중요한 분야에서 AI의 오류를 줄이고 예측 불가능성을 제어할 수 있는 가능성을 열었다는 점에서 파급력이 큽니다. 이는 AI가 더욱 안전하고 책임감 있게 실제 환경에 적용될 수 있는 기반을 마련합니다."
+                "국내 대표 항공우주 및 방위산업체인 KAI(한국항공우주산업)가 서울과학기술대학교와 협력하여 AI 기술을 개발하는 것은, 국가 핵심 산업의 경쟁력을 강화하는 중요한 움직임입니다. 이는 단순한 기술 개발을 넘어 국가 안보 및 산업 전반에 큰 파급력을 가질 수 있습니다.",
+                "AI를 활용한 항공·국방 부품 제조 기술은 생산 공정의 정밀도와 효율성을 극대화하고, 불량률을 획기적으로 줄일 수 있습니다. 이는 마치 숙련된 장인이 수십 년 걸려 익힐 기술을 AI가 학습하여 더 빠르고 정확하게 수행하는 것과 같으며, 고품질 부품의 안정적인 공급을 가능하게 하여 국방력 강화와 경제적 이득을 동시에 가져올 것입니다."
             ],
-            "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTE5jeUJMMXM1XzdKbDhXN3lJTjkxQ2lsbjVHY19RRW1aNGR1c0RKTnZEUmRRaGM1TUVmTVlldzZsaFlHLXlBcG9hc0RDaUQxZVlsQlVHQmlHc3NIUFlwSnU3Zm5UTVJFaDZLbU0xdlFHNNIBb0FVX3lxTE5jeUJMMXM1XzdKbDhXN3lJTjkxQ2lsbjVHY19RRW1aNGR1c0RKTnZEUmRRaGM1TUVmTVlldzZsaFlHLXlBcG9hc0RDaUQxZVlsQlVHQmlHc3NIUFlwSnU3Zm5UTVJFaDZLbU0xdlFHNA?oc=5",
+            "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE5PaVdzMllRbHdNX21udGk0VVJ3WVdFakE1Q3ZqbGhBbzNFYmVUNnJ4TVJtSHgxWFlkcDQyS3k2TDN1WVZQUkRSUDJ3ejZrbVJ3YU1OWVJPMzVMSEtoampQcm1kdkhzTVU?oc=5",
             "category": "AI_Tech",
-            "published": "2026-09-22T23:18:59.179088"
+            "published": "2026-09-23T23:15:25.658769"
         },
         {
-            "title": "튜닙, 한국어 최적화 생성형 AI 안전장치 개발…AI 윤리 및 신뢰성 강화",
+            "title": "경상국립대, 신뢰성 높은 뉴로심볼릭 AI 기반 드론 음성제어 기술 개발",
             "points": [
-                "생성형 AI의 발전과 함께 AI가 생성하는 콘텐츠의 유해성, 편향성, 허위 정보 등의 문제가 심화되면서 'AI 안전장치'는 기술 개발의 필수적인 요소가 되었습니다. 이 뉴스는 국내 기업이 이러한 중요한 AI 윤리 및 신뢰성 문제를 해결하기 위한 기술을 개발하고 있다는 점에서 파급력이 큽니다.",
-                "특히 '한국어 최적화'라는 점은 국내 AI 생태계에 매우 중요합니다. 글로벌 모델의 안전장치는 한국어의 특성과 문화적 맥락을 완벽하게 반영하기 어렵기 때문에, 한국어에 특화된 안전장치 개발은 국내 사용자들이 더욱 안전하고 신뢰할 수 있는 생성형 AI 서비스를 이용할 수 있도록 하는 기술적 진보입니다."
+                "'뉴로심볼릭 AI'는 최근 AI 연구 분야에서 주목받는 기술로, 딥러닝의 강점과 인간의 논리적 추론 능력을 결합하여 AI의 신뢰성과 설명 가능성을 높이는 시도입니다. 대학 연구팀이 이러한 첨단 AI 아키텍처를 실제 응용 분야에 적용했다는 점에서 기술적 의미가 큽니다.",
+                "기존 딥러닝 AI는 때때로 '블랙박스'처럼 작동하여 왜 그런 결정을 내렸는지 알기 어렵고, 예상치 못한 오류를 일으킬 수 있습니다. 뉴로심볼릭 AI는 이러한 한계를 극복하여 드론과 같은 민감한 장치를 음성으로 제어할 때, 마치 사람이 명령을 이해하고 논리적으로 판단하듯 더 안전하고 예측 가능한 작동을 가능하게 합니다. 이는 자율주행, 로봇 등 높은 신뢰성이 요구되는 AI 시스템 개발에 중요한 이정표가 될 것입니다."
             ],
-            "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE03cGNNd01iWk51R1hHSkxiWDVHRkdIejV1WDVhNkctUlRGTmg4NklVdnFPdlpfc25SMjBBbm9uUjhGOFRuRXhsMDZtb1NWUGtmWDhYSk4tVnBsQnN6a2RQVjdERXRSTzZrSEN6ODRiZ0rSAXRBVV95cUxQRTk2d0FyUFM4Y2czNjVkbDdNT1J1d1NYaEZxOFItRGYwMXlNTUQ2NE9PYUxqUU5KN3VTSTJHWDR1SmlPTmNOSHhiRmZWdERETTNLQ2VIcWJ6T3FfdTdid1p2TE9EclQ0TElybUdIRXVua21qQw?oc=5",
+            "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE1sQ0U1bTF0WUlzcUN4QTl3a2sxbFB5OFlKR2JBckFTNGpIX2dxTllHX05UWmJKU2Z2NG8xRXdIdkY4RmxNUEFEMFVnUXhUdkY4dTZFaVpNcnp2X0o0ZFRXb2Y3Y2p0X2NJU0s3Rw?oc=5",
             "category": "AI_Tech",
-            "published": "2026-09-22T23:18:59.179089"
+            "published": "2026-09-23T23:15:25.658769"
         }
     ],
     "IT_Biz": [
         {
-            "title": "텍사스, AI 데이터센터 허가 전면 중단",
+            "title": "엔비디아GPU칩 선물거래 ‘일단 멈춤’…당국 “가격 투명하지않아”",
             "points": [
-                "미국 주요 주(텍사스)의 AI 데이터센터 허가 전면 중단은 AI 산업의 인프라 확장에 직접적인 제동을 거는 중대한 정책 변화입니다.",
-                "이는 AI 기술 발전 속도와 전력 소비 문제에 대한 규제 당국의 우려를 반영하며, 향후 AI 인프라 투자 및 입지 전략에 큰 영향을 미칠 것입니다."
+                "이 뉴스는 인공지능 및 고성능 컴퓨팅의 핵심 부품인 엔비디아 GPU 칩의 선물 거래가 당국의 개입으로 중단된 중대한 소식입니다.",
+                "GPU 시장의 가격 투명성 문제와 규제 당국의 개입이 글로벌 반도체 공급망 및 AI 산업 전반의 투자 심리에 영향을 미칠 수 있음을 보여줍니다."
             ],
-            "link": "https://news.google.com/rss/articles/CBMigwFBVV95cUxNa0Y3WEI5Wm5BeGZUaXlqRkF1VFp6aUJZWTFLWVVDa25zcjQ2ZE5KNnlPcXpFRk93RXpYSWkwZl9KMGFLZGcyNkJPRzNRaDhZTEtreU52N1hYYXpDb0ZNaHRlaG1RMXgyY2ljVlZEUXlFX1VDN2U1NTNvVkR6bjdsbkk0aw?oc=5",
+            "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTFB6X09xZ0RqRkFiUzdJTWoxM2g1eE9BTFoyMTZJTEFrRDFnUEJkdDVxYW54WUxxX3lwRmItUnNtbEo2aF9BMXJCMXVIRlY2SFE?oc=5",
             "category": "IT_Biz",
-            "published": "2026-09-22T23:19:29.180960"
+            "published": "2026-09-23T23:15:57.610715"
         },
         {
-            "title": "뉴욕 월가, AI 데이터센터에 갈수록 회의적… IPO 연기 늘어",
+            "title": "韓이 223억달러 전액 투자 텍사스 발전소, 美는 지분 절반 요구",
             "points": [
-                "세계 금융의 중심지인 뉴욕 월가에서 AI 데이터센터 투자에 대한 회의론이 확산되고 IPO 연기가 늘어나는 것은 AI 산업 전반의 자금 조달 및 성장 전망에 부정적인 신호입니다.",
-                "이는 AI 인프라 구축 비용, 전력 문제, 수익성 등에 대한 시장의 신중한 접근을 보여주며, AI 관련 기업들의 투자 유치 전략에 변화를 요구할 것입니다."
+                "이 뉴스는 한국의 대규모 해외 에너지 인프라 투자(223억 달러)와 관련하여 미국 정부가 지분 절반을 요구하는 국제적인 경제 및 외교 분쟁을 다루고 있습니다.",
+                "이는 국가 간 대규모 투자 프로젝트의 리스크 관리, 에너지 안보, 그리고 국제 통상 및 외교 관계에 중대한 영향을 미칠 수 있는 정책적 변화를 시사합니다."
             ],
-            "link": "https://news.google.com/rss/articles/CBMiRkFVX3lxTE9DNDJGT243enpzT2dfVEhNcFN6QzV6WDFtYWhpR3N3RFJsLVZfLVI4MjNxSjZ1b1FpSlNocGJKdmM0Zkhqemc?oc=5",
+            "link": "https://news.google.com/rss/articles/CBMid0FVX3lxTFBzUWNFUmhGakZiRG4xODZqbXVlNGQ2SXpwVTAyeGViOGRqODZRdzZYTXRYVGNiaUdDMGQ2UVN1RGZwVjlxM19wT1dIbUxIejF1RTlQSDRSUXRFTkg0RzJBcTQtSVZhR083bUN5QUF2T0phaWdYUnVz0gFmQVVfeXFMUDRIR193c2VkVGVlSnRydWlHeTVUbHRrcG1wRE9helhaY2NoZnVmRWFfaTItNjN2Zi1wd1RqRGJBem5uR3NuQkFVd1ludVBEN0l1V01PY21QS3hENzgzaGFpYXdrSUF3?oc=5",
             "category": "IT_Biz",
-            "published": "2026-09-22T23:19:29.180967"
+            "published": "2026-09-23T23:15:57.610722"
         },
         {
-            "title": "“엔비디아 잘난 척도 끝이다”…알리바바 신형 AI칩 어느 정도길래",
+            "title": "오픈AI, 'GPT-6 솔·루나' 공개…\"필요한 성능만 올리고 가격은 반값\"",
             "points": [
-                "알리바바의 신형 AI칩 출시는 엔비디아가 독점하다시피 한 AI 반도체 시장에 강력한 경쟁 구도를 형성하며, AI 하드웨어 생태계의 판도를 바꿀 잠재력을 가집니다.",
-                "이는 AI 칩 기술 혁신을 가속화하고, AI 개발 비용 절감 및 다양한 AI 서비스의 등장을 촉진할 수 있는 핵심 기술적 변화입니다."
+                "이 뉴스는 선도적인 AI 기업 오픈AI가 새로운 AI 모델 'GPT-6 솔·루나'를 공개하며 성능 향상과 함께 가격을 절반으로 낮춘 혁신적인 전략을 발표한 소식입니다.",
+                "이는 AI 기술의 대중화와 접근성을 크게 높여 AI 산업의 판도를 바꿀 수 있으며, 경쟁사들에게도 가격 및 성능 경쟁을 촉발하여 시장 전반에 영향을 미칠 것입니다."
             ],
-            "link": "https://news.google.com/rss/articles/CBMiRkFVX3lxTE9HOEFxV1U4VlA2cDYtbE1yY25BNjVwOU9QTFBGSEI0VnBQLWxyRDJ5eUFwR05sb3plQXVfc3VOZzZpaWFLRXc?oc=5",
+            "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTFBmZjA3N1B2Q09GbXU5YW5NZXd0cHhJWDlMWFppeWlCMDF0V29qUFgtdDMyTGt2d3ljQzYyQlpyNHM4aEFhTjAzOFhXXzFzbXlEcmJqNS15WTVPeFh5OUYyNEVVMXQwRmZrVWc?oc=5",
             "category": "IT_Biz",
-            "published": "2026-09-22T23:19:29.180968"
+            "published": "2026-09-23T23:15:57.610724"
         },
         {
-            "title": "챗GPT보다 75배 빠른데 비용은 170분의 1… ‘판단 전용’ AI 돌풍",
+            "title": "정부 \"원전 공론화\"… 반도체 전격전 한다면서 전력 수급은 늦춰",
             "points": [
-                "기존 AI 모델 대비 압도적인 속도와 비용 효율성을 가진 '판단 전용' AI의 등장은 AI 기술의 상업적 활용 가능성을 크게 확장하는 혁신적인 서비스 출시입니다.",
-                "이는 특정 목적에 최적화된 AI 모델 개발의 중요성을 부각시키며, AI 서비스의 대중화와 다양한 산업 분야로의 적용을 가속화할 기술적 변화를 예고합니다."
+                "이 뉴스는 한국 정부의 원전 정책 공론화와 반도체 산업 육성 전략 간의 전력 수급 불균형 문제를 지적하는 중요한 정책 관련 소식입니다.",
+                "국가 핵심 산업인 반도체의 안정적인 성장을 위한 전력 공급 문제와 에너지 정책 방향이 상충될 수 있음을 보여주며, 이는 장기적인 국가 산업 경쟁력에 중대한 영향을 미칠 수 있습니다."
             ],
-            "link": "https://news.google.com/rss/articles/CBMigwFBVV95cUxOVXdDZEVZU2x0MWtWTWF0UW0zUld4STdWSmtSOHZfc25LQVlzWTQteDlFSVhpMVo3QTcyVndIV2REU0pBVjEtS1hrSy00NFZvLW5xb2I3N0wwZDFtaUYyVXpOa3pYV3BOOHB4eHZ6Sm82OTRtM1V0Q0hWako0clZEY2VtYw?oc=5",
+            "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxNY0pkSU5GUklJOUFJNkZ1cXVxaHdOZXFhMjZvMGwtWlkxa3pPNnVBVDB2R3ZWNVZhLVl6ZmtCTXhpNUgyNmZXYUYyOE9JY2hPTWhsZmNxbXVNTnFoek5LRDJkWG1yZGVQSFE1MXVId29ndFZLbUlFTkFiTDVSQTYwdmxYN1lEMm1sRmZIekVn?oc=5",
             "category": "IT_Biz",
-            "published": "2026-09-22T23:19:29.180969"
+            "published": "2026-09-23T23:15:57.610726"
         },
         {
-            "title": "中 자본, 9200억원에 7조짜리 한국 IP 삼켰다",
+            "title": "삼성전자, 차세대 D램 'D0a' 로드맵 수정…하이브리드 본딩 앞당긴다",
             "points": [
-                "중국 자본이 7조 원 규모의 한국 지식재산권(IP)을 인수한 것은 국내외 콘텐츠 및 기술 IP 시장에 대규모 투자가 이루어지고 있음을 보여주는 중요한 경제적 사건입니다.",
-                "이는 한국 IP의 가치를 재평가하고, 향후 국내 IP 산업의 소유권 구조 및 글로벌 경쟁 환경에 중대한 영향을 미칠 전략적 변화를 의미합니다."
+                "이 뉴스는 삼성전자가 차세대 D램 'D0a' 로드맵을 수정하고 '하이브리드 본딩' 기술 도입을 앞당기는 등 메모리 반도체 기술 전략에 중대한 변화를 준 소식입니다.",
+                "이는 고성능 메모리 기술 경쟁에서 삼성전자의 리더십을 강화하고, 미래 반도체 패키징 기술의 방향을 제시하며 글로벌 반도체 산업의 기술 표준 및 시장 판도에 영향을 미칠 것입니다."
             ],
-            "link": "https://news.google.com/rss/articles/CBMigwFBVV95cUxNZGc1QlFTMF82UzhQQk9vTUJ2aUdsWUNHUTM1TGIyeVhBR2p6U09nNFJJUkZENUkxT2F1ZHZURkJ0OFFHVElyb3UzbHotVkhjU3E4Vzl0YUt2S0lRcG5EYjc4OUtESVVmMGxkbTlwbUF5cnFvRVZaQ3V6eGNWWFZMd1AxUQ?oc=5",
+            "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE9pNThjMmFVaXBrS05lOEtKZFZtejRyMmtZb0hIZE1NRmJQVGlYcTdENDlpcTR4eTlQMEI2RHAtcE13VGlndTVfSDlFYTZ6RFd0dXVZSGdR?oc=5",
             "category": "IT_Biz",
-            "published": "2026-09-22T23:19:29.180970"
+            "published": "2026-09-23T23:15:57.610727"
+        }
+    ],
+    "Economy": [
+        {
+            "title": "유엔 “냉전시기 핵무기급 위험” 지적에도…트럼프 “AI 규제 전면 거부”",
+            "points": [
+                "AI 기술의 미래 방향과 글로벌 규제 논의에 중대한 영향을 미칠 수 있는 소식입니다. 트럼프 전 대통령의 AI 규제 전면 거부 입장은 AI 산업의 발전 속도와 윤리적, 사회적 파급력에 대한 국제사회의 우려와 상충되며, 향후 AI 기술 패권 경쟁 및 정책 수립에 큰 변수로 작용할 것입니다.",
+                "AI 기술 개발 및 상용화 속도에 영향을 미칠 수 있는 주요 정책적 변화 가능성을 시사하며, 관련 산업의 투자 및 전략 방향에 직접적인 영향을 줄 수 있습니다."
+            ],
+            "link": "https://news.google.com/rss/articles/CBMiggFBVV95cUxQTGM3dzVsTTNKc0lFakRpc0ZGZEZuX3JaRS1BejRSd3hSSDFIQ3JUdldNc24yY0lJQ3JYckJzeklRbE9rV0NVbnVwbG9lakxiQnl5c1FRYldzQVlENjRYVDliZFJQeWU3Q0ozandIMDFUV2RpcTI0TU9KZWdpdlRXeGJB?oc=5",
+            "category": "Economy",
+            "published": "2026-09-23T23:16:28.214066"
+        },
+        {
+            "title": "트럼프, 경유 수출금지 카드 꺼낼까…중간선거 걱정에 우왕좌왕",
+            "points": [
+                "미국이 경유 수출 금지 카드를 만지작거린다는 소식은 글로벌 에너지 시장에 막대한 파급력을 가질 수 있는 정책 변화 가능성을 시사합니다. 이는 국제 유가 및 에너지 공급망에 직접적인 영향을 미쳐 전 세계 경제에 불안정성을 초래할 수 있습니다.",
+                "미국 내 중간선거를 앞두고 에너지 정책이 정치적 도구로 활용될 가능성을 보여주며, 이는 국제 에너지 시장의 예측 불확실성을 높이는 주요 요인이 될 것입니다."
+            ],
+            "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTFB4NWg4enBxOUxQczViTUtuYjcwTEw5VzJXdldNRHdIaFJSZ2xDMXBOcTVuNjBVMWhKM19qYjl3R00tdTdQckR0d09LcTUtUzA?oc=5",
+            "category": "Economy",
+            "published": "2026-09-23T23:16:28.214073"
+        },
+        {
+            "title": "국제유가, 美·이란 긴장에 반등‥브렌트 3.9% 급등해 100달러선",
+            "points": [
+                "미국과 이란 간의 지정학적 긴장이 고조되면서 국제유가가 급등한 것은 글로벌 경제에 즉각적인 영향을 미치는 중대한 소식입니다. 유가 상승은 물가 상승 압력으로 작용하여 전 세계 인플레이션을 심화시키고 기업 비용 증가 및 소비 위축을 야기할 수 있습니다.",
+                "주요 산유국과 소비국 간의 역학 관계 및 지정학적 리스크가 국제 에너지 시장의 판도를 좌우할 수 있음을 보여주는 사례입니다."
+            ],
+            "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTE5KVG9KZHR0c1BwYm42alA1bUxZckZpenY5c0JQSmthaXNBSjZCTTBwQkVuZm5sZ0lWY01LdVhaYmV4bG90WllNY2MxSDEzR25oQVpCbnhqc0twU0djczRqQXE1ajFDLXRJOHZfQlBmZ2k1Znpv0gF0QVVfeXFMT1BmVG9pYjN6MTNoLU5ZbVJpdXFyU21adnMtSUxRVXVtUkxfOG1rakFfVmxmMHNzV3M5aUhvQ0tqQlRPV1V1R2xza3U0ZGFyVmQ3dWJHaklRajZjcmJ1RU4xSG5mbHFPektpWGg3bkROWWJETms?oc=5",
+            "category": "Economy",
+            "published": "2026-09-23T23:16:28.214074"
+        },
+        {
+            "title": "뉴욕증시, 美국채금리 급등에 약세…나스닥 1%대↓(종합)",
+            "points": [
+                "미국 국채금리 급등은 글로벌 금융시장의 자금 흐름과 투자 심리에 직접적인 영향을 미치는 핵심 경제 지표입니다. 이는 주식 시장의 약세로 이어져 전 세계 증시에 연쇄적인 영향을 미치며, 기업의 자금 조달 비용 증가 및 투자 위축을 초래할 수 있습니다.",
+                "미국 연방준비제도(Fed)의 통화 정책 방향과 글로벌 경제의 불확실성을 반영하는 중요한 신호로, 향후 금리 인상 가능성 및 경기 침체 우려를 높이는 요인입니다."
+            ],
+            "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE4zc2Vqb21ub3FmZ1B6M0twVkJyaGNtZzRhRGkxanBOMENGdjRYVXhndmg0TDFEUHBSWFNxM2s5NF9ad1A4RWgtRTBoZDhSV2s?oc=5",
+            "category": "Economy",
+            "published": "2026-09-23T23:16:28.214076"
+        },
+        {
+            "title": "OECD, 한국 성장률 전망치 3.7%로 대폭 상향 조정···G20 중 상향 폭 가장 커",
+            "points": [
+                "OECD가 한국의 경제 성장률 전망치를 대폭 상향 조정한 것은 한국 경제의 긍정적인 회복 신호이자 국제 사회의 높은 평가를 의미합니다. 이는 국내외 투자 심리를 개선하고 정부의 경제 정책 방향에 대한 신뢰도를 높이는 중요한 지표입니다.",
+                "G20 국가 중 가장 큰 상향 폭을 기록했다는 점은 한국 경제의 독자적인 회복력과 잠재력을 보여주며, 향후 국내외 기업의 투자 확대 및 고용 창출에 긍정적인 영향을 미칠 수 있습니다."
+            ],
+            "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFBIbmUxQi16dy1QaWM1cVZxZlFXZXNPeDZRQTJzSDctcWFnYnZGdlIzMUhmQ0JRZ1VHcEN4bE14T3BubGxZcGljeVREeGF3UmRIaVRIalowNmtBUdIBX0FVX3lxTE5OVXZ0bS1HRFBLWnEyMlYzTlRyRnRITDM4Z0xqSkE0WFlSUXdja1pkOWRlRHktUEU2U3NnOHo1RDBPaWdWYllncVFMNV9xSkJNTjlsVW5aLUhXQS1rUVlF?oc=5",
+            "category": "Economy",
+            "published": "2026-09-23T23:16:28.214077"
         }
     ],
     "World": [
         {
-            "title": "트럼프 유엔 연설 “이란, 합의냐 전멸이냐 결정해야…선거 후 합의 믿어” - 한겨레",
+            "title": "[속보]시진핑 11년 만의 국빈 방미 시작…트럼프, 파격 공항 영접 - 한겨레",
             "points": [
-                "도널드 트럼프 전 미국 대통령의 유엔 연설은 미국의 주요 외교 정책 방향, 특히 이란 핵 합의에 대한 강경한 입장을 보여주는 중요한 발언입니다.",
-                "이는 중동 정세와 국제 핵 비확산 체제에 큰 영향을 미칠 수 있는 정책 변화를 시사하며, 향후 미국 대선 결과에 따라 이란과의 관계 및 국제 유가 등 경제적 파급 효과를 가져올 수 있습니다."
+                "미국과 중국 두 강대국 정상의 11년 만의 국빈 만남은 글로벌 정치, 경제, 안보 질서에 중대한 전환점이 될 수 있는 핵심 외교 이벤트입니다.",
+                "무역 갈등, 기술 경쟁, 지정학적 긴장 등 양국 간 주요 현안에 대한 논의를 통해 세계 경제 및 국제 관계의 향방에 큰 영향을 미칠 것으로 예상됩니다."
             ],
-            "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTFBWamZ4V21kLVlJWVlBNjZwOTViYjIzS01QdW45Y1hHWmlvemNTeW9sWFdKZGpNSll3M3lfT0V1c1k2Yjg3bjhLMkNyQ09xUlJYdFU5ck5SV2FUbmd5N1piM1kxVHB2Skpuc2I2Mjh4UQ?oc=5",
+            "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTE5aVk9ISUJaWmhtR0lKc1dsMzdtNFJ0SlpoVG5VQjNmT0swWFZ3dlFCZElPRUZqWTJQWjNhek54TkwzOEZabG9fQ2EzLXhnVXRpamxwZ2szX3ppQ3VjbVprWUNyeVZ3X0c0WGJtMGQ2Yw?oc=5",
             "category": "World",
-            "published": "2026-09-22T23:22:32.408014"
+            "published": "2026-09-23T23:17:04.062879"
         },
         {
-            "title": "젤렌스키 “러시아와 어떤 형태의 에너지 휴전도 준비돼 있어···무의미한 전쟁 겨울 전에 끝나야” - 경향신문",
+            "title": "美·이란, 유엔총회 계기 고위급 회담… 트럼프 \"매우 좋은 만남\" - 조선일보",
             "points": [
-                "볼로디미르 젤렌스키 우크라이나 대통령의 발언은 러시아-우크라이나 전쟁의 향방과 종전 가능성에 대한 국제사회의 관심을 집중시키는 핵심적인 메시지입니다.",
-                "에너지 휴전 제안은 유럽의 에너지 안보와 글로벌 에너지 시장에 직접적인 영향을 미칠 수 있으며, 전쟁이 겨울 전에 끝나야 한다는 언급은 인도주의적 위기와 국제 경제에 미치는 전쟁의 장기적 영향에 대한 우려를 반영합니다."
+                "미국과 이란 간 고위급 회담은 오랜 긴장 관계 속에서 중동 정세의 긴장 완화 및 핵 협상 재개 가능성을 시사하는 중요한 외교적 진전입니다.",
+                "트럼프 대통령의 긍정적 평가는 양국 관계 개선에 대한 기대를 높이며, 이는 국제 유가 안정 및 중동 지역 안보 환경에 직접적인 영향을 미칠 수 있습니다."
             ],
-            "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE9lTndWMG9UMVlTRG9ob1NEN2pmN3ctREVkSk5BeXRXb3dyX1B1aTFZakoyckIxU0ZubTl0czZvTDZ3RENMaVdkbzU4MXBtSVhxVE9BRThqYlJLd9IBX0FVX3lxTFB4MmJXdk5weHBZTnVjZzhub0Y3TjZ1eVA3TFN5dE85U19jRFd0VEk0Y1JUdW1QZEo5R2NFQTBsWWxkUnRnRTMySjhXZ0N0YzdfT21yMWNIUTVodk1pYTJv?oc=5",
+            "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxOdWZKMnZOZnU0Z1FsVnZYcml3UE93VXdqOVFhZTBWYkpvTUgzNzhXa0czTnRELTRlSm1TV0x4RHhKMlBOWW0wb0l3R21IV0hxVHRlQTI2bFJ4bTlUZVVlOTVNbDBNQU83LVdHR1c2REFWNFpqSWZsZ20zdVJPcS1naDVMejU?oc=5",
             "category": "World",
-            "published": "2026-09-22T23:22:32.408021"
+            "published": "2026-09-23T23:17:04.062885"
         },
         {
-            "title": "[오늘의 1면 사진] 北, 극초음속 미사일 시험 - 한국일보",
+            "title": "“2차대전 패전 ‘적국 조항’ 삭제해 달라”… 다카이치 첫 유엔 연설서 中 견제 나서 - 동아일보",
             "points": [
-                "북한의 극초음속 미사일 시험은 한반도 및 동북아시아 안보 상황에 직접적인 위협을 가하며, 국제사회의 대북 제재와 비핵화 노력에 중대한 영향을 미칩니다.",
-                "극초음속 미사일 기술 개발은 미사일 방어 체계를 무력화할 수 있는 잠재력을 가지므로, 역내 군비 경쟁을 촉발하고 국제 안보 질서에 변화를 가져올 수 있는 기술적, 군사적 파급력이 큽니다."
+                "일본의 유엔 헌장 '적국 조항' 삭제 요구는 제2차 세계대전 이후 형성된 국제 질서에 대한 일본의 새로운 입장 표명으로, 동아시아 안보 환경 및 국제법적 지위에 영향을 미칠 수 있습니다.",
+                "유엔 연설에서 중국을 견제하는 발언은 일본의 외교 정책 방향을 명확히 하며, 역내 국가들과의 관계 및 국제 협력 구도에 변화를 가져올 수 있습니다."
             ],
-            "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTE5vZXJUQmxCRmU0MDB6TU9mdUVEa2xVLUhlY0hyUTQ2R0RfMElMR1ZHcUR1NjNxSGxkem5XQm9zWTJ2eGF5WGMxTmJfa0MxZnhxa2p2QXZ5YUxVN3oxZThBNTg5R2V0Wlp2Nm01Qldn0gFzQVVfeXFMTUQycktqTUVSamtCZUFkckRxZDVoclZ3b3pVR0R3VGxOU2lGalFITWtZRUZoMHpPNWo5MUR0ZVVHYVZpSDhsWGV3bFVleGJJbzAtdE5mZTVDV1htY1FJcGkyV3Q4QktRa0VjV1BMZEdLWWdEbw?oc=5",
+            "link": "https://news.google.com/rss/articles/CBMic0FVX3lxTE9UMDlZcTJtSVVaQzNfV0FUS2U1XzJ0Z3gwODJxQnZFRmttVzh3TkdDbUxzSVVyUkZkWFEwNWxzX2ZGM19ZOFUyLTVVamhqSkVBc2dSU2VGOGJIcy1XTVZhemR6akpzd2dmSi0yTXVEM0lBV3fSAWZBVV95cUxQUEVVREJFMlhucXZDNmNMeTFJV19ISEdGMmNGY1JxRnhGMFktRjVkbGp6OFc4OEpoc052SEtMV0Z0cklNa3g2UVZSQTNiNDhiZEZ3ZU1vRFlZdzQ3MFpwbXA4MTZ6d2c?oc=5",
             "category": "World",
-            "published": "2026-09-22T23:22:32.408022"
+            "published": "2026-09-23T23:17:04.062887"
         },
         {
-            "title": "한·미·일, 美서 외교장관 회담… \"대만해협 평화·안정 유지 중요\" - 조선일보",
+            "title": "트럼프 “AI 규제 반대” 마크롱 “독자 생태계 추진” - 동아일보",
             "points": [
-                "한·미·일 외교장관 회담은 동북아시아 및 인도-태평양 지역의 안보 협력 강화와 중국 견제라는 큰 틀에서 매우 중요한 외교적 움직임입니다.",
-                "대만해협의 평화와 안정 유지는 글로벌 공급망, 특히 반도체 산업에 결정적인 영향을 미치며, 미·중 갈등의 핵심 전선 중 하나로서 국제 정세의 주요 변곡점이 될 수 있는 정책적 중요성을 가집니다."
+                "주요국 정상들의 AI 규제 및 개발 방향에 대한 상반된 입장은 인공지능 기술의 미래 발전 경로와 글로벌 산업 생태계 형성에 결정적인 영향을 미칠 수 있습니다.",
+                "미국의 '규제 반대'와 프랑스의 '독자 생태계 추진'은 각국의 기술 주도권 경쟁을 심화시키고, AI 산업의 국제적 표준화 및 윤리적 기준 마련에 중요한 논의를 촉발할 것입니다."
             ],
-            "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxQR0xGR1BfeWJVVU1UTlNYT3FGRjVQRE8xY3BtN1FVMFVQT2VQUWVsS2dWazFueFpSVjAxSVRSQXg1ekZiQWtnd2lwcWhhaEZvOTJRbG42NG04aEVaTVlRWTJNZ2ZIdWY4VWJSTEZDeWZSQzdmTEtaMGxtaW5hZWFVa3Y5dzQ?oc=5",
+            "link": "https://news.google.com/rss/articles/CBMic0FVX3lxTE9vU2pmQzZoUFJBT2E3WGYwTENFdmhIdFQ3N2JNNWhpc2ZRTWZqWS1TclR5QmltZ0VocjRaRmNNTXNHWHBJNVNZODE2THZpNEpkYTBsallYbWNWdUg3WW0za0RXMjRIZzVHVzU1WnhlOThmYWfSAWZBVV95cUxQbFBZT2F6Tlo5YWNEODZHT2d3OGd1LWVrRWEyX2JLSmZHNjgtdE42Tlhfbkc2WE5WeEtqX2JNR2wwUUJTNm8xTFp5QTNkN3VZMVVrQ04xMkdwSE9yRFJiUVlqT1RudkE?oc=5",
             "category": "World",
-            "published": "2026-09-22T23:22:32.408022"
+            "published": "2026-09-23T23:17:04.062888"
         },
         {
-            "title": "러, 우크라 점령지서도 총선… 군인들이 투표함 들고 마을 돌았다 - 조선일보",
+            "title": "트럼프 “김정은과 좋은 관계”…시진핑에 北 중재 요청하나 - 동아일보",
             "points": [
-                "러시아가 우크라이나 점령지에서 총선을 강행하는 것은 국제법을 위반하고 우크라이나의 주권을 침해하는 행위로, 국제사회의 강력한 비난을 받고 있습니다.",
-                "이는 전쟁의 장기화와 러시아의 점령지 합병 의지를 보여주는 것으로, 향후 전쟁의 외교적 해결 가능성을 더욱 어렵게 만들고 국제 질서에 심각한 영향을 미치는 중요한 정치적, 군사적 사건입니다."
+                "트럼프 대통령의 김정은과의 관계 언급 및 시진핑에 대한 북한 중재 요청 가능성은 북한 비핵화 협상 재개 및 한반도 평화 프로세스에 새로운 동력을 제공할 수 있는 중대한 외교적 움직임입니다.",
+                "미중 간 북한 문제 협력은 동북아시아 안보 질서에 중대한 영향을 미치며, 북한의 비핵화 로드맵 및 국제 사회의 대북 정책에 변화를 가져올 수 있습니다."
             ],
-            "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxOeWgyNE1KcFQzYTktMFFBVDF3TUVZeWgtSUttRTd0MEx0cERKYy14Z1Y4S1JlV3RkSkJZTEh1bld3RnpqUjRFSE5mdmJ2d1k5RlJVb2Y4Ri1SSUJaaVl5cHg0ZXROX0Zrc2V3X1VGNWNucnhqVk5mYl93eDBoVTVVQ1V5ZlVQOVVpYlk4VEM1NmJ2dklveG41ZGx3NWFUZw?oc=5",
+            "link": "https://news.google.com/rss/articles/CBMid0FVX3lxTFBuUUpkOHlrWEozbHFQMnJ6ZnFEaG8zb1Eyb052cURNbEFZOUwtVW95SGJnQWswanQweVZTMkpXQWVsblFreHkzRWdZRWluZ1BFbkxZc1hHTEVsZWhxbmRYM3FVSTBnOUh2aW5oRUlYbHlhNXl5Z0xn0gFmQVVfeXFMUE9sYWJONDZxSzZHb25HYk1PVlhoeGM2THJQTS0zeHNrR1JsaEJqQ0FkZDRiUHFhQVJZckFlSkJQSDZRcjlqZ0ZMR3FnMzVuMWZ6ejQyaWNFWTJwcXlBdGc0Q005X21R?oc=5",
             "category": "World",
-            "published": "2026-09-22T23:22:32.408023"
+            "published": "2026-09-23T23:17:04.062889"
         }
     ]
 }
