@@ -1,158 +1,54 @@
 {
-    "AI_Tech": [
+    "IT_Biz": [
         {
-            "title": "현대차그룹, 전국 고속도로서 피지컬 AI·지능형 충전 기술 실증",
+            "title": "[단독] 미국서 쫓겨난 '中 CCTV'…군대에 쫙 깔렸다 '초비상' - 한국경제",
             "points": [
-                "글로벌 자동차 대기업 현대차그룹이 한국도로공사와 협력하여 실제 고속도로 환경에서 피지컬 AI(로봇 기술)와 차세대 전기차 충전 인프라를 실증하는 대규모 프로젝트입니다. 이는 AI 기술이 실제 물리적 세계와 상호작용하는 '피지컬 AI' 분야의 중요한 진전입니다.",
-                "고속도로를 '로봇 실험실'로 활용하여 자율주행 로봇, 물류 로봇 등 피지컬 AI 기술의 실용성을 검증하고, 미래 모빌리티의 핵심인 지능형 충전 시스템을 구축합니다. 이는 물류, 유지보수, 이동 서비스 등 다양한 산업에 혁신을 가져오고, AI가 단순 소프트웨어를 넘어 실제 생활에 깊숙이 통합되는 글로벌 트렌드를 보여줍니다."
+                "미국 정부가 안보 위협을 이유로 퇴출한 중국산 CCTV 장비가 미군 시설에 광범위하게 사용되고 있다는 단독 보도로, 국가 안보와 기술 공급망의 중요성을 부각하는 중대한 이슈입니다.",
+                "미중 기술 패권 경쟁 심화와 이에 따른 글로벌 공급망 재편, 그리고 주요 인프라 보안 강화 필요성 등 IT 산업 및 국제 경제에 광범위한 영향을 미칠 수 있는 정책적, 기술적 변화를 시사합니다."
             ],
-            "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE1aQzR1alprUHhEZ25jUC1CN01xa0ZlQVZ6QjAtcE5sVF9yOHduQXNhaGVUZWFiZWdFTERDZ0FSZGZHWU1FUlROUnVGVnJLU3ZyaW4yT2JGcThrR29xZ0MxWWM1dzViUkNyYVE?oc=5",
-            "category": "AI_Tech",
-            "published": "2026-10-02T00:17:22.105936"
+            "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE1QcThwV3J4R0lTUnpPOFl2M2pmdGVpOVkya2ZkWTdBN2RUZDN1WXpkYld1ZTBvODh0MjY3TURoMjgwUkJEQ1pSaHNGd3ZaREYwZUlSOFB2Nm9ZZw?oc=5",
+            "category": "IT_Biz",
+            "published": "2026-10-03T23:28:24.234313"
         },
         {
-            "title": "인트·LG CNS, 피지컬 AI 기술협력 업무협약 체결",
+            "title": "스페이스X, 호재 폭발 7.35% 급등...13시간 동안 3연속 로켓 발사 성공 - 글로벌이코노믹",
             "points": [
-                "국내 주요 IT 서비스 기업인 LG CNS가 피지컬 AI 기술 협력을 통해 이 분야에 대한 투자를 확대하고 있습니다. 이는 대기업의 AI 기술 내재화 및 신사업 진출을 의미하며, 피지컬 AI가 특정 기업을 넘어 산업 전반으로 확산되고 있음을 보여줍니다.",
-                "LG CNS와 인트의 협력은 로봇, 자율 시스템 등 물리적 환경에서 작동하는 AI 기술 개발을 가속화할 것입니다. 이는 스마트 팩토리, 물류 자동화, 서비스 로봇 등 다양한 산업 분야에서 생산성 향상과 새로운 비즈니스 모델 창출에 기여하며, AI의 실질적인 산업 적용을 촉진합니다."
+                "스페이스X가 13시간 내 3연속 로켓 발사에 성공하며 상업 우주 산업에서의 독보적인 기술력과 운영 효율성을 입증한 소식입니다. 이는 우주 운송 비용 절감 및 위성 인터넷(스타링크) 확장 등 관련 산업의 판도를 바꿀 잠재력을 보여줍니다.",
+                "재사용 로켓 기술의 상용화와 발사 빈도 증가는 위성 통신, 우주 탐사, 국방 등 다양한 분야의 발전을 가속화하며, 민간 우주 경제의 성장을 촉진하는 핵심 동력으로 작용합니다."
             ],
-            "link": "https://news.google.com/rss/articles/CBMigwFBVV95cUxPakh6Qm1OLUtRQ2ZPMEMycmJaczVfeHY3aEFtRlowQlRnVXJ0cjJ2VXdkN3hvQ1FCWTJ2aEloWVF2N01ocG5WYzZnNEpwZ0ZDS2huSG90UFZpUFpETEs3RXNNZ1ZoZ21LQzhub2o5T1Q4b1pYSU9ZTDRLMzViRmJkNE92UQ?oc=5",
-            "category": "AI_Tech",
-            "published": "2026-10-02T00:17:22.105943"
+            "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxOUGdWd0FWSS02M29jc2NsSUoybkZjSUtwRllJRi1pTks5Wm5mdmlfVDNyT2RYXzM3dU16UHI0R1A0VVplUVpDX2FKVThFaFBLdW82bjNYZVYtWldEc1N3cWNHZWVMYkR5cjYzRS15T0swRnNFWDlORm81MWUzNHk3bFd1UlpxNWc2?oc=5",
+            "category": "IT_Biz",
+            "published": "2026-10-03T23:28:24.234320"
         },
         {
-            "title": "전북대, 국가 피지컬 AI 본사업 핵심 연구·실증기관에 선정",
+            "title": "Nintendo Switch 2 소프트웨어 『젤다의 전설 시간의 오카리나』 패키지 버전 예약 판매 일정 및 조기 구입 특전 안내. 특별한 디자인의 Nintendo Switch 2 본체와 주변기기도 예약 판매 개시. | News | 한국닌텐도주식회사 - Nintendo",
             "points": [
-                "전북대학교가 국가 주도 피지컬 AI 본사업의 핵심 연구 및 실증 기관으로 선정된 것은, 정부와 학계가 피지컬 AI 분야를 국가 전략 기술로 육성하려는 의지를 보여줍니다. 이는 국내 AI 연구 역량 강화와 인재 양성에 중요한 역할을 할 것입니다.",
-                "대학 연구기관이 국가 사업을 통해 피지컬 AI 원천 기술 개발 및 실증에 참여함으로써, 이론적 연구와 실제 적용 간의 간극을 줄이고 기술 상용화를 앞당길 수 있습니다. 이는 미래 로봇 산업, 스마트 도시 등 다양한 분야의 기술 발전을 위한 기초를 다지는 중요한 단계입니다."
+                "글로벌 게임 시장의 주요 플레이어인 닌텐도의 차세대 콘솔 '닌텐도 스위치 2' 본체 및 주변기기 예약 판매 개시는 전 세계 게임 산업 및 IT 하드웨어 시장에 큰 파급력을 가집니다.",
+                "새로운 콘솔 출시는 하드웨어 기술 혁신뿐만 아니라 게임 소프트웨어 개발 생태계, 관련 액세서리 시장, 그리고 경쟁사들의 전략에도 영향을 미치며, 향후 수년간 게임 시장의 트렌드를 주도할 핵심적인 변화입니다."
             ],
-            "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTFBDWGpLb3ZyQnNGdTJkMnZrX2k3bHZ6Q1JGRUhFUWxLNEY1N2dFeVhCUm1SbUExYWdid3JSVjRoc2drZWxaZjg3M3RvS1BRS25NN1RTWVlscEprQVhOYkdUVk45eGRXM3lRSGl4VA?oc=5",
-            "category": "AI_Tech",
-            "published": "2026-10-02T00:17:22.105945"
+            "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTFBxWi1uWkxTRGtCRnlLN1YwTC1qOXZ6SWNfMkY2QVJoWWNIWVFaUkNyTXBlMWZRWjhsTFNpYmtRMXd4cnBpNU1SZnNua0ZuZ05vNncya2swNHlRLTJDZkx1T1B3WDZ3RmhZQ2ZBaERoYkU?oc=5",
+            "category": "IT_Biz",
+            "published": "2026-10-03T23:28:24.234322"
         },
         {
-            "title": "“AI 기술만으론 못 이긴다, 특허를 선점하라”... 정부·기업 ‘K-AI 특허 원팀’ 출범",
+            "title": "드릴로 나무 뚫고 너트 조이고…아틀라스, 사람처럼 공구 쓰는 ‘손재주’ 선보여 - 조선일보",
             "points": [
-                "정부와 국내 주요 기업들이 'K-AI 특허 원팀'을 출범시킨 것은, AI 기술 경쟁에서 단순 기술 개발을 넘어 지식재산권 확보가 핵심적인 요소임을 인지하고 국가적 차원에서 대응하는 전략적 움직임입니다. 이는 국내 AI 산업의 장기적인 경쟁력 확보에 필수적입니다.",
-                "AI 기술의 글로벌 패권 경쟁이 심화되는 가운데, 특허 선점은 기술 주도권을 확보하고 미래 시장을 선점하는 중요한 수단입니다. 이 협력은 국내 기업들이 AI 분야에서 독자적인 기술력을 보호하고, 글로벌 시장에서 우위를 점할 수 있는 기반을 마련하여 경제적 가치 창출에 기여할 것입니다."
+                "보스턴 다이내믹스의 휴머노이드 로봇 '아틀라스'가 사람처럼 정교하게 공구를 사용하는 시연을 선보인 것은 로봇 공학 및 인공지능 분야의 중대한 기술적 진보를 의미합니다.",
+                "이는 로봇의 산업 현장 적용 가능성을 크게 확장하고, 제조업, 건설업 등 다양한 분야의 자동화 및 생산성 향상에 혁신적인 변화를 가져올 잠재력을 보여주는 핵심 기술 발전입니다."
             ],
-            "link": "https://news.google.com/rss/articles/CBMiSEFVX3lxTE9JVjZRUjVMWjJoODRzZ0lrRnU4bkpvT09NeVBrN0V3cU9zdnVGZ2R2ZmhHNnpHRDl6dEZ5Q19NSFI3QTlKZ3pWcg?oc=5",
-            "category": "AI_Tech",
-            "published": "2026-10-02T00:17:22.105945"
+            "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE4zaUFyU2YyeWZteFJCMUZEMFBYOXlrejdqQk9fQUVIeExkczd4d21NTkpScGkCRmlwQTFOWlo5WHljaF9tWm5ZLUpuMlFvSVk5Qm5Gb3VtRDRfcnBJMk84MGNNWjVQa0VVdy1CbnRxaTJ0M2ttX3NOTEg0dmFRckE?oc=5",
+            "category": "IT_Biz",
+            "published": "2026-10-03T23:28:24.234322"
         },
         {
-            "title": "씨젠 기술공유 플랫폼, 코파일럿으로 연구·개발 속도 높였다",
+            "title": "“이번엔 30조원 풀린다”…특별배당 앞두고 관심 몰린 삼성전자 [빅데이터로 본 재테크] - 매일경제",
             "points": [
-                "바이오 기업 씨젠이 마이크로소프트/오픈AI의 '코파일럿'과 같은 생성형 AI 도구를 연구 개발에 활용하여 효율성을 높였다는 소식은, 글로벌 빅테크 기업의 AI 기술이 특정 산업을 넘어 다양한 분야에서 실제적인 생산성 혁신을 이끌고 있음을 보여주는 중요한 사례입니다.",
-                "코파일럿과 같은 AI 도구는 복잡한 데이터 분석, 코드 작성, 문서화 등 R&D 과정의 반복적이고 시간이 많이 소요되는 작업을 자동화하여 연구원들이 더 창의적이고 핵심적인 업무에 집중할 수 있게 합니다. 이는 바이오 산업뿐만 아니라 전 산업 분야에서 AI를 통한 업무 혁신과 비용 절감, 그리고 신기술 개발 가속화를 가져올 수 있는 잠재력을 보여줍니다."
+                "글로벌 IT 기업 삼성전자의 30조 원 규모 특별 배당은 국내외 주식 시장과 투자자들에게 막대한 영향을 미치는 대규모 금융 이벤트입니다. 이는 기업의 재무 건전성과 주주 환원 정책의 중요성을 부각합니다.",
+                "이러한 대규모 자금 유동성 증가는 국내외 경제 전반에 영향을 미칠 수 있으며, 다른 대기업들의 주주 환원 정책에도 영향을 줄 수 있는 중요한 경제적 변화입니다."
             ],
-            "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTFB1OHl1aTZGUm52U2Ruc0x6dVpkTFBmOFlpQ2FmM2lmbFVoVk1fRjg4bU9JSTNRN2xFaGVRTDhxaG1RbGpSLVhfejE3d3Z5MzU4WEk5NXVwVjJvYTZUM0FiT0FYZzcxcnBrdw?oc=5",
-            "category": "AI_Tech",
-            "published": "2026-10-02T00:17:22.105946"
-        }
-    ],
-    "Economy": [
-        {
-            "title": "260조 美원전·가스전·파이프라인..두산에너빌·철강 잭팟 기대 - v.daum.net",
-            "points": [
-                "미국 내 260조 원 규모의 대규모 원전, 가스전, 파이프라인 건설 프로젝트는 글로벌 에너지 시장과 인프라 산업에 막대한 영향을 미칠 중대한 투자 소식입니다.",
-                "두산에너빌리티 등 한국 기업의 참여 가능성은 국내 중공업 및 철강 산업에 대규모 수주 기회를 제공하며 경제적 파급 효과가 큽니다."
-            ],
-            "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE9PQWw4cnZWM2RGMHJsMlBQVC1BWG84Wml1MXV1clh3Wnpid2FGakgzbTNGZ254a2JsbVlZZk1xNGRRNXZUNWVtRzUzeUJoUjQ?oc=5",
-            "category": "Economy",
-            "published": "2026-10-02T00:17:59.130332"
-        },
-        {
-            "title": "[속보] 9월 소비자물가 상승률 2.9%‥다시 2%대로 내려와 - MBC 뉴스",
-            "points": [
-                "소비자물가 상승률이 다시 2%대로 진입한 것은 인플레이션 압력 완화의 신호로, 중앙은행의 통화정책 방향과 가계의 실질 구매력에 직접적인 영향을 미치는 핵심 경제 지표입니다.",
-                "이는 금리 인상 사이클의 종료 기대감을 높이고, 전반적인 경제 활동과 소비 심리에 긍정적 또는 부정적 영향을 미칠 수 있는 중요한 거시경제적 변화입니다."
-            ],
-            "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTE54Z0ZHejBFQXdFSExLLURsc2Z0NWtfbF9LTnAybUdBOGtaYnAtUUwwcVlXNVYwU1UyUG81VWNvV25TdlljZkNVMzdpSHhWNUFFekFWX3JiRzJreUExbVBUVEVaM2hqUWhJOHpsNl9IWVJHVG9t0gF0QVVfeXFMUGVYdVZvMlJXaHItZHNfeGc1YnRXVHVIRHNrVG9xVk93ZXhrQXFYQ2RLUEpNTkh4Nmwyb3VoNVhaNXFTRmczY1lLaWRKXy1uY0l4WFJ3WW9wMHJGOVc2WklFOVNxMTFkRVU3bDJxX0xRUHp5OHY?oc=5",
-            "category": "Economy",
-            "published": "2026-10-02T00:17:59.130339"
-        },
-        {
-            "title": "미 캘리포니아 주, 오픈AI에 소환장...AI해킹·안전성 조사 - YTN",
-            "points": [
-                "세계적인 AI 선도 기업 오픈AI에 대한 캘리포니아주의 소환장 발부는 AI 기술의 안전성과 윤리적 문제에 대한 규제 당국의 개입이 본격화되고 있음을 보여줍니다.",
-                "이는 AI 산업 전반의 개발 방향, 투자 환경, 그리고 미래 서비스 출시에 중대한 영향을 미칠 수 있는 정책적/규제적 변화의 시작을 알리는 신호입니다."
-            ],
-            "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE1KYmJqR3djSDBfTFJXbzgzbl9mZW5hOTJodERlU01CeFRJVHNTOWJQUnJqSTNheUh2RGpZQkd2azlLYllVOFFHSTNGOXRxOWRxV0VfTzJ2T2s2Wkltb3c?oc=5",
-            "category": "Economy",
-            "published": "2026-10-02T00:17:59.130340"
-        },
-        {
-            "title": "“중국 정유사들, 10월부터 석유제품 수출 중단” - KBS 뉴스",
-            "points": [
-                "세계 최대 에너지 소비국 중 하나인 중국의 석유제품 수출 중단은 글로벌 에너지 공급망에 큰 충격을 주며 국제 유가 및 관련 산업에 직접적인 영향을 미칠 수 있습니다.",
-                "이는 중국의 자국 내 에너지 수요 관리 및 환경 정책 변화와 연관될 수 있으며, 전 세계 경제에 파급될 수 있는 중요한 지정학적, 경제적 결정입니다."
-            ],
-            "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFBtOTM0Vngzb1dnVElrbVFzX19SZGJVOXZPVVlFVmkzVGZULTk2MjlrTlptZTZzaGtGdXlCS0ZwRGZSNzlZeHV1enUzWFBRMmU1cE9FNl8ycU9tUUE?oc=5",
-            "category": "Economy",
-            "published": "2026-10-02T00:17:59.130340"
-        },
-        {
-            "title": "9월 수출 1200억달러 '초유의 기록'…'반도체·AI' 수퍼 사이클 - hankyung.com",
-            "points": [
-                "9월 수출액이 1200억 달러를 돌파하며 역대 최고치를 기록한 것은 한국 경제의 강력한 회복세를 보여주는 지표이며, 특히 반도체와 AI 산업의 '슈퍼 사이클' 진입을 시사합니다.",
-                "이는 글로벌 기술 시장의 변화와 한국의 주력 산업이 세계 경제에서 차지하는 비중을 재확인시켜주며, 향후 국가 경제 성장 동력에 대한 기대감을 높이는 핵심적인 경제 뉴스입니다."
-            ],
-            "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE1uVl9QUzY2cURpc1V2bnBRSzZyY0phRDRIZnNlbXlwM21XeEpaWTFRdmlFcTN0MFpBLWpVemdlMjhNNFVRR3VNd0xVLVBlNnFsUXhhNXhZTTMtQQ?oc=5",
-            "category": "Economy",
-            "published": "2026-10-02T00:17:59.130341"
-        }
-    ],
-    "World": [
-        {
-            "title": "러시아 드론, 학생들 내부 대피 키이우 학교 타격 - VOA 한국어 홈페이지",
-            "points": [
-                "러시아-우크라이나 전쟁의 지속적인 확전 양상과 민간인 시설 공격의 심각성을 보여주는 주요 국제 뉴스입니다.",
-                "민간인, 특히 학생들을 대상으로 한 공격은 국제사회에 큰 파장을 일으키며 인도주의적 위기를 심화시키는 요인입니다."
-            ],
-            "link": "https://news.google.com/rss/articles/CBMickFVX3lxTFBtVUQ5Ry15WDA5aUhiU2hFQ0d3SGhKU0NiMUxmbDRMQUJHaWJHWkJWWHdaUFh6Q0hrZmdxNHZnbDBEYXBsbVJsMVRDTE9qanJSa1kwMGwxYWI3S0hCdERJOTlkY1N5YjFZNmR0R3REY3ZzUdIBdEFVX3lxTE9nYkZkQnN4RFIyblozZzhkSlJuR3RXZFlVYUdQQ0F4QUgwMkZKS0tZTTRyVDg3bkFaNU9KM1NaZkRBbTd6bnhNUzN6UndRbGVFMXhUQVgwRHN0MHVRSjBPeG80cU00MkxreGxfTG1FcmZyaFRT?oc=5",
-            "category": "World",
-            "published": "2026-10-02T00:18:34.388454"
-        },
-        {
-            "title": "트럼프, 중간선거 앞두고 ’내란법 발동’ 가능성 시사 - 연합뉴스TV",
-            "points": [
-                "미국 중간선거를 앞두고 전 대통령이 '내란법' 발동 가능성을 언급하며 미국 민주주의와 정치적 안정성에 대한 심각한 위협을 시사하는 중대 소식입니다.",
-                "이는 미국 국내 정치의 극심한 분열과 혼란을 반영하며, 선거 결과에 따라 국가 시스템에 전례 없는 영향을 미칠 수 있는 잠재적 정책 변화를 암시합니다."
-            ],
-            "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE83M01FNXkxNjRwQldJM2hwNzBYU3MzZ0FfQjNFTUFINUZuYkRxSEFhMWRJRHpaS3pKeVpVMkRNT21IRnl0RVc4Vnhtblo4aDNiYWZTQ1oxeklRclBucGp0NmNId3E2WlU?oc=5",
-            "category": "World",
-            "published": "2026-10-02T00:18:34.388460"
-        },
-        {
-            "title": "러 “칼리닌그라드 봉쇄하면 핵무기 쓸수도”… 나토 “무책임한 위협… 전쟁 안풀려 심리전” - 동아일보",
-            "points": [
-                "러시아가 나토(NATO)와의 갈등 지역에서 핵무기 사용 가능성을 언급하며 국제사회에 전례 없는 긴장감을 조성하는 매우 심각한 지정학적 위기 소식입니다.",
-                "이는 러시아와 서방 간의 군사적 대치 수위가 최고조에 달했음을 보여주며, 세계 안보 질서와 에너지 시장에 막대한 영향을 미칠 수 있는 잠재적 위협입니다."
-            ],
-            "link": "https://news.google.com/rss/articles/CBMic0FVX3lxTE9DcVV1ZHRjVEtTSXlobVdqTzRqWEdKQUFfRDRnTkN0THlTZVpVTDYxSUdobGphM3pseEdJUXlfZV9kYjRSTjBkVnhwSGpnRnBSMWk4UjlBSGM1NFhyYXZiRXdYeGhRRmpCQzNRWHJ3bHctQlHSAWZBVV95cUxNSkhpZnZUdGtmR1FCa2pQTzZCSEV1MHlmTldIQ2NpUU95RG9zdmhNVHdHblByNzhHa1ZUellpdDJXR05YQ2pBRXdHQ0xkS05Ib0xFajZUa0ZIWUd1bGM5aFhXTXdHUFE?oc=5",
-            "category": "World",
-            "published": "2026-10-02T00:18:34.388461"
-        },
-        {
-            "title": "미국 해상봉쇄에 이란 원유 선적 ’0’…전쟁 이후 처음 - 연합뉴스TV",
-            "points": [
-                "미국의 강력한 해상 봉쇄로 이란의 원유 선적이 전무해진 것은 이란 경제에 치명적인 타격을 주며 국제 유가 및 에너지 시장에 막대한 영향을 미치는 중대 사건입니다.",
-                "이는 미국과 이란 간의 경제 전쟁이 최고조에 달했음을 보여주는 구체적인 지표로, 중동 정세와 글로벌 경제 판도에 큰 변화를 가져올 수 있습니다."
-            ],
-            "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE53aHRoc2o0Vnh5Q2hudkVoeXJvUTNBb0tKalVCYmxkX3RHMFZDeC1GYWZSMW5mdjJMRC1MYTBMVGl2RjJnc2txUnhzV1JJRHoycXdGYXVGZVRWdTNXWWg0UTdKOGtkeHc?oc=5",
-            "category": "World",
-            "published": "2026-10-02T00:18:34.388462"
-        },
-        {
-            "title": "젠슨 황·저커버그 vs 아모데이…백악관서 ‘AI 규제’ 두고 설전 - 한겨레",
-            "points": [
-                "백악관에서 주요 IT 기업 리더들이 AI 규제를 두고 논쟁을 벌이는 것은 인공지능 기술의 미래 방향과 글로벌 산업 표준에 대한 중대한 정책 변화 논의의 시작을 알립니다.",
-                "이는 AI 기술의 윤리적, 사회적, 경제적 영향력을 고려할 때, 전 세계 IT 산업의 판도를 바꿀 수 있는 혁신적인 서비스 출시 및 규제 환경 조성에 결정적인 역할을 할 것입니다."
-            ],
-            "link": "https://news.google.com/rss/articles/CBMiggFBVV95cUxQS0FKaFNhYTh5WjREVjJwSFo5ZE50b0tmb2k5cWxXRlBDQ2tkSGd4VnhXVnUwb19SUlVXd3gwVkRMZzJiLWxVbExSRS1NTFRyMTV1eFBEeTJ4OUpBdHhlT21NNnRiX2RzeG94SXdLZDNJcUJpTkw2eTljS1ZTUHZXM0VB?oc=5",
-            "category": "World",
-            "published": "2026-10-02T00:18:34.388462"
+            "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTFBHRXU5SGhRQ2NQUW9UcFU5U05ldEhkZW41bFZwcUsyUndSZk9WaEFGcXN0ZHhyUTZuVEpPNnA2dEJsQk56RWFIYVdLV0Y1MzNBVVE?oc=5",
+            "category": "IT_Biz",
+            "published": "2026-10-03T23:28:24.234323"
         }
     ]
 }
