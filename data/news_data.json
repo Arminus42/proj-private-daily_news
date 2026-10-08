@@ -1,54 +1,210 @@
 {
+    "AI_Tech": [
+        {
+            "title": "리사 수의 '한국 AI 승부수'…연구거점·반도체 동맹 구축",
+            "points": [
+                "글로벌 반도체 거대 기업 AMD의 CEO 리사 수가 한국에 AI 연구센터를 설립하고 수백 명의 인재를 채용하겠다고 발표한 것은, 한국을 AI 반도체 및 연구의 핵심 거점으로 삼으려는 AMD의 전략적 의지를 보여줍니다. 이는 글로벌 AI 기술 경쟁에서 한국의 위상을 높이는 중요한 움직임입니다.",
+                "AMD가 한국의 삼성, SK하이닉스와의 AI 반도체 협력을 확대하려는 것은 AI 가속기 시장에서 엔비디아에 대항하기 위한 중요한 전략입니다. 이는 차세대 AI 반도체 기술 개발과 공급망 안정화에 기여하며, 한국이 AI 반도체 생태계에서 더욱 핵심적인 역할을 하게 될 경제적, 기술적 변화를 의미합니다."
+            ],
+            "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFAxTUVUVkd4NTBCTmo5cFM0QjdKN2ZaSEpuV21qS2xFTloxZGMtSzZNZzZBckRuRUQ2MzdlUFNveUw3d083c3VCUkVYQW1pTWM3NEJOdjBlSkU0ZDTSAWBBVV95cUxQMS1jd0ZZMEpnTDE3aXg2QmNxVUphQ1BDV1oyaFRSN3JIYVRGQVktUkFMYVJjTlJKYmUzN0hidXBNQWY0UlNya09SaF9PdkxLd3hMc0UtV215UTVxbExORGY?oc=5",
+            "category": "AI_Tech",
+            "published": "2026-10-08T00:29:33.842586"
+        },
+        {
+            "title": "보스턴다이나믹스, '알렉사 AI' 이끈 로히트 프라사드 CEO 선임",
+            "points": [
+                "세계적인 로봇 공학 기업 보스턴 다이내믹스가 아마존의 '알렉사 AI' 개발을 이끌었던 로히트 프라사드를 새로운 CEO로 선임한 것은 매우 중요한 소식입니다. 이는 보스턴 다이내믹스가 단순한 로봇 하드웨어 개발을 넘어, 로봇에 더욱 정교하고 지능적인 AI를 통합하려는 강력한 의지를 보여줍니다.",
+                "AI 전문가를 CEO로 영입함으로써 보스턴 다이내믹스는 로봇의 인지 능력과 자율성을 획기적으로 향상시킬 것으로 기대됩니다. 이는 로봇이 인간과 더욱 자연스럽게 상호작용하고 복잡한 작업을 수행할 수 있도록 하는 기술적 전환점을 마련하며, 로봇 산업 전반의 AI 통합 가속화에 큰 영향을 미칠 것입니다."
+            ],
+            "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE5QdXNBc0N4d3hRRlZRbXYxaWNNelpRckFLRzREekNfNFJqaF9uMFF5OFB5bjZ5LVRhbm53elFMdHliTzZTYjJHemZSRS1aeGlraFA5WTBB?oc=5",
+            "category": "AI_Tech",
+            "published": "2026-10-08T00:29:33.842593"
+        },
+        {
+            "title": "생성형 AI 기술로 피부질환 진단 정확도 높인다",
+            "points": [
+                "특정 기업의 발표는 아니지만, 생성형 AI 기술이 피부질환 진단과 같은 의료 분야에 적용되어 정확도를 높인다는 소식은 AI의 실질적인 사회적 가치와 파급력을 보여주는 중요한 사례입니다. 이는 AI가 단순한 편의를 넘어 생명과 직결된 분야에서 혁신적인 역할을 할 수 있음을 시사합니다.",
+                "생성형 AI는 방대한 의료 데이터를 학습하여 미묘한 피부 병변을 식별하고 진단 정확도를 향상시킬 수 있습니다. 이는 의료진의 진단 부담을 줄이고, 환자에게는 더 빠르고 정확한 진단을 제공하여 조기 치료와 예후 개선에 기여할 수 있는 기술적 돌파구이자, 의료 서비스의 질을 한 단계 높이는 경제적 가치를 창출합니다."
+            ],
+            "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE1CQ2tCcXJPZ1pVMUtpRDNTUW1ubTJVcE9MSDNBc2ZwWkpXNTNCYXd1czlXSjhyVWtGNUhYMUxxNFZwd3RkMkQ0YmM1RWRQbWtYaFFnUTR4dFF3SHlWbV9TN1ZWZTktQkFyVmc?oc=5",
+            "category": "AI_Tech",
+            "published": "2026-10-08T00:29:33.842594"
+        },
+        {
+            "title": "롯데이노베이트, AI 적용 주거까지 확대…스마트홈에 자체 LLM 입혔다",
+            "points": [
+                "국내 주요 대기업 계열사인 롯데이노베이트가 스마트홈 시스템에 자체 개발한 LLM(대규모 언어 모델)을 적용했다는 것은, AI 기술이 일상생활의 핵심 영역으로 깊숙이 침투하고 있음을 보여주는 중요한 추세입니다. 이는 단순한 AI 기능 도입을 넘어 기업들이 자체 AI 역량을 구축하고 있음을 의미합니다.",
+                "자체 LLM을 스마트홈에 적용함으로써 사용자는 더욱 자연스러운 언어로 집과 소통하고, 개인화된 서비스를 받을 수 있게 됩니다. 이는 스마트홈 기기들의 상호작용을 고도화하고, 사용자 경험을 혁신하여 주거 환경의 편의성과 효율성을 극대화하는 기술적 진보이자, 새로운 스마트홈 서비스 시장을 창출할 잠재력을 가집니다."
+            ],
+            "link": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE1ySU5qR3g1eEI1YURiVk9fU0ZFb0N5eXdGYjdnd3lhdTQtbE1BV05rMHFkbGJSRXJ6ZFVCU2UtRHBQV0l2UVVqdmF3NXRwZUpWYXkyQlUtWC3SAVhBVV95cUxNcklOakd4NXhCNWFEYlZPX1NGRW9DeXl3RmI3Z3d5YXU0LWxNQVdOazBxZGxiUkVyemRVQlNlLURwUFdJdlFVanZhdzV0cGVKVmF5MkJVLVgt?oc=5",
+            "category": "AI_Tech",
+            "published": "2026-10-08T00:29:33.842596"
+        },
+        {
+            "title": "베트남 과학기술부와 콘코디아 대학교, 인공지능 연구·교육 협력 강화",
+            "points": [
+                "베트남 과학기술부와 캐나다 콘코디아 대학교 간의 AI 분야 협력 강화는 특정 기술 발표는 아니지만, 국가 및 국제 기관 간의 AI 역량 강화를 위한 전략적 움직임을 보여줍니다. 이는 전 세계적으로 AI 인재 양성과 기술 개발을 위한 국제 협력의 중요성이 커지고 있음을 반영하는 메이저한 흐름입니다.",
+                "이러한 협력은 AI 연구의 질을 높이고, 전문 인력 양성을 가속화하며, AI 기술의 다양한 산업 분야 적용을 촉진할 것입니다. 특히 개발도상국이 선진국의 기술 및 교육 노하우를 습득하여 AI 생태계를 구축하는 데 기여하며, 장기적으로는 글로벌 AI 기술 격차를 줄이고 새로운 경제적 가치를 창출하는 기반이 됩니다."
+            ],
+            "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxNU3g0TllicUVPbVhWMERXOHJ2UU9SRzFIQU9XOUtkeHBtUUpLUEFHUWJaUmpwUG5HeWN4MVZob0lqOUtCaHNmRDY5U1h5eFdFcWtxRFRkanl0eUFXTUhXU1VZQ21Sd0JIamxwMmxOd3ZTbFJzMXFiSlpFYzNxR3JadWczR0F2MTVCZnNVUTBLdmg4MHdLeG9ub296RW54bkVZXzh2cHBZbWh1RlFzR0E?oc=5",
+            "category": "AI_Tech",
+            "published": "2026-10-08T00:29:33.842597"
+        }
+    ],
     "IT_Biz": [
         {
-            "title": "[단독]매디슨 황, 11월 방한 확정…韓기업과 '피지컬 AI' 협력 주목 - 머니투데이",
+            "title": "[단독] 농지조사 드론 91%가 중국산 - 조선일보",
             "points": [
-                "엔비디아 CEO 젠슨 황의 방한은 한국 기업과의 대규모 투자 및 협력 가능성을 시사하며, '피지컬 AI'(로보틱스, embodied AI)는 AI 기술의 다음 주요 발전 분야로 산업 판도 변화를 예고하는 중대한 소식입니다.",
-                "세계 AI 반도체 시장을 주도하는 엔비디아의 수장이 직접 한국을 방문하여 특정 AI 분야 협력을 논의하는 것은 국내외 AI 및 로봇 산업의 투자 방향과 기술 개발 로드맵에 큰 영향을 미칠 것입니다."
+                "국내 농지조사라는 중요 국가 인프라에 사용되는 드론의 대부분이 중국산이라는 사실은 국가 안보 및 기술 주권에 대한 심각한 우려를 제기합니다.",
+                "핵심 인프라 기술의 해외 의존도 심화 문제와 이에 따른 국내 기술 개발 및 공급망 다변화 정책의 필요성이 부각됩니다."
             ],
-            "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE5Sc085bnlObklsWWVaT0N1Vl90SUM4eFdiNldjTmxjdkt5cXRCM3FrNVpsZUdqaS1jQWR4a0JSTGJYdmxBeEpVdlZvSTd3dzVWV3A5dEFaa09mRWZTZlJpRjl4dFpCTFXSAWxBVV95cUxNdlR5TXZaVjBsWk92MTQ4eV82WF9sbUhZb0dkeWlZSFotMjZHUWlXdjRTRG1XcHczeHVxQ192N0xzVlMzMzNtbjNwc0Q4cjYwdUNBN1dvT2IzSDFyQ3BBLXpXQUlmTmlfUjFMelg?oc=5",
+            "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxOVHRLdDQxQkVETG1rVHVnMjYzcG9XcHpITUczUm00by13dXA3YkY5Y05YOUJGX3FiclEyUmw4ZHhFSndZaDlYNmRYekpjdUlCSWg5N2ZPd1plZWg3VDBwUWlrbmgwa3l3Y1p3a0VzcEpBSERuNWtHLXBxdVJVcS1UaWZlc0d3Vk00T3poUzFhMFc?oc=1",
             "category": "IT_Biz",
-            "published": "2026-10-07T00:14:41.139193"
+            "published": "2026-10-08T00:30:02.339611"
         },
         {
-            "title": "\"2028년 전력 대란 온다\" 경고…잘나가던 삼전닉스 '빨간불' - 한국경제",
+            "title": "[단독]\"팔아도 남는 게 없다\"…삼성, 스마트폰 생산량 30% 줄인다 - 머니투데이",
             "points": [
-                "AI 데이터센터 및 반도체 산업의 폭발적 성장에 필수적인 전력 공급 부족은 IT 산업 전반의 성장을 저해할 수 있는 거시적 위협으로, 국가적 차원의 정책 변화와 대규모 인프라 투자가 시급함을 보여줍니다.",
-                "삼성전자, SK하이닉스 등 국내 주요 반도체 기업의 생산 및 투자 계획에 직접적인 영향을 미치며, 이는 글로벌 IT 하드웨어 공급망과 경제 전반에 파급 효과를 가져올 수 있는 핵심 이슈입니다."
+                "글로벌 스마트폰 시장의 선두 주자인 삼성전자가 생산량을 대폭 줄인다는 것은 전 세계 스마트폰 시장의 침체와 경쟁 심화를 단적으로 보여주는 지표입니다.",
+                "글로벌 경기 둔화와 스마트폰 시장 포화로 인한 주요 제조사의 생산 전략 변화를 나타내며, 이는 관련 부품 산업 및 유통 시장에도 연쇄적인 영향을 미칠 것입니다."
             ],
-            "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE1DUjFBWm52V05kdnNWdnJqN0JYTDVlVUNXOU01bjZmRWJZRTN4MzF0NHpUbzNVVlVtUkhvNmozYUhaVnpQOHUxNTlkeWhaOFlnaDJOM2xFdXZ4UQ?oc=5",
+            "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTFBsY3k3aF9va2hpaWdJdnFQTlAxZXB5ME0wUW5fWkhLSmtCYWxfN2RfNXU1NXBBa2hMRFMxcjhKcnBuOGk0eGdVUEVWV2RGc09VX1J1dmhLX3pWZll3WFpsRGREXzBqaHfSAWxBVV95cUxORWRCNUFxS2tNQkRETVgtc3p2OXRhYkFRY2QxMzhRX2RoNUNIczJuWF92aFF0dkJETldqNlpVVW9YS25WUGRsdlRYNHBrSG9Jdl9QMEdFYkkzUlhjb2RmSS0zVXJ6OGFhb1lybzk?oc=1",
             "category": "IT_Biz",
-            "published": "2026-10-07T00:14:41.139203"
+            "published": "2026-10-08T00:30:02.339618"
         },
         {
-            "title": "\"AI, 이대로 가면 인류 멸망 엔딩\"…섬뜩한 경고 또 나왔다 - 한국경제",
+            "title": "현대차 아틀라스 4손가락 vs 테슬라 옵티머스 5손가락… ‘로봇 손’ 해법 갈렸다 - 조선비즈",
             "points": [
-                "AI의 윤리적 문제와 잠재적 위험에 대한 경고는 전 세계적인 논의를 촉발하며, AI 개발 방향, 규제, 그리고 사회적 수용에 중대한 영향을 미쳐 산업의 장기적 발전에 핵심적인 이슈입니다.",
-                "기술 발전의 속도와 방향을 결정하는 중요한 담론으로, AI 기술의 책임감 있는 개발과 활용을 위한 국제적 협력 및 정책 수립의 필요성을 강조하며 IT 산업의 미래를 좌우할 수 있습니다."
+                "현대차와 테슬라라는 글로벌 선도 기업들이 휴머노이드 로봇 개발의 핵심 기술인 '로봇 손' 설계에 대해 다른 접근 방식을 취하고 있음을 보여줍니다.",
+                "휴머노이드 로봇의 상용화를 위한 핵심 기술인 정교한 로봇 손 개발 경쟁이 심화되고 있으며, 각 기업의 기술 전략이 미래 로봇 시장의 표준을 결정할 수 있음을 시사합니다."
             ],
-            "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE15OFMwOHJRU3NicUUyN1hFOFBuX1BLRFZLUzJYX0dnVUNJMl9JS19xcW11aUVpU0VqdHRGWnVmV2NDd091eXBKRnpCSlJXcnBCMlJFcHBLM2pTZw?oc=5",
+            "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxPa2toOHY0ZFI2MVZ6LVRUUnk5d0dwS2IxMVI4VXMtcDZhd0lJc1B4d2k0UUwwT0NDYnBNQnBEc19lYS1HQ2hZVFh5MzlUSm1LN3hnTFlVY0JUakR4V0FEZGNFVlVNUDd4MjFVdmljNGpISVV4QVE4U1haTFc0NnhjcklhUGTSAZgBQVVfeXFMTlZ3b3JrRF8wUW5MdGd3QmxldHhRTVFNZHlmQVVuc1c5aW10YWNXa2VpYVF3RjJfTndlTGdJSTZ0dl92dFBldi11Ry1YM3g3eUFvZEVKYjNkZXdGVHdtek5xVmliQTgxNy1OcEpROXlENmtlSVVvVHlIVWV2Ykk3V3RKd0lnbGFGdE9xUlJpeE81SzZIZkZ0b3A?oc=1",
             "category": "IT_Biz",
-            "published": "2026-10-07T00:14:41.139204"
+            "published": "2026-10-08T00:30:02.339619"
         },
         {
-            "title": "AI 해킹 한 방에 뚫린 위챗… 미국이 중국에 보낸 경고였나 - 조선일보",
+            "title": "로봇이 집 짓고 집안엔 AI 비서…건설의 미래, 이미 현장에 와 있다 - 한국경제",
             "points": [
-                "AI를 활용한 해킹 기술의 발전은 기존 보안 시스템의 취약성을 드러내며, 사이버 보안 위협을 급증시키고 국가 간 기술 경쟁 및 안보 문제로 확대될 수 있어 IT 산업 전반에 심각한 영향을 미칩니다.",
-                "위챗과 같은 대규모 플랫폼이 AI 해킹에 뚫렸다는 소식은 모든 디지털 서비스와 인프라의 보안 강화 필요성을 강조하며, AI 시대의 새로운 보안 패러다임 구축이 시급함을 보여줍니다."
+                "로봇과 AI 기술이 건설 및 주거 환경이라는 전통 산업에 실제 적용되고 있음을 보여주며, 이는 산업 전반의 디지털 전환과 자동화 가속화를 의미합니다.",
+                "AI와 로봇 기술이 단순 제조를 넘어 건설, 주거 등 광범위한 산업 분야로 확장되며 생산성 향상과 새로운 서비스 모델 창출을 이끌고 있음을 보여줍니다."
             ],
-            "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPNFpYVWtlbEpzczRGNGU0eVBybjdFTkdxUHdQWnhpMFlEQ1FWSHloek42ckdWdlVxckpmaFlpVGhjWk5VSFVUNlY3d2JnSlR4Z2tJR3pzeTFabWdFOWowR21aS25FaV9jU1B4YW9sU1ZDVVUzd3ZUcG1NOVd5N3lMUG1Sc3AwY2tS?oc=5",
+            "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE5jRVVuRFpwamFaRW1LdjJjY3E4UVJhM3Z3NEZrb2puRTlneERDSkZnZWxNWmd3Vmg3NVpUYnZUOTZwSDMxS2xkMDNJY2g4Q2JPbWN1RG1vZjlLZw?oc=1",
             "category": "IT_Biz",
-            "published": "2026-10-07T00:14:41.139204"
+            "published": "2026-10-08T00:30:02.339620"
         },
         {
-            "title": "D램 최고가에 마이크론 호조에도 삼성전자·SK하이닉스 전망치 조정…원인은? - 글로벌이코노믹",
+            "title": "\"말도 안 된다\" 수학계 발칵…AI가 푼 수학 난제 - 한국경제",
             "points": [
-                "D램 시장의 가격 변동과 마이크론의 호조에도 불구하고 삼성전자, SK하이닉스 등 주요 반도체 기업의 실적 전망 조정은 글로벌 IT 하드웨어 산업의 핵심 동향을 보여주는 중요한 지표입니다.",
-                "이는 AI 및 고성능 컴퓨팅 수요 증가와 같은 긍정적 요인과 함께 공급망 문제, 거시 경제 불확실성 등 복합적인 요인이 작용하고 있음을 시사하며, 전방 산업의 투자 및 생산 계획에 직접적인 영향을 미칩니다."
+                "AI가 인류의 오랜 수학 난제를 해결했다는 소식은 AI의 문제 해결 능력과 창의적 사고 능력이 인간의 영역을 넘어서고 있음을 시사하는 기념비적인 사건입니다.",
+                "AI 기술이 단순한 데이터 처리나 패턴 인식 수준을 넘어 복잡하고 추상적인 문제 해결 능력에서 획기적인 발전을 이루었음을 보여주며, 이는 미래 AI 연구 및 응용 분야에 대한 기대감을 높입니다."
             ],
-            "link": "https://news.google.com/rss/articles/CBMihgFBVV95cUxOV2JEeG1WWERxSXRPVExxcWw4RHo1UzJveFlwUE8wVmNjMXh2aHBmRVh5bDVyLUdsZ2paZ0QwMHlwbDFMUjJ3aFA5SU9DYnBYb242N3QtUFFYaEIzQ0xKcEkwY2JIQzNyUVo0LXo0S1FCQjMxUUpERmtCZUpDem8tTG9sd0dpQQ?oc=5",
+            "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE52X2FmVVJ0Skp4NkhDcURxTEx6WEdNZi1FWVVuRFBWN3RXaGp3ZV9EbFlzYXZ2dVAxeTZ6S0Q4UWVGR084STVJeXowczBQVDdKZ1l3M21KQVQ2dw?oc=1",
             "category": "IT_Biz",
-            "published": "2026-10-07T00:14:41.139205"
+            "published": "2026-10-08T00:30:02.339621"
+        }
+    ],
+    "Economy": [
+        {
+            "title": "[속보] 삼성전자 3분기 영업이익 107조4천억 원‥4분기 연속 신기록 - MBC 뉴스",
+            "points": [
+                "이 뉴스는 한국 경제의 핵심 기업인 삼성전자의 실적 호조를 보여주며, 국내외 투자 심리와 경제 전망에 긍정적인 영향을 미치는 주요 경제 지표입니다.",
+                "글로벌 반도체 및 IT 산업의 회복세와 삼성전자의 시장 지배력을 나타내며, 관련 산업의 투자 및 생산 계획에 중요한 기준이 됩니다."
+            ],
+            "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTE9Cb3ZfUXFMcVd1SDZiSFFrU1Z1b3BxOExWMTdsQlhSbXd5Tktva2xWRk1fbS1RR2lPb0M4YWFHQXNsY2NVYVRiajV4cXlkUmN0Vm1aNndrdW1GdDg5QkpTWTFEc1ZuNVpHVnQwTnpwLUdRTUVN0gF0QVVfeXFMTlduTC04SEpNNVBtMUpCNVR1em1OVDFXT2tKeE4tR0I1RjkwMjU5aldieFIzeThaVzV0LWRjOGppS21Rd1FMZDRUc1BfU0lWaldUSkJvd1ZPbU5KbGNiVVZubDVfUDR3N2kycXRKLWJvV3lUbng?oc=5",
+            "category": "Economy",
+            "published": "2026-10-08T00:30:41.775789"
+        },
+        {
+            "title": "LG엔솔, 3Q 영업익 7천560억…美보조금 덕에 예상치 두배 훌쩍(종합) - 연합인포맥스",
+            "points": [
+                "이 뉴스는 LG에너지솔루션의 실적 호조가 미국 정부의 보조금 정책(IRA 등)에 크게 힘입었음을 보여주며, 글로벌 전기차 배터리 시장의 성장세와 정책적 지원의 중요성을 부각합니다.",
+                "미국 시장에서의 생산 및 판매 전략이 기업 실적에 미치는 영향을 명확히 보여주며, 향후 배터리 산업의 투자 방향과 글로벌 공급망 재편에 대한 통찰을 제공합니다."
+            ],
+            "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE1zdGdseVQ3cXF3U0syYmhwNlIxel9oOWpVejd1Sk5sYW5FbHR6UUVCQW1CSng0X0pjZEtKRDJWeVJNVzhvTk5MRjhoLVRtejdpSVNqVk9qNDlNek9PMEZGbVBzQS1ESl94Y2U5NXhrV04?oc=5",
+            "category": "Economy",
+            "published": "2026-10-08T00:30:41.775795"
+        },
+        {
+            "title": "“미 기준금리, 12월 인상 가능성”…장기 국채 금리 또 급등 - KBS 뉴스",
+            "points": [
+                "이 뉴스는 미국 연방준비제도(Fed)의 기준금리 인상 가능성과 장기 국채 금리 급등을 다루며, 이는 글로벌 금융 시장의 변동성과 투자 심리에 직접적인 영향을 미치는 핵심 거시 경제 지표입니다.",
+                "전 세계 중앙은행의 통화 정책 방향과 기업의 자금 조달 비용, 그리고 주식 및 채권 시장의 흐름을 결정하는 중요한 요인으로 작용하여 광범위한 경제적 파급력을 가집니다."
+            ],
+            "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE9TMVp1ZmtmcG00T0lNalJCc280c0kzaS04Nm42a2plUjVIQlJQTkRxTTc4dndVbEtobnVVWExJVXo2WFY3V0U4bGJkbFN6dkZaY3V4Qm40bWNLaWc?oc=5",
+            "category": "Economy",
+            "published": "2026-10-08T00:30:41.775797"
+        },
+        {
+            "title": "삼성·SK 찾은 리사 수…\"반도체는 팀 스포츠, 중장기 파트너십\" - 비즈워치",
+            "points": [
+                "이 뉴스는 AMD CEO의 방한과 삼성, SK와의 협력 논의를 통해 글로벌 반도체 산업 내 전략적 파트너십의 중요성을 강조하며, 기술 협력과 시장 확대를 위한 주요 움직임을 시사합니다.",
+                "'반도체는 팀 스포츠'라는 발언은 복잡해지는 반도체 생태계에서 기업 간 협력이 필수적임을 나타내며, 향후 기술 개발 방향과 공급망 안정화에 영향을 미칠 수 있습니다."
+            ],
+            "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE1sMUtncFUwYnh6VWwwUUJQVjNtTGtJbXY2RXRxbDYxeE1uQ3QxaUVLamlieEhmN2lBOGhKWWdjdkUxNGRLQ0VneFN0NjBDS01QS1gweVA5bDFTbDVLaDBDajMxSDNzWXdEdy10Wg?oc=5",
+            "category": "Economy",
+            "published": "2026-10-08T00:30:41.775798"
+        },
+        {
+            "title": "국제유가, IEA 비축유 방출 가속에 하락…WTI 1.3%↓ - 한국무역협회-KITA.NET",
+            "points": [
+                "이 뉴스는 국제에너지기구(IEA)의 비축유 방출 가속화로 인한 국제유가 하락을 다루며, 이는 글로벌 에너지 시장의 공급과 수요 균형, 그리고 전 세계 인플레이션 압력에 중요한 영향을 미칩니다.",
+                "유가 변동은 운송, 제조 등 다양한 산업의 생산 비용과 소비자 물가에 직접적인 영향을 미치므로, 거시 경제 안정성과 기업의 수익성에 광범위한 파급 효과를 가집니다."
+            ],
+            "link": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxQV3lBRENSRExNbWo3TmRuekNHb0htZmQxckNJR3BMd2s1Y0ZlemJEU21QaDFtRUdmdHBHajdoa0NfN180QmF4OWdfcUozWHB1RldoMWZSZlFLaHRyYTVUVUJ5VkFVNi1ON0pzcWJkaEd6d0ZEX0ZYTzYwRkFNU2VlYVpxQ255WTRTOTZ2c1pLQ1hYeEtLYzludURITWFkSU1CWFhYQTV6b2ZpbjVfZ29jUWxSUWUyaG5kSUlUeVhhRjMzUGtfVTFJVG9vV2w5SndxMFhEcy1R?oc=5",
+            "category": "Economy",
+            "published": "2026-10-08T00:30:41.775799"
+        }
+    ],
+    "World": [
+        {
+            "title": "푸틴 74세 생일에 우크라 대공습... ‘북한판 이스칸데르’도 쐈다 - 조선일보",
+            "points": [
+                "러시아-우크라이나 전쟁의 주요 전개 상황으로, 러시아의 대규모 공습과 북한제 무기 사용 가능성이 국제 사회의 주목을 받고 있습니다.",
+                "북한 무기 사용 의혹은 국제 제재 위반 및 지정학적 동맹 관계 변화 가능성을 시사하며, 전쟁의 양상과 국제 안보에 중대한 영향을 미칩니다."
+            ],
+            "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxOLWhDb2pycGdoUXp3QmxSR3QyUXdURXBTaTQ2bUdSbUYwUFVDYkVZOVBZZXJNNFNLdWZNTDVNUFBxYVFuSm9lY0tUYlozSVljNTkyMzVzTUdKdlA0N3dSd0tQdldUem4tU0xpdzZnaG9PemhVSURZbTVCM2lhUHVTWGZLamNPZEhZeVZULUFrYzFGQS16dm5zRmZGeUhSdw?oc=5",
+            "category": "World",
+            "published": "2026-10-08T00:31:11.444358"
+        },
+        {
+            "title": "美격전지 중간선거 사전투표 돌입… 트럼프도 독려 나서 - 동아일보",
+            "points": [
+                "미국 중간선거는 미국 국내 정치뿐만 아니라 전 세계 경제 및 외교 정책에 큰 영향을 미치는 중요한 정치 이벤트입니다.",
+                "도널드 트럼프 전 대통령의 선거 독려 참여는 미국 정치 지형의 변화 가능성과 향후 대선 구도에 미칠 영향을 보여줍니다."
+            ],
+            "link": "https://news.google.com/rss/articles/CBMic0FVX3lxTFBaLW5VX2hCQlJZSlQ4Q010VmdnVnRYTy1BSENuTXV3eHNVT0t1SlBEYmlPbEtDaWRJeTRyNlNHZEFEeHd2NmF4NjA3WVNDQ1R1UHNvOEhEaVZ1NXBjbnQxVW50SkVuejExblRXWDByY0dYV1HSAWZBVV95cUxQaE8wVlFsYXhVZXpIWWZULW9xZUR6OXJPSjdJTTloQndPdHJ1ejUzQzR2c0VtMlNXWXVfNjVpdHEwR052b3VGTHRBV0R1MTBMNWJpanJyT1dCTUxJZkx6SmsxTjV5SWc?oc=5",
+            "category": "World",
+            "published": "2026-10-08T00:31:11.444365"
+        },
+        {
+            "title": "“제2의 코로나, 푸틴이 시작하나”…흑사병 무기연구설에 전세계 긴장 - 매일경제",
+            "points": [
+                "러시아의 생물학 무기 개발 및 사용 가능성 의혹은 전 세계적인 보건 및 안보 위협으로 인식되며, 국제 사회의 심각한 우려를 낳고 있습니다.",
+                "이러한 의혹은 국제 관계의 긴장을 고조시키고, 생물학 무기 통제 체제에 대한 논의를 촉발할 수 있는 중대한 사안입니다."
+            ],
+            "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE9DYS1OaUU5c0xOUGdpamRHUjUzay1SLXp2Vk9HT0xfQlpqb0tJSDQ5azJyak5wVDdvczM5Zk9UTUwwSVZEZzZwMXd3NVZnZUVaa0E?oc=5",
+            "category": "World",
+            "published": "2026-10-08T00:31:11.444366"
+        },
+        {
+            "title": "가자전쟁 3년, 네타냐후 “하마스 다 찾아낼 것” - 동아일보",
+            "points": [
+                "가자 지구 전쟁의 지속과 이스라엘 총리의 강경 발언은 중동 지역의 불안정성을 심화시키고 국제 정세에 지속적인 영향을 미치는 핵심 사안입니다.",
+                "하마스 소탕 의지는 팔레스타인 문제와 중동 평화 프로세스에 중대한 영향을 미치며, 국제 사회의 개입과 인도주의적 위기에 대한 우려를 증폭시킵니다."
+            ],
+            "link": "https://news.google.com/rss/articles/CBMic0FVX3lxTE50N3A5clVPa21FaHZOUGZMcTVjc0ZqS1FEYnYtMWUzZU1PMXBjcmlVblphQkwwV2dNRHc2VmVJMFNSX1RGdEhMR0lqRDJuVDNFYzJTTVVWUERtV2ZSVllNb3JtTktlUGFOUHpmS2M2cW14eWPSAWZBVV95cUxNcGVKRGM3dEVPd0N1NERNbUtvSVdmd1Z2TXg0RE5HV3UzZF9lUEdHTHlLMS1XdzBRNmF1QVAzYUcyTXkwYkI3REo3RjJmRkNiRnRqSVV5MElyZ1hXUmZ3R0YxTVo3Rmc?oc=5",
+            "category": "World",
+            "published": "2026-10-08T00:31:11.444367"
+        },
+        {
+            "title": "루비오 \"이란 핵무기 절대 보유 못하도록 보장하는 합의만 수용\" - 뉴스핌",
+            "points": [
+                "이란 핵 문제에 대한 미국 상원의원의 발언은 국제 핵 비확산 체제와 중동 지역 안보에 대한 미국의 입장을 보여주는 중요한 소식입니다.",
+                "이란의 핵무기 보유 저지는 국제 사회의 주요 목표 중 하나이며, 관련 합의는 중동 정세 및 국제 외교에 지대한 영향을 미칠 수 있습니다."
+            ],
+            "link": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE5wQzJQdHphbnpOMFdBX0Y1XzRSUk5XcEx3bERYWWYyNm13Y1ViU1hLTzZjUUFxbkcxZHJ2aXhZYmgzR1MwRDQwWm9WNjl3UWd6Ykd5V3JlSy1rU2tE?oc=5",
+            "category": "World",
+            "published": "2026-10-08T00:31:11.444368"
         }
     ]
 }
