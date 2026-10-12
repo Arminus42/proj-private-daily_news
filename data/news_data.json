@@ -1,210 +1,106 @@
 {
-    "AI_Tech": [
-        {
-            "title": "젠슨 황 \"윈도우 없었다면 엔비디아도 없었다\"…MS와 함께 만든 AI 시대의 토대",
-            "points": [
-                "엔비디아(NVIDIA) CEO 젠슨 황이 마이크로소프트(MS) 윈도우의 중요성을 강조하며, 두 거대 기술 기업이 AI 시대의 기반을 함께 구축했음을 시사하는 발언이다. 이는 AI 하드웨어와 소프트웨어 생태계의 긴밀한 협력 관계를 보여주는 메이저 소식이다.",
-                "AI 시대의 핵심 인프라를 제공하는 엔비디아와 AI 기술의 광범위한 적용을 주도하는 MS 간의 전략적 파트너십과 상호 의존성을 명확히 보여준다. 이는 AI 기술 발전의 방향성과 주요 플레이어들의 역할을 이해하는 데 중요한 통찰을 제공한다."
-            ],
-            "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE5xOVRoamlMM3B5TTI3NkEtNWZwY1FiZklseEJmZjIzWlVvYURBd2hxdEdPU0ZHNDZZVUcxOFdUc0V6Z0ZCT1lBa214R0JpVmMzMWdqNmlOc2tlVUx1bXJHc3FKd2VOSU0?oc=5",
-            "category": "AI_Tech",
-            "published": "2026-10-10T23:55:49.852760"
-        },
-        {
-            "title": "저커버그가 직접 뛰었다… 애플·오픈AI 핵심인재 끌어모은 메타",
-            "points": [
-                "메타(Meta)의 CEO 마크 저커버그가 직접 나서 애플과 오픈AI의 핵심 인재를 영입하고 있다는 소식은, AI 분야의 인재 확보 경쟁이 얼마나 치열한지 보여주는 메이저 뉴스다. 이는 글로벌 빅테크 기업들의 AI 기술 주도권 경쟁의 핵심 동력이다.",
-                "최고의 AI 인재를 확보하려는 메타의 공격적인 전략은 회사의 AI 투자와 미래 비전을 명확히 드러낸다. 이는 AI 모델 개발 및 혁신 속도에 직접적인 영향을 미치며, AI 산업의 판도를 바꿀 수 있는 중요한 기술적, 전략적 변화를 예고한다."
-            ],
-            "link": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE41a25hNmMwX0tuSjBMMnpqX2pKSVBzeVFicVBaVHRWR2RyblUtd0ZLTDEyUlVqUHVCSGo0ZFlmbjdfUTlxZnpWTnlEWEpjSGhi0gFUQVVfeXFMUHlRdzkzQXE2WVNoaFEtcmpfeWdyclo1dkNUNmJKRTRTY3dQbjZ4SUtzTXR5allZcEpud3ZDMTd2aU80MUtFVXpVS19EQk0yU3hhc05s?oc=5",
-            "category": "AI_Tech",
-            "published": "2026-10-10T23:55:49.852767"
-        },
-        {
-            "title": "'반도체 여제' 리사 수 AMD CEO 방한, AI 반도체 협력 확대 시사",
-            "points": [
-                "글로벌 AI 반도체 시장의 핵심 플레이어인 AMD의 CEO 리사 수(Lisa Su)의 방한은 삼성전자, SK하이닉스 등 국내 주요 반도체 기업들과의 AI 반도체 협력 가능성을 높이는 메이저 소식이다. 이는 AI 시대의 필수 인프라인 고성능 반도체 기술의 발전과 공급망에 큰 영향을 미칠 수 있다.",
-                "AMD는 엔비디아와 함께 AI 가속기 시장을 주도하는 기업으로, 그녀의 방문은 차세대 AI 칩 개발 및 생산에 있어 한국 기업들과의 전략적 제휴를 모색하는 중요한 기술적, 경제적 움직임으로 해석될 수 있다. 이는 AI 하드웨어 경쟁 구도와 기술 표준에 변화를 가져올 잠재력을 가진다."
-            ],
-            "link": "https://news.google.com/rss/articles/CBMiRkFVX3lxTE9Wc2hlOTh6R1VDX2dEaWVPSmxBQWJoZU1mZEVy0NlsV3lwWXl1UTNyeFk4RDNLQzJXVXZod0pTbXlpQXFQNXc?oc=5",
-            "category": "AI_Tech",
-            "published": "2026-10-10T23:55:49.852767"
-        },
-        {
-            "title": "구글, 'AI Riser 2026' 프로젝트로 베트남 AI 실용화 장려",
-            "points": [
-                "글로벌 AI 선두 기업인 구글(Google)이 'AI Riser 2026' 프로그램을 통해 베트남에서 750개 AI 프로젝트를 지원하며 AI 기술의 실용적 적용을 확대하는 것은, AI 기술 확산과 생태계 구축에 대한 메이저 기업의 전략적 투자를 보여준다.",
-                "이는 특정 지역에서의 AI 기술 채택을 가속화하고, 다양한 산업 분야에서 AI 솔루션 개발을 촉진하는 중요한 기술적, 경제적 변화를 의미한다. 구글의 이러한 노력은 신흥 시장에서의 AI 기술 발전과 글로벌 AI 격차 해소에 기여할 수 있다."
-            ],
-            "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxNQU5POC1PVnREdXhfVUl3cXByN29RaE5vUDVHT3A0SGJuWHpDVHl5azNNTnY3dWN6OVIzdEJfaF96V2s4WHJLNEFrT2o5YzJMY2tkcU1rS2VYQjAxNFdWQ25RS2NVUHJWclBlQ084WFNJSlF2OGl1amw2OVR6bEk5VXB2N3M0ZGxLMzY0RzRhSEtzZThIa0NYN0hhU29ENDJpc0tKQ1I2enBUTDZX?oc=5",
-            "category": "AI_Tech",
-            "published": "2026-10-10T23:55:49.852768"
-        },
-        {
-            "title": "생성형 AI '블랙박스' 문제 해결할 XAI 기술, 핵심 산업 신뢰 기반 바꾼다",
-            "points": [
-                "생성형 AI의 '블랙박스' 문제를 해결하고 AI의 의사결정 과정을 투명하게 설명하는 XAI(설명 가능한 AI) 기술은 AI의 신뢰성과 책임성을 높이는 데 필수적인 기술적 돌파구다. 이는 AI 기술의 광범위한 산업 적용을 위한 핵심 과제이며, 메이저 기술 트렌드이다.",
-                "의료, 금융, 법률과 같이 높은 신뢰도와 투명성이 요구되는 산업에서 XAI 기술은 AI 도입의 문턱을 낮추고, AI가 단순한 도구를 넘어 의사결정의 핵심 파트너로 자리매김하는 데 결정적인 역할을 할 것이다. 이는 AI 기술의 사회적 수용성과 활용 범위를 혁신적으로 확장할 잠재력을 가진다."
-            ],
-            "link": "https://news.google.com/rss/articles/CBMiSkFVX3lxTE9kN3U2LU5kN2xZQ3FZckYyazNONVpqWWZVdXVWSjVoYTdGNTVZQ29jV0d0djFNT0hvemdLMUtsVHVVeVhfYkRVRURn?oc=5",
-            "category": "AI_Tech",
-            "published": "2026-10-10T23:55:49.852769"
-        }
-    ],
     "IT_Biz": [
         {
-            "title": "“느리고 비싼 맥북을 왜 사죠?”…MS·엔비디아 합작 AI노트북 성능이 - 매일경제",
+            "title": "[단독] SK스퀘어, 日 피지컬AI 스타트업 무진 투자... AI·반도체 밸류체인 확장 - 한국경제",
             "points": [
-                "마이크로소프트와 엔비디아의 협력으로 AI 노트북 시장의 경쟁이 심화되고 새로운 표준이 제시될 가능성이 높습니다.",
-                "애플 맥북의 아성에 도전하며 PC 시장의 판도를 AI 성능 중심으로 변화시킬 잠재력을 가집니다."
+                "SK스퀘어가 일본 피지컬AI 스타트업 '무진'에 투자하며 AI 및 반도체 분야의 글로벌 밸류체인을 확장하는 중요한 전략적 움직임입니다.",
+                "국내 대기업의 해외 유망 AI 기술 투자로 미래 성장 동력을 확보하고, AI 및 반도체 산업 생태계에 큰 영향을 미칠 수 있는 대규모 투자 소식입니다."
             ],
-            "link": "https://news.google.com/rss/articles/CBMiTkFVX3lxTFBuOWtWZS1ua3lKWGFadTNpcXh0NmtjcFNIa1p3UTJKVGZkMmZlNTBmbDNzb1R4djFwUXJaZkFCY2tpLXVPV2xwVHlMY0dhZw?oc=5",
+            "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE5kalIzek11ekh6TFlLYzJzWXNKZFJJa1FNUjJJaHZnaTFBYWNQM0pqLXdXRWtVVFBTU3lzSkRscERwU3MzZjYzaEFfa3NXT1Rncjk5X2pzdDZNZw?oc=5",
             "category": "IT_Biz",
-            "published": "2026-10-10T23:56:14.936145"
+            "published": "2026-10-12T00:03:57.767054"
         },
         {
-            "title": "‘반도체 여제’ 리사수 방한…삼전닉스만 만난게 아니라는데 - 매일경제",
+            "title": "AI 병목 뚫는 ‘빛의 고속도로’… 美 주문 쌓이는 K-광케이블 - 조선일보",
             "points": [
-                "AMD CEO 리사 수의 방한은 글로벌 반도체 산업의 주요 동향과 한국 기업들과의 전략적 협력 가능성을 시사합니다.",
-                "삼성전자, SK하이닉스 등 국내 주요 기업과의 기술 협력 및 투자 확대를 통해 AI 반도체 시장의 주도권 경쟁에 영향을 미칠 수 있습니다."
+                "AI 시대의 폭증하는 데이터 처리량을 감당하기 위한 핵심 인프라인 광케이블 기술의 중요성이 부각되고 있으며, 한국 기업의 기술력이 글로벌 시장에서 인정받고 있습니다.",
+                "이는 AI 산업의 발전에 필수적인 통신 인프라 기술의 혁신과 한국 기업의 글로벌 경쟁력 강화를 보여주는 소식으로, 대규모 수요 증가와 기술적 우위를 나타냅니다."
             ],
-            "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE0yalhnQ0pPY1owOXNsUm9sV3o3WmF6UFZ3NHRjNHhCS1ptU1JURm9EdnVmblg5bmhXQVNBYlU5YlNuMWhYN1dCaVI2bXhoOUQxZC0zLU9R?oc=5",
+            "link": "https://news.google.com/rss/articles/CBMigwFBVV95cUxQR0h3VmZNdEVmeGJjSTdNUEhUV2tyUVRmbjlKaE9NNnI2NzZ5M19DdlQ1dFV0R3ltRl9IOFRBNFVvTVlUZUNQZWxld0t6WHR5YUIxaVM1ZnJ2YlU5UEJnTDFHcjEwR0tFNjVHeTJyQWR1emtFLUlvOWtmSHJVdmZULVdRYw?oc=5",
             "category": "IT_Biz",
-            "published": "2026-10-10T23:56:14.936151"
+            "published": "2026-10-12T00:03:57.767063"
         },
         {
-            "title": "머스크, 美 통신시장 정조준…스페이스X 주파수 인수에 통신 3사 주가 급락 - 매일경제",
+            "title": "삼성SDI, 전고체 배터리 2027년 양산 추진…휴머노이드 첫 적용 가능성 - 글로벌이코노믹",
             "points": [
-                "일론 머스크의 스페이스X가 미국 통신 시장에 진출하며 기존 통신사들에게 큰 위협이 되고, 통신 시장의 경쟁 구도를 근본적으로 변화시킬 수 있습니다.",
-                "위성 인터넷 서비스의 확장과 주파수 인수는 미래 통신 인프라 및 서비스 제공 방식에 중대한 영향을 미칠 것입니다."
+                "삼성SDI가 차세대 배터리 기술인 전고체 배터리의 2027년 양산을 추진한다는 소식은 에너지 저장 기술의 혁신과 상용화에 있어 매우 중요한 진전입니다.",
+                "특히 휴머노이드 로봇에 첫 적용 가능성이 언급되어, 미래 모빌리티, 로봇 산업 등 다양한 첨단 분야의 판도를 바꿀 핵심 기술 발전으로 평가됩니다."
             ],
-            "link": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE0xeUQyRzJURlhUTy1uWEZPS0xwc1Y4dEFDQWdkRU5EdDdDYjJzN29CUU4xUlg4bmdYY3l3RVBKLW1GT1Voc2k1WTBDcnZvdw?oc=5",
+            "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNVlNCSHJvdkxtR0NMVWJpeldjTlY2eUFfdEtmemhuaE11NldyZ3E5RVRnaUZGb2p1YkJadmxKampmWlFMU2FmcXBsaTdDZXEwSGxXNURwNlZMeGxZQ3JnaXNudnZ2b05jT3A1bS1Xdi15Wkg1aE11V3k4UDY1U2VkNjlOdTlBdDlI?oc=5",
             "category": "IT_Biz",
-            "published": "2026-10-10T23:56:14.936151"
+            "published": "2026-10-12T00:03:57.767064"
         },
         {
-            "title": "이재용·젠슨 황 두 딸의 악수…엔비디아, 뉴욕 만찬 사진 공개 - 아이뉴스24",
+            "title": "중국은 ‘4분’, 한국은 ‘18분’…전기차 충전 속도전, 이젠 전력망 싸움 - 경향신문",
             "points": [
-                "삼성전자와 엔비디아 최고 경영진의 만남은 AI 반도체 분야의 전략적 협력 강화와 글로벌 기술 리더십 확보를 위한 중요한 신호입니다.",
-                "AI 반도체 시장의 주도권 경쟁이 심화되는 가운데, 양사 간의 파트너십은 미래 기술 개발 및 시장 판도에 결정적인 영향을 미칠 수 있습니다."
+                "전기차 시장의 급성장과 함께 충전 속도 경쟁이 심화되면서, 이를 뒷받침할 전력망 인프라의 중요성이 국가적 과제로 부각되고 있습니다.",
+                "이는 전기차 보급 확대를 위한 필수적인 인프라 투자 및 기술 개발 방향을 제시하며, 국가별 에너지 정책 및 산업 경쟁력에 큰 영향을 미치는 중요한 소식입니다."
             ],
-            "link": "https://news.google.com/rss/articles/CBMiS0FVX3lxTFBSdWp6NGdCS3JVN2hwQ1ZXTUp1RmNhYTJJV0ZVbWJiYUVyRWRtc1Q5bk5QeHZjU1I3OWVxcEQtYU1QMUhCc0Z2YUhxZw?oc=5",
+            "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE8xemJYemo4SEJPS0dTNmFYcU9Qc3BGdTJQOGlpV1pjNlZvS09Id1Q3ZGgwSHBGb25yeEtyaWJwYmJPV0FvS0xGX1pFZnVuQWJuNnhIcFhzMkZYd9IBX0FVX3lxTE1Ca2NLaTBmVFdqNlBzblpOeEpoc0QzVGlSRmxGZDVMbWk1d0xQU1VpOENHWmQ1ZEdmRTB2aVJPTzExeGdiVnB5ZHpUZTAwMllGRlBxWHpKUzloWGxoWTVn?oc=5",
             "category": "IT_Biz",
-            "published": "2026-10-10T23:56:14.936152"
+            "published": "2026-10-12T00:03:57.767065"
         },
         {
-            "title": "美, 테크 기업 영주권 핵심 절차 중단… 실리콘밸리 한인 엔지니어들 \"불안\" - 조선일보",
+            "title": "LGD, ‘금속 틀’ 없앤 ‘플립’ 기술로 OLED 한계 넘는다 - 조선일보",
             "points": [
-                "미국 정부의 테크 기업 영주권 절차 중단은 실리콘밸리의 인력 수급 및 혁신 역량에 직접적인 영향을 미치며, 글로벌 IT 인재 유치 경쟁을 심화시킬 것입니다.",
-                "이민 정책 변화가 기술 산업의 성장과 국가 경쟁력에 미치는 중대한 영향을 보여주는 사례로, 전 세계 IT 인재들의 이동에도 영향을 줄 수 있습니다."
+                "LG디스플레이가 '금속 틀'을 없앤 '플립' 기술을 개발하여 OLED 디스플레이의 디자인 및 성능 한계를 극복하려는 시도는 디스플레이 산업의 중요한 기술 혁신입니다.",
+                "이는 더 얇고 유연하며 내구성이 강화된 차세대 디스플레이 제품 개발 가능성을 열어주며, 스마트폰, TV 등 다양한 IT 기기 시장에 큰 영향을 미칠 수 있는 핵심 기술 발전입니다."
             ],
-            "link": "https://news.google.com/rss/articles/CBMigwFBVV95cUxOUkZyRGRhZkF4MHQyZGFmYmxkMm5ZWDI0b3JiNUR4R0V3X3VpVlhBWDdnTW5nNldwX3pnaDJxOXdETGdTa1NUTDdUVElnY0dwVk9CV09rN1pHZ0NvdEhNUWJYLWFIckdPMUFXa1ZVMGItMHJUWUdwdm9GRmlDVkJ1NlBESQ?oc=5",
+            "link": "https://news.google.com/rss/articles/CBMigwFBVV95cUxNS1piOFFGZmc3VmtmX3BVT0NnU05LX0ZBMnRua0lFVmZwVF9VQnFxTV9TY2JuZVhMTXdQV0EzOUk4dkdRcUZ0RFdZcG5Kak04clVidWpveEtBYXBmR3JuakFxR0Y0LUstd040b25uVFc4NkdOVEtFaE02ZTBKakxHeWg4UQ?oc=5",
             "category": "IT_Biz",
-            "published": "2026-10-10T23:56:14.936152"
+            "published": "2026-10-12T00:03:57.767065"
         }
     ],
     "Economy": [
         {
-            "title": "이창용 전 총재 “2차 공공기관 이전, 소용없을 것” 쓴소리 - 이데일리",
+            "title": "'영업익 100조' 과거와 달라진 삼성전자…증권가 시선은 주주환원으로 - 연합인포맥스",
             "points": [
-                "전 한국은행 총재의 발언으로, 정부의 주요 경제 정책(공공기관 이전)에 대한 비판적 시각을 제시하며 정책 방향성에 대한 논의를 촉발할 수 있음.",
-                "지역 균형 발전 및 국가 재정 효율성 등 거시 경제 정책의 효과와 방향에 대한 중요한 시사점을 제공하며, 향후 정책 추진에 영향을 미칠 수 있음."
+                "이 뉴스는 삼성전자의 막대한 영업이익과 이에 따른 증권가의 주주환원 정책 기대를 다루며, 국내 최대 기업의 재무 성과와 시장의 평가를 보여주는 중요한 경제 소식입니다.",
+                "삼성전자의 실적은 한국 경제의 바로미터이며, 주주환원 확대는 국내외 투자자들의 투자 심리에 긍정적인 영향을 미쳐 자본 시장의 변화를 이끌 수 있습니다."
             ],
-            "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxPY1JPcl9oaEpaNlZLOTViZWdPWmJPUU1CQUVxdEJaUU1wb0x4dGZtRXZlWTZzNEY1WlZMQ1BhLUlxQmFIZmJiQ0lnSTRkZjE3TGhDWThSWFh5VHBSbHRYbTBocWNqbmRBZDV1OTlBQ0s5RmNZUU8xd043dVlBMmJ6bA?oc=5",
+            "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE1leGJNWUZBTUc5OFVRbHpZU2VXTHppTGRaRW5yRW1GUkZlSDRYc3lpQmt5eVhPckd6YWVRWWY4VFlUVG5tbjVncnFwVFpzeXdHOWVScGkwa2tfTGp5UUtSdmx5LWlQZEp1R1VBaEZ0ZjA?oc=5",
             "category": "Economy",
-            "published": "2026-10-10T23:56:43.738728"
+            "published": "2026-10-12T00:04:25.356339"
         },
         {
-            "title": "7000선 고비에서 5% 밀린 코스피…美 물가·TSMC 실적 반등 시험대 - 뉴스1",
+            "title": "[미리보는 증시재료] 美 CPI·PPI 줄줄이…은행 실적·연준 베이지북 주목 - 뉴스핌",
             "points": [
-                "국내 증시(코스피)의 큰 폭 하락을 다루며, 미국 물가 지표와 글로벌 반도체 기업(TSMC) 실적 등 대외 경제 요인이 국내 시장에 미치는 영향을 분석.",
-                "글로벌 경제 동향(미국 인플레이션, 반도체 산업)이 국내 투자 심리 및 증시 변동성에 직접적인 영향을 미치고 있음을 보여주며, 향후 시장 전망에 중요한 기준이 됨."
+                "이 뉴스는 미국 소비자물가지수(CPI), 생산자물가지수(PPI) 발표와 연준 베이지북 공개 등 글로벌 금융 시장에 큰 영향을 미칠 주요 경제 지표들을 예고하고 있습니다.",
+                "이러한 지표들은 미국 연방준비제도(Fed)의 통화 정책 방향과 전 세계 증시 및 경제 흐름을 결정하는 핵심적인 요소로 작용하여 투자 전략 수립에 중요한 기준이 됩니다."
             ],
-            "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTFBza0loOEpXTFNWT1NkM045Sk1sTzdfVHUtWlZDeHJGNGxTeDg4YVZhZVlWdFU3aHVPMnJZdjZkZHpYRzdTdkdNVVR6MzhYWG5qQ0thVGdxYkVnV1JqZTFJ?oc=5",
+            "link": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE9HS1RTcmhZSlZ3QUdsQ1dQd2Fia21UbnNjb25MM2dHRFZiNjAxbzQ5QzN2R2d2WlhqS0kwN05Tcm90N1lBUGtiUDk4S2lhOFIxX2xBcmpMREF4OGZh?oc=5",
             "category": "Economy",
-            "published": "2026-10-10T23:56:43.738734"
+            "published": "2026-10-12T00:04:25.356345"
         },
         {
-            "title": "한국 금융권 덮친 중국 AI 해킹…‘아르텍스’ 업데이트 멈춘다 - JTBC",
+            "title": "한경협 \"국내 주요 상장사, 로봇·AI 등 신사업 진출 검토\" - 연합뉴스TV",
             "points": [
-                "한국 금융권에 대한 해외발(중국) AI 해킹 위협을 보도하며, 국가 안보 및 금융 시스템 안정성에 대한 중대한 보안 이슈를 제기.",
-                "AI 기술을 활용한 사이버 공격의 현실화와 그 파급력을 보여주며, 금융권의 디지털 보안 강화 및 국가적 차원의 사이버 방어 전략 재정비 필요성을 강조."
+                "이 뉴스는 한국경제인협회가 국내 주요 상장사들이 로봇 및 AI 등 신기술 분야로 사업 확장을 모색하고 있음을 발표한 것으로, 한국 산업의 미래 성장 동력 전환을 시사합니다.",
+                "이는 전통 산업의 디지털 전환 가속화와 함께 AI 및 로봇 산업에 대한 대규모 투자를 촉진하여 국내 산업 구조의 재편과 새로운 경제 가치 창출을 이끌 중요한 변화입니다."
             ],
-            "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTFBGTEU0RTV3aERpdmdkbWZ3cWwtbGQwcUVWdk5CUGZIbkdCU2RiS08zNHhINkhZYmJZak1fbDkxTTBETjZueC05eXQxd1hYT3U1TzNmVw?oc=5",
+            "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE0tRTFFM0lBUF9DRmxOalJ1UmNUVXBuZWFQN3RKMzg0c3ZaR1VlU0ZrVDNFVUNjMW56SFpCa0pMZDI2ellkMERpdUNXeGJsYm1rMUQwVE04aUx1SnZaQ0NTdkRFeXhUWk0?oc=5",
             "category": "Economy",
-            "published": "2026-10-10T23:56:43.738734"
+            "published": "2026-10-12T00:04:25.356346"
         },
         {
-            "title": "이란 혁명수비대 “호르무즈 지나던 유조선, 기뢰 건드려 폭발” - KBS 뉴스",
+            "title": "미 중부사령부, 호르무즈 해협 관련 국제 해운업계와 화상회의 개최 - 해사신문",
             "points": [
-                "세계 원유 수송의 핵심 통로인 호르무즈 해협에서의 유조선 폭발 사건은 중동 지역의 지정학적 긴장 고조를 의미하며, 국제 유가 및 글로벌 에너지 시장에 직접적인 영향을 미칠 수 있음.",
-                "중동 지역의 불안정성이 국제 유가 상승 압력으로 작용하여 글로벌 인플레이션 및 경제 성장에 부정적 영향을 미칠 수 있으며, 에너지 안보의 중요성을 부각."
+                "이 뉴스는 세계 에너지 수송의 핵심 길목인 호르무즈 해협의 안보와 관련된 미군과 국제 해운업계의 논의를 다루며, 글로벌 에너지 시장 및 해상 물류의 안정성에 대한 우려를 반영합니다.",
+                "호르무즈 해협의 긴장 고조는 국제 유가 상승, 해상 운임 인상 등 전 세계 경제에 직접적인 영향을 미쳐 공급망과 인플레이션에 중대한 변화를 초래할 수 있습니다."
             ],
-            "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE5Kdmk4WThhamxBRmdiLUh4dWVBTHVuR05LM2U0bkk5aTBETU43SDRLcGc1MTRyTkh3YURiWTlrVC0wOC0wbGc1UkpTcHZocTBzRkRobVNBTVFmemc?oc=5",
+            "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTE5qNjhGaUhyaGVPSGRlYXQzTDlxcGw2ME8xVU5CeWNRQ2s0emdXTUdwUlY2MWE5bEhoUWttYmJpQ2YzNFdfakdJRHllR01BZ1JwOUVOaXNiUllPWVFZcE52WldyYmotM2xVUDFJ?oc=5",
             "category": "Economy",
-            "published": "2026-10-10T23:56:43.738735"
+            "published": "2026-10-12T00:04:25.356347"
         },
         {
-            "title": "트럼프 \"미국에 공장 안 지으면 관세 300%까지 부과\" - MBC 뉴스",
+            "title": "최태원 SK 회장 “미·중 반도체 증설 시 우리 점유율 축소…최대한 빨리 확장 해야” - 전자신문",
             "points": [
-                "도널드 트럼프 전 미국 대통령의 발언으로, 향후 미국 대선 결과에 따라 글로벌 무역 질서와 공급망에 막대한 변화를 가져올 수 있는 정책적 시사점을 내포.",
-                "자국 우선주의 무역 정책의 강화 가능성을 보여주며, 글로벌 기업들의 해외 투자 및 생산 전략에 중대한 영향을 미치고 국제 통상 관계에 큰 파장을 일으킬 수 있음."
+                "이 뉴스는 SK그룹 최태원 회장이 미·중 반도체 경쟁 심화 속에서 한국 반도체 기업의 신속한 투자 확장을 강조한 것으로, 글로벌 반도체 산업의 지정학적 리스크와 한국 기업의 전략적 대응을 보여줍니다.",
+                "반도체는 핵심 산업이자 국가 안보와 직결되는 분야로, 미·중 경쟁 구도 속에서 한국 기업의 투자 결정은 글로벌 공급망 재편과 미래 기술 패권 경쟁에 중대한 영향을 미칠 것입니다."
             ],
-            "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTE1RS3lYaGZzcTVmeG0tSDY4ZWFPOVBQTTBaanRqQ19EWXhYQlBGYlFmTlZnOWhuemR5bmY3WFpFZjdBTDZ3dGVLTmN0NFhLd1lNUVhiLUNaaGkwOFJwYjF2aG93Yjl4enN1bDYyYW9tTlBBeFdE0gF0QVVfeXFMT0liUm95THRNZW9yWm0yVnFWTHphTmk1MVE3Qlh3ZXF1Q0ZFbGxlMU5rR2tpeWh0ZW1jcnd2LXNzMWo5WTZPdmFoQVZRNGg5NHFUS0JzWW1iQk9xNWdJeDg0Vld3WWlyUHh3bDdGSXRVOUhYcXg?oc=5",
+            "link": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE14RzdDT0VkcHJDb1lNUFFDS1JLbmFxWmZCWVpXOXZab2VBQmN1dVA5RmFMNjA2R0YxSklwdEd5RHIxVU1QWk1LdldfWmNvZw?oc=5",
             "category": "Economy",
-            "published": "2026-10-10T23:56:43.738735"
-        }
-    ],
-    "World": [
-        {
-            "title": "사우디 리야드 공항 여객터미널에 미사일 공격…다수 부상",
-            "points": [
-                "중동 지역의 지정학적 긴장이 고조되고 있음을 보여주는 직접적인 군사적 도발입니다.",
-                "국제 항공 보안에 대한 우려를 증폭시키고, 에너지 시장 및 지역 안보 정책에 중대한 영향을 미칠 수 있습니다."
-            ],
-            "link": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE54eEtFUjJvcmp0TGpRQk1Oemx5MzZHUVlsWl8wQnlrdDA1aFRPdU42eGRvNG84RE1DNDdSd3l6SnlXUnpXcE5WVFJGUUh5Z1F30gFTQVVfeXFMTlRyOF9qWW9NVjZOWENibEVxTTJsb0RJV19ubDJONk9JN2wxNzZZNEk0V2FiSnR4eXBMVnppWTh0V0Vxb3hRTWlPUDVqNFNCMUpjdWs?oc=5",
-            "category": "World",
-            "published": "2026-10-10T23:57:20.506288"
-        },
-        {
-            "title": "트럼프 \"이란 공격 재개할 수도\"",
-            "points": [
-                "전 미국 대통령의 발언으로, 중동 지역의 군사적 긴장과 충돌 가능성을 급격히 높이는 중대한 경고입니다.",
-                "국제 유가 및 에너지 시장에 즉각적인 불안정성을 야기하고, 국제 외교 정책에 큰 변화를 가져올 수 있습니다."
-            ],
-            "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFBFaWx0SW5UcklhWnRDQTM3U05QR2IzN0xfNlZZTy1WMHU0WnB5bzhJdlVZVFpQeFd3MnVRMlFzRElwaFJjcjZ4a1Z6RVhKd2tCanVRN1dhWElHZw?oc=5",
-            "category": "World",
-            "published": "2026-10-10T23:57:20.506294"
-        },
-        {
-            "title": "우크라, 푸틴 귀국 맞춰 모스크바 공항 드론 공격",
-            "points": [
-                "러시아-우크라이나 전쟁의 확전 양상을 보여주는 상징적인 공격으로, 러시아 수도의 핵심 인프라가 공격받았다는 점에서 파급력이 큽니다.",
-                "전쟁의 전술적 변화와 러시아 내부의 안보 취약성을 드러내며, 국제 사회의 전쟁 개입 및 지원 정책에 영향을 미칠 수 있습니다."
-            ],
-            "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE1VUldkclNpbUdqSEZWWmFDMXFaNVlfcHlqNFRnRTU4VFk4Y21iZWNOT3VhcFZ4RU1jTGg4UktMd3BnRGY1T3pOOFRVRFhNNW1aVGlzRTJMcGt5WDh2ZGVfbWM4QklBRk0?oc=5",
-            "category": "World",
-            "published": "2026-10-10T23:57:20.506295"
-        },
-        {
-            "title": "트럼프 '새 대통령' 발언에…우크라 측 \"젤렌스키, 국민 지지받아\"",
-            "points": [
-                "전 미국 대통령의 발언이 우크라이나 지도부의 정통성에 대한 의문을 제기하며, 국제 사회의 우크라이나 지원 기조에 영향을 줄 수 있는 중요한 정치적 발언입니다.",
-                "미국 대선 결과에 따라 우크라이나 전쟁에 대한 미국의 정책 방향이 크게 달라질 수 있음을 시사하며, 국제 외교 관계에 중대한 파급 효과를 가집니다."
-            ],
-            "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE54VVNIcjhUemlhNWlTd1g4QUJVUHV4d1JCT1F2R1VfNWNfbFJtQkVWZUhyVEFrRGNiOTFEQnVITzZPNWdpZ0lkSHZwcVQ2RFJoY2d0OUxrVWlvbU3SAWBBVV95cUxNZWEzYko4UmM2cHJTLWQwVEJzMUtrQ1RLY181Y1RnRDV4c0FEc2JLVGJJN0F0NDBueEZneEl3YVdYSU5YUkhSWEliOGdGU1ZFU0p3dUJoaW5KeFRaTHVUQTk?oc=5",
-            "category": "World",
-            "published": "2026-10-10T23:57:20.506295"
-        },
-        {
-            "title": "북한, 24년째 美 '최악 인신매매국' 지정에 \"정치적 도발\" 반발",
-            "points": [
-                "미국이 북한을 24년 연속 '최악의 인신매매국'으로 지정한 것은 북한 인권 문제에 대한 국제 사회의 지속적인 압박과 강력한 비판을 보여줍니다.",
-                "북미 관계의 경색 국면을 유지하고, 국제 인권 정책 및 외교적 대립을 심화시키는 중요한 외교적 이슈입니다."
-            ],
-            "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTFBnM2lCWGZFOTRseGYzN1FaSVZPMUVpSHFyTzlrdDdTWjZ6bU85OHNiWWRVaTY5MkZ1ZVpRSUk2VV9QZjJBcmViUWlKUnNjYWcwVEw5MHRzOG5ueXJlNllTaE91Ymx3ODFkNmoyQ2J6dw?oc=5",
-            "category": "World",
-            "published": "2026-10-10T23:57:20.506296"
+            "published": "2026-10-12T00:04:25.356348"
         }
     ]
 }
