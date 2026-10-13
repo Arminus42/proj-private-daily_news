@@ -1,106 +1,158 @@
 {
+    "AI_Tech": [
+        {
+            "title": "얀 르쿤 \"차세대 AI는 실세계 이해해야…韓 연구 협력 확장\" - 지디넷코리아",
+            "points": [
+                "메타(Meta)의 최고 AI 과학자이자 튜링상 수상자인 얀 르쿤의 발언은 글로벌 AI 연구의 방향성을 제시하는 중요한 이정표입니다. 그는 현재의 대규모 언어 모델(LLM)의 한계를 지적하며, AI가 물리적 세계를 이해하고 상호작용하는 '차세대 AI'로 나아가야 한다고 강조했습니다.",
+                "이는 AI 연구의 초점이 언어 모델을 넘어 로봇 공학, 자율 시스템 등 '피지컬 AI' 분야로 확장될 것임을 시사합니다. 한국과의 연구 협력 확대를 언급한 점은 국내 AI 기술 발전과 글로벌 위상 강화에도 긍정적인 영향을 미칠 것입니다."
+            ],
+            "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE9rY2pNTkVzRUZsOUxyM09HRW1MZkxPTXdvbnpsaGlDNlpSTEItWWc3SWhPd2pDRFdRQXFQTEJQTDZDUnVGMm5HUmt5SWFXQzg3N0Y4c09n?oc=5",
+            "category": "AI_Tech",
+            "published": "2026-10-13T02:16:56.289343"
+        },
+        {
+            "title": "휴머노이드 넘어 '피지컬 AI' 가속…KAIST 13일 기술·전략 발표 - 하이테크정보",
+            "points": [
+                "국내 최고 과학기술 연구기관 중 하나인 KAIST가 '피지컬 AI' 기술과 전략을 발표하는 것은 이 분야가 미래 AI 기술의 핵심 동력이 될 것임을 보여줍니다. 피지컬 AI는 단순히 정보를 처리하는 것을 넘어, 로봇이나 자율주행차처럼 물리적 세계에서 직접 행동하고 상호작용하는 AI를 의미합니다.",
+                "이 기술은 제조, 모빌리티, 국방 등 다양한 산업 분야에 혁신적인 변화를 가져올 잠재력이 큽니다. KAIST의 발표는 한국이 이 분야에서 글로벌 리더십을 확보하려는 노력을 보여주며, 관련 기술 개발 및 산업 생태계 조성에 중요한 전환점이 될 것입니다."
+            ],
+            "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTFBnRmkxdVN2TnJjcE9XcHVER2hQQ2EzekNyYWxEbVM2M283TE1lckhaWlJLV3RFMmxlQ3FVVFRuU1RlWnJydVVnXzk1REJGU1NlNkZCTlNHUjlrbE5RajRtc29oSVB0aHk0TXfSAWxBVV95cUxOY2g1Vjl3TGZHeS0xWlZrTHRQSlY5UFZJdUpPQUNFWnZ2T0NDOHNXNHg4b3dCeDZ5TEh5cGk0dGx3ZXlNcmx4TTBVd3ZmeU9TeURxMFVSNjRlcHdrSXItQWRneDZielllNzY0YTg?oc=5",
+            "category": "AI_Tech",
+            "published": "2026-10-13T02:16:56.289350"
+        },
+        {
+            "title": "‘잊는 AI’·‘느끼는 로봇’… 서울대, 삼성미래기술육성사업 2개 과제 선정 - www.koreasprint.com",
+            "points": [
+                "서울대학교와 삼성미래기술육성사업의 협력은 국내 최고 수준의 학술 연구와 대기업의 미래 기술 투자가 결합된 사례로, AI 분야의 혁신적인 연구 방향을 제시합니다. 특히 '잊는 AI'와 '느끼는 로봇'이라는 개념은 현재 AI의 한계를 뛰어넘는 차세대 기술로 주목받고 있습니다.",
+                "'잊는 AI'는 불필요한 정보를 효과적으로 제거하여 효율성과 보안을 높이는 기술이며, '느끼는 로봇'은 감각 정보를 처리하여 인간과 더 자연스럽게 상호작용하는 로봇 개발의 기반이 됩니다. 이 연구들은 AI의 지능과 감성적 측면을 동시에 발전시켜, 더욱 인간 친화적인 AI 시스템을 구현하는 데 중요한 기여를 할 것입니다."
+            ],
+            "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTE1HOVlBZjhHSHozU0ZGUzBKbTNUQmdCLWxIRUlMSkdOUURtRDhpU0xPREUycGJYbXFCSDBPU3l0WDVNY080MTJad1VpSk10S216OGZPcUJtZkc2U2pBVFdlNFJSeTc1Zlh5TkpiUnJ3?oc=5",
+            "category": "AI_Tech",
+            "published": "2026-10-13T02:16:56.289351"
+        },
+        {
+            "title": "도로공사-현대차, 피지컬AI 기반 고속도로 안전 기술 연구 개발에 협력 - 드론매거진 뉴스",
+            "points": [
+                "현대자동차와 한국도로공사의 협력은 '피지컬 AI' 기술이 실제 산업 현장에 어떻게 적용될 수 있는지를 보여주는 중요한 사례입니다. 현대차는 글로벌 자동차 산업의 선두 주자로서, 피지컬 AI를 활용한 고속도로 안전 기술 개발은 자율주행, 스마트 모빌리티 분야의 혁신을 가속화할 것입니다.",
+                "이 협력은 AI가 단순한 소프트웨어 기능을 넘어, 물리적 환경에서 센서를 통해 정보를 얻고 판단하며 행동하는 능력을 갖추게 됨을 의미합니다. 이는 교통사고 감소, 도로 효율성 증대 등 사회 전반에 긍정적인 영향을 미치며, 피지컬 AI의 상업적 가치와 실용성을 입증하는 중요한 단계입니다."
+            ],
+            "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE0xel92c1BHdExidzBvYmowZnE0T0prZkp5Q1RXS2pDU3VhN0YtWFpLdzR2ejU4U2RNS0JWdzJXaU9naXF5RTBrZVJUQkd5M1BKb0RjVkpTVkVRSDNuaUFidFlldEs?oc=5",
+            "category": "AI_Tech",
+            "published": "2026-10-13T02:16:56.289352"
+        },
+        {
+            "title": "융기원, 제조·모빌리티 피지컬 AI 국제심포지엄 개최…공동연구 모색 - 전자신문",
+            "points": [
+                "융합기술연구원(융기원)이 제조 및 모빌리티 분야의 '피지컬 AI' 국제 심포지엄을 개최하는 것은 이 기술이 글로벌 AI 트렌드의 핵심임을 방증합니다. 국제적인 전문가들이 모여 공동 연구를 모색하는 자리는 피지컬 AI 기술의 발전 방향을 논의하고, 글로벌 협력 네트워크를 구축하는 데 중요한 역할을 합니다.",
+                "이 심포지엄은 피지컬 AI가 단순한 연구 단계를 넘어 실제 산업 적용을 위한 구체적인 논의가 이루어지고 있음을 보여줍니다. 제조 공정의 자동화, 자율주행 시스템의 고도화 등 다양한 산업 분야에서 AI의 물리적 상호작용 능력이 중요해지고 있으며, 이러한 국제적 논의는 기술 표준화와 확산에 기여할 것입니다."
+            ],
+            "link": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE9BdUVVM1ZTSEJabWptMUJCbm1HUjlfMlZnajRKcEdWR0F5WmZJV1d1V2ZwRm5lb3ROOHpXSXRBMGZzUkFuNTUxSWFoSVBIUQ?oc=5",
+            "category": "AI_Tech",
+            "published": "2026-10-13T02:16:56.289352"
+        }
+    ],
     "IT_Biz": [
         {
-            "title": "[단독] SK스퀘어, 日 피지컬AI 스타트업 무진 투자... AI·반도체 밸류체인 확장 - 한국경제",
+            "title": "엔비디아 GPU의 수명이 AI 버블을 결정한다? - 한국경제",
             "points": [
-                "SK스퀘어가 일본 피지컬AI 스타트업 '무진'에 투자하며 AI 및 반도체 분야의 글로벌 밸류체인을 확장하는 중요한 전략적 움직임입니다.",
-                "국내 대기업의 해외 유망 AI 기술 투자로 미래 성장 동력을 확보하고, AI 및 반도체 산업 생태계에 큰 영향을 미칠 수 있는 대규모 투자 소식입니다."
+                "AI 산업의 핵심 인프라인 GPU의 수명과 공급망이 AI 시장의 지속 가능성과 경제적 버블 형성 여부에 중대한 영향을 미친다는 분석입니다.",
+                "AI 기술 발전의 근간이 되는 하드웨어(GPU)의 한계와 경제적 파급력을 다루며, AI 산업 전반의 투자 및 전략 방향에 영향을 줄 수 있는 핵심적인 기술-경제적 변화 포인트입니다."
             ],
-            "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE5kalIzek11ekh6TFlLYzJzWXNKZFJJa1FNUjJJaHZnaTFBYWNQM0pqLXdXRWtVVFBTU3lzSkRscERwU3MzZjYzaEFfa3NXT1Rncjk5X2pzdDZNZw?oc=5",
+            "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE9NVjJaTU11RFg3RmRMY3o1WUxCYm02eVZDTGxEdl9hMmdXVXExS0d0NzZvVWNaVDhqZ1FBWVJTUmJQcE1tQjlBY21CR0RYTXRkMDQtMXVmZkRFZw?oc=5",
             "category": "IT_Biz",
-            "published": "2026-10-12T00:03:57.767054"
+            "published": "2026-10-13T02:17:23.050888"
         },
         {
-            "title": "AI 병목 뚫는 ‘빛의 고속도로’… 美 주문 쌓이는 K-광케이블 - 조선일보",
+            "title": "양계장 카메라 해킹해 적군 염탐… 스파이가 된 CCTV - 조선일보",
             "points": [
-                "AI 시대의 폭증하는 데이터 처리량을 감당하기 위한 핵심 인프라인 광케이블 기술의 중요성이 부각되고 있으며, 한국 기업의 기술력이 글로벌 시장에서 인정받고 있습니다.",
-                "이는 AI 산업의 발전에 필수적인 통신 인프라 기술의 혁신과 한국 기업의 글로벌 경쟁력 강화를 보여주는 소식으로, 대규모 수요 증가와 기술적 우위를 나타냅니다."
+                "사물인터넷(IoT) 기기, 특히 CCTV의 보안 취약점이 국가 안보 및 군사적 목적으로 악용될 수 있음을 보여주는 사례로, 사이버 안보의 중요성을 부각합니다.",
+                "민간 인프라의 보안이 국가 안보와 직결될 수 있음을 시사하며, IoT 기기 및 네트워크 보안 강화에 대한 정책적, 기술적 변화를 요구하는 핵심적인 보안 이슈입니다."
             ],
-            "link": "https://news.google.com/rss/articles/CBMigwFBVV95cUxQR0h3VmZNdEVmeGJjSTdNUEhUV2tyUVRmbjlKaE9NNnI2NzZ5M19DdlQ1dFV0R3ltRl9IOFRBNFVvTVlUZUNQZWxld0t6WHR5YUIxaVM1ZnJ2YlU5UEJnTDFHcjEwR0tFNjVHeTJyQWR1emtFLUlvOWtmSHJVdmZULVdRYw?oc=5",
+            "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxNTzZ5M3hVelh2aHhrX1hFdTRXWmdFak1MTkozVDFEUzM4ZW9rQmR4elpOcUlndTBUWEczLWx3NDZWRjJrNWtXZ28tTW9aNGRWcmtvOUFNRFEydVVaYUVmN2JaclV1dGtBM1haZHRpdlp0cVVGSk9yREVWVWdNaG9nR3JSeHhHTkZkNXlkbm5IZmdTT3dFcjV5WWlXNk1KZw?oc=5",
             "category": "IT_Biz",
-            "published": "2026-10-12T00:03:57.767063"
+            "published": "2026-10-13T02:17:23.050895"
         },
         {
-            "title": "삼성SDI, 전고체 배터리 2027년 양산 추진…휴머노이드 첫 적용 가능성 - 글로벌이코노믹",
+            "title": "[단독]전북은행, 국내 은행권 최초 비트코인 연계 대출 - 이데일리",
             "points": [
-                "삼성SDI가 차세대 배터리 기술인 전고체 배터리의 2027년 양산을 추진한다는 소식은 에너지 저장 기술의 혁신과 상용화에 있어 매우 중요한 진전입니다.",
-                "특히 휴머노이드 로봇에 첫 적용 가능성이 언급되어, 미래 모빌리티, 로봇 산업 등 다양한 첨단 분야의 판도를 바꿀 핵심 기술 발전으로 평가됩니다."
+                "국내 시중은행이 비트코인을 담보로 하는 대출 상품을 출시하는 것은 전통 금융권과 암호화폐 시장의 융합을 알리는 중요한 신호탄입니다.",
+                "이는 암호화폐의 제도권 편입 가능성을 높이고, 금융 상품의 혁신을 가져올 수 있는 정책적, 서비스적 변화의 시작점으로 평가됩니다."
             ],
-            "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNVlNCSHJvdkxtR0NMVWJpeldjTlY2eUFfdEtmemhuaE11NldyZ3E5RVRnaUZGb2p1YkJadmxKampmWlFMU2FmcXBsaTdDZXEwSGxXNURwNlZMeGxZQ3JnaXNudnZ2b05jT3A1bS1Xdi15Wkg1aE11V3k4UDY1U2VkNjlOdTlBdDlI?oc=5",
+            "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxPLWhZMktxQnVPNEJjbzhwR2F5SmQwSTZGY2I2ME13aVZqTjdpX2FUTnNQVDRPOHlOV1A0d0dJRTAwR25rdHdjZk16c1M3WDNCVkRFbFhvNURCd3NKdVJaaVUyOFI1c1ZPTi1YQWxqcXliV3FRWEs5dzV1b2x4VS05dg?oc=5",
             "category": "IT_Biz",
-            "published": "2026-10-12T00:03:57.767064"
+            "published": "2026-10-13T02:17:23.050896"
         },
         {
-            "title": "중국은 ‘4분’, 한국은 ‘18분’…전기차 충전 속도전, 이젠 전력망 싸움 - 경향신문",
+            "title": "“모두가 연극 하고 있다”... AI 감속론 직격한 ‘AI 대부’ 얀 르쿤 - 조선일보",
             "points": [
-                "전기차 시장의 급성장과 함께 충전 속도 경쟁이 심화되면서, 이를 뒷받침할 전력망 인프라의 중요성이 국가적 과제로 부각되고 있습니다.",
-                "이는 전기차 보급 확대를 위한 필수적인 인프라 투자 및 기술 개발 방향을 제시하며, 국가별 에너지 정책 및 산업 경쟁력에 큰 영향을 미치는 중요한 소식입니다."
+                "AI 분야의 거장 얀 르쿤이 현재 AI 기술 발전의 과장된 측면을 지적하며 'AI 감속론'을 제기한 것은 AI 산업의 방향성과 미래 투자 전략에 대한 중요한 담론을 형성합니다.",
+                "AI 기술의 본질적 한계와 발전 방향에 대한 심도 깊은 논의를 촉발하며, AI 연구 및 개발의 전략적 변화를 유도할 수 있는 핵심적인 기술 철학적 변화 포인트입니다."
             ],
-            "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE8xemJYemo4SEJPS0dTNmFYcU9Qc3BGdTJQOGlpV1pjNlZvS09Id1Q3ZGgwSHBGb25yeEtyaWJwYmJPV0FvS0xGX1pFZnVuQWJuNnhIcFhzMkZYd9IBX0FVX3lxTE1Ca2NLaTBmVFdqNlBzblpOeEpoc0QzVGlSRmxGZDVMbWk1d0xQU1VpOENHWmQ1ZEdmRTB2aVJPTzExeGdiVnB5ZHpUZTAwMllGRlBxWHpKUzloWGxoWTVn?oc=5",
+            "link": "https://news.google.com/rss/articles/CBMigwFBVV95cUxOVElTbXZRa0dvWnF2Y2pUYXo3TGZTWGRUN2ZtTTlCQjduakxPRFJWa2Q4NDRXbUt6cTUyZzdLWFBlZkFlRHkxVl93SzRhSHJNV194M0ZlbktLYmRzTHVHZkxyWTBaSUFTTWs1MFlvWEhxaFVGMjVmSUgydEhrbUYzYzBYaw?oc=5",
             "category": "IT_Biz",
-            "published": "2026-10-12T00:03:57.767065"
+            "published": "2026-10-13T02:17:23.050897"
         },
         {
-            "title": "LGD, ‘금속 틀’ 없앤 ‘플립’ 기술로 OLED 한계 넘는다 - 조선일보",
+            "title": "메타, 오픈AI·앤스로픽에 도전장…최고 성능 AI ‘뮤즈 원더’ 공개 - 매일경제",
             "points": [
-                "LG디스플레이가 '금속 틀'을 없앤 '플립' 기술을 개발하여 OLED 디스플레이의 디자인 및 성능 한계를 극복하려는 시도는 디스플레이 산업의 중요한 기술 혁신입니다.",
-                "이는 더 얇고 유연하며 내구성이 강화된 차세대 디스플레이 제품 개발 가능성을 열어주며, 스마트폰, TV 등 다양한 IT 기기 시장에 큰 영향을 미칠 수 있는 핵심 기술 발전입니다."
+                "글로벌 빅테크 기업 메타가 최고 성능의 AI 모델을 공개하며 오픈AI, 앤스로픽 등 선두 주자들에게 도전장을 내민 것은 AI 경쟁 구도에 큰 변화를 가져올 수 있습니다.",
+                "이는 AI 기술 개발에 대한 대규모 투자와 혁신적인 서비스 출시를 의미하며, 글로벌 AI 시장의 판도를 바꿀 수 있는 핵심적인 기술 경쟁 및 산업 재편의 변화 포인트입니다."
             ],
-            "link": "https://news.google.com/rss/articles/CBMigwFBVV95cUxNS1piOFFGZmc3VmtmX3BVT0NnU05LX0ZBMnRua0lFVmZwVF9VQnFxTV9TY2JuZVhMTXdQV0EzOUk4dkdRcUZ0RFdZcG5Kak04clVidWpveEtBYXBmR3JuakFxR0Y0LUstd040b25uVFc4NkdOVEtFaE02ZTBKakxHeWg4UQ?oc=5",
+            "link": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE0xbWdBRHpod0hadU9DR2o1aWttTHhkM0FOcC1jZmN2V3JQc1M1Tk1EUmYxUmphR2ZOaXVER2lseG4zNkxFb21XYWtLUmJ0QQ?oc=5",
             "category": "IT_Biz",
-            "published": "2026-10-12T00:03:57.767065"
+            "published": "2026-10-13T02:17:23.050897"
         }
     ],
     "Economy": [
         {
-            "title": "'영업익 100조' 과거와 달라진 삼성전자…증권가 시선은 주주환원으로 - 연합인포맥스",
+            "title": "[속보] 코스피, 장중 4%대 급락‥두 달 만에 '매도 사이드카' - MBC 뉴스",
             "points": [
-                "이 뉴스는 삼성전자의 막대한 영업이익과 이에 따른 증권가의 주주환원 정책 기대를 다루며, 국내 최대 기업의 재무 성과와 시장의 평가를 보여주는 중요한 경제 소식입니다.",
-                "삼성전자의 실적은 한국 경제의 바로미터이며, 주주환원 확대는 국내외 투자자들의 투자 심리에 긍정적인 영향을 미쳐 자본 시장의 변화를 이끌 수 있습니다."
+                "국내 증시의 급격한 변동성을 보여주는 주요 경제 지표로, 투자 심리 및 경제 전반에 큰 영향을 미침.",
+                "코스피의 장중 4%대 급락과 매도 사이드카 발동은 시장 불안정성 심화와 잠재적 경제 위기 신호를 나타냄."
             ],
-            "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE1leGJNWUZBTUc5OFVRbHpZU2VXTHppTGRaRW5yRW1GUkZlSDRYc3lpQmt5eVhPckd6YWVRWWY4VFlUVG5tbjVncnFwVFpzeXdHOWVScGkwa2tfTGp5UUtSdmx5LWlQZEp1R1VBaEZ0ZjA?oc=5",
+            "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTE1pWkJ3X3R3RDJSVVpaOVU5OXVsNV9ZWGFhU1kzRTgwMDVvR3RMNEJoazlEME92QnRQMlBrTlpSc1dGOWJJZUdmTXJPNmhDWUZRMVNrT3QtbWVGMzAzUFRlQU1fZUxWbWdHdE9RemJsMGhCcjFS0gF0QVVfeXFMUGQ3QTctNWRfT240UVVaeGFEUTVYMDg2YmRCY01ZNlUxRnYyc041VlhTazM0aFFEZy1tLXdFYkxTdXktTmZ2RElPSGxESDJVeXpvS1Qtb2Rzd0p4Mlo5S2xreEI0NmtDWWNYQk1iemFkTXB6WHE?oc=5",
             "category": "Economy",
-            "published": "2026-10-12T00:04:25.356339"
+            "published": "2026-10-13T02:17:59.664822"
         },
         {
-            "title": "[미리보는 증시재료] 美 CPI·PPI 줄줄이…은행 실적·연준 베이지북 주목 - 뉴스핌",
+            "title": "원화 강세에 원·달러 환율 1,332원까지 하락…2년여 만에 최저 - KBS 뉴스",
             "points": [
-                "이 뉴스는 미국 소비자물가지수(CPI), 생산자물가지수(PPI) 발표와 연준 베이지북 공개 등 글로벌 금융 시장에 큰 영향을 미칠 주요 경제 지표들을 예고하고 있습니다.",
-                "이러한 지표들은 미국 연방준비제도(Fed)의 통화 정책 방향과 전 세계 증시 및 경제 흐름을 결정하는 핵심적인 요소로 작용하여 투자 전략 수립에 중요한 기준이 됩니다."
+                "원·달러 환율이 2년여 만에 최저치로 하락한 것은 국내외 경제 환경 변화를 반영하는 중요한 지표임.",
+                "원화 강세는 수입 물가 하락 및 기업의 외화 부채 부담 완화에 긍정적이나, 수출 기업의 가격 경쟁력 약화로 이어질 수 있어 경제 전반에 복합적인 영향을 미침."
             ],
-            "link": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE9HS1RTcmhZSlZ3QUdsQ1dQd2Fia21UbnNjb25MM2dHRFZiNjAxbzQ5QzN2R2d2WlhqS0kwN05Tcm90N1lBUGtiUDk4S2lhOFIxX2xBcmpMREF4OGZh?oc=5",
+            "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFBmMXZiUy1BbXlCTFhxQlU2VlZUaXNVbkJibkFSbDVhcGlxckh4OExKRENtT1B6blh3b29YR1I3VmFrcVNUQ1lPdnFWdzRNTVl0QXdoMURpR1dMOTA?oc=5",
             "category": "Economy",
-            "published": "2026-10-12T00:04:25.356345"
+            "published": "2026-10-13T02:17:59.664829"
         },
         {
-            "title": "한경협 \"국내 주요 상장사, 로봇·AI 등 신사업 진출 검토\" - 연합뉴스TV",
+            "title": "\"반도체 제외하면 이미 정체\"…한국경제 저성장 해법은 - 한국무역협회-KITA.NET",
             "points": [
-                "이 뉴스는 한국경제인협회가 국내 주요 상장사들이 로봇 및 AI 등 신기술 분야로 사업 확장을 모색하고 있음을 발표한 것으로, 한국 산업의 미래 성장 동력 전환을 시사합니다.",
-                "이는 전통 산업의 디지털 전환 가속화와 함께 AI 및 로봇 산업에 대한 대규모 투자를 촉진하여 국내 산업 구조의 재편과 새로운 경제 가치 창출을 이끌 중요한 변화입니다."
+                "한국 경제의 구조적 문제인 반도체 의존도 심화와 그로 인한 저성장 우려를 다루는 핵심적인 분석 기사임.",
+                "경제 체질 개선 및 새로운 성장 동력 발굴의 필요성을 제기하며, 장기적인 국가 경제 정책 방향 설정에 중요한 시사점을 제공함."
             ],
-            "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE0tRTFFM0lBUF9DRmxOalJ1UmNUVXBuZWFQN3RKMzg0c3ZaR1VlU0ZrVDNFVUNjMW56SFpCa0pMZDI2ellkMERpdUNXeGJsYm1rMUQwVE04aUx1SnZaQ0NTdkRFeXhUWk0?oc=5",
+            "link": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxPVzNndwlfS3BCOVZmcnJQOG9uR0k3Y1BuOTBIbF9oTjIzWHE2MWRoSi0wWW9RcGFnVS12SEFTVHBWM2FwejM3X0I5SUJ6YjZiTVpnYWgxZUd3SlB3alFncjZ5bG1HbTg4enNTczRBeFNYYnlPNVV5cklveTZkVmVwVkh6YVdOcHBTQjlfMHVLTDE3VXRQZWl5dlZIYUFjbDhPNE4zcUZfajdKMUpwYWhDSm80Y1IzX25fZHRzNFJPUWhQSlZmeW9STW5kNW5tLWtCbFpPaHRR?oc=5",
             "category": "Economy",
-            "published": "2026-10-12T00:04:25.356346"
+            "published": "2026-10-13T02:17:59.664830"
         },
         {
-            "title": "미 중부사령부, 호르무즈 해협 관련 국제 해운업계와 화상회의 개최 - 해사신문",
+            "title": "연말 만료 앞둔 토허제…서울 전역 유지냐 범위 조정이냐 '촉각' - 뉴스1",
             "points": [
-                "이 뉴스는 세계 에너지 수송의 핵심 길목인 호르무즈 해협의 안보와 관련된 미군과 국제 해운업계의 논의를 다루며, 글로벌 에너지 시장 및 해상 물류의 안정성에 대한 우려를 반영합니다.",
-                "호르무즈 해협의 긴장 고조는 국제 유가 상승, 해상 운임 인상 등 전 세계 경제에 직접적인 영향을 미쳐 공급망과 인플레이션에 중대한 변화를 초래할 수 있습니다."
+                "서울 전역에 적용되는 토지거래허가제의 연말 만료 여부는 수도권 부동산 시장에 막대한 영향을 미칠 주요 정책 결정임.",
+                "정책 유지 또는 조정 여부에 따라 부동산 투기 심리, 주택 가격 변동, 실수요자 및 투자자의 거래 활동에 큰 변화를 가져올 수 있음."
             ],
-            "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTE5qNjhGaUhyaGVPSGRlYXQzTDlxcGw2ME8xVU5CeWNRQ2s0emdXTUdwUlY2MWE5bEhoUWttYmJpQ2YzNFdfakdJRHllR01BZ1JwOUVOaXNiUllPWVFZcE52WldyYmotM2xVUDFJ?oc=5",
+            "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE1TSDlsSHpNZ0p1YUhtVHdfZUNtN0VYc2tLWUV3M0k1UUFlUlJPaHFnTVRqTXN2cTg1aERuRnVzNDd6Mk1sdVdJcGViTlV1ckdFSEdkdXFKWDZ0N28?oc=5",
             "category": "Economy",
-            "published": "2026-10-12T00:04:25.356347"
+            "published": "2026-10-13T02:17:59.664830"
         },
         {
-            "title": "최태원 SK 회장 “미·중 반도체 증설 시 우리 점유율 축소…최대한 빨리 확장 해야” - 전자신문",
+            "title": "[단독]망분리 완화 금융사 10곳, 보안계획만 세우고 이행 안해···내부망 해킹 노출될 뻔 - 경향신문",
             "points": [
-                "이 뉴스는 SK그룹 최태원 회장이 미·중 반도체 경쟁 심화 속에서 한국 반도체 기업의 신속한 투자 확장을 강조한 것으로, 글로벌 반도체 산업의 지정학적 리스크와 한국 기업의 전략적 대응을 보여줍니다.",
-                "반도체는 핵심 산업이자 국가 안보와 직결되는 분야로, 미·중 경쟁 구도 속에서 한국 기업의 투자 결정은 글로벌 공급망 재편과 미래 기술 패권 경쟁에 중대한 영향을 미칠 것입니다."
+                "금융사의 망분리 규제 완화 후 보안 계획 미이행은 금융 시스템 전반의 심각한 사이버 보안 위협을 초래할 수 있음.",
+                "내부망 해킹 노출 가능성은 고객 정보 유출 및 금융 서비스 마비 등 대규모 피해로 이어질 수 있어, 금융 안정성과 신뢰도에 치명적인 영향을 미침."
             ],
-            "link": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE14RzdDT0VkcHJDb1lNUFFDS1JLbmFxWmZCWVpXOXZab2VBQmN1dVA5RmFMNjA2R0YxSklwdEd5RHIxVU1QWk1LdldfWmNvZw?oc=5",
+            "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE5IT2RzRnhNZmloc0luUTFHMi1iTnpuZWdra0NXdlFOdFBReEpLUFJtdkdOMV9reGJnaDZmTmJNVEdrbjZvbjczVndMZWhfajR5N201NF80bVZsUdIBX0FVX3lxTE1OclA5Q2EwWDN3b3paSUYwck9BRE5HM0doUE9ZWFladzduUlNuQVRNSExWWVgwR3dxbjVsR2tfZ1pKTEdUcEs5T1RTUTBKNHJ6X1gtTk54dTkzalI1SkZF?oc=5",
             "category": "Economy",
-            "published": "2026-10-12T00:04:25.356348"
+            "published": "2026-10-13T02:17:59.664831"
         }
     ]
 }
