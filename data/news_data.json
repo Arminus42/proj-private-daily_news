@@ -1,158 +1,210 @@
 {
     "AI_Tech": [
         {
-            "title": "국산 LLM AI 에이전트 글로벌 상용화…K-유니콘들 손잡았다",
+            "title": "숭실대 AI안전성연구센터, 립싱크 딥페이크 차단 기술 개발… NeurIPS 2026 채택",
             "points": [
-                "이 뉴스는 국내 AI 기술의 글로벌 경쟁력을 보여주는 중요한 소식입니다. 여러 한국의 AI 유니콘 기업들이 힘을 합쳐 자체 개발한 대규모 언어 모델(LLM) 기반 AI 에이전트를 세계 시장에 선보인다는 점에서, 국내 AI 생태계의 성숙과 해외 진출 의지를 명확히 드러냅니다.",
-                "핵심 기술적 변화는 'LLM AI 에이전트'의 글로벌 상용화입니다. 이는 단순히 언어를 이해하는 것을 넘어, 사용자의 의도를 파악하고 다양한 작업을 자율적으로 수행하는 AI 비서와 같은 기술입니다. 이러한 국산 AI 에이전트가 세계 시장에 진출하면, 국내 기업들이 글로벌 AI 시장에서 새로운 수익원을 창출하고 기술 주권을 강화하는 데 기여할 것입니다."
+                "이 뉴스는 숭실대학교 연구팀이 세계 최고 권위의 인공지능 학술대회인 NeurIPS(신경정보처리시스템학회)에 딥페이크 차단 기술 논문을 채택시켰다는 점에서, 국내 연구팀의 기술력이 글로벌 AI 연구의 중요한 성과로 인정받았음을 보여줍니다.",
+                "'립싱크 딥페이크'는 특정 인물의 입 모양을 조작해 가짜 영상을 만드는 기술로, 사회적 혼란을 야기할 수 있습니다. 이를 효과적으로 차단하는 기술은 AI 오남용 방지 및 사회적 신뢰 확보에 필수적인 획기적인 기술적 돌파구이며, AI 안전성 분야의 글로벌 트렌드를 선도하는 연구입니다."
             ],
-            "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE03Wk5id1ZHTUJCalBQbXVUazZ0N1ZnOG9Gai03R3pmaG5DQ0xPSXVjbEpJSGlDX3Ffa1gtckR4QTVKUXE4bG45c2RjREJ0Sl9GOEVKWmtHTmhqdk5ROFNhQXF2ZDhUUzVDeGfSAW9BVV95cUxQNDV5OHJCQXJ2Mnc2WEZEX3hMcFVRdmVNVWdkS0dJS3UzMGN2a1ZZZFM3REtHaFV2cHpQNzRSd2x0MTlFU2oyZXNxZkcwY2xZNXZYVVpxYlN2aHlXY3dvYUg5OXlVNzg2LXJLcXR1M0k?oc=5",
+            "link": "https://news.google.com/rss/articles/CBMic0FVX3lxTFA1ZFN3RUxjZU9ra2t3bzlNcXNSOGxtYUJDTjhiWHlINVUwejJZcDVmVFJCc0pRa244ZThWdEZ3ZGc4UVJRWUh2SFB0dWh1b3M1U0VfLU92ck9DaWw2QVg2TkNfV1czMHFDYTZPZEQyMVZuWXPSAXdBVV95cUxPaXB3dU00cHhfdVpqaGVmODNQYVVWYzdmWmxPWkNEajVZSTVpdGtNdjNuMzY1bmdfcmJyX0EtRVBIUHY2QVF1bWFqVzBqR1hUUnNMdFRiV3U4Q29iV2ZUaE1WdkVncWlMVHZRYlpWWGZkR1dPOE5iNA?oc=5",
             "category": "AI_Tech",
-            "published": "2026-10-19T23:58:53.711935"
+            "published": "2026-10-20T23:32:01.513154"
         },
         {
-            "title": "한국도로공사, 현대자동차그룹과 고속도로 Physical AI 기반 로봇 기술 연구협력 업무협약 체결",
+            "title": "AI, 허위 판례 인용 '환각' 현상 크게 줄었다",
             "points": [
-                "이 뉴스는 현대자동차그룹이라는 글로벌 대기업이 한국도로공사와 손잡고 실제 인프라에 AI 로봇 기술을 적용한다는 점에서 매우 중요합니다. 단순한 연구를 넘어, 실생활에 직접적인 영향을 미칠 수 있는 '피지컬 AI'의 상용화 가능성을 보여줍니다.",
-                "핵심 기술적 변화는 '고속도로 Physical AI 기반 로봇 기술'입니다. 이는 AI가 물리적인 로봇을 통해 현실 세계와 상호작용하며 고속도로 유지보수, 안전 관리 등 복잡한 작업을 수행하게 됩니다. 이 협력은 도로 관리의 효율성을 극대화하고, 인명 피해 위험을 줄이며, 미래 교통 인프라의 혁신적인 변화를 이끌 경제적 가치를 창출할 것입니다."
+                "인공지능, 특히 거대언어모델(LLM)의 가장 큰 문제점 중 하나인 '환각(Hallucination)' 현상이 법률 분야에서 크게 줄었다는 소식은 AI 신뢰도 향상에 대한 중요한 진전입니다. 이는 AI가 실제와 다른 정보를 생성하는 오류를 줄였다는 의미로, AI의 실용적 적용 가능성을 높이는 핵심적인 발전입니다.",
+                "법률과 같이 정확성이 생명인 분야에서 AI의 환각 현상을 줄였다는 것은 모델의 추론 능력과 사실 확인 능력이 향상되었음을 의미합니다. 이는 AI가 단순한 정보 검색을 넘어 복잡한 판단을 내리는 데 더욱 신뢰할 수 있게 되었음을 보여주는 기술적 돌파구이며, AI의 사회적 수용성을 높이는 데 크게 기여할 것입니다."
             ],
-            "link": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE9EcGhET0FkQVVGdlVmVzJncUdOc2NhcVJyMV9BRlhhejJFSG1WbXplZUNyQzlqWVhDVzVsNXd4bUFsa2huOW5mMGw5ZlpIdw?oc=5",
+            "link": "https://news.google.com/rss/articles/CBMickFVX3lxTE9zS1hwU2IzbWkwSTRZcjJCYUlUOHdrVFNGTTViNkdpQ3JrUHdvS19vSFBHUkk5TU5ubG4yQWNXY3hMLW9ZWDZOYjAtdWdUV29XblpGblpWcFFZSzZ0OWdNQXZmREZ4eGRLY09Ga1plZXlMd9IBckFVX3lxTE9zS1hwU2IzbWkwSTRZcjJCYUlUOHdrVFNGTTViNkdpQ3JrUHdvS19vSFBHUkk5TU5ubG4yQWNXY3hMLW9ZWDZOYjAtdWdUV29XblpGblpWcFFZSzZ0OWdNQXZmREZ4eGRLY09Ga1plZXlMdw?oc=5",
             "category": "AI_Tech",
-            "published": "2026-10-19T23:58:53.711943"
+            "published": "2026-10-20T23:32:01.513186"
         },
         {
-            "title": "제이엘케이, 의료 특화 멀티모달 LLM 특허 확보…'주메드' 경쟁력 강화",
+            "title": "KT, 아크릴과 의료 데이터부터 AI 서비스까지 협력 나선다",
             "points": [
-                "이 뉴스는 의료 AI 분야에서 중요한 기술적 진보를 알립니다. 제이엘케이(JLK)가 의료 분야에 특화된 '멀티모달 LLM' 특허를 확보했다는 것은, 이 회사가 의료 진단 및 치료 과정에 혁신을 가져올 수 있는 독점적인 기술력을 갖추게 되었음을 의미합니다.",
-                "핵심 기술적 변화는 '의료 특화 멀티모달 LLM'입니다. 이는 텍스트(환자 기록), 이미지(X-ray, MRI), 음성 등 다양한 형태의 의료 데이터를 동시에 이해하고 분석하는 AI 모델입니다. 이 기술은 의사들이 더 정확하고 빠르게 진단하고, 환자 맞춤형 치료 계획을 세우는 데 큰 도움을 줄 것입니다. 이는 의료 서비스의 질을 높이고, 궁극적으로 환자들의 건강 증진에 기여할 경제적, 사회적 가치가 큽니다."
+                "국내 주요 빅테크 기업인 KT가 AI 전문 기업 아크릴과 손잡고 의료 AI 사업을 확대하는 것은, AI가 헬스케어 분야의 핵심 동력으로 자리 잡고 있음을 보여주는 중요한 시장 트렌드입니다. 대기업의 전략적 투자는 해당 분야의 빠른 성장과 기술 발전을 이끌 것입니다.",
+                "병원 데이터 표준화, AI 서비스 실증 및 사업화는 의료 현장에 AI를 실제 적용하기 위한 필수적인 단계입니다. 이는 진료 지원, 질병 진단 보조 등 환자 맞춤형 정밀 의료 시대를 앞당기는 기술적/경제적 변화를 가져올 것이며, 의료 서비스의 효율성과 정확성을 크게 향상시킬 잠재력을 가집니다."
             ],
-            "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTFBoNVotRzNMU21leUphWEc4bXU0OE5DOXVYaW8yZWU4eC10b1Y5NVpqNXkwVkd3b2RickV0RDhURGIwMVpXaHF6dTJaa054dnlyR3Z0cHpoNmtiMDc2SnYxV0ZmTUlLTkt4?oc=5",
+            "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE9yWnJHWjNPWFVyZHRwSWI4N1JsYmJpb3Y4YXU3YzJCb0t2b2xTTlRNNFhDUGItVDRhZ0RjUzBrcXNmeVQ4N0M3X0czZ2IyVU92M25aNE9mTEhIWEE?oc=5",
             "category": "AI_Tech",
-            "published": "2026-10-19T23:58:53.711944"
+            "published": "2026-10-20T23:32:01.513192"
         },
         {
-            "title": "아크릴-KT, 의료 인공지능 전환 협력…데이터 플랫폼·AI 서비스 공동 사업화",
+            "title": "가톨릭대 공동연구팀, '위암 복막전이 탐지 AI 연구'로 국제학술대회 수상",
             "points": [
-                "이 뉴스는 국내 통신 대기업인 KT가 의료 AI 분야에 본격적으로 진출하며, 의료 데이터 플랫폼 구축과 AI 서비스 사업화를 추진한다는 점에서 매우 파급력이 큽니다. 대기업의 참여는 의료 AI 시장의 성장을 가속화하고, 관련 기술의 대중화를 이끌 수 있습니다.",
-                "핵심 기술적 변화는 '의료 데이터 플랫폼'과 'AI 서비스 공동 사업화'입니다. 이는 병원들이 보유한 방대한 의료 데이터를 표준화하고, 이를 기반으로 진단 보조, 신약 개발, 환자 관리 등 다양한 AI 서비스를 개발하고 상용화하는 것을 목표로 합니다. 이 협력은 의료 시스템의 디지털 전환을 촉진하고, 효율적인 의료 서비스 제공을 통해 국민 건강 증진과 새로운 의료 비즈니스 모델 창출에 기여할 것입니다."
+                "가톨릭대학교 공동연구팀이 국제학술대회에서 위암 복막전이 탐지 AI 연구로 수상한 것은, 국내 대학 연구팀의 AI 기술력이 세계적으로 인정받았음을 의미합니다. 이는 특정 질병 진단 분야에서 AI의 실질적인 기여를 보여주는 중요한 사례입니다.",
+                "위암 복막전이는 진단이 어렵고 예후가 좋지 않은 질환인데, AI가 이를 정확하게 탐지하는 기술은 조기 진단율을 높여 환자의 생존율을 개선하는 데 크게 기여할 수 있습니다. 이는 의료 AI가 실제 임상 현장에서 생명을 살리는 데 직접적으로 활용될 수 있음을 보여주는 획기적인 기술적 진전입니다."
             ],
-            "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxQa0FvbjFZb3o5eXJvUzhoVjFBTjdfM2NWb25icGpVLTJrTW83OVVTWmxPb054Z0lNU2xlbmVoanNlTE1uWWRwNldMM09ZZVBzdWpvdjB6bHc5TEVWWWlscWxELTRKd2I4bHZuN2hsd0h2SGVrT0d0ekU5VTFMMmQwSQ?oc=5",
+            "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTFBtQWhKRU9FQ3djUnhFZldKRlkxeWZmcVdGQW90WWg3cDVaZ3NoZW1IY1lVNml0S0dtQUZ0ZXoyTy1nLWJyMjZqT0Y3U2xuNDM2ZWpqbG1CdmtnSEg2NHptYXh5UGV2aU11WTdZ?oc=5",
             "category": "AI_Tech",
-            "published": "2026-10-19T23:58:53.711944"
+            "published": "2026-10-20T23:32:01.513196"
         },
         {
-            "title": "영국 과학기술위원회, AI 주권 관련 권고 발표",
+            "title": "고려대, 가상세계부터 농업 현장까지…차세대 AI 기술 개발 이끌어",
             "points": [
-                "이 뉴스는 특정 기술 개발 소식은 아니지만, 영국 정부의 주요 위원회가 'AI 주권'에 대한 권고를 발표했다는 점에서 글로벌 AI 기술 트렌드에 매우 중요한 영향을 미칩니다. 이는 각국이 AI 기술을 단순한 도구가 아닌 국가 안보 및 경제적 독립의 핵심 요소로 인식하기 시작했음을 보여줍니다.",
-                "핵심 변화는 'AI 주권'이라는 개념의 부상과 이에 대한 정책적 대응입니다. AI 주권은 한 국가가 AI 기술 개발, 데이터 통제, 인재 양성 등을 독자적으로 수행할 수 있는 능력을 의미합니다. 영국의 이러한 권고는 다른 국가들에게도 자국 중심의 AI 전략을 수립하도록 영향을 미칠 것이며, 이는 글로벌 AI 기술 개발 경쟁과 표준화, 데이터 규제 등에 큰 변화를 가져올 경제적, 지정학적 가치가 있습니다."
+                "고려대학교와 같은 국내 명문 대학이 가상세계, 농업 등 광범위한 분야에 적용될 수 있는 '차세대 AI 기술' 개발을 주도한다는 것은, AI 기술이 특정 분야를 넘어 사회 전반의 혁신을 이끌 핵심 동력임을 보여주는 중요한 연구 방향입니다.",
+                "이 뉴스는 구체적인 기술 명칭보다는 AI의 광범위한 적용 가능성에 초점을 맞추고 있습니다. 이는 AI가 다양한 산업과 일상생활에 깊숙이 침투하며 새로운 가치를 창출할 수 있는 범용 인공지능(AGI) 또는 기반 모델(Foundation Model) 연구의 중요성을 시사합니다. 여러 분야에 걸쳐 혁신을 가져올 수 있는 잠재력을 가진 기술 개발에 대한 기대감을 높입니다."
             ],
-            "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxOYV9ybWk0bXozcDlabnQ1TWgxc19sZk1JcXdpYTU4RXNXTkt5d1phOXBTWU1EVE1ncjdCMU1TZGdFMHo2NTRCUjNMWDRxTTRKVDFHd2N5MjNjZGhaSzYxdmRZam5lVVN1OUdLci1PRjVQejRxVmEzYk1pRHFHOVJLRHRkQnNhdk5YVW42QkszVXFYWEU1T3duS2pB?oc=5",
+            "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE9ScUJaSzVKVmRKX2xNamRBZ1NIRHpYQ0ZZNHI5bktoSnZ5N2paMVJLZ3VPcTJ3NVNmUklTUEo0VUhfck9BbVZRQTl0dnlPUHdqUzB6d3hlNm1qdXJfZmptZVB1a3I?oc=5",
             "category": "AI_Tech",
-            "published": "2026-10-19T23:58:53.711945"
+            "published": "2026-10-20T23:32:01.513200"
         }
     ],
     "IT_Biz": [
         {
+            "title": "'월 100만장 반도체 팹' 짓는 일론 머스크, 한국 소부장에 러브콜 - 디일렉",
+            "points": [
+                "이 뉴스는 일론 머스크가 대규모 반도체 생산 시설을 건설하려는 계획을 밝히며, 특히 한국의 소부장(소재, 부품, 장비) 기업들과의 협력을 모색한다는 점에서 글로벌 반도체 산업의 지형 변화를 예고합니다.",
+                "세계적인 기술 리더의 대규모 투자는 반도체 공급망에 큰 영향을 미치고, 한국 소부장 산업의 위상을 강화할 수 있는 중요한 경제적 변화 포인트입니다."
+            ],
+            "link": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE9ELWdVSHRwWGhwMkN3ZUxUWURRN2JlMVZKTDU0YTdDQ0JrNS1QT3o2OWZfclRJaEFYXzlHcjdTbFNkMWRnQmI5U1Y3S3RqOGlZS3RCcDBfZzYwZlM2NWZ5MmxKamNGQQ?oc=5",
+            "category": "IT_Biz",
+            "published": "2026-10-20T23:32:40.180503"
+        },
+        {
             "title": "젠슨 황 \"AI 다음 물결은 피지컬 AI…다시는 이런 기회 없다\" [IT썰] - 머니투데이",
             "points": [
-                "AI 분야의 최고 권위자 중 한 명인 젠슨 황 엔비디아 CEO가 '피지컬 AI'를 다음 AI 물결로 지목하며 산업의 미래 방향을 제시했습니다.",
-                "AI 기술이 소프트웨어를 넘어 로봇, 자율주행 등 물리적 세계와 결합하는 새로운 패러다임 전환을 예고하며 대규모 투자 및 기술 혁신을 촉발할 전망입니다."
+                "엔비디아 CEO 젠슨 황이 '피지컬 AI'를 AI의 다음 혁신 물결로 지목한 것은 AI 산업의 미래 방향성과 기술 개발 로드맵에 대한 강력한 비전을 제시하는 것입니다.",
+                "이는 로봇 공학, 자율 시스템 등 물리적 세계와 상호작용하는 AI 기술 분야에 대규모 투자와 연구 개발이 집중될 것임을 시사하며, 관련 산업의 판도를 바꿀 핵심 기술적 변화 포인트입니다."
             ],
-            "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE9YNllOWC1VamFwenE2ZlNBNFp5bzMzdzFuRHNKRy1COXJvS3EyQjAzellJMVU2c2ZmODVCVmRtTXpvVXh6bFNkNm5Sd2ZycHJhNnJ0aElyeFZYX1BDLXF2c3V6RWlxZGfSAWxBVV95cUxQT2Z0b2h5Y2dibTlzRE84Q1htNlhObjV2UHEydll3WjZ4azZyYV84cUxndGM5V253aVZnMUdQbU5NaUpqQVRsYl9taFBXNGh6alJIcTRESGk2cGg0YVFMMTlCeXlRQkVKNURuQ2w?oc=5",
+            "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE9YNllOWC1VamFwenE2ZlNBNFp5bzMzdzFuRHNKRy1COXJvS3EyQjAzzellJMVU2c2ZmODVCVmRtTXpvVXh6bFNkNm5Sd2ZycHJhNnJ0aElyeFZYX1BDLXF2c3V6RWlxZGfSAWxBVV95cUxQT2Z0b2h5Y2NibTlzRE84Q1htNlhObjV2UHEydll3WjZ4azZyYV84cUxndGM5V253aVZnMUdQbU5NaUpqQVRsYl9taFBXNGh6alJIcTRESGk2cGg0YVFMMTlCeXlRQkVKNURuQ2w?oc=5",
             "category": "IT_Biz",
-            "published": "2026-10-19T23:59:24.981453"
+            "published": "2026-10-20T23:32:40.180528"
         },
         {
-            "title": "오늘 금감원 국감…디지털자산 법·과세, KOK 주목 - 이데일리",
+            "title": "'로봇 3만대 시대 준비'⋯현대차그룹, 로봇 사업 체계 구체화 - 아이뉴스24",
             "points": [
-                "금융당국의 디지털자산 관련 법률 및 과세 논의는 암호화폐 시장의 투명성과 안정성을 확보하고 투자자 보호를 강화하는 중요한 정책 변화입니다.",
-                "새로운 규제 프레임워크는 디지털자산 산업의 성장 방향과 기업들의 사업 전략에 직접적인 영향을 미치며, 관련 시장의 판도를 바꿀 핵심 요소입니다."
+                "현대차그룹이 '로봇 3만대 시대'를 준비하며 로봇 사업 체계를 구체화하는 것은 글로벌 자동차 및 제조 산업의 주요 기업이 로봇 기술을 핵심 성장 동력으로 삼는다는 전략적 변화를 보여줍니다.",
+                "이는 제조 자동화, 서비스 로봇 등 로봇 산업 전반에 걸친 대규모 투자와 기술 혁신을 촉진하며, 미래 산업 구조와 고용 시장에 중대한 영향을 미칠 경제적/기술적 변화 포인트입니다."
             ],
-            "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxNOWI1eEhnQnlaM29HSHpMZndzbHNMeURDUU00RmZ0OGRXb19Vd3QzYzU4aE5tYUhKRnRaUENTSWxFYlJBN2RvSzlhUW8wVGFJLWoxWWZEV1c3Skc3WGVNLWVZc3ZVTkhQX1pxdi00LXVaWmpWQWNwd3V5NWxnc3NFTw?oc=5",
+            "link": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE9CQ2kzYXctR19Cd2gyaVpEMkNRR25iTDBBY0RhNHRyM1VBeThZLTRPdV91ZzBDWkR0QS1qZnZKWVdscDEzSlN6ZWlwcw?oc=5",
             "category": "IT_Biz",
-            "published": "2026-10-19T23:59:24.981459"
+            "published": "2026-10-20T23:32:40.180533"
         },
         {
-            "title": "유럽마저 온통 붉은색…\"中에 기술·인재 다 뺏겼다\" - 한국경제",
+            "title": "[윤희영의 News English] 중국산 전기차에 숨겨진 ‘킬 스위치’ - 조선일보",
             "points": [
-                "유럽이 중국에 기술과 인재를 빼앗기고 있다는 경고는 글로벌 기술 패권 경쟁의 심화와 서방 국가들의 위기감을 보여주는 중요한 국제 경제 소식입니다.",
-                "이는 전 세계 IT 산업의 공급망 재편, 국가별 기술 투자 전략 변화, 그리고 인재 유치 경쟁에 큰 영향을 미칠 수 있는 거시적 변화를 시사합니다."
+                "중국산 전기차에 '킬 스위치'가 숨겨져 있을 수 있다는 의혹은 전기차 산업을 넘어 국가 안보, 데이터 주권, 국제 무역 관계에 심각한 영향을 미칠 수 있는 중대한 지정학적/기술적 이슈입니다.",
+                "이는 각국의 전기차 수입 정책, 사이버 보안 규제 강화, 그리고 소비자 신뢰에 큰 변화를 가져올 수 있으며, 글로벌 공급망 재편과 기술 표준화 논의를 촉발할 수 있는 정책적 변화 포인트입니다."
             ],
-            "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE92dXBKOTZWT0stTE1OUFlBbU5Pd1BTMU51ZVhzVjlOOHpDdUdXM2gyRTgxV2w4SUZ0NEg5Ty16dUUtNEEtS2ZYX1B4TnRUQ1R5WDZaem54c2ZDdw?oc=5",
+            "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxNZndSWXRfNWtnbDh5Q2o5V3Y4bXMxOGlobG5DZF9TZ3E2Q1RzYlhncGgzVXlQZ3RibVhmR0tHQmx1RHBfUE1BT3RUdXBvYktzdHJhX295SFVDcFdJeEUycVRXWWdmUFVPUXNUYy0wbnNNU1BrbjM0QWFPZC1DWExTUkVLUi1MU2MycXlpX3pmang?oc=5",
             "category": "IT_Biz",
-            "published": "2026-10-19T23:59:24.981460"
+            "published": "2026-10-20T23:32:40.180536"
         },
         {
-            "title": "韓 의료진, 서울서 870㎞ 밖 中 수술 로봇 조작 성공 - 조선일보",
+            "title": "중국산 AI 모델, 美 제치고 국내 개발 생태계 장악…\"비용·활용성 우위\" - 조선일보",
             "points": [
-                "서울 의료진이 870km 떨어진 중국에서 수술 로봇을 원격 조작하여 성공한 사례는 원격 의료 및 로봇 수술 기술의 혁신적인 발전과 상용화 가능성을 입증합니다.",
-                "이 기술은 의료 서비스 접근성을 획기적으로 개선하고, 의료 인프라가 부족한 지역에 고품질 의료를 제공하는 등 전 세계 의료 산업의 판도를 바꿀 잠재력을 가집니다."
+                "국내 AI 개발 생태계에서 중국산 AI 모델이 미국산을 제치고 우위를 점하고 있다는 분석은 글로벌 AI 기술 경쟁 구도와 각국의 AI 전략에 중요한 시사점을 제공합니다.",
+                "이는 AI 기술의 경제성 및 실용성 측면에서의 변화를 보여주며, 국가별 AI 기술 주도권 경쟁, 데이터 주권 문제, 그리고 국내외 AI 산업의 투자 및 협력 방향에 영향을 미칠 수 있는 경제적/정책적 변화 포인트입니다."
             ],
-            "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxPTXk3NFVIb0NjZVlvVmhaRnNJX3FTZDJvTy1MczRkSTZ3V0VLY1ppUU54OEl1TFRVYnFZdllrcWFxWjJ1eG93RjdwdE9Qc205amcxNlM0X3hZMkF5Ny05NXBvSk14TDNpblFrM3FJNE5KZExjNU1sLWhaM2ltQUdCa2xtb0JLOTl2ZjRVODhMSQ?oc=5",
+            "link": "https://news.google.com/rss/articles/CBMigwFBVV95cUxQampKOVNLSGZmZXhtV2xkRWxPbVVvVkdKX3dZLUpnTHE3Z0FRWmJaZUdkV3RuTTkzM18zbDg4YUxPTGx5QkNhNDhTR2s1akxfb2hpVDJVNmc4b2hiVGVFOERSWHVIY1JjSC1wSVZWQkNFeTFYMllRdUUwLTZMTkR2U25Rbw?oc=5",
             "category": "IT_Biz",
-            "published": "2026-10-19T23:59:24.981460"
-        },
-        {
-            "title": "[르포] 운전대 없이 강릉 도심 달렸다…롯데이노베이트 자율주행 셔틀 타보니 - 지디넷코리아",
-            "points": [
-                "롯데이노베이트의 자율주행 셔틀이 강릉 도심에서 운행에 성공한 것은 자율주행 기술의 상용화에 한 발 더 다가섰음을 보여주는 중요한 혁신 서비스 출시 사례입니다.",
-                "이는 미래 모빌리티 시장의 변화를 가속화하고, 스마트시티 구축 및 대중교통 시스템 혁신에 기여하며 관련 산업의 대규모 투자와 기술 발전을 촉진할 잠재력을 가집니다."
-            ],
-            "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE1FMVhUajZXQUkyTWlNRzVacy1tNW11T2hGdkZsbEFsQXRvRkhoNlRDOTl5ek5nd2R4YXl6YTNLaFd2M1dJR1UzOWFvbzRWdkZfMFBSR1hR?oc=5",
-            "category": "IT_Biz",
-            "published": "2026-10-19T23:59:24.981461"
+            "published": "2026-10-20T23:32:40.180540"
         }
     ],
     "Economy": [
         {
-            "title": "이형일 부총리 \"올해 성장률 3.4∼3.6% 전망‥잠재성장률 반등 임박\" - MBC 뉴스",
+            "title": "국제유가, 5개월만에 최고치 찍고 하락…美·이란 간 중재 기대 - 한국무역협회-KITA.NET",
             "points": [
-                "정부 고위 관계자(부총리)가 발표한 국가 경제 성장률 전망치로, 국내외 투자 및 소비 심리에 큰 영향을 미치는 거시 경제 정책 방향을 가늠할 중요한 지표입니다.",
-                "잠재성장률 반등 임박 언급은 한국 경제의 중장기적 성장 동력 회복 가능성을 시사하며, 향후 정부의 경제 정책 수립에 핵심적인 근거가 됩니다."
+                "이 뉴스는 국제유가 변동이 전 세계 경제에 미치는 막대한 영향력을 보여줍니다. 유가 상승은 인플레이션 압력을 높이고 기업 비용과 소비자 물가에 직접적인 영향을 주며, 하락은 경제 불확실성 완화에 기여합니다.",
+                "미국과 이란 간의 중재 가능성이 유가 하락의 주요 원인으로 지목되며, 이는 중동 정세와 국제 외교가 에너지 시장에 미치는 지대한 영향을 시사합니다."
             ],
-            "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTFBwcnBXdXhMV0dnRTdmM1JDUFpIbVNxQ0tjbjVSa09HZ3lRN0RiM3owQnQ1d3p2eGU5SUlQM1hNdGU1NjJIMjhPbk52UENIU2RhZF8yLWZxSDgzTng5REJkLTJrc0lPOW9ST25PWlRxaFI2S0Zh0gF0QVVfeXFMUFFkdUVaVkowd2dlYms1VXhCcmJMaGsxeU54TEYyT0JXdnlyNXhodG5GeDRaSWhfaG84YWFXdHBzcTl4S0k5amlIRHZpQ29ISWFCRFRFQ1N5T3pjLVhOc1VFMTloWk93UnZ5bFJjRHk3Um9ZQjI?oc=5",
+            "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxNY2doT0dqZHlaUUtXMkdWR1V3ZEVRbjVSV0RGTDMyTTdWay1sZVZveU4zYkZsUWJMQmNWUU44Vk43RThtQktwaGdZVGlCUDZvazcwTzhqdWlTUEIxQVZNenIxQ2k2TzlFZGJEWmVScWtUOTMxZmlLSWhGVC1sdHpaVGxTZDFUdUt3eUdLTA?oc=5",
             "category": "Economy",
-            "published": "2026-10-19T23:59:53.637320"
+            "published": "2026-10-20T23:33:28.507952"
         },
         {
-            "title": "美 증시 신용 융자 사상 최고…월가 \"코스피도 이렇게 붕괴\" - 연합인포맥스",
+            "title": "[사설] 금융위기 때 넘어선 '경매 쓰나미'…고금리·양극화에 짓눌린 민생 - 한국경제",
             "points": [
-                "미국 증시의 과도한 신용 융자 증가는 글로벌 금융 시장에 미칠 수 있는 잠재적 위험을 경고하는 분석으로, 전 세계 투자자들의 위험 회피 심리를 자극할 수 있습니다.",
-                "월가 전문가들의 코스피 시장 붕괴 가능성 언급은 국내외 투자자들에게 시장 변동성 확대 및 위험 관리에 대한 경각심을 높이는 중요한 신호이며, 자산 배분 전략에 영향을 미칩니다."
+                "이 뉴스는 고금리 장기화와 경제 양극화 심화로 인해 가계 부채 문제가 심각해지고 있음을 보여주는 중요한 지표입니다. 경매 물건 증가는 금융 시스템의 불안정성과 서민 경제의 어려움을 반영합니다.",
+                "금융위기 수준을 넘어선 경매 증가는 정부의 금리 정책, 부동산 시장 안정화 대책, 그리고 취약 계층 지원 정책에 대한 근본적인 재검토를 요구하는 사회적 압력으로 작용할 수 있습니다."
             ],
-            "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE5uYlpFSzkzYmpIT3VwZlRQdnN3ZjhlQk82QU1iOXZoRWE3X1RMdnQtZEhheUxsLTktX3AxQzJoamlteTRPeEstUGtwR1U1NmVYcnBNQzM3bDJTZTZpZ3pWUVdhcnRQUEJ2TmdQT0t0dEs?oc=5",
+            "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE9QYkI3T2xBRUlaR1lzZTBhQ2x4RGE0ZjBwZTVibmpIY2sxWF9tOFZ0NUtIai1lcXBFUkRPaDc3OGN5dm4xSnNfWGEwamNkeW1UbzJYc0djS1VOUQ?oc=5",
             "category": "Economy",
-            "published": "2026-10-19T23:59:53.637326"
+            "published": "2026-10-20T23:33:28.507975"
         },
         {
-            "title": "미 행정부, 연방기관 시스템서 중국 ‘딥시크’ AI 모델 퇴출 - KBS 뉴스",
+            "title": "대미투자 1호 ‘텍사스 발전 사업’ 괜찮나···미국서 AI 투자 거품론 확산 - 경향신문",
             "points": [
-                "미국 정부가 국가 안보를 이유로 특정 국가(중국)의 AI 기술 사용을 금지하는 정책을 발표한 것으로, 미중 기술 패권 경쟁 심화를 보여주는 핵심 사례입니다.",
-                "이는 글로벌 AI 산업의 공급망 재편 및 기술 표준 경쟁에 직접적인 영향을 미치며, 각국의 AI 기술 개발 및 도입 전략에 중대한 변화를 가져올 수 있는 정책적 결정입니다."
+                "이 뉴스는 한국 기업의 대규모 해외 투자(텍사스 발전 사업)의 타당성 논란과 함께, 미국 내에서 인공지능(AI) 투자에 대한 거품론이 확산되고 있다는 점을 다루며 글로벌 투자 시장의 주요 위험 요소를 조명합니다.",
+                "AI 기술의 혁신적 잠재력과 과열된 투자 심리 사이의 균형점을 찾는 것이 중요하며, 이는 향후 기술 산업의 성장 방향과 투자 전략에 큰 영향을 미칠 수 있음을 시사합니다."
             ],
-            "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE5WUW0tWXB0ZnMzVHJVLWZLOGM4ajBfekpheGxrczEzWnlJOGFTYzFqLXRxZzVuRFN5b0hsQkZhSklGRERRM3pDbXBJcXRpM2RjaDFYLXJxWkVvZ00?oc=5",
+            "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE5DYkk0clRqWXBjUEMyZnNSYWdkMWFxZzNjV09MNi1iUmVGMVBzZ09kVFM4b0x1NkxoM3YyemtHSEt0bjZ0TmVNdnJTcW8zSFQwVEliS1dPSzRFUdIBX0FVX3lxTE1oQ2trQ2taRWROYktBaGhmWkppamtJQWZIQ001RkZKdEpUb3REajRNMDVlRkQxZFYzQlQ0bXZqVzdvZlA0Q2dLdUllWFpGY0dKclpLV2oyZFZBb1dfelBJ?oc=5",
             "category": "Economy",
-            "published": "2026-10-19T23:59:53.637327"
+            "published": "2026-10-20T23:33:28.507980"
         },
         {
-            "title": "원/달러 환율 2년만에 또 최저…위안화 환율도 1년만에 최저 - 한국무역협회-KITA.NET",
+            "title": "화곡동 5평 원룸 월세가 110만원… 서울 빌라 월세지수 역대 최고 - 조선비즈 - Chosunbiz",
             "points": [
-                "주요 통화(원화, 위안화)의 대달러 환율이 다년 만에 최저치를 기록한 것으로, 글로벌 경제의 자본 흐름과 통화 정책 변화를 반영하는 중요한 거시 경제 지표입니다.",
-                "환율 변동은 수출입 기업의 실적, 물가 상승률, 외국인 투자 유치 등 국가 경제 전반에 광범위한 영향을 미치며, 특히 무역 의존도가 높은 한국 경제에 미치는 파급력이 큽니다."
+                "이 뉴스는 서울 주거 시장의 심각한 월세 상승 문제를 보여주며, 이는 서민 주거 안정에 대한 위협이자 가계 경제에 큰 부담으로 작용하고 있음을 나타냅니다.",
+                "월세 지수 역대 최고치 경신은 전세에서 월세로의 전환 가속화, 주택 공급 부족, 고금리 등의 복합적인 요인으로 분석되며, 정부의 주거 정책 방향에 중대한 영향을 미칠 수 있습니다."
             ],
-            "link": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxNOURaZUpvMnB6cU9JRFMtREd3S1VVQi1lYVhwUWFtLU1qUTE0MldyYTVrSHN0c1cyWE1YUTRDZTcwS0lVQzhmZ3dFbFhrdDdzTkdFWUdpV1BBcGZLbDBNdFExUzhpRXRKek5fNXNBUTVLMGNjTDdUQkl5c1lRUnRDRThzU0hNWWZPYnF6cjd3QjlXRVpza2EycU5XV0d6c1pBZTEyU0Q3XzVsMWhNZHVrMjdTaXZZQUMybXRWNzV2Y2VjWFQ2THdnN1VGR0FldmphSjF5eWNR?oc=5",
+            "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxQZGx5clVtWXNObjM0V0xSRXVKWUpIODB3cW1SdjR0bUJfck5VRENXaFFEeUlneHRZdTVEdnNUXzItLUNnRHFNdjF0REg3bkpKc3ozekJ4TU82UEdxYUZDSWJVUVBRZE8wYjVDY2Fad1RXMmpWMDVKNmxPbGQzbVhKQkQ2c1dyczZ0NDVZdUZfQ1ZWcmpoYVczNdIBrAFBVV95cUxPejl1aE5iQzF2U0hqMjRVd0pJTDlXYzY0MjdjdndPSkFYTFluQzVFVThUSl9YdEx3RE1fOWY0Q3VtRTN4bHdHMEZGRTNFWnltR1M0NmJRc1FoUTlUNFkxMmJQaGR1Y01kcHNPMlE1bVpTZ1BaUHJBQ04xbDJRTF85WC01QWVMUnRBWWRuSDJYTFE0bFhsSEs3ZVQ4UTdvOFR5RmZWUWVnNW1rUF9H?oc=5",
             "category": "Economy",
-            "published": "2026-10-19T23:59:53.637328"
+            "published": "2026-10-20T23:33:28.507985"
         },
         {
-            "title": "\"실리콘 부피 팽창 문제 잡은 고용량 배터리 음극 개발\" - 사이언스타임즈",
+            "title": "\"알래스카 LNG 사업비, 검토단계 불과‥비용 2배로 늘 수 있어\" - MBC 뉴스",
             "points": [
-                "차세대 배터리 기술의 핵심 난제였던 실리콘 음극재의 부피 팽창 문제를 해결한 혁신적인 기술 개발 소식으로, 배터리 성능 향상에 결정적인 기여를 할 수 있습니다.",
-                "이는 전기차, 에너지 저장 장치 등 고용량 배터리를 필요로 하는 산업의 판도를 바꿀 수 있는 잠재력을 가지며, 관련 산업의 기술 경쟁 가속화 및 시장 변화를 예고하는 중요한 기술적 진보입니다."
+                "이 뉴스는 대규모 국제 에너지 프로젝트(알래스카 LNG)의 사업비가 초기 예상보다 크게 증가할 수 있다는 우려를 제기하며, 이는 프로젝트의 경제성 및 참여 국가들의 재정 부담에 심각한 영향을 미칠 수 있음을 보여줍니다.",
+                "에너지 안보와 직결된 대형 인프라 사업의 비용 증가는 국제 에너지 시장의 불안정성을 가중시키고, 장기적인 에너지 수급 계획 및 투자 전략에 재검토를 요구할 수 있습니다."
             ],
-            "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxORGRaNFYwNU1nOXZneTliQUx0cEl4dzVzSUdQcGU2dTEtV2J2Rk1tY21xd2VyUEV1alpXeXJ2eVdMQWpEa1JFZG1mdXdQY3ZUZkxVb0JJRC1DaXlsaFAzM1BWeWhObG14LU1UUVBkejZwSFlTbmx3Qy01TVFCb3FmcE8tRlBXY01hYnJoMjhCcw?oc=5",
+            "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTE1Xb093NU5Wbk9WYmsxb1NTODNmSHZOdWIyMjFHT1N5b1RzNGFqbDdId0Z4SWNnLXUySEJtSlRpcGdNZXJGMzYtZjlCY1ZXUERwWXRYd21jTTZEcUM1T2ZjdEx1LUl5NWVKM0RGUXU0dUN5UEJE0gF0QVVfeXFMUC1JQ1dpT01sNmcxbVBuMW95M3p5Yi1zYjIzSkwxX3hxaDdNVWNUczdraHpVNm90aHc5b1Buekg0Ym9HaVRXaE1xSmdFcUtnMmU2elBGdXI2VENoNXRfcmx6WkdPQ21IQ1hLU3RGTEh7UXREQWY?oc=5",
             "category": "Economy",
-            "published": "2026-10-19T23:59:53.637328"
+            "published": "2026-10-20T23:33:28.507988"
+        }
+    ],
+    "World": [
+        {
+            "title": "\"우크라 대신 中·러 손잡는 트럼프, '21세기판 얄타회담' 포석\" - 연합뉴스",
+            "points": [
+                "미국 전 대통령 트럼프의 잠재적 외교 정책 변화에 대한 분석으로, 우크라이나 전쟁과 관련하여 미국이 중국 및 러시아와 새로운 관계를 모색할 수 있다는 가능성을 제시합니다.",
+                "이는 21세기 국제 질서의 재편 가능성을 시사하며, 주요 강대국 간의 관계 변화가 글로벌 안보 및 경제 판도에 중대한 영향을 미칠 수 있는 핵심적인 지정학적 변화입니다."
+            ],
+            "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE9NMjU4QTdhLVRpR2tiR0c2UHBLc2hwRTEtQkRnRTRwMkI0M2Nya3FRVzR1TVhHWklBZWZwUDhHNnFiOGoxSGRGbG5xNDdwNVJkUFoxNHJxVUNwUzjSAWBBVV95cUxQVVZxOXFYVFhNRkpNQ01ST0VRNE9Kb3FRd3Ytdm5fVVE5eUczRVpCdGJfV2ZXNmNwM01VUFdWRGlCWFhRWjVWQ2lkTWRUVVdYODIwZ2tVT2hPVktfR1Rzc2U?oc=5",
+            "category": "World",
+            "published": "2026-10-20T23:33:55.560226"
+        },
+        {
+            "title": "트럼프 보란 듯…손 맞잡은 러시아·이란 “양국 관계, 역사상 가장 긴밀” - 경향신문",
+            "points": [
+                "러시아와 이란이 양국 관계가 '역사상 가장 긴밀하다'고 선언하며 서방 국가들에 대한 공동 전선을 강화하는 움직임을 보입니다.",
+                "이는 글로벌 에너지 시장, 중동 지역 안보, 그리고 국제 제재 체제에 큰 영향을 미칠 수 있는 중요한 지정학적 동맹 강화이며, 국제 관계의 재편을 가속화할 수 있는 핵심적인 변화입니다."
+            ],
+            "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE5pak51akJWc0VQekVIZ00zTTkwWl8zMENfQW5ZYXRheTJsaFVCczRYNnEyMGNzRjZfVlpyOFdtQU5UaHJFNk5Ua3drUW1BWkh4UVZBLUw0OXFvQdIBX0FVX3lxTE9TR0FQSmVxaFlvLUlNMlNfLVFnZVgycGlrVzVQa19ZcV9nc2hTZXRFUE84ZWpsTFYxZnFNTUlyUkdEUjNtOVlmSzZVWGQ0Q3ZEWkFnTW94QXVUaUppdy1B?oc=5",
+            "category": "World",
+            "published": "2026-10-20T23:33:55.560249"
+        },
+        {
+            "title": "WSJ “머스크가 ’우크라 스타실드 속도제한’ 지시…트럼프와 협의설도“ - 연합뉴스TV",
+            "points": [
+                "일론 머스크가 우크라이나의 스타링크 서비스 속도 제한을 지시했으며, 이 과정에서 트럼프 전 대통령과의 협의설까지 제기되어 논란이 되고 있습니다.",
+                "이는 민간 기술 기업의 수장이 국제 분쟁의 흐름에 직접적인 영향을 미칠 수 있음을 보여주는 사례로, 기술과 지정학의 교차점에서 발생하는 새로운 형태의 권력과 영향력을 보여주는 중요한 변화입니다."
+            ],
+            "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE14SmRIUUd1VHU1MWZCdWF1NTBqOVFtYlBwZTMxVG5PNHlIemtYdnlzcm5OOGhTWUtGUXBlbVNuM2N5blJVQ0MtOGNWSy1keEFuYXNGNC1pR25oMUhlMk00WEJzTTVfZ0k?oc=5",
+            "category": "World",
+            "published": "2026-10-20T23:33:55.560254"
+        },
+        {
+            "title": "\"100만원 벌어봤자 74만원 사라진다\"…'그냥 쉼' 번진 유럽 - 한국경제",
+            "points": [
+                "유럽 전역에서 '그냥 쉼' 또는 '조용한 사직'과 같은 노동 트렌드가 확산되고 있으며, 이는 노동 시장의 변화와 경제 생산성에 대한 우려를 낳고 있습니다.",
+                "이러한 사회경제적 변화는 유럽 경제의 성장 동력과 노동 정책에 장기적인 영향을 미칠 수 있으며, 다른 선진국에도 유사한 현상이 나타날 가능성을 시사하는 중요한 거시적 트렌드입니다."
+            ],
+            "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE9TdWdGa29MdURicHpjbmNVUC0weW5HVVdmSU5XRGFlZHVWLUMtUmI2RkZyMUozTXFWR01Gb21sQVJXcHRnWjltV0xRdE9TX0F0d244LVY1Q1dOQQ?oc=5",
+            "category": "World",
+            "published": "2026-10-20T23:33:55.560258"
+        },
+        {
+            "title": "영국, 후티 반군 공격에 사우디 방어 지원…전투기 투입해 방공 작전 - VOA 한국어 홈페이지",
+            "points": [
+                "영국이 예멘 후티 반군의 공격으로부터 사우디아라비아를 방어하기 위해 전투기를 투입하는 등 직접적인 군사 지원에 나섰습니다.",
+                "이는 중동 지역의 불안정성이 심화되고 있음을 보여주며, 주요 서방 국가의 직접적인 군사 개입은 역내 정세와 글로벌 에너지 안보에 중대한 영향을 미칠 수 있는 핵심적인 군사·외교적 변화입니다."
+            ],
+            "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTFBtWjY5MERuVjFFX21iQlhUM2FpYUpoYTVJNXJqMlFGdXlqa1FGcU1hSzRlaWVlWWZnZnhtWmNKTlJvS3lVWHVEOW5UOVVXcUdLMFdHWDh3VFZmeDJGM3NhTmV2VlJQbmhZbWtwMNIBb0FVX3lxTFBqUEVQdHhEQU82Q0dxR1J0Y2t1Y0xyQWlzaGo1Yk9HVzdOeFZkaTgzOXJqTnNhU3k3dG9yVFNZUFhTMWRIMlBYR1U2UWlncFo4cGhqTnliNUU3VTFvNy1LeEtoWkdMdFNWSXNiMl9idw?oc=5",
+            "category": "World",
+            "published": "2026-10-20T23:33:55.560261"
         }
     ]
 }
