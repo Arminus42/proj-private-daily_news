@@ -1,210 +1,158 @@
 {
     "AI_Tech": [
         {
-            "title": "'처리속도 4.5배' LG U+ 토큰 최적화 기술, 3대 AI 학회에 소개",
+            "title": "LG유플러스, '토큰 최적화' AI 기술로 세계 최고 권위 AI 학회서 연구성과 인정",
             "points": [
-                "이 뉴스는 국내 주요 통신 기업인 LG U+가 개발한 AI 기술이 세계 3대 AI 학회에 소개될 만큼 기술적 우수성을 인정받았다는 점에서 중요합니다. 이는 국내 기업의 AI 기술력이 글로벌 수준에 도달했음을 보여주는 사례입니다.",
-                "핵심 기술은 AI 모델의 '토큰' 처리 속도를 4.5배 향상시킨 것입니다. 이는 마치 고속도로의 차선을 늘려 교통 체증을 획기적으로 줄이는 것과 같아서, AI 모델이 더 빠르고 효율적으로 정보를 처리하고 응답할 수 있게 합니다. 대규모 언어 모델(LLM)의 운영 비용 절감과 서비스 품질 향상에 크게 기여할 것입니다."
+                "국내 주요 통신사이자 AI 빅테크 기업인 LG유플러스가 세계 최고 권위의 AI 학회에서 연구 성과를 인정받았다는 점에서 파급력이 큽니다. 이는 국내 기업의 AI 기술력이 글로벌 수준임을 입증하는 중요한 소식입니다.",
+                "'토큰 최적화' 기술은 대규모 언어 모델(LLM)의 효율성을 높이는 핵심 기술입니다. 마치 복잡한 문장을 더 짧고 간결하게 만들어 AI가 더 빠르게 이해하고 처리하도록 돕는 것과 같습니다. 이는 AI 모델의 성능 향상과 운영 비용 절감에 크게 기여할 수 있는 획기적인 기술적 돌파구입니다."
             ],
-            "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTFBVVjBMNXpocktrWXFSTmJWOWxRT1Rqa3Q3VkJrd3JqdFVWeDZ2dE03cnhXTy0wQzQwTnU5REZidE5aY3dycElDS2I1LXlxb2JrZFYwaEwzX0t6dWI4SnlkTVUtNkJpRklOXy1sdV80RjdUX0c30gF6QVVfeXFMUEZmT0ZiYm9Kb3k0SjJhSC1RemJDSExrdVFKem9mbENzMkhIMVlDNmxuMm1pT1RhTTg4OTVkaFpGb0ZmRy03bU41RWZ2MjdXb2huUHFWYVZLbXlVQjU5UTJWSDVTRG1Tb2h2RU9QSWNFR0ItTkxTR2dOLVE?oc=5",
+            "link": "https://news.google.com/rss/articles/CBMiQ0FVX3lxTE1rdVhpU3YwTGstV29Ta0hEeWRDTl9YTm9YVnlYOEg1LU1ad0JCdVZ4VXZjdC1uVEl1OTdmbG9OcmhDN2c?oc=5",
             "category": "AI_Tech",
-            "published": "2026-10-29T00:28:16.294789"
+            "published": "2026-10-30T00:28:38.766860"
         },
         {
-            "title": "KT, 생성형 AI로 고객센터 혁신…상담완결률 81% 달성",
+            "title": "KT, 생성형 AI 기반 보이스봇 고도화로 상담 시간 11% 단축",
             "points": [
-                "국내 대표 통신 기업인 KT가 생성형 AI를 실제 서비스에 성공적으로 적용하여 고객 서비스 분야의 혁신을 이끌고 있다는 점에서 중요한 소식입니다. 이는 AI 기술이 실제 비즈니스 환경에서 어떻게 가치를 창출하는지 보여주는 대표적인 사례입니다.",
-                "생성형 AI를 고객센터에 도입하여 상담의 처음부터 끝까지 AI가 처리하는 '상담완결률'을 81%까지 끌어올렸습니다. 이는 고객 만족도 향상뿐만 아니라, 기업의 운영 효율성을 극대화하고 인력 운영의 패러다임을 변화시키는 중요한 기술적 진보입니다. 마치 AI 비서가 고객의 모든 요청을 능숙하게 처리하여 대기 시간을 없애고 정확한 정보를 제공하는 것과 같습니다."
+                "국내 대표 통신 대기업인 KT가 생성형 AI 기술을 실제 서비스에 적용하여 고객 상담 효율을 획기적으로 개선했다는 점에서 주목할 만합니다. 이는 AI 기술이 실제 비즈니스 가치를 창출하는 성공적인 사례를 보여줍니다.",
+                "생성형 AI 기반 보이스봇 고도화는 AI가 사람의 언어를 더 자연스럽게 이해하고 응대할 수 있도록 발전시켰다는 의미입니다. 마치 AI 상담원이 고객의 질문 의도를 더 정확히 파악하고 필요한 정보를 빠르게 제공하여, 상담 시간을 11%나 단축시키는 등 고객 경험과 기업 운영 효율을 동시에 높이는 기술적 진보입니다."
             ],
-            "link": "https://news.google.com/rss/articles/CBMi-AFBVV95cUxPVXRHVGM3azliOWJkZ095N21pWU5URFdnemxJZHE3bGItUFpVMzdzVk0tbTZtWVFnOXd6UjdQYnR6Zm1vUGV4REIweWtheklxeEhyTVZkanV3WHowMWMweGp0VGtRNmZyZTdXUUpBLTBqOGlrekZLUEpnZThkclJXRmcwUTh5NGJBR05iT1Q3YUJXOE10VG5VdFo2dDZIaUEtNF9GbHdOcUZLS3lNTHNpRW1iaUNUYXNrZ1RCQzdqV3lqNGhDeFpCSzBhY05UTUpjTG9DclljWlBpWXoxTjV6a245QnNLaHJiYm9tWUxBczlhSWk1Qk8zSw?oc=5",
+            "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE1BbFA3ejcxR0tEaGQ4M2l2OGwybzFNSEdVQ1pXQTFxVXFzU3M4eHlMaks5WGVZY0RkSUs5T0JRYlVuRllsaWNyWjB2emFTaThHS1VFNUdJbVc0ZVYwX0tXZ2NvWTM?oc=5",
             "category": "AI_Tech",
-            "published": "2026-10-29T00:28:16.294795"
+            "published": "2026-10-30T00:28:38.766868"
         },
         {
-            "title": "한양대, 싱가포르기술디자인대학교(SUTD)와 AI·위성 활용 차세대 통신기술 공동연구 추진",
+            "title": "네이버, 독자 AI 모델 개발 전략 다변화 모색",
             "points": [
-                "국내 명문 대학인 한양대학교가 싱가포르의 선도적인 기술 대학과 국제 공동 연구를 통해 차세대 핵심 기술 개발에 나선다는 소식입니다. 이는 글로벌 연구 협력을 통한 AI 기술 발전의 중요한 흐름을 보여주며, 학계의 AI 연구 역량을 가늠할 수 있는 지표가 됩니다.",
-                "AI와 위성 기술을 결합하여 미래 통신 기술을 연구하는 것은, 마치 하늘에 떠 있는 AI 두뇌가 전 세계의 통신망을 더 빠르고 안정적으로 연결하는 방법을 찾아내는 것과 같습니다. 이는 6G 이후의 초연결 사회를 위한 기반 기술로, 자율주행, 스마트시티, 우주 인터넷 등 다양한 미래 산업에 혁신적인 영향을 미칠 잠재력을 가지고 있습니다."
+                "국내 최대 AI 빅테크 기업인 네이버의 AI 모델 개발 전략 변화는 국내 AI 생태계 전반에 큰 영향을 미칠 수 있는 중요한 소식입니다. 네이버의 전략 방향은 향후 국내 AI 기술 발전의 흐름을 가늠하는 지표가 됩니다.",
+                "'모델 개발 전략 다변화'는 특정 방식에만 의존하지 않고 다양한 AI 모델 개발 접근 방식을 탐색하겠다는 의미입니다. 이는 빠르게 변화하는 AI 기술 트렌드에 맞춰 네이버가 새로운 AI 모델을 출시하거나 기존 모델의 성능을 획기적으로 개선하기 위한 포석으로, 장기적인 기술 경쟁력 확보에 필수적인 움직임입니다."
             ],
-            "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTE5lZFFyaGE2Ny11U3ZjRlNwUmZiMGZ6WHZnejVLQWd2WnNLNU9mX1BiUDFkOUpFUkoxcE1mOHNBcFl3dXJocmpobUx2cVZrODNZQUNYUEdOck1QUzFMLXhLSHMxNDlfcHBuczhJ?oc=5",
+            "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE5XRDVxZm1mOVRrcGlzRWxvOEFCcGpNTEwwQjlkTmR0V2lhSldsM0RBWmNYYVhfVXZ1STdkUWhxSVl2NDIwVThESzlBcVozOXNYaEZiTTVB?oc=5",
             "category": "AI_Tech",
-            "published": "2026-10-29T00:28:16.294796"
+            "published": "2026-10-30T00:28:38.766869"
         },
         {
-            "title": "서울시·공군, AI 공동연구 거점 4배 확대한다…국방기술 실증 지원",
+            "title": "크랜베리, KAIST와 사운드 AI 기술 고도화 업무협약 체결",
             "points": [
-                "서울시와 대한민국 공군이 AI 스타트업 기술을 국방 분야에 접목하기 위한 'AX 거점'을 4배 확대한다는 소식은 매우 중요합니다. 이는 정부와 군이 민간의 혁신적인 AI 기술을 국가 안보라는 핵심 분야에 적극적으로 도입하려는 전략적 움직임을 보여주며, AI 기술의 적용 범위가 넓어지고 있음을 시사합니다.",
-                "민간 AI 스타트업의 기술을 국방 분야에 실증하고 공동 연구를 확대하는 것은, 마치 민간의 첨단 기술을 군사 작전의 '두뇌'로 활용하여 국방력을 획기적으로 강화하는 것과 같습니다. 이는 AI 기술이 단순한 산업적 활용을 넘어 국가 안보와 직결되는 중요한 영역으로 확장되고 있음을 의미하며, AI 스타트업에게는 새로운 시장과 성장 기회를 제공합니다."
+                "국내 최고 과학기술 연구기관인 KAIST가 사운드 AI 기술 고도화에 착수한다는 점은 해당 분야의 기술 발전에 대한 기대감을 높입니다. 유명 대학 연구소의 참여는 기술의 신뢰성과 파급력을 보장합니다.",
+                "'사운드 AI 기술 고도화'는 AI가 소리를 더 정확하게 인식하고 분석하며, 나아가 새로운 소리를 생성하는 능력을 발전시키는 것을 의미합니다. 이는 음성 인식, 소음 제거, 음악 생성 등 다양한 분야에서 혁신적인 서비스와 제품을 가능하게 할 기술적 기반을 마련하는 중요한 단계입니다."
             ],
-            "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTE5MVW5LMkJhR1k0MG1tc1ZrclFtQkZtTUYyaEh3dEhWNV95UEcyTnFMWFZ1M1NnNXNBNlI0RHk4MGdiakNScU1UYm1uejVEMzBiMzNibUFObVdMQTE0YjZyd04zelpoNnNKV2hKaEQzWdIBb0FVX3lxTE5MVW5LMkJhR1k0MG1tc1ZrclFtQkZtTUYyaEh3dEhWNV95UEcyTnFMWFZ1M1NnNXNBNlI0RHk4MGdiakNScU1UYm1uejVEMzBiMzNibUFObVdMQTE0YjZyd04zelpoNnNKV2hKaEQzWQ?oc=5",
+            "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTE96Zm5fSm1RVzk2VXJiUmE1MjM5SUhRSHozLWtqcDZFWGlFN19RNUZaQUV1M25kTmZYRGhoYUp2cWpzaEVubi02bmlSSENzX19KMFF3bU5BSVdfUTZtV3lJUUVTTkxIdVRBY25j?oc=5",
             "category": "AI_Tech",
-            "published": "2026-10-29T00:28:16.294797"
+            "published": "2026-10-30T00:28:38.766870"
         },
         {
-            "title": "한국보건산업진흥원, 바이오헬스 생성형 AI ‘바이온 지피티’ 과학기술혁신대상 금상",
+            "title": "한수원, 원전 AI 혁신성과 인정 및 연구 현장 안전관리 강화",
             "points": [
-                "한국보건산업진흥원이 바이오헬스 분야에 특화된 생성형 AI '바이온 지피티'로 과학기술혁신대상을 수상했다는 소식은, 특정 산업 분야에서 AI 기술이 얼마나 깊이 있고 성공적으로 적용될 수 있는지를 보여줍니다. 이는 AI가 범용 기술을 넘어 전문 분야에서 혁신을 주도하는 트렌드를 반영합니다.",
-                "'바이온 지피티'는 바이오헬스 데이터를 학습하여 새로운 정보나 인사이트를 생성하는 AI입니다. 이는 마치 의료 전문가의 방대한 지식을 학습한 AI가 신약 개발, 질병 진단, 맞춤형 치료법 제안 등 복잡한 바이오헬스 문제를 해결하는 데 도움을 주는 것과 같습니다. 이 기술은 의료 연구의 속도를 높이고, 정밀 의료를 현실화하며, 궁극적으로 인류의 건강 증진에 크게 기여할 잠재력을 가지고 있습니다."
+                "국가 핵심 인프라인 원자력 발전 분야에서 AI 기술 혁신 성과를 인정받았다는 점은 AI의 적용 범위와 중요성을 보여주는 사례입니다. 이는 AI가 고위험 산업의 안전과 효율성을 높이는 데 기여할 수 있음을 시사하며, 신뢰도 높은 기관의 AI 활용 사례로서 파급력이 있습니다.",
+                "AI를 활용한 '혁신성과 인정'은 원전의 복잡한 시스템을 AI가 분석하고 예측하여 잠재적 위험을 미리 감지하거나 운영 효율을 최적화하는 기술적 진보를 의미합니다. 이는 마치 AI가 원전의 '지능형 감시자' 역할을 하여 안전성을 극대화하고, 나아가 연구 현장의 안전 관리까지 강화하는 중요한 기술적 적용 사례입니다."
             ],
-            "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE1VZ2ttN2ljQmxFQVZsN3VTZ18zMkN3RUdjdzZsVVhtejlzQ01IdFhnMU8zSFNjMFhXTll1ajNYaHBQb3VqOTV6d2xqNWgxM19VQTFYYg?oc=5",
+            "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE4yMXgyWW5COUVIaXlSOUNOZlNNSDJZeEJVSnp3dHZzcEZuMjlvb2VUSnAtQWZjTUpqRG5HWE9VdmVXdzVuY2hyamVLSkNOTkp2R2xhRmVzQXRXNUlRaHc?oc=5",
             "category": "AI_Tech",
-            "published": "2026-10-29T00:28:16.294798"
+            "published": "2026-10-30T00:28:38.766871"
         }
     ],
     "IT_Biz": [
         {
+            "title": "[속보]엔비디아, 네이버 3대 주주 된다 - 한경매거진",
+            "points": [
+                "세계적인 AI 반도체 기업 엔비디아가 국내 최대 IT 기업 네이버의 주요 주주가 되는 것은 양사 간의 전략적 협력 가능성을 시사하며, 국내외 AI 및 클라우드 산업 판도에 큰 영향을 미칠 수 있는 대규모 투자 소식입니다.",
+                "엔비디아의 AI 기술력과 네이버의 플랫폼 및 데이터 역량이 결합될 경우, 새로운 AI 서비스 개발 및 글로벌 시장 확장이 가속화될 수 있으며, 국내 AI 생태계에도 중요한 변화를 가져올 것입니다."
+            ],
+            "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE9zX2VscDZWdV8tbWxlODFOYU9Xd0xhbVE2eGRpZ0E5Zk5Lbl9FZDQxZklwS0s5eGxHbm94bzVOSlBaaGRFbU5XdmJUZkhvNWliRGE3ODJlbE5MdndFcFI1NUUtTlJJc0lZNzZIaw?oc=5",
+            "category": "IT_Biz",
+            "published": "2026-10-30T00:29:09.379520"
+        },
+        {
             "title": "애플, 20년 고집 꺾었다…첫 터치스크린 맥북 프로 공개 - 매일경제",
             "points": [
-                "애플이 20년간 고수해온 맥북 디자인 철학을 깨고 터치스크린을 도입하는 것은 PC 시장 전반에 큰 영향을 미칠 전략적 변화입니다.",
-                "맥OS와 iOS/iPadOS 경험의 융합을 가속화하며, 사용자 인터페이스의 새로운 표준을 제시하고 관련 생태계에 변화를 가져올 수 있습니다."
+                "애플이 20년간 고수해온 맥북의 비터치스크린 정책을 깨고 터치스크린 모델을 출시하는 것은 개인용 컴퓨터 시장의 디자인 및 사용자 경험에 대한 애플의 전략적 변화를 의미합니다. 이는 다른 제조사들의 제품 개발 방향에도 영향을 미칠 수 있는 중요한 혁신 소식입니다.",
+                "맥북 프로에 터치스크린이 도입됨으로써 생산성 및 크리에이티브 작업 방식에 새로운 가능성을 제시하고, 아이패드와의 경계를 허물어 애플 생태계 내 기기 간 상호작용을 강화할 것으로 예상됩니다."
             ],
             "link": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE1FZjM4RktXZkpXNHNRcUhwZTVBVVZNQnJ0ZDFFNzNoUFk0dU9JRll5THNvVXZmRmxxbjhPdGJEYWlHVDR3b2QtVC1VenprUQ?oc=5",
             "category": "IT_Biz",
-            "published": "2026-10-29T00:28:52.261277"
+            "published": "2026-10-30T00:29:09.379528"
         },
         {
-            "title": "방미통위, '인앱결제 강요' 구글·애플 과징금 637억 원 부과 - MBC 뉴스",
+            "title": "바이낸스서 7.5조원 증발? 역대급 해킹 의혹에 테더·서클 긴급 동결 - 디지털투데이",
             "points": [
-                "한국 정부가 구글과 애플의 인앱결제 강제 정책에 대해 대규모 과징금을 부과한 것은 글로벌 빅테크 기업의 플랫폼 독점 행위에 대한 규제 강화의 신호탄입니다.",
-                "앱 개발사들의 수익 구조와 소비자들의 앱 구매 방식에 영향을 미치며, 플랫폼 사업자의 정책 변화를 유도하여 디지털 경제 생태계의 공정성을 제고할 수 있습니다."
+                "세계 최대 암호화폐 거래소 바이낸스에서 발생한 7.5조원 규모의 자금 증발 의혹은 암호화폐 시장 전체의 신뢰도와 안정성에 심각한 타격을 줄 수 있는 역대급 보안 사고입니다. 이는 암호화폐 규제 강화 논의를 촉발할 수 있는 중대한 사건입니다.",
+                "이번 사건은 암호화폐 거래소의 보안 취약성과 스테이블코인(테더, 서클)의 안정성에 대한 우려를 증폭시키며, 투자자 보호 및 시장 건전성 확보를 위한 기술적, 정책적 변화의 필요성을 부각시킬 것입니다."
             ],
-            "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTE13dzJaa3F2S0ZKVjlEM3poZVlNVEdUSEhmQnotTXZsNkhrb1lwMWpTd0N6dU1zd21mMjBFVnZPNlIxY2MyalJkTnE4dWtPYXFmTlNmZnNOclFIZnlsWmNhUS1YZ0NiQTVwMHBlY25GaXBqajI40gF0QVVfeXFMT0RCRzFrajFOQWFobTlvNFFOZEs2NGVLSUJJT0JFT3RaUHh3UE1qbThXckZVUFZvN19vUmJzSERvc09td1RjWEF1NUNtaFVWdWpZa3Nlb1A0Vi0xeUVRa29DTWwwSGEtYnRVNHZsUmFKN2xXYkE?oc=5",
+            "link": "https://news.google.com/rss/articles/CBMic0FVX3lxTFBJZnMxelRqcXVkcWZiX0VTVFpaRUQ0Q1czSURrN25WSzczbnVrQmdKRWtMby1XZ2N4LTdEYi1rSnpNcWgwMTJESUJ1d2wyRmlfUDY1bEVzV1hkbjBralhidTFCaEZ5NUhzUjh2dXlPUVd0eW8?oc=5",
             "category": "IT_Biz",
-            "published": "2026-10-29T00:28:52.261315"
+            "published": "2026-10-30T00:29:09.379530"
         },
         {
-            "title": "[영상]너무나 사람같아 ‘섬뜩’…축대 기어 오르고 사다리 타는 휴머노이드 - 경향신문",
+            "title": "챗GPT 믿고 복용약 끊었는데 사망…유족들, 소송 제기[아하미국] - 문화일보",
             "points": [
-                "인간과 유사한 움직임을 보이는 휴머노이드 로봇의 발전은 AI 및 로봇 공학 분야의 중요한 기술적 진보를 보여주며, 미래 산업 및 일상생활에 혁신적인 변화를 예고합니다.",
-                "제조, 물류, 서비스 등 다양한 산업 분야에서 자동화 및 생산성 향상을 이끌고, 인간의 노동력을 대체하거나 보완하는 새로운 시장을 창출할 잠재력이 있습니다."
+                "챗GPT와 같은 생성형 AI의 정보에 의존하여 발생한 사망 사건은 AI 기술의 오용 및 윤리적 책임에 대한 사회적 경각심을 높이는 중요한 사례입니다. 이는 AI 개발 및 서비스 제공 기업의 책임 범위와 AI 활용에 대한 규제 논의를 가속화할 것입니다.",
+                "AI의 정보 신뢰성, 의료 분야 등 민감 영역에서의 AI 활용 가이드라인, 그리고 AI로 인한 피해 발생 시 법적 책임 소재에 대한 사회적, 법적 기준 마련의 필요성을 제기하며, AI 산업 전반의 발전 방향에 영향을 미칠 것입니다."
             ],
-            "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFBnOXNteEJxNVpkR3VlcVBxTzJBc2k2VlVYMXJIejI2YmNRQnZobll6RkpHSURZZkVnMU1QckFRdUpuUTBiVEIxckVlYVF6MlJYa2ozdE9RQk0xQdIBX0FVX3lxTE5JZjJIbVVKTFNQMlhiYkc3OThuYXVYS0VxcDNxQWl4MFBka1lSOUFQWHZsSEJTV1djTzdNM1FZLXV1cHJWdnExalh4NzdGYTdENXBDREs0X3FuUHhlZ0RB?oc=5",
+            "link": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE9EWDlzTi1jVm1SSTZDdy05aG54UnNJODFKMWxzZnN3RTNSM2Fuc0N4MWlWbXA2alk2eHMyaDl3NnQyMkZwWkdkbS1ScmlRcjJh?oc=5",
             "category": "IT_Biz",
-            "published": "2026-10-29T00:28:52.261318"
+            "published": "2026-10-30T00:29:09.379532"
         },
         {
-            "title": "[뉴스 저격] \"中으로 몰리는 글로벌 자금… 로봇·전기차는 세계 최고, 반도체 자립도 빨라져\" - 조선일보",
+            "title": "MS·구글은 사상 최대 매출인데…‘클라우드 3사’ 중 아마존은 웃지 못한 이유 - 조선일보",
             "points": [
-                "중국이 로봇, 전기차, 반도체 등 첨단 산업 분야에서 글로벌 자금을 유치하고 기술 자립도를 높이는 것은 세계 경제 및 기술 패권의 지형 변화를 의미하는 중요한 소식입니다.",
-                "글로벌 공급망 재편과 기술 경쟁 심화를 가속화하며, 각국의 산업 전략 및 투자 방향에 중대한 영향을 미치고 새로운 국제 경제 질서를 형성할 수 있습니다."
+                "글로벌 클라우드 시장의 주요 3사(AWS, Azure, GCP)의 실적을 비교 분석하며, 이 거대 시장 내 경쟁 구도 변화와 각 기업의 전략적 성과를 조명하는 기사입니다. 이는 전 세계 IT 인프라의 핵심인 클라우드 산업의 현재와 미래를 이해하는 데 중요한 정보를 제공합니다.",
+                "클라우드 시장에서 AWS의 성장 둔화와 MS Azure, Google Cloud의 약진은 기업들의 클라우드 전환 전략 및 투자 방향에 영향을 미치며, 클라우드 서비스 제공업체 간의 경쟁 심화와 새로운 서비스 개발 동향을 예측하게 합니다."
             ],
-            "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxQSmNUMXZxTUgwOTVReUVqVHg0ek5aTnVIZ0dwZ0ZEMjExYkxMblZCemdhNnhnM25iYTVueVR2aHFGVDMwUGdQaFpremU3UkpZcElLYXJLanVtMGl0WGhaMjc5cDkzUndFM0hiNHQwSk1RSmxPUzRUY3Z5eDZGb2lSOA?oc=5",
+            "link": "https://news.google.com/rss/articles/CBMigwFBVV95cUxNeEhhOWlwOWxMSE5ySVBhODlRaWFmZVZtN05DTjl5SGZWUG9oaDJ3dnhvdTZETTgyeFB6U0hGbXdKRFQ5M2ZRbjVOTjRSQVNmLWtOSGJuMXlvSE1DS3FyU0pIWUVxM28xdjg5Nk1fMG82MlZxX3Bfd0M5aUlRZEQ4aV85SQ?oc=5",
             "category": "IT_Biz",
-            "published": "2026-10-29T00:28:52.261320"
-        },
-        {
-            "title": "\"세계 최초 SMR 전용 공장\"…두산에너빌이 그린 AI 시대 전력 미래 - 머니투데이",
-            "points": [
-                "AI 시대의 폭증하는 전력 수요에 대응하기 위한 소형모듈원전(SMR) 전용 공장 건설은 에너지 산업의 혁신이자 AI 인프라 구축의 핵심적인 진전입니다.",
-                "안정적이고 친환경적인 전력 공급 솔루션을 제공하여 데이터센터 및 AI 연산 시설 확장에 필수적인 기반을 마련하고, 에너지 안보 및 탄소 중립 목표 달성에 기여할 수 있습니다."
-            ],
-            "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE9mMDgzc1F4S1o3RXd2MWt2YzZHMGJQWkRWQmxVdGYzM0pwZEgxYVpGdHlZXzUxdUROazRsUk5rVjllTlhoRGxsY0tfRFhsS09YZHQ4VUdTM00yRVI5TjNIeENRYk1CTmdDdUFHVNIBckFVX3lxTE5iLTlUYm05UVZudFh1QU1CRjViUlc3ZVpVNzV1WTNPVE9SWElEWTZsQXVYbXJiZFNfajR0QUdRcG9rdm1JbjFWNlJSSVJqWjlUUVNkaE9fRGFHVU85NEhCZFVYMTRXaE1QckdxY2w2cjlVUQ?oc=5",
-            "category": "IT_Biz",
-            "published": "2026-10-29T00:28:52.261322"
-        }
-    ],
-    "Economy": [
-        {
-            "title": "연준, 금리 인상 한달만에 다시 동결…2명 인상 반대표(상보)",
-            "points": [
-                "미국 연방준비제도(Fed)의 금리 동결 결정은 글로벌 경제 및 금융 시장에 직접적인 영향을 미치는 주요 거시경제 정책 변화입니다.",
-                "금리 동결은 인플레이션 둔화와 경기 침체 우려를 동시에 반영하며, 향후 통화 정책 방향에 대한 중요한 신호를 제공합니다."
-            ],
-            "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE44cllIbzlTbDlHZlFJMjUxcGJ6X0xFVGFVQ2Z2VGpzX0l0X0lxcV8yZ0o4Tzc2Q0NNdHpoN2dyWkxIc0xaTDA5Q2FDSkNzb1E0RUktWkxLNEZYMV9sdlV0Nmx0d1VEUnFhRjlwX3k3Z3I?oc=5",
-            "category": "Economy",
-            "published": "2026-10-29T00:29:22.328950"
-        },
-        {
-            "title": "“퇴직급여 사외 적립 의무화·기금형 퇴직연금 활성화”…퇴직연금 강화안 발표",
-            "points": [
-                "정부의 퇴직연금 강화안 발표는 국민들의 노후 자산 관리 및 기업의 퇴직급여 운영 방식에 큰 변화를 가져올 정책적 결정입니다.",
-                "사외 적립 의무화 및 기금형 퇴직연금 활성화는 퇴직연금 시장의 성장과 함께 가입자 보호를 강화하고 장기적인 자본 시장 안정화에 기여할 수 있습니다."
-            ],
-            "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE9lRTFMMEdXcXlYUnMyUDAxbjIxVzhJM3dkMXA4V0xJemxmS3V3MXNXR0Q3YUhaMW5SOEtxLXhUbmFHcEhzd3M1NEFJMUl4MHlaRFIya0VzNno4MGs?oc=5",
-            "category": "Economy",
-            "published": "2026-10-29T00:29:22.328957"
-        },
-        {
-            "title": "'삼전닉스' 폭등에 코스피 6000선 탈환…6.63% 급등",
-            "points": [
-                "삼성전자와 SK하이닉스 등 주요 기술주의 급등으로 인한 코스피 지수 상승은 국내 증시의 활황과 투자 심리 개선을 보여주는 중요한 경제 지표입니다.",
-                "반도체 산업의 회복 기대감과 함께 국내 경제 전반의 성장 동력에 대한 긍정적인 신호로 해석될 수 있으며, 이는 대규모 자금 유입으로 이어질 수 있습니다."
-            ],
-            "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE8wYXN1NFJXSUJrTU45RWNDTE1TQkptNXN0eVdlcjdFMGk3bDZtM0xvU0pyTklfTzRVdnFwSFY4MUFTQnY3T2hWdTR2TjBDR29PYXZzSU9lZHA4Zw?oc=5",
-            "category": "Economy",
-            "published": "2026-10-29T00:29:22.328958"
-        },
-        {
-            "title": "'인앱결제 강제' 구글·애플에 과징금 637억원",
-            "points": [
-                "공정거래위원회의 구글·애플에 대한 과징금 부과는 글로벌 빅테크 기업의 시장 지배력 남용을 규제하는 중요한 정책적 조치입니다.",
-                "인앱결제 강제 정책에 대한 제재는 디지털 플랫폼 시장의 공정 경쟁 환경 조성과 소비자 선택권 확대에 기여하며, 관련 산업의 비즈니스 모델 변화를 유도할 수 있습니다."
-            ],
-            "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTFBtQTJKd3dfYi0zNjNWRG85RHdJenczM01wbVZhVWRrcEdhZVBZUmdQNEh0Q2pJVjRsSGpSVVJBNl9PZVc5NVFxWHdPNDI3MWVWWUJGbU9n?oc=5",
-            "category": "Economy",
-            "published": "2026-10-29T00:29:22.328959"
-        },
-        {
-            "title": "10월 기업 체감경기 5.1p↑…“제조업·비제조업 동반 개선”",
-            "points": [
-                "10월 기업 체감경기 지수 상승은 제조업과 비제조업 전반에 걸친 경기 회복 신호를 보여주는 중요한 경제 지표입니다.",
-                "이는 국내 경제의 전반적인 활력 증대와 투자 및 고용 시장에 긍정적인 영향을 미칠 수 있는 거시경제적 변화를 시사합니다."
-            ],
-            "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE9GdkM4YVZVTFE1WEJ6cVVxSElGd29Tc251OHd1bmtEQktjaUhoZzNobzN3a1o3bjhsc2tXWTJEMFpqYXpkdmtSQm01S1FiVXE5Qk84UFROZlpyU3M?oc=5",
-            "category": "Economy",
-            "published": "2026-10-29T00:29:22.328960"
+            "published": "2026-10-30T00:29:09.379534"
         }
     ],
     "World": [
         {
-            "title": "美, 중간선거 후 이란 재공격 준비 통보…국제유가 3% 가까이 급등",
+            "title": "미, 이란 공습 재개 임박했나···“미 중동지역 사령관, 백악관 찾아 트럼프에 직보” - 경향신문",
             "points": [
-                "미국과 이란 간의 군사적 긴장 고조 가능성이 국제 정세에 미치는 중대한 영향.",
-                "중동 지역의 불안정 심화가 국제 유가를 급등시켜 글로벌 경제에 직접적인 파급 효과를 초래."
+                "미국과 이란 간 군사적 긴장 고조는 중동 지역의 안정과 세계 에너지 시장에 직접적인 영향을 미치는 중대한 지정학적 소식입니다.",
+                "잠재적인 공습 재개는 국제 유가 급등, 지역 분쟁 확산, 주요 강대국 간 외교 관계 변화를 초래하여 글로벌 경제 및 안보 판도에 큰 파급 효과를 미칠 수 있습니다."
             ],
-            "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE1SbWpHN2p6eEcwUWJrRnNwOWFRcXhyMzBBcVM3OGFYSjZkRE5OMUVsZTdhR1MxRGtEUGJteGdDb1dNRm83aXc4OUtEV3MyNTNMU3JHSTVhd285dw?oc=5",
+            "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE9qTUZPNHhMejFTOUttTG40ZTBITXMydHk1NHFIQ3JQNmRfandxWFRYVWgtbWVCdFdPdXJST3o4YnhsSjJRamplN1hLYnlCNlNBdjFPbkdYYjAxUdIBX0FVX3lxTFBSdVhJNktENnkwdHo2ZW9jT1RKUTFfLW16SkJDWkgtaVdrdEVtZ3ZwLTd6M2ozbV8yeFRhS1BsWXVLdTJGMlNac0pWdU5vUTRGc2MyS1l0d2N5ZU5ROXpv?oc=5",
             "category": "World",
-            "published": "2026-10-29T00:30:02.808458"
+            "published": "2026-10-30T00:30:29.728765"
         },
         {
-            "title": "[속보] 유엔총회, 수십년된 미 쿠바 제재에 중지 결의안 압도적 채택",
+            "title": "[속보]중국 5중전회 폐막…장성민 정치국 위원 발탁, 장유샤 당적 박탈 최종 추인 - 경향신문",
             "points": [
-                "유엔총회에서 미국의 쿠바 제재 중단 결의안이 압도적으로 채택되어 국제 사회의 대미 압박이 강화됨.",
-                "수십 년간 이어진 제재 정책의 변화 가능성을 시사하며, 미-쿠바 관계 및 중남미 지역 정세에 큰 영향을 미칠 수 있음."
+                "중국 공산당의 주요 회의인 5중전회 결과와 정치국 인사는 중국의 국내외 정책 방향에 중대한 변화를 예고하며, 이는 세계 2위 경제 대국의 미래를 결정하는 핵심 소식입니다.",
+                "핵심 지도부의 인적 변화는 중국의 경제 정책, 대외 관계, 군사 전략 등 전반적인 국가 운영에 영향을 미쳐 글로벌 경제 및 지정학적 판도에 광범위한 파급 효과를 미칩니다."
             ],
-            "link": "https://news.google.com/rss/articles/CBMic0FVX3lxTE9CMFc0TktNbE9TVXozWGN5YnZ2VG5yUEdCWjRzWW9SQVR6ODJpVnZaQ0hseDhmalhuNDlrSWdZenhqajB5Umc5YlozOEVzQndQY2lCV3J3eE9oYVVPMG02dURFTVdfS2dUMWVfdnBITFFCM3fSAWZBVV95cUxOTml0RUtnUU00TDRzVWJxV3lFR1BtdDc4Yzk3Qkh2TVBhZjNKU0Z1R1lpS3IxYVBNc0Z3VFNKN19oSW5kOXJnWjAtNDlyYlgzTWlaZERKXzRWWW43Vm9DRk15VV9FS1E?oc=5",
+            "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFBFaVJaOXVFN3hMaU1zNkFYQldfMFFQVjg3MHZRTzdsZUtRZFVqODQtR3VvSVdEYU1ZNWNvUlZBUDN5enlIdERnZlR4ek93T3M2VVNCN3ZGN3Mtd9IBX0FVX3lxTE02U2JrdU5sWUhaYVRTWlhlQW5TNjctYVotWUxCaGVnYjUzM3lNRWhEWW9JdVFtRXMyVVJWeVByWWx2YVR2eGNfM1JJMmw4UGtzaGRTdWxlUjJZQ2NXX0hN?oc=5",
             "category": "World",
-            "published": "2026-10-29T00:30:02.808465"
+            "published": "2026-10-30T00:30:29.728773"
         },
         {
-            "title": "낙선 보우소나루, 출국 금지 위반하고 미국행…“내가 정당한 대통령”",
+            "title": "트럼프 운명, 상원 사수에 달려…韓, 여소야대 준비해야 [11·3 중간선거 미국의 선택은](5·끝) - 파이낸셜뉴스",
             "points": [
-                "브라질 대선 패배 후 보우소나루 전 대통령의 불복 행보가 브라질 민주주의와 정치적 안정에 심각한 도전으로 작용.",
-                "남미 최대 경제 대국의 정치적 혼란은 역내 안정과 국제 사회의 민주주의 수호 노력에 중요한 영향을 미칠 수 있음."
+                "미국 중간선거 결과는 미국의 국내 정책뿐만 아니라 대외 정책, 특히 동맹국과의 관계 및 글로벌 경제에 큰 영향을 미치는 세계적인 주요 뉴스입니다.",
+                "상원 통제권 변화는 행정부의 입법 추진력과 사법부 구성에 영향을 주며, 이는 무역, 안보, 기후 변화 등 광범위한 분야에서 미국의 정책 기조를 바꿀 수 있어 전 세계에 중대한 경제적, 정치적 변화를 가져올 수 있습니다."
             ],
-            "link": "https://news.google.com/rss/articles/CBMiggFBVV_5Y3FMTmQyU2tlMWI5clAySFNHRnlJa1M0SFU3RUlQUEdZWndBVVpYNFhGcVlVOGNRTjU4UDA5MmlOaW5kRlVFSlg5bDdzZ2x1UVNPV2VXVU1jdlVLa3J6a2xSUUVUQXpvbmRDVzVqRlJKeWltSUtNUEd1MDZOY1REbkxTcFdn?oc=5",
+            "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE9oZzVseldTbGxYNURBblpOZGh5VHVIMlpkR1FDNVRFS0k4bklsVmtvaGVKazUxNmZUMkxsWXRDOGx3ZDFEbWxKSVFwNGZLb24tZWdTY0Z6TDRiZw?oc=5",
             "category": "World",
-            "published": "2026-10-29T00:30:02.808466"
+            "published": "2026-10-30T00:30:29.728775"
         },
         {
-            "title": "신압록강대교 개통 이후 북한 세관에 화물차 수백 대…대북제재 무력화 우려",
+            "title": "국정원 \"김정은, 방중 때 북미 대화 의중 전달 가능성\" - 조선일보",
             "points": [
-                "북한과 중국 간 교역량 증가 정황이 포착되며 대북 제재의 실효성 약화에 대한 국제 사회의 우려가 증폭.",
-                "대북 제재 무력화는 북한의 핵·미사일 개발 자금 확보로 이어질 수 있어 동북아 안보 및 비핵화 노력에 중대한 영향을 미침."
+                "북미 대화 재개 가능성은 한반도 비핵화 및 평화 프로세스에 중대한 전환점이 될 수 있으며, 동북아시아의 지정학적 안정과 세계 안보에 큰 영향을 미치는 핵심 소식입니다.",
+                "중국의 중재 역할과 북한의 대화 의지는 국제 사회의 대북 제재 완화 논의, 경제 협력 가능성 등 광범위한 변화를 가져올 수 있으며, 이는 한반도와 주변국의 경제 및 안보 환경에 직접적인 영향을 미칩니다."
             ],
-            "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE53QXNEU0lWY1psdWpaeWEzQ0lad2J2elc4U3JsT1dBd0N6eTdkRWRUSlFEOWE4ZkUxcmplTUJwYUFYaXVDY2NEc2hoWWpJQkMyUERNOWdWSU5MeUpFRmxNbkozYm01NVU?oc=5",
+            "link": "https://news.google.com/rss/articles/CBMihgFBVV95cUxQXzRnZnBKRk90bVUyUm1MX3hQRjh4UHhuOGYzTW1LT0FPczJwb0xTb3daTklPcjVFemt3ZWU2WDVFN1JHVXFDOGF3blVkbE9IOXNLU3JuVnczWlFzdzB0UXFXazJ0bWV5UmsxUUZveHg1blY0X3JTX0dOWUhXc1k0dXU5MERhdw?oc=5",
             "category": "World",
-            "published": "2026-10-29T00:30:02.808467"
+            "published": "2026-10-30T00:30:29.728777"
         },
         {
-            "title": "미국, 러시아에 경제협력 제안…우크라전 협상 유인책",
+            "title": "“항공모함까지 떴다”…코앞에 몰려든 중국 군함 53척에 대만이 발끈한 이유 [밀리터리노트] - 서울신문",
             "points": [
-                "미국이 러시아에 경제 협력을 제안하며 우크라이나 전쟁 종식을 위한 새로운 외교적 돌파구를 모색.",
-                "이 제안은 러시아의 전쟁 지속 의지에 영향을 미치고, 장기적으로 국제 정세 및 에너지 시장에 큰 변화를 가져올 수 있음."
+                "중국의 대만 인근 대규모 군사 훈련 및 무력 시위는 동아시아의 군사적 긴장을 최고조로 끌어올리며, 잠재적인 국제 분쟁의 불씨가 될 수 있는 매우 파급력 있는 지정학적 뉴스입니다.",
+                "대만 해협의 안정은 글로벌 반도체 공급망과 해상 무역로에 결정적인 영향을 미치므로, 군사적 충돌 발생 시 세계 경제에 막대한 파급 효과를 초래하여 산업 판도를 뒤흔들 수 있습니다."
             ],
-            "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE11dzhGZlN5bC12WFlVTHp1VlU5OUZXa05WbC1la29sbm1KNS1VMXFwY2VnMW5tQ1Bqb19panZmcHVFUktnZDhteUlPem9raUtQczNpM0U1bUFlaFNFN2Q3ZjAzVzgwRDg?oc=5",
+            "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE43bVk3d0Z4NWNKaE5zclE5elhibVlwVHhUMmFJV1g2c29pLV9RMlYtQk13dzA3eGdIdlpKLW1TZ0daU3BaT3BtcXN1UC0xQm5jM2syTmtNa2JoYUh2TEl6MWhyaGd3cFF6ZGxUN3J4ZGRXSkRVNEdiT3dyOEd1Ukk?oc=5",
             "category": "World",
-            "published": "2026-10-29T00:30:02.808468"
+            "published": "2026-10-30T00:30:29.728778"
         }
     ]
 }
