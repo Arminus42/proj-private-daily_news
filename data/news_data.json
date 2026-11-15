@@ -1,215 +1,210 @@
 {
     "AI_Tech": [
         {
-            "title": "일본 파나소닉, AI·로봇 결합한 '피지컬 AI' 개발 강화…제조·물류 분야 확대",
+            "title": "LG유플러스, '더 큰 모델' 대신 '더 싼 업무완결' 목표로 B2B AI 시장 공략",
             "points": [
-                "파나소닉과 같은 글로벌 대기업이 AI와 로봇을 결합한 '피지컬 AI' 개발에 집중하는 것은 AI 기술이 단순 소프트웨어를 넘어 물리적 세계와 상호작용하는 형태로 진화하고 있음을 보여주는 중요한 흐름입니다.",
-                "이 기술은 제조, 물류 등 실제 산업 현장에서 로봇이 더욱 지능적으로 작업하고 복잡한 환경에 적응할 수 있게 하여 생산성 혁신과 새로운 자동화 시대를 열 핵심 기술적 돌파구로 평가됩니다."
+                "국내 주요 통신 대기업인 LG유플러스의 AI 전략 변화를 보여주는 소식입니다. 단순히 AI 모델의 규모를 키우는 것이 아니라, 실제 기업 환경에서 AI를 효율적으로 활용하여 비용을 절감하고 업무를 완결하는 데 초점을 맞추고 있습니다.",
+                "이는 글로벌 AI 시장의 중요한 트렌드 중 하나로, AI 기술이 연구 단계를 넘어 실제 산업 현장에서 경제적 가치를 창출하는 방향으로 진화하고 있음을 시사합니다. '토큰 최적화'는 AI 모델 운영 비용을 줄이는 핵심 기술적 접근입니다."
             ],
-            "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE4tc2R5ZDlaTGhxM2dYT2hWdlViQzQyejB2aWg2azZUVDg1RURjanZvai1STlVDb1hCemtqdjhkREJWZmpYaEM3UnpEbVR0ZksyYUFfUEliUEQwSkdERmpZbzh0a042WVY4Q0JSUQ?oc=5",
+            "link": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE5YQmpsVFhSMVVsaVZ5WmNjODF2T1Zvb1BXY0ZqMXlQbkc5RV9DNWdEZTBrcXhtTUprV0xYREtnTnVfdUMwSVVUV2haWW53QlBXbE1IQ0xoQmJlekFtMHZsRGln?oc=5",
             "category": "AI_Tech",
-            "published": "2026-11-14T01:05:54.341167"
+            "published": "2026-11-15T00:27:42.894478"
         },
         {
-            "title": "KAIST, 엑스와이지와 피지컬 AI 공동연구…로봇 연구장비 1억원 기부받아",
+            "title": "감염병 치료제 개발, AI·mRNA 기술 결합으로 가속화…정부 3개 부처 연구 역량 결집",
             "points": [
-                "국내 최고 과학기술 연구기관인 KAIST가 '피지컬 AI' 분야에서 공동 연구를 진행하는 것은 이 기술이 미래 AI 연구의 핵심 동력임을 시사합니다. 이는 AI가 로봇과 결합하여 현실 세계에서 직접 행동하고 학습하는 능력을 고도화하는 데 중점을 둡니다.",
-                "이러한 연구는 로봇이 인간의 개입 없이도 복잡한 작업을 수행하고 예측 불가능한 상황에 대응할 수 있는 자율성을 부여하며, 이는 스마트 팩토리, 자율주행, 서비스 로봇 등 다양한 분야에 혁신적인 변화를 가져올 기술적 기반이 됩니다."
+                "AI 기술이 인류의 난제 해결에 어떻게 기여하는지 보여주는 중요한 사례입니다. 특히 감염병 치료제 개발은 전 세계적인 보건 이슈이며, AI와 mRNA 기술의 융합은 신약 개발 과정을 획기적으로 단축하고 효율성을 높일 잠재력을 가집니다.",
+                "정부 3개 부처가 연구 역량을 결집한다는 점은 국가 차원에서 AI 기반 바이오·헬스케어 분야의 중요성을 인지하고 대규모 투자를 진행하고 있음을 의미하며, 이는 글로벌 AI 응용 트렌드와도 일치합니다."
             ],
-            "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTFBZV0JtWWQ1VkFOT3ZRY0trWGxaVDNld3N6OEdDNzFZT1R3QXpObG9XWVh6RXZWU20zRmZTSVZsQWt3SkpKeWloQjhObU5OU3hSTnkyV191ZHhlV1Q4R1gyQ1JNR1hscTk2RGhwVdIBbEFVX3lxTFBZV0JtWWQ1VkFOT3ZRY0trWGxaVDNld3N6OEdDNzFZT1R3QXpObG9XWVh6RXZWU20zRmZTSVZsQWt3SkpKeWloQjhObU5OU3hSTnkyV191ZHhlV1Q4R1gyQ1JNR1hscTk2RGhwVQ?oc=5",
+            "link": "https://news.google.com/rss/articles/CBMiQ0FVX3lxTE5kNl9NcE9GWTREckh6QmY0LTNPSF94Mll3WVctSTV3a1Q30EBCYnZ4QkJWajBfNnJzNDU2V21mdkFLTWc?oc=5",
             "category": "AI_Tech",
-            "published": "2026-11-14T01:05:54.341175"
+            "published": "2026-11-15T00:27:42.894486"
         },
         {
-            "title": "IITP, 피지컬AI 핵심기술 개발 논의···산학연 협력 확대",
+            "title": "LG유플러스, AI 코딩 운영비 90% 절감 검증 성공…B2B AI 사업 본격 추진",
             "points": [
-                "정보통신기획평가원(IITP)이 '피지컬 AI 핵심기술 개발'을 논의하고 산학연 협력을 확대하는 것은, 정부 차원에서 이 분야를 국가 핵심 기술로 육성하려는 의지를 보여줍니다. 이는 국내 AI 기술 생태계가 글로벌 트렌드에 발맞춰 물리적 AI 역량을 강화하고 있음을 의미합니다.",
-                "핵심 기술 개발과 협력 확대는 연구 개발의 속도를 높이고, 실제 산업 적용을 위한 기술 상용화를 촉진하여, 한국이 글로벌 피지컬 AI 시장에서 경쟁력을 확보하는 데 중요한 역할을 할 것입니다."
+                "국내 주요 통신 기업인 LG유플러스가 AI 기술을 활용하여 실제 운영 비용을 획기적으로 절감한 구체적인 성과를 발표했습니다. 'AI 코딩 운영비 90% 절감'은 AI의 경제적 효용성을 명확히 보여주는 지표입니다.",
+                "이는 기업들이 AI 도입을 망설이는 주요 원인 중 하나인 비용 문제를 해결할 수 있음을 입증하며, AI가 단순한 기술 혁신을 넘어 기업의 생산성과 수익성에 직접적으로 기여할 수 있음을 보여주는 중요한 사례입니다."
             ],
-            "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTFBtRDhQMXBMN0JnaHVKWlhHWUxwRWE2MFJudHQ2RDdqVWdXV05JVkVzbjVYcE9xTDlPYVBDRE5Wc2dxWE1SMFYxQVhUOFJqNjFwdWJlNWVXM1Nza2M1RnZMRDZnV3BLVVBzbTl5d0lISGzSAXRBVV95cUxNZkJLSU1LLU5jLXBrY2VUU05VcEJQUjVYVWdOZ1BKdnM0YXpCclRrWVVGSmtqZDlnVkVvcG5fVG9jamZkN0laNWFNN2VfeGFOeW9jQUNEZFhQS0xvOExZLWZCSXpucnVSb0hJc3RGQjRSRHlSUw?oc=5",
+            "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTE1MaXRwOUJhUEVLU0NyWk4tWXRPSnNOSmJ4bm1aR3pfTUo5dUJXaGlJb1h6TUhtVkJCVTJOT01NbW9pNDNLOTJSM2lRTFhDdW1QUTVKenBYSGlZbmJ3TnloTmZBRkFGcEQydGRz?oc=5",
             "category": "AI_Tech",
-            "published": "2026-11-14T01:05:54.341176"
+            "published": "2026-11-15T00:27:42.894487"
         },
         {
-            "title": "과기정통부, 2027년 AI·ICT 국제공동연구 예산 28% 확대… 글로벌 R&D 협력 강화",
+            "title": "경북교육청, AI 교육 및 직업교육 분야 국제협력 연구 추진",
             "points": [
-                "정부 부처가 AI 및 ICT 분야의 국제 공동 연구 예산을 대폭 확대하는 것은, 한국이 글로벌 AI 기술 경쟁에서 주도권을 확보하고 해외 유수 연구기관과의 협력을 통해 기술 격차를 줄이려는 전략적 움직임입니다. 이는 국내 AI 연구의 질적 성장을 가속화할 것입니다.",
-                "글로벌 R&D 협력 강화는 최신 기술 트렌드를 빠르게 흡수하고, 국내 연구진의 역량을 세계적 수준으로 끌어올리는 동시에, 한국이 AI 기술 표준화 및 국제 협력의 중요한 파트너로 자리매김하는 데 기여할 경제적, 기술적 중요성을 가집니다."
+                "AI 시대에 필수적인 인재 양성을 위한 교육 분야의 노력을 보여주는 소식입니다. 특히 '국제협력'을 통해 AI 교육 모델을 개발하고 확산하려는 시도는 글로벌 AI 인재 격차 해소와 미래 사회 대비에 중요한 의미를 가집니다.",
+                "AI 기술 발전만큼이나 중요한 것이 바로 AI를 이해하고 활용할 수 있는 인력을 양성하는 것입니다. 이러한 교육 분야의 투자는 장기적으로 AI 기술의 지속적인 발전과 사회 전반의 AI 수용도를 높이는 데 기여합니다."
             ],
-            "link": "https://news.google.com/rss/articles/CBMickFVX3lxTFAyeFltLW5HWkY3eWx0Nm9SY29fejZsNldFckN6Zk43UlJhLXlTZnV3b21qNk1tZGU1V1NkTU9oLVM4cm93dUhaNkdmZDJGXzZ1WDc1eVZGYzhTdzdybnFUU3Z4amp3ZmpFMEQyd09EaFlEZ9IBckFVX3lxTFAyeFltLW5HWkY3eWx0Nm9SY29fejZsNldFckN6Zk43UlJhLXlTZnV3b21qNk1tZGU1V1NkTU9oLVM4cm93dUhaNkdmZDJGXzZ1WDc1eVZGYzhTdzdybnFUU3Z4amp3ZmpFMEQyd09EaFlEZw?oc=5",
+            "link": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE1lcTR5VzRCR1Vmcy1NVXRSeUtWcmhaejRCNUFSUlVSdnk2cFNPRjZSVnRMWnUxRXEzdUppZnZHWW0yYmpqLUhwcWNxZVNXS1NIeWVQeE1WeGVFWGhWWldESEFWNnJJUQ?oc=5",
             "category": "AI_Tech",
-            "published": "2026-11-14T01:05:54.341177"
+            "published": "2026-11-15T00:27:42.894488"
         },
         {
-            "title": "케이엠에스랩, 포스코 AI 기반 통합 포털 구축...LLM서빙·앱까지 자체 기술로",
+            "title": "충남 AI 데이터센터 입지 연구, 한국인공지능학술대회 우수논문상 수상",
             "points": [
-                "국내 대표 대기업인 포스코가 AI 기반 통합 포털을 구축하고, 특히 LLM(거대 언어 모델) 서빙과 애플리케이션까지 자체 기술로 구현했다는 점은, 생성형 AI 기술이 실제 기업 환경에서 광범위하게 적용되고 있음을 보여주는 중요한 사례입니다.",
-                "이는 기업의 업무 효율성을 혁신적으로 개선하고, 데이터 기반 의사결정을 강화하며, 나아가 새로운 비즈니스 모델을 창출할 수 있는 잠재력을 가집니다. LLM의 산업 현장 적용은 AI 기술의 실질적인 경제적 가치를 증명하는 핵심적인 변화입니다."
+                "AI 기술의 발전은 막대한 컴퓨팅 자원을 필요로 하며, 이를 위한 데이터센터는 AI 시대의 핵심 인프라입니다. 데이터센터의 효율적인 입지 선정은 전력 효율, 네트워크 접근성, 냉각 등 다양한 기술적, 경제적 요소를 고려해야 하는 중요한 연구 분야입니다.",
+                "'한국인공지능학술대회 우수논문상' 수상은 비록 지역적 연구지만, AI 인프라 구축의 중요성을 학술적으로 인정받았다는 점에서 의미가 있습니다. 이는 AI 기술 활용의 기반을 다지는 데 기여하는 중요한 연구 동향을 보여줍니다."
             ],
-            "link": "https://news.google.com/rss/articles/CBMic0FVX3lxTE1JdDE5RDRrRkh4RHJpQzVnWXNzMWpsclMxa1NJcmJqWmFSZmU4SlpZQW03SkNHelZLcW1XblBjQjUzNjBPUUR2NDZLNWtZV1R5Y3JQNHE0LWxGc0E1TWVRNTZpallZcVZ6eW1VMlBneTV6bUk?oc=5",
+            "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTE9lbnhmNE53UVR3am1qQWtiRGJ4QmJKUmZackJHeFZyTDdGQjZ6VzFxRDhSRFl0ZE9TX1lMYks2d0JKbnJOZ3oxaW9iRVVZMWQ1T2I3SDk4ZE1IaEN4TnBBZ2FDWnExU0EtN2dBcWJB?oc=5",
             "category": "AI_Tech",
-            "published": "2026-11-14T01:05:54.341178"
+            "published": "2026-11-15T00:27:42.894488"
         }
     ],
     "IT_Biz": [
         {
-            "title": "스페이스X, 美 텍사스·애리조나에 데이터센터 2곳 건설…740억달러 투자",
+            "title": "[속보]트럼프, 반도체 규제 풀어주며 엔비디아 ‘풀매수’ - 문화일보",
             "points": [
-                "스페이스X가 미국에 740억 달러 규모의 대규모 데이터센터를 건설하는 것은 클라우드 컴퓨팅, AI 인프라 및 우주 기술 산업 전반에 걸쳐 막대한 파급 효과를 가져올 대규모 투자 소식이다.",
-                "이는 AI 및 고성능 컴퓨팅 수요 증가에 대응하기 위한 핵심 인프라 투자로, 미래 기술 경쟁의 판도를 바꿀 전략적 움직임이며 관련 산업 생태계에 큰 영향을 미칠 것이다."
+                "미국 정부의 반도체 정책 변화는 글로벌 반도체 산업의 판도를 뒤흔들 수 있는 중대한 소식입니다.",
+                "특히 엔비디아와 같은 핵심 기업에 대한 규제 완화는 시장에 직접적인 영향을 미치며, 투자 심리 및 기술 개발 방향에 큰 변화를 가져올 수 있습니다."
             ],
-            "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE9ka0dianA2Wkx4VEwyTWhYVVNfNlF6RTRFQzBzbklRNnFHNGctN0xNc3EwNlpRaVFLaDNDUDdrbjU4eThqelhrc3hnMzY2UTVhaHNIejJDN003azZEeWtMMzRJZE9YRlZ0dmZOUGNLRHU?oc=5",
+            "link": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE5IaXFDZ1pKUktSSG9lYlFRUUoxUDJKckctVnR2UWg4bXF5UThONFdudkxPWU53UHNMY3puRk42NzZ6N21LZ0VhemhCYWpPeDlU?oc=5",
             "category": "IT_Biz",
-            "published": "2026-11-14T01:06:22.781256"
+            "published": "2026-11-15T00:28:17.542542"
         },
         {
-            "title": "구글, '제미나이 4 하이드로젠' 출시…상위 모델 '아르곤' 성능 추월",
+            "title": "‘데이터센터 전기료 청구서’... 美·유럽 거쳐 한국 날아든다 - 조선일보",
             "points": [
-                "구글이 새로운 최상위 AI 모델인 '제미나이 4 하이드로젠'을 출시하고 기존 모델의 성능을 뛰어넘었다는 소식은 글로벌 AI 경쟁의 핵심 동향을 보여주는 매우 중요한 뉴스다.",
-                "이는 AI 기술 발전의 속도를 가속화하고, 다양한 산업 분야에서 AI 모델 활용의 새로운 가능성을 열어줄 혁신적인 서비스(기술) 출시로, AI 산업의 판도를 변화시킬 핵심적인 기술적 진보를 의미한다."
+                "데이터센터는 AI, 클라우드 등 현대 IT 산업의 핵심 인프라입니다. 전기료 증가는 데이터센터 운영 비용을 급증시켜 IT 산업 전반에 걸쳐 경제적 파급 효과를 가져올 수 있는 중요한 이슈입니다.",
+                "이는 클라우드 서비스 가격 인상, 신규 데이터센터 투자 위축 등 IT 기업들의 전략적 의사결정에 큰 영향을 미칠 수 있는 정책적, 경제적 변화 포인트입니다."
             ],
-            "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE9HUHFtTmJ1VlRsSEItZjFHYTZ5dm4zcDdPOFFadi1kMVEwTUhNeHVsVjctUHpqRzI3d3Q4eGFnM2VaVlJUOWdObWFiYmotLW9iWGhIMkx0V3pVZzhweTRFNWQyRlFHc0VsTkE?oc=5",
+            "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxQNTVHMGJjZnlUcnE4anJSdDJfMFB6UWNDWXEwT1lpN09BYmJTNmdqMWpuMncxSVc5czh0Mm9vRW9XUXBsa3VDd05vZTk3ZEVJZmtCOFZPOF9DTHgyVDB6Sm15WjlNd2ZLRk0tZEtaUHZ1UjJtSmFBaVZXWmFRZWhSZnFMWlZGQTh3ODFkQkhR?oc=5",
             "category": "IT_Biz",
-            "published": "2026-11-14T01:06:22.781262"
+            "published": "2026-11-15T00:28:17.542548"
         },
         {
-            "title": "돈 녹는 속도, 유례가 없었다…단 5주 만에 2400조원 증발한 엔비디아",
+            "title": "“로봇 150만대 시대”…JP모건이 콕 찍은 한국 기업 - 이데일리",
             "points": [
-                "AI 반도체 시장의 선두 주자인 엔비디아의 시가총액이 단기간에 2400조원 증발했다는 소식은 글로벌 IT 및 경제 시장에 엄청난 파급력을 가진 주요 뉴스다.",
-                "이는 AI 산업의 과열 양상과 투자 심리 변화를 반영하며, 전 세계 기술주 시장의 변동성과 미래 AI 산업의 방향성에 대한 중요한 경제적 지표로 작용한다."
+                "JP모건과 같은 글로벌 투자은행이 로봇 산업의 성장과 특정 기업을 언급하는 것은 해당 산업에 대한 대규모 투자와 시장 확대를 예고합니다.",
+                "이는 로봇 기술의 상용화 가속화 및 관련 기업들의 성장에 대한 기대감을 높이며, 산업 전반의 변화를 이끌 수 있는 핵심적인 경제적/기술적 변화 포인트입니다."
             ],
-            "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTFBBNzJHZ0lTVWlLY0RISDhSel9HZnp4ZHJlcy1icXlVQVpQdmprd1FFZDFlYUxXZWkyQmdYM0dHaVFkX1hTbHB3MmNPX0p6RHA0blE?oc=5",
+            "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxQWEl4ZnRyZ3U0dk01NGUybmxKSXduT0t4bmEzTUk1X2NMbDZieWl6YVBLRmFWejI3Ujg3WjQzM096ZGhGbG5JWGlpUlJrTU5jWHJKWnFYUlRrRTdyMkVDRm9pcFE4dlBuS1lqUHJOLS1nbUduVTVJMEE4YzZ5bzhZbg?oc=5",
             "category": "IT_Biz",
-            "published": "2026-11-14T01:06:22.781264"
+            "published": "2026-11-15T00:28:17.542549"
         },
         {
-            "title": "삼성 첫 스마트안경 예약판매 시작…제미나이 장착, 가격 65만~75만원",
+            "title": "“AI로 다 뚫는다”…AI 해킹, AI로 막을 순 없을까? [경제한방] - KBS 뉴스",
             "points": [
-                "삼성전자가 첫 스마트안경을 출시하고 예약 판매를 시작했다는 소식은 글로벌 IT 기업의 혁신적인 서비스 출시이자 새로운 웨어러블 기기 시장 개척의 신호탄이다.",
-                "구글의 AI 모델 '제미나이'를 장착하여 AI와 증강현실(AR) 기술의 융합을 보여주며, 이는 미래 개인 컴퓨팅 환경과 스마트 기기 산업의 판도를 바꿀 잠재력을 가진 기술적 변화를 의미한다."
+                "AI 기술이 발전함에 따라 AI를 활용한 사이버 공격과 이를 방어하기 위한 AI 보안 기술의 중요성이 커지고 있습니다.",
+                "이는 AI 시대의 핵심적인 보안 과제이자 새로운 기술 개발 및 투자 영역으로, IT 산업의 미래 보안 전략에 중대한 영향을 미치는 기술적 변화 포인트입니다."
             ],
-            "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE5JUExVbldETXBYWmJxOE1NTUJTWDJIOGtHNmd0RlRtdTI4ZzF0NkM5V2hSRTc1TFltQUVqWXJXT0xTaS1SeHhSRWNnamU0ZEkyUEFTRGg0TC10UdIBX0FVX3lxTE1YenpRM0NfTXE2TVhuY3NzVUtyRGZKZUgwMFZmY2xra1hDaWl0c3NKdktrX2tEdTd3LUZsWXU3T19VcmVFdmtnUlVKMVllX3NiQkxWYlpIUHdqSVhtdEpN?oc=5",
+            "link": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE55MVJaSTBxdmVjSF9RY1loTE1EdjB5MmUtaU9XenI4a2RDZUxYU3E5dU9zLWdLQmprSXFfbThWTk85V0tyZy04bWRWNUxrbEEwUm55RFRXSnZVQ000X2M3SFJWaVJoZw?oc=5",
             "category": "IT_Biz",
-            "published": "2026-11-14T01:06:22.781265"
+            "published": "2026-11-15T00:28:17.542550"
         },
         {
-            "title": "“구글 지도, 마침내 한국 국경 넘었다”…데이터 가공 협력사로 티맵 선정",
+            "title": "“남의 집 불륜에 불똥 맞을라”…‘깐부 동맹’ 삼전닉스에 쏠린 눈 - 매일경제",
             "points": [
-                "구글 지도가 한국 시장에서 데이터 가공 협력사로 티맵을 선정하며 서비스 확장을 본격화한다는 소식은 글로벌 IT 기업의 국내 시장 전략 변화를 보여주는 중요한 뉴스다.",
-                "이는 국내 지도 및 모빌리티 서비스 시장에 큰 변화를 가져올 정책적/사업적 움직임이며, 구글의 한국 시장 공략 강화와 국내 기업과의 협력 모델이 향후 IT 산업 생태계에 미칠 영향이 주목된다."
+                "삼성전자와 SK하이닉스는 글로벌 반도체 시장의 핵심 플레이어입니다. 이들 기업 간의 '깐부 동맹'은 글로벌 반도체 공급망 및 시장 경쟁 구도에 큰 변화를 가져올 수 있는 전략적 움직임입니다.",
+                "이는 대규모 투자 및 기술 협력 가능성을 시사하며, 전 세계 반도체 산업의 판도에 중대한 영향을 미칠 수 있는 경제적/전략적 변화 포인트입니다."
             ],
-            "link": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE5ZMlZkaFM2TnFfeC0xWjBKR25KX2JyRHdGVWs5N0dCX0pkaFhTMFZtVXpfU19nTmNvcF96Q054aXJ0ckNWQ3pnWlNMaWk4Zw?oc=5",
+            "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE9na1VnS3ZJSS1UZkRLYUE2ODNyVU1wb3A3eUstZk82QUtBTTRNMUViZktxZ1hLTWNsLWcyRXppbTJhWUkzN1QxQXhuMzhwZWxRZEFYYm1R?oc=5",
             "category": "IT_Biz",
-            "published": "2026-11-14T01:06:22.781266"
+            "published": "2026-11-15T00:28:17.542550"
         }
     ],
     "Economy": [
         {
-            "title": "보스턴 연은 총재 \"때로는 긴축적 통화정책으로 물가 안정 확보해야\"",
+            "title": "[뉴욕증시-주간전망] 엔비디아 실적에 앤트로픽 상장…'AI 빅위크'",
             "points": [
-                "미국 연방준비제도(Fed) 고위 관계자의 통화정책 발언으로, 향후 금리 인상 및 긴축 기조 유지 가능성 시사.",
-                "글로벌 인플레이션 압력과 중앙은행의 대응이 세계 경제 및 금융 시장에 미치는 영향.",
-                "투자 심리 및 기업 활동에 직접적인 영향을 주는 거시 경제 정책 방향성."
+                "엔비디아의 실적 발표와 AI 스타트업 앤트로픽의 상장은 글로벌 AI 산업의 성장세와 투자 심리를 가늠하는 핵심 지표로, 전 세계 증시와 기술 섹터에 큰 영향을 미칩니다.",
+                "엔비디아 실적은 AI 반도체 시장의 수요와 공급망 동향을 보여주며, 앤트로픽의 상장은 새로운 AI 기술 기업들의 가치 평가와 AI 스타트업 생태계 활성화에 중요한 기준이 될 것입니다."
             ],
-            "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTFBlYXFVdnJBVE1NX093RWRqYURuSy1QQTNTZ3NjMS1Gc0QzeUFRUmRCY21zVkNzdU1rbXNkMjJmTWNQb2hSaWhLTmUxZkV5S1UwdXBITWtFVTZIWWJUWkQyblczOFlPckRqRjU4X3N4YlM?oc=5",
+            "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE1vNU9MWDJPNThrVkpHMFdSRGpBZHdIRzJHb3NEbjdHVlpMQW1seW1VZ0RWYmxpTTJiMF9vcUoxYkoxckM4R3Q3bnl4NlIwZVgxTURyNTlka1JLZl81N29DWXkzcmQ1MWFKbUlpRnZyQy0?oc=5",
             "category": "Economy",
-            "published": "2026-11-14T01:07:05.094245"
+            "published": "2026-11-15T00:28:45.620873"
         },
         {
-            "title": "미 전역 항공기 이륙 중단‥교통장관 \"관제센터 통신문제\"",
+            "title": "美 이틀간 1만3265편 결항… \"낡은 구리 통신선 교체 중 항공대란\"",
             "points": [
-                "미국 전역의 항공기 이륙 중단이라는 초유의 사태 발생, 전 세계 항공 운항 및 물류 시스템에 막대한 영향.",
-                "항공 관제 시스템의 기술적 문제(통신 문제)가 국가 인프라 마비로 이어질 수 있음을 보여주는 사례.",
-                "경제 활동 전반에 걸친 광범위한 파급 효과와 시스템 안정성의 중요성 부각."
+                "미국에서 발생한 대규모 항공편 결항 사태는 노후화된 국가 핵심 인프라의 취약성이 실제 경제 활동과 국민 생활에 미치는 심각한 영향을 보여주는 사례입니다.",
+                "이번 항공 대란은 물류, 관광, 비즈니스 등 광범위한 분야에 직접적인 경제적 손실을 야기하며, 전 세계적으로 인프라 현대화 및 디지털 전환 투자의 중요성에 대한 경각심을 높이는 계기가 될 것입니다."
             ],
-            "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTE81SzBNZFI2RGwxWUlGTlhRR0pBTG8wMjNfSXBtcm93bW5PN0RZYzVsSV9mQjNwNGN6XzRoeFRkblBrYnRtc1lRNFFvSEZuNnBYUzhUNWZ5SmVBTmI2STFYWnV5bERuUElESC0xOHdoVjRHbGVH0gF0QVVfeXFMTUNWeFFvUGJtTkpaQS1Wb1NzQkJ6a180VnlnU3RWTzFjcDVqY1MxWjRSLVZpRWdVQ1J1ZFNCd1NTMHdhY1BRcXdiR0J2b1JHVDZfZ25aVS1DMVc1X2FkT3hYV1FZYjNaSEN5V0N2MWNUdy1XTmw?oc=5",
+            "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxPeHMxZGlkM0xwNkVUcGhaYk5IUV9NTFgxaDRwb0dfWnBjaU9XRmhHOHlpX2VEVDFoMkRFbW9mbWhpZ3QwTHpjc3dzY2J2MjAxZlI3UDkwOWQyS0hyVTBlY3UzcHoxZldYcDJhVHVWenFjSUdEY0MxVy1vXzlGQ3k3V2UyUGtzQVJkcndaRUtYVEF1alhVaC1Db2VPb2o1QQ?oc=5",
             "category": "Economy",
-            "published": "2026-11-14T01:07:05.094251"
+            "published": "2026-11-15T00:28:45.620880"
         },
         {
-            "title": "중국 車반도체굴기 … 자립률 '한국의 3배'",
+            "title": "\"트럼프, AI 반도체 수출통제 풀며 엔비디아 주식 샀다\"",
             "points": [
-                "중국의 차량용 반도체 자립률 급증은 글로벌 반도체 공급망 및 자동차 산업의 지형 변화를 예고.",
-                "미중 기술 패권 경쟁 속에서 중국의 핵심 산업 자립 노력과 그 성과가 세계 경제에 미치는 영향.",
-                "한국 반도체 산업의 경쟁 전략 및 미래 방향성에 대한 시사점."
+                "트럼프 전 대통령의 AI 반도체 수출 통제 완화 시사 발언은 미국의 대중국 기술 정책과 글로벌 반도체 산업의 판도를 바꿀 수 있는 중대한 정책적 변화 가능성을 내포하고 있습니다.",
+                "미국의 AI 반도체 수출 정책 변화는 엔비디아를 비롯한 주요 반도체 기업의 실적과 글로벌 공급망에 직접적인 영향을 미치며, AI 기술 개발 및 확산 속도에도 지대한 영향을 줄 수 있습니다."
             ],
-            "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE1QelZ0OUNrNFpIc1NzanZ3dmgwanR4Vk9kREpJNnpfUV9GNlNyR0tWTFJrd1NOT1B2a0NhNDdzZUhXY2tRblVsdGtXdmZLYW5tb0FQRTBR?oc=5",
+            "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE9YeUhFV0JzUVZNNkIxNFFDQVkwQnktZEE5OTJudWVfeHlGb0tCaUVRbjFiODhyVm5Ma1dYWl9McDFrSFJIOUNGczBqVV8zeDZ4cFl3Znd0eHRsNDjSAWBBVV95cUxNMHhWOHJpVXdSRmhyNmhsRkwtX0EzcGlrNDlEQm8wVm9JaFhDYWVsX1RfY1lRRC1ZU0VPeVRXZzZ0NFVZYTlqYkhURDVsVUhfdEMwdzR1SWM2ZXlJYm0xbUU?oc=5",
             "category": "Economy",
-            "published": "2026-11-14T01:07:05.094252"
+            "published": "2026-11-15T00:28:45.620881"
         },
         {
-            "title": "앤트로픽 CEO \"컴퓨팅 자원 확보, 회사가 직면한 최대 경영상 딜레마\"",
+            "title": "합법적 AI 학습 길 연다…출협, AI 기업들과 데이터 공급 체계 구축",
             "points": [
-                "주요 AI 기업 CEO의 발언으로, AI 산업 성장의 핵심 병목 현상인 컴퓨팅 자원 확보의 어려움 부각.",
-                "AI 기술 발전과 상용화에 필수적인 인프라 투자 및 기술 개발의 중요성 강조.",
-                "글로벌 AI 경쟁 구도와 각국의 전략적 자원 확보 노력에 대한 시사점."
+                "AI 학습 데이터의 합법적인 공급 체계 구축은 국내 AI 산업의 고질적인 문제였던 저작권 및 데이터 확보 문제를 해결하고, AI 기술 개발의 기반을 마련하는 중요한 정책적 진전입니다.",
+                "명확한 데이터 공급 및 활용 기준 마련은 국내 AI 기업들이 안정적으로 고품질 데이터를 확보하여 혁신적인 AI 서비스를 개발하고 글로벌 경쟁력을 강화하는 데 필수적인 역할을 할 것입니다."
             ],
-            "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE5LS2FLWjA0cFlraWROaWpqVHMxTS1BSjU1SWphSDVwaHVTZGtjNElaSElIaks0T2FpdFZxTHB6LTFrQ2djVEdzQU5kN2pXejVSMHdPNDU1QzhkU2Ixd1Q0Sjd0bGNmQ0JkQVQ3c3g1OGw?oc=5",
+            "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE5xNmtWZHBTaWptbXNBQkc4V3g3dTdET0RfU1hPTkZ5ZjFqUFlGNmRMMHRlX24wWVFGZVVxMXZfVDJiM1dobWZBNXBqU3FiY3lNVW5VZEJ0Y3c2QdIBX0FVX3lxTE1oaHhqa2JoSU5XRG9fVFdvSnFpLVJoTlJ6aVZlLTN5X1BBTnJtODB6a2c5bWNickNvMzFuOE5WX2hONWQ4ckY5SGw4dzB0ckZlYXE3cXJma2JaU0tOVjBj?oc=5",
             "category": "Economy",
-            "published": "2026-11-14T01:07:05.094253"
+            "published": "2026-11-15T00:28:45.620882"
         },
         {
-            "title": "코스피, 한달새 10% '뚝'…내주 '엔비디아·美中회담·연준' 주목",
+            "title": "충남도, 392조 충청권 메가프로젝트 첫 삽…첨단산업 투자 속도",
             "points": [
-                "국내 주식 시장의 주요 지표인 코스피의 급락과 그 원인 분석.",
-                "다음 주 글로벌 경제에 큰 영향을 미칠 엔비디아 실적 발표, 미중 고위급 회담, 연준의 통화정책 회의 등 주요 이벤트 예고.",
-                "거시 경제 지표와 주요 기업 실적, 국제 정세가 국내외 증시에 미치는 영향 분석."
+                "392조 원 규모의 충청권 메가프로젝트는 국내 최대 규모의 지역 개발 및 첨단산업 투자 계획으로, 국가 균형 발전과 미래 성장 동력 확보에 핵심적인 역할을 할 것입니다.",
+                "대규모 투자를 통해 충청권은 반도체, 미래차, 바이오 등 첨단산업의 거점으로 성장하고, 관련 기업 유치 및 일자리 창출을 통해 지역 경제 활성화와 국가 산업 경쟁력 강화에 크게 기여할 것입니다."
             ],
-            "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE45SUNMUllnQThzdDFnb19jUTZoM2RHVHdLWHc1aE05S3RHd25sbnR4Vy15dVdwMGp5T2pBVEhzaXVXMHNxZG5zcHZBbHlXcjVhMFFYdjVxRDgyczZWdV8tYjRLTNowYnpZWVpXc2UyTHo?oc=5",
+            "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE5pSXpGblYwQ1dmVWFYRjV6SHVqeUgxcEF1SlBJdU5QaWNLaUtYYW05YzI1VlhLcE41U3pGYm9lS3pfRkx2TTI0d2RXWjM4RWE0bXlYZ1FJaFZwSlVLbHdhRlEybkxYLUlpY24xag?oc=5",
             "category": "Economy",
-            "published": "2026-11-14T01:07:05.094254"
+            "published": "2026-11-15T00:28:45.620882"
         }
     ],
     "World": [
         {
-            "title": "[속보] “트럼프, 시진핑·푸틴 만난다” 19일 3자회담… 전례 없는 외교사 중대 이벤트 - 서울신문",
+            "title": "미국 “19일 중국서 미·중·러 정상회담”…트럼프-김정은 회담은 불발 전망",
             "points": [
-                "전 세계 주요 강대국 정상들의 전례 없는 3자 회담으로, 국제 질서와 외교 지형에 중대한 변화를 가져올 수 있는 파급력이 큰 소식입니다.",
-                "미국, 중국, 러시아 간의 관계 재정립 가능성을 시사하며, 무역, 안보, 지역 분쟁 등 다양한 글로벌 이슈에 대한 새로운 접근 방식이 논의될 수 있습니다."
+                "세계 3대 강국(미국, 중국, 러시아)의 정상회담 개최는 국제 질서의 재편 가능성을 시사하는 매우 중대한 외교적 사건입니다.",
+                "이는 우크라이나 전쟁, 미중 갈등 등 복잡한 국제 현안에 대한 주요국 간의 직접적인 논의를 통해 새로운 국제 공조 또는 갈등 구도를 형성할 수 있는 전환점이 될 수 있습니다."
             ],
-            "link": "https://news.google.com/rss/articles/CBMid0FVX3lxTE94XzRUejE1SDFMRjlNZURmel9fWEFzbnplNy14VWpnZjVKOWRHdnRBVDB1MURMRTRGaVhJOWRhdnd6azZjemMzOVlXR3JwVG9lc0JrdGZucTZBN0Q1SU9Jc0JBclFXbkUzM2JiRzdYcGpHS2Vxc2tN?oc=5",
+            "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTE1VYjhxNE9MMzVIUXJRNWtnQjluUklaVllNRGVLamFIWjJxUkJRZTQ4ODEtVElCYUF3SkxRS1kyeDE0Tld2bW54ODgtZ0w1dmtIYXFsZTJMZDMyVEJ0TW5KQ1NtYVYwU04waHItVU1ROFFkN1U0?oc=5",
             "category": "World",
-            "published": "2026-11-14T01:07:35.219141"
+            "published": "2026-11-15T00:29:19.599242"
         },
         {
-            "title": "이란 \"바레인 미 조기경보 레이더 타격\"‥미군 \"이란 드론 요격\" - MBC 뉴스",
+            "title": "젤렌스키, “미국, 우크라이나에 나토 가입 대가로 돈바스 양도안 제안”",
             "points": [
-                "중동 지역의 긴장 고조와 직접적인 군사적 충돌 가능성을 보여주는 소식으로, 국제 유가 및 안보에 즉각적인 영향을 미칠 수 있습니다.",
-                "미국과 이란 간의 대리전 양상이 심화되고 있음을 시사하며, 이는 중동 정세 불안정을 가속화하고 국제사회에 큰 파장을 일으킬 수 있습니다."
+                "우크라이나 전쟁의 핵심 쟁점인 영토 문제와 나토 가입을 연계한 제안은 전쟁의 향방과 유럽 안보 지형을 근본적으로 바꿀 수 있는 파격적인 내용입니다.",
+                "이 제안이 사실이라면, 우크라이나의 주권과 영토 보전, 그리고 러시아와의 평화 협상 가능성에 지대한 영향을 미치며 국제사회에 큰 파장을 일으킬 것입니다."
             ],
-            "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTE42Mm1iRmYwRzJDeGxsVm54OU9RLUl2dHVmdS1LU1RyYnJ0bjZkdjNtWFBPSUZ1VGVNcWh2S181MXU5VWRsWF9GdUlqS0JjUWFqT3Nla1V4aGRrMDFIMVZwc3pnNmxpS29qU2p0cTlmeS1GaWhf0gF0QVVfeXFMTWtPQU40TEg0YnRsSTFuWGxWSXQ4WllHS3NQUXBVZENpTGRSZGtNQmF4ajVUanI4MkF1Ylp0V3VsQW5PWGc2UHM3bnpwWEYxaF9PZ2RWM1AwZW5CNGFKN0hZT1lSTEhrVW9PTGNIcTFkdDlKdTA?oc=5",
+            "link": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE1LU1lmU1BjM1UwZkFjWWViNlJBODFoWlRITlZVdDJHZlN2RGljNW9aNWFZVUxIUlpPZk94eUZvYlVtejlwV2R2ejhxX3FFTVB60gFTQVVfeXFMT0ZKV2JyY2RCcFc3Y285NHJ5LW5YLXZseUpGZk1iYWJ3MFVzTFd2NU5wVFpqR1Jqdkd2Rk1NRmxoeDZ2cW5wVTNFRXhOdVBPNVU3NjQ?oc=5",
             "category": "World",
-            "published": "2026-11-14T01:07:35.219147"
+            "published": "2026-11-15T00:29:19.599249"
         },
         {
-            "title": "후티 반군, 사우디 아람코∙송유관 시설 추가 공격 주장 - VOA 한국어 홈페이지",
+            "title": "호르무즈 해협 선박 공격, 10월에 37건으로 최다",
             "points": [
-                "세계 최대 산유국인 사우디아라비아의 핵심 석유 시설에 대한 공격은 국제 유가 상승과 글로벌 에너지 안보에 심각한 위협을 초래합니다.",
-                "예멘 내전의 지역적 확전 가능성을 높이며, 중동 지역의 지정학적 불안정을 심화시키는 주요 요인으로 작용합니다."
+                "세계 원유 수송량의 약 20%가 통과하는 호르무즈 해협에서의 선박 공격 증가는 국제 유가 상승과 글로벌 에너지 안보에 심각한 위협을 초래합니다.",
+                "이는 중동 지역의 지정학적 불안정 심화를 반영하며, 국제 무역 및 해상 운송 비용 증가로 이어져 전 세계 경제에 광범위한 영향을 미칠 수 있습니다."
             ],
-            "link": "https://news.google.com/rss/articles/CBMiUEFVX3lxTFBRZ05fOV8zT21iR05IaTEwUWpZZ2g2MnBESGtVdk04LXRfVUFzcUJ5ZTZyV2pCUVl4STlKMmFSZzBraWhvUEdWNVJHWmFwcEdf0gFTQVVfeXFMT0MwOE5GUUdDekY0M21KMFNKUkN5Zjl5MF9vMnpCek51bFNyZ2NPWnEwSEEtNlg1REQ5eF80M3ZkVUJWV3BJMUg4TlozRTRtQzdjNk0?oc=5",
+            "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTFBTRFhjRnlDRTZHOVVjUE45eUNTSVNCY0szUmE4TkFtNl9nZFkwQVRXczEyaFIzdlRlV0ZYTnJpT2FuSnBpdmd2NFVyMGFuTVkxaDlWNC03OGhyM01kUFlOc25MVm5TNkduSUN3Sy1PY3N0ai140gF0QVVfeXFMT1VoenVqaEpQSFJZZm4yZVlOUUlPTnJvRzhLaXlvRGd1cE5ad2NhcDZDejczUExVS3JBOTR3M1hXUFd0MTl4VFl2STBSVnZrakthaFVJTk1vbnd0dmUxRFhOOGwyWE9pZl9KeF9fTFhyb2RWOGg?oc=5",
             "category": "World",
-            "published": "2026-11-14T01:07:35.219148"
+            "published": "2026-11-15T00:29:19.599250"
         },
         {
-            "title": "흑해 넘어 발트해서도… 우크라, 드론으로 러 초계함 타격 - 조선일보",
+            "title": "역주행하는 푸틴…美에 '나토 동진 중단' 강경론 다시 제기",
             "points": [
-                "우크라이나 전쟁이 흑해를 넘어 발트해까지 전선이 확대될 가능성을 시사하며, 유럽 안보 지형에 새로운 위협을 가하고 있습니다.",
-                "드론을 이용한 해군 함정 타격은 현대전의 양상 변화와 비대칭 전력의 중요성을 부각시키며, 러시아 해군의 취약점을 드러냅니다."
+                "러시아가 우크라이나 침공의 주요 명분이었던 '나토 동진 중단' 요구를 미국에 다시 제기하는 것은 유럽 안보 질서에 대한 러시아의 강경한 입장을 재확인하는 것입니다.",
+                "이는 우크라이나 전쟁의 장기화 가능성을 높이고, 서방과의 외교적 해법 모색에 큰 걸림돌로 작용하여 국제 정세의 불확실성을 증대시킬 수 있습니다."
             ],
-            "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxPcjVuRDl5WkVrN0NhdW5vZndRREVQdENYZGR4QTl4cER6dUlDdXVfOXNoMnBHTHFGU3BKVU44eThGeG04UUtueXZMS09jZ2lJSHluSmt2bEZYcjJyRGI5bG9qNlNubDJJb2d2dUVzS05fbTUxaEFVYzNJSjZ5X3lBVzlSYVZ2a2NoSXZvb2p6UzB0ZEFmX250Q2ZG0FmZw?oc=5",
+            "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE9HcVVkRHdobDJfSGtweEM5YVpBN2J0Qk1kdzRfbWZoV0VYU09jbmQyanVJYjJRMHpTWExRVEl0RmJoNUhsVWx2TlJtSjZ1V2RqZnVJQ0JPQXRCWTjSAWBBVV95cUxOWkswd2duYU1iekdnNURuTDZhblVFeWpQMnhtXy1QUi1iVmFPVk1fS0ZZOWFoWUVLUzYyQ25teXF1dDVxb2lJTk9kcFJpSHdPMWJUVDFPNmhlVHZpMGxEOWk?oc=5",
             "category": "World",
-            "published": "2026-11-14T01:07:35.219149"
+            "published": "2026-11-15T00:29:19.599250"
         },
         {
-            "title": "역주행하는 푸틴…美에 '나토 동진 중단' 강경론 다시 제기 - 연합뉴스",
+            "title": "'유럽 해킹 배후' 이란...\"악성 코드 하나가 폭발물만큼 파괴적\"",
             "points": [
-                "러시아와 서방 간의 근본적인 안보 갈등을 재점화하는 푸틴 대통령의 강경 발언으로, 유럽 안보 질서와 나토의 역할에 대한 중대한 논의를 촉발합니다.",
-                "우크라이나 전쟁 이후 더욱 첨예해진 러시아의 안보 우려를 반영하며, 이는 향후 국제 관계와 군사 전략에 지속적인 영향을 미칠 것입니다."
+                "이란이 유럽 주요국에 대한 대규모 사이버 공격의 배후로 지목된 것은 국제 안보의 새로운 위협인 국가 주도 사이버 전쟁의 심각성을 보여줍니다.",
+                "핵심 인프라를 마비시킬 수 있는 사이버 공격은 전통적인 군사적 충돌 못지않은 파괴력을 가지며, 국제사회에 새로운 형태의 안보 협력 및 대응 전략 마련을 요구합니다."
             ],
-            "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE9HcVVkRHdobDJfSGtweEM5YVpBN2J0Qk1kdzRfbWZoV0VYU09jbmQyanVJYjJRMHpTWExRVEl0RmJoNUhsVWx2TlJtSjZ1V2RqZnVJQ0JPQXRCWTg?oc=5",
+            "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTE91NWJwNW9zUWN3Vm04NF9iaDRMVjlCcU1aQUs3aExGalR4ZEtIYzU2dnliS2NkT1h0Mms5NzBPS2dJUlJSaUQ4QmFnZnR6aVpOTU9GOGlJVmJGbDQtaURzNGVPSTl1ZzRNTXBtQTDSAVzQVVfeXFMT29nazFSTGZYMi0zR1hvTEx3NHZoTDE5dmJnUll4elVteW1Qb0UyM0dRSFcxb3pqS0hiTkJZcG5xS2ppZzkxeGhpTkxIbDAzdXR5S3dYeFdYeFlST0tiN3pBcEh5WTVud1plS1BwRDhUbmhTRQ?oc=5",
             "category": "World",
-            "published": "2026-11-14T01:07:35.219150"
+            "published": "2026-11-15T00:29:19.599251"
         }
     ]
 }
