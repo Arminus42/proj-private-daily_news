@@ -1,54 +1,210 @@
 {
+    "AI_Tech": [
+        {
+            "title": "엔비디아도 주목한 DGIST의 신소재 발굴 AI 기술 개발",
+            "points": [
+                "세계적인 AI 반도체 기업 엔비디아가 관심을 보인 국내 연구소(DGIST)의 성과로, AI 기술의 글로벌 파급력을 보여줍니다.",
+                "AI가 기존 방식으로는 찾기 어려웠던 새로운 소재를 효율적으로 발굴하는 기술은 배터리, 반도체, 바이오 등 미래 핵심 산업의 혁신을 가속화할 획기적인 기술적 돌파구입니다."
+            ],
+            "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE5kTU9CcE1yZTREWE9kdy1NT01MdVpoQ0dpUFR2TVpyMnpoV21BRDY2ZFRMNWxrRElLWDlxU2lUdjJSbjRLRjFWa3JKMTN2WXhnbWljbWdn?oc=5",
+            "category": "AI_Tech",
+            "published": "2026-11-18T02:38:47.825922"
+        },
+        {
+            "title": "루닛, 북미영상의학회서 AI 진단 연구초록 17편 발표로 글로벌 경쟁력 입증",
+            "points": [
+                "국내 대표 의료 AI 기업 루닛이 세계 최대 규모의 북미영상의학회(RSNA)에서 17편의 연구 초록을 발표하며, 의료 AI 분야의 글로벌 리더십과 기술 신뢰도를 확고히 했습니다.",
+                "AI 기반의 정밀 진단 기술은 오진율을 줄이고 의료 효율성을 높여 환자 치료 결과를 개선하는 데 기여하며, 이는 전 세계 의료 시스템 혁신의 핵심 동력입니다."
+            ],
+            "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE5td0xKRFh4TkNaZ0hNNFJ5eXdJLVdET0NMOEJBS3ZBR1RTRWd4eTM1aVpBbnc5bnZqRkRYLXJVQTJFd1JacEFUSl9aMkxlZ19OU1pwOGxhTXNWWGEzUUoyRUpiZC1pNWY2dkHSAW9BVV95cUxOaWJIdVdidWdtMVkyZUJtaG9GQ2ZERXl5VGg2SkNiZUEtMUxKc1ptazhqbDdNUkF4OEZ6ZFRjeDNxSFAwbXItS1VMaTFWbVBDaDVtTC1pc0ctQnRJTU5GV2doaFlubVpFWTZfa0lvc2c?oc=5",
+            "category": "AI_Tech",
+            "published": "2026-11-18T02:38:47.825931"
+        },
+        {
+            "title": "맥킨지 2026 기술 트렌드: 에너지 산업의 AI 및 딥테크 혁신 전망",
+            "points": [
+                "세계적인 컨설팅 기업 맥킨지의 보고서는 AI를 포함한 딥테크가 2026년까지 에너지 산업에 미칠 영향과 주요 트렌드를 분석하여, 글로벌 산업 전략 수립에 중요한 지표를 제공합니다.",
+                "AI가 에너지 효율 최적화, 신재생에너지 관리, 자원 탐사 등 에너지 산업 전반의 패러다임을 변화시키고 있으며, 이는 기후 변화 대응과 지속 가능한 성장을 위한 핵심 기술적 변화입니다."
+            ],
+            "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxOTUtPeWtORTJxa3N5blFJWjZ6cGZyWWwzNHBSaTJmSDFfSVFWSDdvajBNelhDM2RITjBEaHNjM3Fqbnl5SE9GelFmQ1dHSDBQVmlXRHVyS2NTNFlXQUJqSThzMXFSdDBXU2czMmVFQVpVOEppUWJUTDA3OHVnLU5uVTNfUzY?oc=5",
+            "category": "AI_Tech",
+            "published": "2026-11-18T02:38:47.825932"
+        },
+        {
+            "title": "HD현대, 조선소 AI 및 로봇 기술 도입 가속화로 생산 혁신 주도",
+            "points": [
+                "국내 대표 중공업 기업 HD현대가 조선 산업의 핵심 생산 기지인 조선소에 AI와 로봇 기술을 적극 도입하며, 전통 산업의 디지털 전환을 선도하는 중요한 사례를 제시합니다.",
+                "AI 기반 로봇 자동화는 위험하고 반복적인 작업을 대체하여 생산 효율성을 극대화하고, 작업자의 안전을 확보하며, 이는 제조업 전반의 스마트 팩토리 전환을 가속화하는 핵심 기술 트렌드입니다."
+            ],
+            "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE90aUlYd3g2eDJLOGRkRm4yWmNES3dQX3h3RWJHaEZmR1ZhRVMtZTRjVnc1VWcwQ0xYeXZkMWt5ZFlNNTRTYVFJX1ZvYkhrZXNTd3R3TFpYQ2NjU0VrS0lRWkRvLWc?oc=5",
+            "category": "AI_Tech",
+            "published": "2026-11-18T02:38:47.825932"
+        },
+        {
+            "title": "국가AI전략위원회, 과학 AI·창업·무인공장 혁신 전략 점검",
+            "points": [
+                "국가AI전략위원회가 주도하는 이번 점검은 AI 기술이 과학 연구, 스타트업 생태계, 그리고 제조업 혁신(무인공장)에 어떻게 적용되고 발전할지 국가적 차원의 비전과 실행 계획을 보여줍니다.",
+                "AI를 통한 과학 난제 해결, AI 기반 스타트업 육성, 그리고 AI 무인공장으로의 전환은 국가 경쟁력을 강화하고 미래 산업을 재편할 핵심 동력이며, 이는 글로벌 AI 기술 패권 경쟁에서 중요한 위치를 차지합니다."
+            ],
+            "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE42NXh2Yk9aOGNnLVN6T0RRbzJjMDhQS1RQbndCc2s2Z2lVT2o0UVBWbVhfcHcweTV3S0M2QWNVcmlsMnpqQjJ4eTJMa2dNbk9jcGptb3hucFFVSnhiWFQxNdIBYEFVX3lxTE42NXh2Yk9aOGNnLVN6T0RRbzJjMDhQS1RQbndCc2s2Z2lVT2o0UVBWbVhfcHcweTV3S0M2QWNVcmlsMnpqQjJ4eTJMa2dNbk9jcGptb3hucFFVSnhiWFQxNQ?oc=5",
+            "category": "AI_Tech",
+            "published": "2026-11-18T02:38:47.825933"
+        }
+    ],
+    "IT_Biz": [
+        {
+            "title": "엔비디아 독주 흔들리면 구글·AMD로 HBM 공급 분산… “삼성전자가 최대 수혜자” - Chosunbiz",
+            "points": [
+                "AI 반도체 핵심 부품인 HBM(고대역폭 메모리) 시장의 지각 변동 가능성을 다루며, 엔비디아의 독점적 지위 약화와 구글, AMD 등 신규 고객사 등장에 따른 공급망 재편을 예측하는 중요한 경제 뉴스입니다.",
+                "삼성전자와 같은 국내 주요 반도체 기업의 수혜 가능성을 제시하며, 글로벌 AI 산업의 핵심 인프라 공급망과 경쟁 구도에 중대한 영향을 미칠 수 있는 변화를 시사합니다."
+            ],
+            "link": "https://news.google.com/rss/articles/CBMiggFBVV95cUxNT1Jhang1bkJKcURhVkdlT0t3ckM3ZW44YTg3eHRxenUwM3FVWkJjVG1BUEU2UEROX3RqcFNJeWdXLWdHVU0yU3NVVmU4MExmaXpxQmYzVDZpQXQ5NGdRMndMVDZfbS00MFAyQ2J5YUNxa3AyYVI1ZUEyTERXQWx5SEhR0gGWAUFVX3lxTE1obFFDTnYwVEZSbG1HeXpMZW0xVExRU3JQLXhVOFlid1lCZWl4dTk0SjBpTkY0SFR5UUg4emJnMVN3ZDdBQnluSDRSa2FubUVxZ3RUVEV6cXBvcXl5UFk2cWFaSWtDUV9JU3RuN0xMNlJ2YmxGRUNnZmlIVHItNmFfT3RmaGNQWE1mWVJuMFRFZ0JrNG9Bdw?oc=5",
+            "category": "IT_Biz",
+            "published": "2026-11-18T02:39:45.919958"
+        },
+        {
+            "title": "러시아 ‘우주 핵무기’ 위협…핵폭탄 한 발이면 저궤도 위성 98% 마비 - 조선일보",
+            "points": [
+                "러시아의 우주 핵무기 개발 위협은 전 세계 저궤도 위성 통신망과 GPS 등 핵심 인프라에 치명적인 영향을 줄 수 있는 국제 안보 및 기술 분야의 심각한 문제입니다.",
+                "이는 군사적 위협을 넘어 민간 항공, 금융, 통신 등 위성 기술에 의존하는 모든 산업 분야에 광범위한 마비를 초래할 수 있는 잠재적 재앙을 경고하며, 우주 기술의 취약성을 부각합니다."
+            ],
+            "link": "https://news.google.com/rss/articles/CBMigwFBVV95cUxPRExtamgxTlVLZ3JsS0syY2tBemFRVUVUYkNJbmhpTk8xNkJDVG1lcVo1Y0toUXZKV3NOaEFSTHlnMU4ycV9wU3hJSWVpendNcU5zNms3RzB0Z2ZzSUx0Y3lUbi1HckN6bVFXRkQtRkVPeWhpTFV6ZXRKR29jWDFvenRaUQ?oc=5",
+            "category": "IT_Biz",
+            "published": "2026-11-18T02:39:45.919966"
+        },
+        {
+            "title": "[자바 취약점 비상] 오라클, ‘자바4셸’ 등 RCE 취약점 11건 긴급 패치... “즉시 업데이트 필수” - 보안뉴스",
+            "points": [
+                "오라클의 자바(Java)에서 발견된 원격 코드 실행(RCE) 취약점은 전 세계 수많은 기업 및 기관의 IT 시스템에 심각한 보안 위협을 초래할 수 있어 즉각적인 패치가 요구되는 중대한 사이버 보안 뉴스입니다.",
+                "자바는 기업용 애플리케이션 및 웹 서비스의 핵심 기반 기술이므로, 이 취약점은 데이터 유출, 시스템 마비 등 광범위한 피해를 야기할 수 있으며, 모든 IT 관리자에게 필수적인 보안 업데이트를 강조합니다."
+            ],
+            "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTFB3N1BLZjAzNjRUc3g0X3Bfb2lOb3o3MlZILUthNExpUW1IdUtaSFQ4c1R3OUx4MkFCWkEyc1VLVUxkTHVsNGNmNUMwXzhraGp2aGRONVNpNG9mc0ZKS2gtOU5ybFE3LWxMdnlR?oc=5",
+            "category": "IT_Biz",
+            "published": "2026-11-18T02:39:45.919966"
+        },
+        {
+            "title": "MS, ‘가성비 AI’ 공세...GPT급 코딩 성능에 비용 40% - 매일경제",
+            "points": [
+                "마이크로소프트가 GPT급 성능을 제공하면서도 비용을 40% 절감한 '가성비 AI'를 출시하는 것은 AI 서비스 시장의 경쟁 구도를 뒤흔들고 AI 기술의 대중화 및 확산에 크게 기여할 수 있는 중요한 소식입니다.",
+                "이는 기업들이 AI 도입에 대한 경제적 부담을 줄여 더 많은 산업 분야에서 AI 활용을 가속화할 수 있게 하며, AI 개발 및 서비스 제공 방식에 새로운 표준을 제시할 잠재력을 가집니다."
+            ],
+            "link": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE5oamp2b2hCd0FJRFRGMjNtS0NSSXJfeXJUdDJSTllWejNmUFZTZWlDNDBYazBieDBaeTgwc3FCdTVjbWdsRWEwMUNCeDBBZw?oc=5",
+            "category": "IT_Biz",
+            "published": "2026-11-18T02:39:45.919967"
+        },
+        {
+            "title": "인텔 \"신형 GPU, 엔비디아 대비 금융 연산 최대 5.9배\" - 이데일리",
+            "points": [
+                "인텔이 신형 GPU의 금융 연산 성능이 엔비디아 대비 최대 5.9배에 달한다고 발표한 것은 AI 및 고성능 컴퓨팅(HPC) 시장에서 엔비디아의 독주에 도전하는 중요한 경쟁 구도 변화를 알리는 소식입니다.",
+                "이는 데이터센터, 금융, 과학 연구 등 특정 고성능 연산이 필요한 산업 분야에서 GPU 선택의 폭을 넓히고, AI 반도체 시장의 기술 혁신과 경쟁을 촉진하여 산업 전반에 영향을 미칠 수 있습니다."
+            ],
+            "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxNdFVncENIbVNqMU1fYmVkcm1CRTFuLXZESzdqaHpQbmhFSW12b1pJY1B4Z0lmYjZGampLRVNCMTRhNDBub3lYX2hNeXp5NUVTSWF3akhLUmIyNEUzTVF0emlvU3dhZ1B4dVVBZHJfaWtUdWZRQXF4ME5kcE5xbFBHMnA0Xw?oc=5",
+            "category": "IT_Biz",
+            "published": "2026-11-18T02:39:45.919967"
+        }
+    ],
     "Economy": [
         {
-            "title": "미국 연준, 인플레이션 억제 위해 기준금리 0.25%p 추가 인상",
+            "title": "미 증권거래위, 엔비디아 '젠슨황 의혹' 관련 공시위반 조사",
             "points": [
-                "글로벌 경제에 직접적인 영향을 미치는 주요국 중앙은행의 통화 정책 변화로, 전 세계 금융 시장과 투자 심리에 광범위한 파급 효과를 가져옵니다.",
-                "고금리 기조 장기화 가능성을 시사하며 기업의 자금 조달 비용 증가 및 소비 위축 등 실물 경제 전반에 영향을 미칠 핵심 경제 정책 변화입니다."
+                "엔비디아 CEO 젠슨 황에 대한 미 증권거래위원회(SEC)의 공시 위반 조사는 글로벌 기술 기업의 투명성과 기업 지배구조에 대한 중대한 문제 제기입니다.",
+                "이 조사는 엔비디아의 주가와 투자자 신뢰에 큰 영향을 미칠 수 있으며, AI 및 반도체 산업 전반에 파급 효과를 가져올 수 있는 핵심 경제 뉴스입니다."
             ],
-            "link": "https://www.example.com/fed-rate-hike-news",
+            "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFBFM01zSVRsLVg4LTJya3ZjWUs0TVc0TXJULVdkU2Qxd2ZTcmx4Qjc3VTRfYTNiZTM0VVlHR0d6Nk92VnNOcDdZOEkzTnhTUTdBd3FHa2xfWkZUNm_SAWBBVV95cUxOLS1MMFl0a1VLVG4zcGJvMG1KdkZnNTBBcElhNjRXb0RjWWhBakVvSmpIVW1uVFNfWlVaTXJPdVp5Z3VrRlViMV9UclVTczJLUVhyMHUtaE82dzcyU2dYbGM?oc=5",
             "category": "Economy",
-            "published": "2026-11-17T03:16:00.988891"
+            "published": "2026-11-18T02:40:14.493226"
         },
         {
-            "title": "삼성전자, 차세대 AI 반도체 개발에 50조원 투자 발표",
+            "title": "이재용 삼성전자 실탄 '215조' 장전, 데이터센터 냉각 넘어 로봇·전력으로 전방위 M&A 나서나",
             "points": [
-                "글로벌 반도체 산업의 선두 기업이 인공지능(AI)이라는 미래 핵심 기술 분야에 대규모 투자를 단행하는 것으로, 산업의 판도를 바꿀 중대한 발표입니다.",
-                "AI 기술 혁신을 가속화하고, 관련 생태계 전반에 걸쳐 기술적 우위를 확보하려는 전략적 움직임으로, 고용 창출 및 국가 경제 활성화에도 크게 기여할 대규모 투자 소식입니다."
+                "삼성전자가 215조 원이라는 막대한 자금을 바탕으로 로봇, 전력, 데이터센터 냉각 등 미래 핵심 기술 분야에서 전방위적인 M&A를 추진할 가능성을 시사합니다.",
+                "이는 글로벌 기술 산업의 판도를 바꿀 수 있는 대규모 투자 및 전략적 변화로, 관련 산업 생태계에 지대한 영향을 미칠 것입니다."
             ],
-            "link": "https://www.example.com/samsung-ai-investment",
+            "link": "https://news.google.com/rss/articles/CBMic0FVX3lxTE9aUkU1YWlxX3lDUHBLUm5SWTJnV3R0LVd0N1RtVEZseFIySzhhRlNFUkVrc2YzMVktN3l6ejdtWDFpMWFhSnVLRDZKRUZvd3JhSkF0RkFRWTFnX1V0ZXJCY08wTm5NN0VweXJUV3NEUmhkMTg?oc=5",
             "category": "Economy",
-            "published": "2026-11-17T03:16:00.988898"
+            "published": "2026-11-18T02:40:14.493232"
         },
         {
-            "title": "유럽연합, 탄소국경조정제도(CBAM) 전면 시행 돌입",
+            "title": "속보 IMF, 올해 한국 성장률 전망 3.9%로 상향...한 달 만에 0.6%p 높여",
             "points": [
-                "유럽연합의 기후 변화 대응 정책이 글로벌 무역 환경에 직접적인 영향을 미치기 시작하는 것으로, 전 세계 수출 기업들에게 새로운 규제 장벽으로 작용합니다.",
-                "탄소 배출량 감축을 위한 기업들의 투자와 생산 방식 변화를 강제하며, 글로벌 공급망 재편 및 각국의 탄소 중립 정책 추진에 중대한 영향을 미칠 정책 변화입니다."
+                "국제통화기금(IMF)이 한 달 만에 한국의 올해 성장률 전망치를 0.6%p 상향 조정한 것은 국내 경제에 대한 긍정적인 평가와 회복 기대감을 반영하는 중요한 경제 지표입니다.",
+                "이는 정부의 경제 정책 방향, 국내외 투자 유치, 그리고 전반적인 시장 심리에 긍정적인 영향을 미칠 수 있는 거시 경제적 변화입니다."
             ],
-            "link": "https://www.example.com/eu-cbam-enforcement",
+            "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTFBtU3ZFNTdBa3ZBVlRVZ3E3TkNPTzhRU2prZ1M5Mk8wbEw2RmRrZDcwZXFrdlRZa21TMVh4SFdhOVpUYVBXZmQ0N2I5X2Uzam1YVjMzMHBmSUMxcXNUNmc?oc=5",
             "category": "Economy",
-            "published": "2026-11-17T03:16:00.988899"
+            "published": "2026-11-18T02:40:14.493233"
         },
         {
-            "title": "IMF, 2024년 세계 경제 성장률 전망치 하향 조정... '고금리 장기화' 경고",
+            "title": "PHP 이어 자바에서도 치명적 취약점 발견…정부, 긴급점검 권고",
             "points": [
-                "국제통화기금(IMF)이라는 권위 있는 국제 기구의 공식 발표로, 전 세계 경제의 불확실성을 증대시키고 각국 정부 및 기업의 전략 수정에 영향을 미칩니다.",
-                "글로벌 인플레이션과 고금리 기조가 예상보다 길어질 수 있다는 경고는 투자 심리 위축, 소비 둔화 등 거시 경제 전반에 걸쳐 중요한 시사점을 제공하는 핵심 경제 동향입니다."
+                "전 세계적으로 광범위하게 사용되는 프로그래밍 언어인 자바(Java)와 PHP에서 치명적인 보안 취약점이 발견되고 정부가 긴급 점검을 권고한 것은 심각한 사이버 보안 위협을 의미합니다.",
+                "이러한 취약점은 기업, 정부 기관, 금융 시스템 등 수많은 IT 인프라에 광범위한 영향을 미쳐 데이터 유출 및 서비스 마비 등 막대한 경제적 손실을 초래할 수 있습니다."
             ],
-            "link": "https://www.example.com/imf-global-outlook",
+            "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE4tM3dYaWFmWi1jbkdmcXpzQmlQcVNLWWlld3pWUUt3SmllNU93dWhwckZ3Vlo4VXJtbm9CeGl5aW9aczUyWXRZZ2VhTU84Yml3d3FycG1TNENPQdIBX0FVX3lxTE5rYjNrWVJNbTVLeWg2R0NTUVM5cGZQd1FNVlQyWEZmdFdwR25TMnlTZlQzNVlyWVJ5YjE0YkNkcTYwYlVaOG9kUDl6ak9xeGJtb0ZnVUZ5U1o1Y0NOdnV3?oc=5",
             "category": "Economy",
-            "published": "2026-11-17T03:16:00.988899"
+            "published": "2026-11-18T02:40:14.493234"
         },
         {
-            "title": "한국 정부, 반도체 산업 육성 위한 10조원 규모 특별 지원 방안 발표",
+            "title": "샌프란 연은 \"AI發 증시 호황, 자연 실업률과 깊은 연관\" - 연합인포맥스",
             "points": [
-                "국가 핵심 산업인 반도체 분야의 경쟁력 강화를 위한 정부의 대규모 정책 지원으로, 국내외 반도체 산업 생태계에 큰 영향을 미칩니다.",
-                "글로벌 반도체 공급망 안정화에 기여하고, 국내 기업들의 투자 유치 및 기술 개발을 촉진하여 미래 산업 주도권을 확보하려는 전략적 정책 변화이자 대규모 투자 계획입니다."
+                "샌프란시스코 연방준비은행이 AI로 인한 증시 호황과 자연 실업률 간의 깊은 연관성을 언급한 것은 AI 기술이 경제 전반에 미치는 구조적 변화를 분석한 중요한 보고입니다.",
+                "이는 AI가 노동 시장과 고용 구조에 미치는 장기적인 영향에 대한 심도 있는 통찰을 제공하며, 향후 경제 정책 수립에 중요한 고려 사항이 될 수 있습니다."
             ],
-            "link": "https://www.example.com/korea-semiconductor-support",
+            "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE5zcU1KSWcyUWhoa2tVejJmbGJTYVlTUlM1UElROHhBLXN3TC11aWVhVmJhSHlJY2RqajI1Mk5tNUd5cjVoRTlyQTdQUjRyd1ZZeDI5Y2dDa210UHlOelFIMUpzQUNtTGpnZkJnUlg4aTU?oc=5",
             "category": "Economy",
-            "published": "2026-11-17T03:16:00.988900"
+            "published": "2026-11-18T02:40:14.493234"
+        }
+    ],
+    "World": [
+        {
+            "title": "美·이란 공방 격화…미군, 이란 게슘섬 미사일 기지 공습",
+            "points": [
+                "미국과 이란 간의 직접적인 군사적 충돌로, 중동 지역의 정세 불안을 심화시키고 국제 유가 및 안보에 중대한 영향을 미칠 수 있는 주요 소식입니다.",
+                "미국의 군사 행동은 이란의 핵 프로그램 및 역내 영향력 확대에 대한 경고로 해석되며, 향후 양국 관계 및 중동 정책의 변화를 야기할 수 있습니다."
+            ],
+            "link": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE54ekpiUkZwUWZpbHRrOWpnbzI1WUR2MEZDZkswcWZNRll4LW1jaFFlaTdvckFyem9OS3gzUER4b0dFbFF4TDFuXzFSNFJUX3lPam8yX2N2YXRWbG1m?oc=5",
+            "category": "World",
+            "published": "2026-11-18T02:40:53.812862"
+        },
+        {
+            "title": "우크라이나 공습에 크림대교 일부 붕괴…러시아 \"우크라 드론 1천441대 포착\"",
+            "points": [
+                "러시아-우크라이나 전쟁의 핵심 전략적 요충지인 크림대교의 붕괴는 전황에 큰 영향을 미치며, 우크라이나의 반격 능력과 러시아의 보급망 취약성을 보여주는 중대한 사건입니다.",
+                "이 사건은 전쟁의 장기화 가능성과 함께 국제사회의 군사 지원 및 러시아 제재 정책에 대한 논의를 심화시킬 수 있습니다."
+            ],
+            "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE1uQWxxYmdvdllVOXBSLTA0VDNIVjZYdW1PSDJYRnQ0a1o1OXI0cmNYa19IZ1p5ZkcxNlFpeV9pamJreE9ueHk5RHdtUS1pcVA0YUo4Y3Z2by1Va1BWX1VmVVktVmFkZUtJRHfSAWxBVV95cUxQTmdrUG9MRjFwZHJlSFYtcWJvbVY3TUItN3NIOGlVSzRycE1ZRDJkQy14ZjVmd2gweTB0cnB2WTRSR2JPUXlucTRrNGFXNXg3aDVCTEJZWFlBVTUxYU9MYWhsN0g3LVg5Wjd5RXI?oc=5",
+            "category": "World",
+            "published": "2026-11-18T02:40:53.812869"
+        },
+        {
+            "title": "러 \"우크라 나토 가입 수용 안 할 것\" 미 제안 사실상 거부",
+            "points": [
+                "러시아가 우크라이나의 나토 가입을 거부하며 미국의 제안을 사실상 거부한 것은 유럽 안보 질서와 러시아-서방 관계의 미래를 결정할 핵심적인 외교적 대립입니다.",
+                "이는 우크라이나 전쟁의 평화 협상 가능성에 부정적인 영향을 미치고, 나토의 동진 정책과 러시아의 안보 우려 사이의 갈등을 더욱 심화시킬 것입니다."
+            ],
+            "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE9iUEhVWFZHdjJxeU5feGtzTjFfTUt2NW1xZFVZcUdwM2FlNHJGTGVvSkNTRFo0Qk00dnJSUm1KTVhoV29xeFVaRXZrT3NWcGJGVV9mZnRtTzJjZHBmZGdUUlZKN1N3ZkU?oc=5",
+            "category": "World",
+            "published": "2026-11-18T02:40:53.812869"
+        },
+        {
+            "title": "[속보]트럼프 “김정은, 중국서 만남 원한다…어떻게 될지 지켜보자”",
+            "points": [
+                "도널드 트럼프 전 대통령의 김정은 위원장과의 잠재적 회담 언급은 북미 비핵화 협상 재개 및 한반도 정세 변화에 대한 중요한 신호로, 국제 외교가의 이목을 집중시키는 소식입니다.",
+                "이 만남이 성사될 경우, 북한의 핵 프로그램과 관련된 국제 제재 및 동북아시아 안보 환경에 중대한 변화를 가져올 수 있습니다."
+            ],
+            "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE1SVkZfb3RLSGdXRWhYSHFyOUVHNUtTVGlPY19Rc1pGZ0hQUXFBWmc3V2E1ZTRzR0c2aE1RblNlZlp1V1otSnQtQzVYbUJ2aE9qbndZV3A1LVhid9IBX0FVX3lxTE5jTDllZWJoaUNMam5WYXEyVlExV3RKeENxRTY1YnNTam1Zc3lDNE9QenZpa3JFVWxMb1VjcWJxdkE5S0lMc2l6Wno3SDJieUJEVTJvX1NmZVNEZHhFSE5J?oc=5",
+            "category": "World",
+            "published": "2026-11-18T02:40:53.812870"
+        },
+        {
+            "title": "미국 안보국 기밀통신망 마비...항공 이어 인프라 '다운'",
+            "points": [
+                "미국 국가안보국(NSA)의 기밀 통신망 마비는 국가 안보에 심각한 위협을 가하는 중대한 사이버 공격 또는 시스템 장애로, 전 세계 사이버 보안 환경에 경종을 울리는 소식입니다.",
+                "핵심 인프라 마비는 국가 방위 및 경제 시스템에 치명적인 영향을 미칠 수 있으며, 사이버 전쟁의 현실적 위협과 이에 대한 각국의 대응 전략 변화를 촉발할 것입니다."
+            ],
+            "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTFBvSDBZbDZoc1lmSzlzYVdQWjZ0T0VMT092VzVvSzl2cFQ1dElNR0hPT2kxQmo1bVZsUV8yQzZDMm52bTMtUXd4dlFHbWE0Znl6Q0x0MVJuZUJDeS16Mmc?oc=5",
+            "category": "World",
+            "published": "2026-11-18T02:40:53.812870"
         }
     ]
 }
