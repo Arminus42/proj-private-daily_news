@@ -1,158 +1,210 @@
 {
     "AI_Tech": [
         {
-            "title": "네이버, AI 투자 확대에 R&D 역대 최대…카카오는 효율화 기조 유지",
+            "title": "KAI, 한국기계연구원과 저피탐·AI 기술 고도화 개발 협력",
             "points": [
-                "국내 대표 빅테크 기업인 네이버가 AI 분야에 역대 최대 규모의 R&D 투자를 단행하며 AI 기술 주도권 확보에 나선다는 소식입니다. 이는 카카오의 효율화 기조와 대비되어 국내 AI 시장의 주요 플레이어들이 어떤 전략적 방향성을 가지고 있는지 명확히 보여줍니다.",
-                "네이버의 대규모 AI R&D 투자는 새로운 AI 모델 개발, 서비스 적용 확대, 인재 확보 등으로 이어져 국내 AI 기술 생태계 전반에 큰 파급력을 가져올 것입니다. 이는 글로벌 AI 경쟁에서 한국 기업의 위치를 강화하는 중요한 움직임입니다."
+                "국내 최대 항공우주 및 방산 기업인 KAI와 국가 핵심 연구기관인 한국기계연구원이 손잡고 AI 기술을 국방 분야에 적용하는 것은 국가 안보와 미래 산업 경쟁력에 직결되는 중요한 협력입니다.",
+                "AI가 스텔스(저피탐) 기술과 항공우주 제조 공정을 혁신하여, 탐지하기 어려운 차세대 항공기 개발을 가속화하고 생산 효율을 극대화할 수 있습니다. 이는 마치 AI가 '보이지 않는 옷'을 만들고 '가장 효율적인 공장'을 설계하는 것과 같습니다."
             ],
-            "link": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE9xRVVTQ0JSM2pZVEpMWE9Yd2FFeXpyeTBFWUQ3LUxhR2FocnZFUlNfQ0toRnNTTjcwd0VnOGhsV1BZZDhkRnJ1NTJLSjR1QQ?oc=5",
+            "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTFB2XzQ3a2hkX01EVXNhU0NpQU5jd3F0N2VOVVV2MkVQTFZLUWROVE5PTU94NzhrZUNUczVWWVZWYlBwU1RWN25obGVzY0hoZE9XMFMzZng4T1gxNDFfQWd1N0VmM3h0RzM2Ql9PdtIBckFVX3lxTE1OcjFNVldkNktzUDBmSDVhM1JBWWJYUWp5NHRaYXM3TVdmNXNHYjB3SHVLRDZNUTNrM1hWdms3eEVPZ2JDN1liWU9JelV3bFkxcThvaHJ2Y0Q3akFiekFheVJoaDB4OVZZaGEwVmZHeU5Mdw?oc=5",
             "category": "AI_Tech",
-            "published": "2026-11-19T02:05:18.286466"
+            "published": "2026-11-20T01:55:58.272762"
         },
         {
-            "title": "KAI, 한국기계연구원과 맞손…스텔스·AI 제조기술 공동연구",
+            "title": "마음AI, 한양대 ERICA·두산로보틱스와 피지컬AI 산학협력 MOU",
             "points": [
-                "국내 항공우주 및 방위산업의 핵심 기업인 KAI와 국가 대표 연구기관인 한국기계연구원의 협력은 AI 기술이 국가 핵심 산업의 경쟁력을 좌우하는 중요한 요소임을 보여주는 메이저 소식입니다.",
-                "스텔스 기술과 AI 제조 기술의 융합은 항공기 개발 및 생산 과정의 혁신을 가져올 것입니다. AI가 복잡한 설계 최적화, 생산 효율성 증대, 불량률 감소 등에 기여하여 고성능 항공우주 제품 개발을 가속화하고, 이는 국내 방위산업의 기술적 도약을 의미합니다."
+                "국내 대표 로봇 기업 두산로보틱스와 AI 전문 기업 마음AI, 그리고 한양대 ERICA 캠퍼스가 피지컬 AI 분야에서 협력하는 것은 AI가 단순한 소프트웨어를 넘어 실제 물리적 세계와 상호작용하는 '몸을 가진 AI' 시대를 여는 중요한 발걸음입니다.",
+                "피지컬 AI는 로봇이 주변 환경을 인지하고, 복잡한 작업을 스스로 학습하며 수행할 수 있도록 돕는 핵심 기술입니다. 이 협력을 통해 로봇이 인간처럼 보고 듣고 움직이며 판단하는 능력이 고도화되어, 스마트 팩토리, 서비스 로봇 등 다양한 산업 분야에 혁신을 가져올 것입니다."
             ],
-            "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE9uLXFxUXpkaWlYUk0tcUtvZFdISmR2MU1MU2xPTXRvNFpndW9xdF9yLTnub0FDWFNLU3lCRkVueVU3SFk1cHBTU0hjSm9GY0NsSzRNbWZxeXJ0aml1cllPMA?oc=5",
+            "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE9QbGFJZjcwVklnS2JDdjYzUDQwdmE2S0RLMXFtY1F3NVo2QmxwOHBVYVY2ZDB4NG13cDJlOHkyMHNna0NURXlQaDVoaFZzUGpTUzM1Nzhn?oc=5",
             "category": "AI_Tech",
-            "published": "2026-11-19T02:05:18.286475"
+            "published": "2026-11-20T01:55:58.272770"
         },
         {
-            "title": "마음AI, 한양대 ERICA·두산로보틱스와 피지컬AI 분야 인재 양성 나선다",
+            "title": "성남시-아주대, 판교서 국방 AI 연구…중소기업 실증 지원",
             "points": [
-                "국내 AI 전문 기업 마음AI, 명문 한양대학교, 그리고 로봇 분야 선두주자 두산로보틱스가 협력하여 '피지컬 AI'라는 차세대 AI 분야의 인재 양성에 나서는 것은 미래 AI 기술 발전을 위한 중요한 기반 마련입니다.",
-                "피지컬 AI는 로봇이 물리적 세계와 상호작용하며 학습하고 문제를 해결하는 기술로, 자율주행, 스마트 팩토리, 서비스 로봇 등 다양한 분야에서 혁신을 이끌 핵심 기술입니다. 이번 협력은 이론과 실제 적용을 겸비한 인재를 양성하여 국내 피지컬 AI 기술 경쟁력을 강화하는 데 기여할 것입니다."
+                "성남시와 아주대학교가 판교 테크노밸리에서 국방 AI 연구를 추진하는 것은, AI 기술이 단순한 민간 산업을 넘어 국가 안보와 직결되는 국방 분야의 혁신 동력으로 활용될 가능성을 보여줍니다. 이는 AI 기술의 전략적 중요성을 강조하는 국내 사례입니다.",
+                "국방 AI는 감시, 정찰, 지휘통제, 무인 시스템 등 다양한 국방 영역에서 의사결정 속도와 정확성을 높이고, 인명 피해를 줄이는 데 기여할 수 있습니다. 이 연구는 AI가 '미래 전장의 게임 체인저'가 될 수 있음을 보여주며, 관련 기술 개발과 실증을 통해 국방력 강화에 기여할 것입니다."
             ],
-            "link": "https://news.google.com/rss/articles/CBMickFVX3lxTFPrS1hIaVBaSUtLZ0V3NUJhYzNWTTFvMk45UEE5UVByYkRjdS1WTHhRalcxUFJiakNZMUNfWUNXSTVUbGxiMFZqQlRLUG5tZTJfdEsxcE5ud1JzV20ybEI1Q2xRcFhPdEpteDc3N0xpaDdxZw?oc=5",
+            "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTE9DRlhiVTRVQUN2ejNaYWpWTnpSX0s0Y1pxOVVQaE9FVEo3VjFUSVZBVDhHOGJDN0h4Y1dHTDIwdmE3UXJGSmVFMFQzMkg2RWladEVxSEhCZ01jSXlxZ2NPOFNfUVpyM3NfT2VR?oc=5",
             "category": "AI_Tech",
-            "published": "2026-11-19T02:05:18.286476"
+            "published": "2026-11-20T01:55:58.272772"
         },
         {
-            "title": "고객 금융상태 이해·경제 흐름 예측..카카오뱅크, AI 기술 개발",
+            "title": "LG그룹, \"주요 계열사 CEO 대부분 유임, 2027년 임원 132명 승진\"…피지컬 AI·R&D 핵심인재 전진 배치",
             "points": [
-                "국내 대표 인터넷 은행인 카카오뱅크가 AI 기술을 활용하여 고객의 금융 상태를 이해하고 경제 흐름을 예측하는 기술을 개발하는 것은 금융 서비스의 미래를 제시하는 중요한 움직임입니다. 이는 카카오라는 빅테크 생태계의 AI 역량 강화로 볼 수 있습니다.",
-                "AI 기반의 금융 분석 기술은 개인 맞춤형 금융 상품 추천, 사기 탐지, 리스크 관리 등 금융 서비스 전반의 효율성과 정확성을 크게 향상시킬 것입니다. 이는 고객 경험을 혁신하고 금융 시장의 안정성을 높이는 데 기여할 것입니다."
+                "LG그룹 전체 차원에서 피지컬 AI와 R&D 핵심 인재를 전진 배치한 것은, 단순한 인사가 아니라 그룹의 미래 사업 방향이 AI와 기술 혁신에 있음을 강력하게 시사하는 메시지입니다. 이는 그룹 차원의 대규모 투자와 전략적 전환을 예고합니다.",
+                "피지컬 AI는 로봇, 자율주행 등 물리적 세계에서 작동하는 AI를 의미하며, R&D 인재 배치는 이러한 첨단 기술 개발에 그룹의 역량을 집중하겠다는 의지를 보여줍니다. 이는 LG가 AI를 통해 가전, 로봇, 모빌리티 등 다양한 사업 분야에서 혁신적인 제품과 서비스를 선보이며 시장을 선도하려는 전략의 일환입니다."
             ],
-            "link": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE1hWWtXVjEyRUcya0RfTGRfa3FSNVMxeTN1Y2lPYTlFb196TGx1UkpGRlJWZ3lhb051SHNVbkhqX1IzN0VKaVllVk9zLXlid3dNcHNLY1ZFa3lWN2ZDcUN0czF0SQ?oc=5",
+            "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTFAzakw1djJsV2ozbmpIb0hYTDU3ajJjNTlyNHJDMWF1NHpBN19aN0tpZHRrTE9BNzl3clE2ZV9IdlNqbnJ6T0psUjZreUhER3BhTE5mb2I5cnJ6OEduaEUzSTAtLUQ0QkE?oc=5",
             "category": "AI_Tech",
-            "published": "2026-11-19T02:05:18.286477"
+            "published": "2026-11-20T01:55:58.272772"
         },
         {
-            "title": "화학연·한국콜마, 'AI' 기반 화장품 안전성 예측 기술 공동연구한다",
+            "title": "LG AI연구원, 엑사원·피지컬 AI 전문가 임원 발탁…인재 확보전 대응",
             "points": [
-                "국가 대표 화학 연구기관인 한국화학연구원과 국내 주요 화장품 기업 한국콜마가 AI를 활용한 화장품 안전성 예측 기술을 공동 연구하는 것은 AI가 정밀 화학 및 바이오 산업에 미치는 영향력을 보여주는 중요한 사례입니다.",
-                "AI 기반의 안전성 예측 기술은 기존의 복잡하고 시간이 오래 걸리던 동물 실험이나 인체 적용 시험을 보완하거나 대체하여, 신제품 개발 기간을 단축하고 비용을 절감할 수 있습니다. 이는 소비자의 안전을 강화하고, K-뷰티 산업의 글로벌 경쟁력을 높이는 데 기여할 것입니다."
+                "LG그룹의 AI 연구를 총괄하는 LG AI연구원이 자사의 초거대 AI '엑사원'과 '피지컬 AI' 분야의 핵심 인재를 임원으로 발탁한 것은, 이 두 기술이 LG의 미래 성장 동력임을 명확히 보여주는 전략적 결정입니다. 이는 글로벌 AI 인재 확보 경쟁 속에서 기술 리더십을 강화하려는 의지를 나타냅니다.",
+                "'엑사원'은 방대한 데이터를 학습하여 인간처럼 사고하고 창작하는 LG의 두뇌 역할을 하는 AI이며, '피지컬 AI'는 이 두뇌가 로봇과 같은 물리적 실체에 적용되어 실제 세계에서 행동하게 하는 기술입니다. 이들 전문가의 전진 배치는 LG가 AI를 통해 새로운 제품과 서비스를 만들고, 현실 세계에 AI를 접목하는 데 박차를 가하겠다는 의미입니다."
             ],
-            "link": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE9QdWFXdDNqY24wWWhWNTNBM19rQmpRV1MxdGRkU1JWVlVSLXhiQW9KM0NzNGRCTS1tSmM3UVlWU25yZV8yT2Y0eExtY2gwdw?oc=5",
+            "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTFBzbnZvNDFDV2lDd3FHMWItdk5td1d6YzJXYXRFeVdwWFItLW9SeC1OYTB0T18tdFVURGNvLXdoU1RSZWt5dVM0SENjcDBDTmFKNE96Rzl3?oc=5",
             "category": "AI_Tech",
-            "published": "2026-11-19T02:05:18.286478"
+            "published": "2026-11-20T01:55:58.272773"
+        }
+    ],
+    "IT_Biz": [
+        {
+            "title": "생성형 인공지능, 20초 만에 수능 국어·수학 ‘만점’ - 조선일보",
+            "points": [
+                "이 뉴스는 생성형 인공지능이 한국의 고난도 대학수학능력시험에서 만점을 기록하며 인간 수준의 이해력과 문제 해결 능력을 보여주었음을 알리는 주요 소식입니다. 이는 AI 기술 발전의 중요한 이정표가 됩니다.",
+                "AI의 언어 이해 및 추론 능력이 비약적으로 발전했음을 보여주며, 교육, 콘텐츠 생성, 전문직 업무 등 다양한 분야에 혁신적인 변화를 가져올 잠재력을 시사합니다."
+            ],
+            "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxQRFVKUzZOLW9MbG9YNHJKNTlVX0NQZlZBZ25KRU04T1BwalZJYUg5SGdyM1VuVjRka3hyeU5nVDM4QWJiOWh1N2d0a3Y3cUJVQkd4RWUwYkI4b1hSdUVnVXJSNThsSk5HVnQwcUF4bzBTWXo3bHZkMlNFbHJoMkxSejZEdjdFZzBrMFdUdjE1akQ?oc=5",
+            "category": "IT_Biz",
+            "published": "2026-11-20T01:56:28.436117"
+        },
+        {
+            "title": "머스크 \"운전대 없는 모델Y 낸다\"…스페이스X·테슬라 합병엔 \"아마도\" - 이데일리",
+            "points": [
+                "일론 머스크의 '운전대 없는 모델Y' 발표는 완전 자율주행 기술 상용화의 중대한 진전을 의미하며, 스페이스X와 테슬라의 합병 가능성 언급은 두 거대 혁신 기업의 미래 전략과 산업 판도 변화에 대한 중요한 시그널입니다.",
+                "자율주행 기술의 혁신적 발전 방향을 제시하여 자동차 산업의 미래를 재편할 가능성이 크며, 테슬라와 스페이스X의 잠재적 합병은 우주 산업과 자동차 산업 전반에 걸쳐 막대한 경제적, 기술적 파급 효과를 가져올 수 있습니다."
+            ],
+            "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxQd0U2LW14cWdHVjE1RW5IQ1NRUmU2SHpmamZsZFI0Njl6YzljZ1JhcTE1c1VydEtwNXByazBVTlFXeHo5eVNXQjRfMERGdlRxTkVyNVQyWFVPN21WOS1JQU9GSjFvYm9EUndxTzVjTy1ETW9IOVNfYzBKWE4tRThIWg?oc=5",
+            "category": "IT_Biz",
+            "published": "2026-11-20T01:56:28.436124"
+        },
+        {
+            "title": "앤트로픽 창업자, 31조원 '돈방석'...2700억 투자 SKT, 5조 '대박' - 머니투데이",
+            "points": [
+                "이 뉴스는 AI 스타트업 앤트로픽의 기업 가치가 31조원에 달하며, SKT의 대규모 투자로 막대한 수익을 창출했음을 보여주는 소식으로, 글로벌 AI 시장의 폭발적인 성장세와 투자 열기를 단적으로 보여줍니다.",
+                "AI 기술이 단순한 기술 개발을 넘어 막대한 자본이 유입되고 기업 가치를 급상승시키는 핵심 산업으로 부상했음을 나타내며, 이는 AI 분야의 대규모 투자와 인수합병을 촉진하고 관련 기술 개발 경쟁을 심화시킬 것입니다."
+            ],
+            "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTFBHTU1DTWlEelVNMTVWaWVNR2M3Y2hWSUVoQmdBdlg5MHEyYVh5QUtWWW9XcENJdHgwYkVoRjFERFlFNGFUVVlPWlhaWTRCdUJ2NTBKYnd4MlQ4anNKVW1GdlY4dnR0YjlN0gFuQVVfeXFMTldNdmhESGluZFpScEk0Ry15TVJwRGhBdm9xSW45MUNwSDZqVktKdWxIN0NBZDVZVjU0RDNySDAtWkV5clYyUVB5cGFzLUVTWFpTUThFSExWMHhLV3hpeGxKVzY0R1U2YllaYUNjZ2c?oc=5",
+            "category": "IT_Biz",
+            "published": "2026-11-20T01:56:28.436125"
+        },
+        {
+            "title": "삼성 파운드리 심사 소문에 중국 인공지능 칩주 급락…정식 규정은 미발표 - 글로벌이코노믹",
+            "points": [
+                "삼성 파운드리의 특정 심사 소문만으로 중국 AI 칩 관련 주식이 급락했다는 소식은 글로벌 반도체 공급망과 미중 기술 패권 경쟁이 얼마나 민감하게 시장에 영향을 미치는지 보여주는 중요한 경제 뉴스입니다.",
+                "반도체 산업, 특히 AI 칩 분야에서 글로벌 공급망의 불안정성과 지정학적 리스크가 커지고 있음을 시사하며, 이는 관련 기업들의 투자 전략과 국가별 기술 정책에 중대한 영향을 미칠 수 있습니다."
+            ],
+            "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNRFhPbXFWWFVvZlNONXVaamdsRVhQQU5lQVgzVFlxYjVvZDUtdWlnWFNuME16bzV5RzYzeTZ4aWlKakozVGFXNnVTRk9fZXlmMzBLUVlYa2c4MXNPWjUtOXpMVEk4ZVE4U2VCWHNjcTdrbm1MZFRrbnduWkhCUnFYbFNZYW5LTEhV?oc=5",
+            "category": "IT_Biz",
+            "published": "2026-11-20T01:56:28.436126"
+        },
+        {
+            "title": "웹서버 '엔진엑스'서 치명적 취약점…전세계 웹사이트 30% 비상 - 연합뉴스",
+            "points": [
+                "전 세계 웹사이트의 30%가 사용하는 핵심 웹서버 '엔진엑스'에서 치명적인 취약점이 발견되었다는 소식은 전 세계 인터넷 인프라의 보안에 심각한 위협을 제기하는 매우 중요한 IT 보안 뉴스입니다.",
+                "광범위한 웹 서비스 중단 및 데이터 유출 가능성을 내포하며, 이는 기업과 사용자 모두에게 즉각적인 보안 패치 및 대응을 요구하고 사이버 보안의 중요성을 다시 한번 강조하는 계기가 됩니다."
+            ],
+            "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE9IVTlvX2R5SkZpdkNNQ1JCMWpMRGgtZ3hGcExQRksyenkxd2dLNkxRV2hoZWk1QldjSWUyY2w4cUVhN2V6ZFZOMGxteUJMUUFWQ0ZBNVE5Q2JzWWfSAWBBVV95cUxNWnpxbzRWNjZUbGE5M05jeHlqaENvVnhZT1dNUVVuS2drRzVMSEVGYlFGUTVYc0NMQW5qV0FrQWtFS0dTVGFUNmFNcnpKZWpGQVJ0QjFUS29LYm56UENnelo?oc=5",
+            "category": "IT_Biz",
+            "published": "2026-11-20T01:56:28.436127"
         }
     ],
     "Economy": [
         {
-            "title": "3분기 가계빚 2천30조‥주택 관련 대출 '사상 최대' - MBC 뉴스",
+            "title": "미국 반도체지수 2.4% 하락…앤트로픽 상장 첫날 AI주 투매 - 뉴스1",
             "points": [
-                "이 뉴스는 한국 가계 부채가 사상 최대치를 기록했다는 중요한 경제 지표를 다루고 있어, 국내 경제의 건전성과 소비 심리에 광범위한 영향을 미칠 수 있는 메이저한 소식입니다.",
-                "주택 관련 대출 증가가 주된 원인으로, 이는 부동산 시장의 불안정성과 금융 시스템 리스크 증가 가능성을 시사하며 향후 정책 방향에 영향을 줄 수 있습니다."
+                "앤트로픽 IPO 이후 미국 반도체 지수와 AI 관련 주식들이 급락하며, AI 기술주에 대한 시장의 투자 심리가 위축되고 있음을 보여주는 중요한 지표입니다. 이는 글로벌 기술 시장 전반에 영향을 미칠 수 있습니다.",
+                "AI 기술의 미래 성장성에 대한 기대감과 실제 기업 가치 평가 사이의 괴리가 시장에 반영되기 시작했으며, 이는 AI 산업의 투자 흐름과 기술 개발 속도에 영향을 줄 수 있습니다."
             ],
-            "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTE5iRVlEODh5eHBZVHlWOGxuYXVzME8tZ2VkVmNqZ3VRSUw1WlBNU0l4ajRoWm85MjN3LW1DMEtTWXoyT25USGdiTkJxbjhhMHo1bnhMSEQtRjA0T1daZ09sNVVBZHg2ZGJtaG04LUdMVw?oc=5",
+            "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTFBDMng3ekhUS0hYcHlJTThCbGtTMVZWQkxZSmVwX0JUbExudGtMMGxqNFZFdWRlUVItY19maEtsVy0xTFVuS0FDRHNxd2p1T19GM2FneXlpcGxfVXBlbFo1em9OdGFTS0E?oc=5",
             "category": "Economy",
-            "published": "2026-11-19T02:05:53.926210"
+            "published": "2026-11-20T01:56:55.363519"
         },
         {
-            "title": "미 연준 이사, '빅스텝' 필요성 또 언급...\"충격 줘야 할 수도\" - YTN",
+            "title": "美수출통제 강화에 삼성전자·TSMC 中반도체 출하 일부 중단 - 마켓인",
             "points": [
-                "미국 연방준비제도(Fed) 이사의 금리 인상 관련 발언은 전 세계 금융 시장과 경제 정책에 직접적인 영향을 미치는 매우 중요한 소식입니다.",
-                "'빅스텝' 가능성 언급은 인플레이션 억제를 위한 강력한 통화 긴축 의지를 보여주며, 이는 글로벌 투자 환경과 환율 변동성에 큰 변화를 가져올 수 있습니다."
+                "미국 정부의 대중국 반도체 수출 통제 강화 정책이 삼성전자, TSMC와 같은 세계적인 반도체 기업들의 중국 내 사업 운영에 직접적인 타격을 주고 있음을 보여줍니다. 이는 글로벌 반도체 공급망과 미중 기술 패권 경쟁의 심화를 의미합니다.",
+                "미국의 정책이 글로벌 반도체 생산 및 유통 전략을 근본적으로 변화시키고 있으며, 주요 기업들은 중국 시장에서의 전략을 재검토하고 공급망을 재편해야 하는 경제적 압박에 직면했습니다."
             ],
-            "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTFBleEZKSGQ3amRuMGZEZEMwMjExQ1praEQ0WDlyTnpfM08yNFFLcFpvTUdZVWZZZWpBWm8zWWdpWTBzbjlLQmFmdEZFUEFEdw?oc=5",
+            "link": "https://news.google.com/rss/articles/CBMic0FVX3lxTE4tRmFhamh3QU1GVWRmcmw3WUJvNGtoLW5kRVZWNjlDUzdGX29uSE4yZVV2a3BiS0VrVzZhd0Q4YkduRzZ2RnZjUlZGYyNmtuZ2h2VUhZTXdVVVUtMjFJSEN3RlF5TzVhRlJMc0tDY3NzZWRmVnM?oc=5",
             "category": "Economy",
-            "published": "2026-11-19T02:05:53.926217"
+            "published": "2026-11-20T01:56:55.363526"
         },
         {
-            "title": "미국, ‘중국 AI 모델 사용’ 기업 공개 의무화 추진 - KBS 뉴스",
+            "title": "농림수산품 가격 하락에 10월 생산자물가 하락 전환 - YTN",
             "points": [
-                "이 뉴스는 미국 정부가 중국 AI 모델 사용 기업에 대한 정보 공개 의무화를 추진하는 것으로, 미중 기술 패권 경쟁의 심화와 글로벌 AI 산업의 재편을 예고하는 중요한 정책 변화입니다.",
-                "이는 관련 기업들의 사업 전략과 공급망에 직접적인 영향을 미치며, AI 기술 개발 및 활용 방향에도 중대한 변화를 가져올 수 있습니다."
+                "국내 생산자물가가 농림수산품 가격 하락에 힘입어 하락 전환했다는 소식은 전반적인 물가 안정화 추세와 인플레이션 압력 완화 가능성을 시사하는 중요한 경제 지표입니다. 이는 향후 소비자물가 및 금리 정책에도 영향을 미칠 수 있습니다.",
+                "생산자물가 하락은 기업의 생산 비용 부담 완화로 이어져 궁극적으로 소비자 가격 안정에 기여할 수 있으며, 이는 한국 경제의 전반적인 경기 흐름과 통화 정책 방향을 가늠하는 중요한 신호입니다."
             ],
-            "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE9iT3Z5UHBSQWxTTGY2VExXVnFYeUt2dlBPamNYamNScXVlYnFFckZnTDFNemlITk9iOV9oMEZSWnI5TVM0RUFDTkx5UzZSWHhRcTdjWDdPSXNVR1U?oc=5",
+            "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTFA5dmJvZTJqeU1RX3VneW1Rb01hckdLaVhJRURKdDNYMEhySFVkbi04TVRzY2ZoRXBtajZleVRSRkd5Z284SVJwZnRGeDJDMjMzYTZrWHlTX3V6VkpmOGc?oc=5",
             "category": "Economy",
-            "published": "2026-11-19T02:05:53.926218"
+            "published": "2026-11-20T01:56:55.363527"
         },
         {
-            "title": "KDI 경제전망, 2026 하반기 - KDI 경제교육·정보센터",
+            "title": "美, AI 주도 일차의료 성과 보상 체계 검토 - 데일리메디",
             "points": [
-                "한국개발연구원(KDI)의 경제 전망은 정부의 정책 수립 및 기업의 투자 결정에 중요한 기준이 되는 국가 경제의 중장기적 방향을 제시하는 메이저한 소식입니다.",
-                "2026년 하반기까지의 경제 성장률, 물가, 고용 등 주요 거시 경제 지표에 대한 예측은 국내외 투자자 및 정책 입안자들에게 중요한 정보를 제공합니다."
+                "미국에서 AI 기술을 활용한 일차의료 서비스에 대한 성과 보상 체계를 검토한다는 소식은 AI가 의료 분야에 본격적으로 통합되고 있음을 보여주며, 이는 의료 서비스 제공 방식과 비용 구조에 혁신적인 변화를 가져올 수 있는 중요한 정책적 움직임입니다.",
+                "AI 기반 의료 서비스의 확산은 진단 정확도 향상, 의료 접근성 개선, 비용 효율성 증대 등 긍정적 효과를 기대할 수 있으나, 동시에 데이터 프라이버시, 알고리즘의 공정성, 의료 인력의 역할 변화 등 새로운 과제를 제시합니다."
             ],
-            "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTE9pblpaQ0VMNGhsMG82U01NZ04yWWcxVThrQzFVU2RtZFR6RC1aaDBkRGNwbU9RSVkwTzI3cEZ2Q2xmSWxTQmRyV25XR3NDUzJXOFBUQ2FvNlkzRGFJM0I2QlpMSkxoUGpGQXhZ?oc=5",
+            "link": "https://news.google.com/rss/articles/CBMickFVX3lxTFBIdVAzbEM3dVNZSFk3bEtMN3BOcmdxWkJMOHV4WUZ0cmVadk9ETU92SERRTXhWa2UyNE5saHZlNjAtNzNtaHFubGNoU1ZfUDRva0lYc3VOU2FqY09xZnNKcFdvN0pvaDNyQmJURGFNN3d6UQ?oc=5",
             "category": "Economy",
-            "published": "2026-11-19T02:05:53.926219"
+            "published": "2026-11-20T01:56:55.363528"
         },
         {
-            "title": "[주거실태조사] 가팔라진 집값 사다리…수도권 저소득층 PIR 19.5년 - KB Think",
+            "title": "AMD 주가 7% 급락…공매도 업체, 中 수출통제 위반 의혹 제기 - 연합인포맥스",
             "points": [
-                "주거실태조사 결과는 수도권 저소득층의 주택 구매 부담이 심화되고 있음을 보여주는 중요한 사회경제적 지표입니다. 이는 주거 복지 정책의 필요성과 부동산 시장의 구조적 문제를 드러내는 메이저한 소식입니다.",
-                "PIR(소득 대비 주택가격 비율) 19.5년은 저소득층이 주택을 마련하는 데 거의 20년 가까이 소득을 모아야 한다는 의미로, 사회 양극화 심화 및 주거 불안정성 문제를 부각합니다."
+                "주요 반도체 기업인 AMD의 주가 급락과 함께 공매도 업체가 중국 수출 통제 위반 의혹을 제기했다는 소식은 미중 기술 패권 경쟁이 개별 기업의 실적과 시장 신뢰도에 미치는 직접적인 영향을 보여줍니다. 이는 투자자들에게 중요한 경고 신호가 됩니다.",
+                "미국의 대중국 수출 통제 정책이 단순히 공급망을 넘어 기업의 법적 리스크와 시장 평가에까지 영향을 미치고 있음을 시사하며, 이는 글로벌 기술 기업들이 지정학적 리스크를 경영 전략에 더욱 중요하게 반영해야 함을 의미합니다."
             ],
-            "link": "https://news.google.com/rss/articles/CBMickFVX3lxTE8yVnpyMU5yUkhtT2pZUUlMQllTWjhvS3VNNVNOaUFHRVNYSmdTMGs4a3BWMzUxVGphc1poQXJ4ajVoUU5Xd2k3NXZ5YkhLdXJWVVp1QkhOelFzbGYyeGdqQ2J3MzZzYTBxZ3hRbDY1OTdHZw?oc=5",
+            "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE5rTHJPZUZ5MHVQVzZwUjVObjNSYUNwSHRCb1hEREVpdHNfQW1JUGhONkxaN2xIQjZoRkdGT2ZjV3VTVExRTG92UlFtdTMzeW9kWWZDOXlmTzY4THV3TWh1U2kwR1dvdExONnZoY3doT1g?oc=5",
             "category": "Economy",
-            "published": "2026-11-19T02:05:53.926220"
+            "published": "2026-11-20T01:56:55.363529"
         }
     ],
     "World": [
         {
-            "title": "[선전 APEC] 미중러 3국 정상회담 전쟁 종식 촉각, 한반도 논의도...",
+            "title": "유엔 최고 법원, 미얀마의 로힝야족 집단학살 인정",
             "points": [
-                "APEC 정상회의에서 미국, 중국, 러시아 3국 정상회담이 개최되어 세계 주요 강대국 간의 외교적 노력이 집중되었음을 보여줍니다.",
-                "우크라이나 전쟁 종식 가능성과 한반도 문제 논의는 국제 안보 및 지정학적 판도에 중대한 영향을 미칠 수 있는 핵심 의제입니다."
+                "유엔 최고 법원이 미얀마의 로힝야족 집단학살을 인정한 것은 국제법적 정의 실현과 인권 보호에 있어 매우 중대한 진전입니다.",
+                "이 결정은 미얀마 정부에 대한 국제사회의 압력을 가중시키고, 향후 로힝야족의 인권 회복 및 국제 형사 사법 절차에 큰 영향을 미칠 것입니다."
             ],
-            "link": "https://news.google.com/rss/articles/CBMiXEFVX3lxTFAwaUtpMU1nMWE0U1Joenlzcmsxd3pubnVEZVdsN1FoUkM4QjBTdXpPMjNUdzhLTjhqQnNscnptNC1lcW5INVRrU1I1TWlQbjVBNXlUMXBHTlRSUE9R?oc=5",
+            "link": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE1ZaUtnbldmbHAteVlkMDBXdU1ZanBobkhMMDRuYXNvUm41ZmlfTTc0V3I3b005MVY5aVE4S3EzcmFMSlVnTzFOMkxzOWJHaWpK0gFTQVVfeXFMTk8tVWZaRU0zbmpLeG4tLW12SHNaRm9sNHhVRVd0a0oyWUtDM0dLaXg4a3ZhbV82MHJLdGxNWmRQTnFnalFLbmRaVHdtSGMyWktwT28?oc=5",
             "category": "World",
-            "published": "2026-11-19T02:06:28.940924"
+            "published": "2026-11-20T01:57:31.398241"
         },
         {
-            "title": "\"우크라 드론 공격 강화하자…러 11월 정유량 절반 가까이 감소\"",
+            "title": "사우디 리야드 80층 빌딩 후티 미사일에 파손…'비전2030' 상징(종합)",
             "points": [
-                "우크라이나의 드론 공격 강화는 러시아의 핵심 에너지 인프라에 직접적인 타격을 주어 전쟁 수행 능력에 영향을 미치고 있습니다.",
-                "러시아 정유량의 급격한 감소는 국제 에너지 시장의 불안정성을 심화시키고 러시아 경제에 상당한 압박을 가하는 중요한 경제적 변화입니다."
+                "중동 지역의 주요 지정학적 갈등(후티 반군 공격)이 사우디아라비아의 핵심 경제 개발 프로젝트(비전 2030)의 상징물에 직접적인 타격을 입혔다는 점에서 국제 정세의 불안정성을 보여주는 중대한 사건입니다.",
+                "이는 사우디의 대규모 투자 계획 및 중동 지역의 안보 환경에 대한 우려를 증폭시키며, 에너지 시장 및 글로벌 투자 심리에 영향을 미칠 수 있습니다."
             ],
-            "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE1JSWtEZFlxdThVZVRJVldSLVZ1TGpjMFFIcHJtbEVfeTNDTzVidFRINEs5MTZVRG93OU1HbnE5OVFjZThsdTlpZWVyR2xnVDJMOTJwZFlxMFBzVGtDQUE?oc=5",
+            "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE5GYlBxU19GYkxONVo0RkdFaUJoLWE0Z0FzMDBCMGhfMUN2Y3owZTFtRVVmcS0zUUZ6a0RHbGdtQkFBX3J4bnJfdWNJcEhsZGkyY2R0dnNCa1lCaFHSAWBBVV95cUxPbWlfanJENjhCbUg0T2Y3ZGVJRzhpazRodEdiNC1MMElMdXh6RWtLMGR1TktuNnlhOUFzUGVVaThzUGNkbG1RMTNXZFlyMVZJdjNqZktEdHRZZnJpTkx5NjU?oc=5",
             "category": "World",
-            "published": "2026-11-19T02:06:28.940932"
+            "published": "2026-11-20T01:57:31.398249"
         },
         {
-            "title": "미국, 21년간 지지해온 유엔 북한인권결의안 첫 기권···ICC 갈등 여파",
+            "title": "푸틴 '평화선언'한 날 키이우 종일 폭발음…1명 사망·4명 부상",
             "points": [
-                "미국이 21년간 지지해온 유엔 북한인권결의안에 처음으로 기권한 것은 대북 정책 및 국제 인권 외교에 있어 중대한 변화를 시사합니다.",
-                "이 결정이 국제형사재판소(ICC)와의 갈등 여파로 분석되는 점은 국제법 및 국제기구와의 관계 재정립이라는 더 넓은 외교적 맥락을 반영하며, 향후 국제 공조에 영향을 줄 수 있습니다."
+                "푸틴 대통령의 '평화 선언'과 동시에 우크라이나 키이우에서 폭발음이 지속되었다는 소식은 러시아-우크라이나 전쟁의 현실과 외교적 수사 간의 괴리를 극명하게 보여줍니다.",
+                "이는 전쟁의 장기화 가능성과 국제사회의 평화 중재 노력의 어려움을 시사하며, 동유럽 안보 및 국제 관계에 지속적인 영향을 미칠 중대한 사건입니다."
             ],
-            "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFBPaDhyUEIybHlnWWR1eV82bjVpUVFxbEg0RXpDRnkxU0hoYlVNQ3k3Zzk4ekZ1eG5PR0dfY0hrOEhvTW1ndUdzU044SlNvTE9tV2FCczRwbnp4UdIBX0FVX3lxTE50Y2Vnd2NtX0dyYjdMMk1saUdiN0lNSjRuZklNeWFmOFFWOWp4andfWE03V3pPQUJLZk1rcUpIckg1Y19neEltM3hKMTNIR09JTHF2dy12YlY4djdkbFRB?oc=5",
+            "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFBhQUJRREZwUVJ1TXZiUTBBcmdsaHFEalhGUm9UMDV4Y2NhdjI3c2ZVaDBLSXdrTXZVa09EelpIb3JJcTkxNE1saFJxLUJCaWk2OXpsMmxYdktyOGPSAWBBVV95cUxOY2dzdHFvcFZ1d0xqUkRaVUZmR0N2WDBCdW53TlE1T29jZEpMdnlwa21VZ2w5YlZ1VURRQWkzcW1EbTF6ejFCQjV0ZHNRRWRSa0ZLcFZRREdhRmlLQ2pyZ0w?oc=5",
             "category": "World",
-            "published": "2026-11-19T02:06:28.940933"
+            "published": "2026-11-20T01:57:31.398250"
         },
         {
-            "title": "IAEA사무총장 \"북 영변 핵시설 증축 외부 공사 완료\"",
+            "title": "“제2의 얄타회담”보다 무서운 위협…중·러·이란·북한의 위험한 결탁",
             "points": [
-                "국제원자력기구(IAEA) 사무총장의 공식 발표는 북한 영변 핵시설의 증축 완료를 확인하며, 북한 핵 프로그램의 지속적인 진전을 보여줍니다.",
-                "이는 국제사회의 비확산 노력에 대한 중대한 도전이자 동북아시아 안보 환경에 직접적인 위협으로 작용할 수 있는 핵심 사안입니다."
+                "중국, 러시아, 이란, 북한 간의 군사적, 정치적 결탁 가능성에 대한 분석은 새로운 국제 질서 형성 및 서방 세계에 대한 중대한 위협을 시사합니다.",
+                "이는 글로벌 안보 환경의 재편, 동맹 관계의 변화, 그리고 국제 경제 및 지정학적 역학 관계에 광범위한 영향을 미칠 수 있는 핵심적인 지정학적 이슈입니다."
             ],
-            "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTFBZM0pEX01nS2s3dmJ0YUIzMERJZlhvemExRnh1MW9PMmNDS0gteUdCbThhT1FIcGFBTkFEbjBsTFptdGxwNDU4RWpSRnNieXZUckh5bnEtMnl6SUxPSWQ1b3Frd182Nzg?oc=5",
+            "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE5DdXgwUjJVSlRnT3laQnpDN3lLS092TVpLaDdMMVRvLXd6M0xzMUNDMVhGdlFmTkJOVmRYU3U2bEs1a292a3NtLXgwT0MzaFVBNGVOa1R5ZC1zel81N0xnV1dvT0HSAWhBVV95cUxPT0t2MGhfckxnNmc0T2hseGJrTFYxRzMxcDRYdFdyNEYyN1pnQnA4U2t5RERrMVlnUkZDRmsxc080TFpTdm1zMUcwcDRaQXVCZ2l4dmN0NTJjTjZNNFFpcW5CanlGdTBGVA?oc=5",
             "category": "World",
-            "published": "2026-11-19T02:06:28.940934"
+            "published": "2026-11-20T01:57:31.398250"
         },
         {
-            "title": "이스라엘 야권·아랍계 손잡고 의회 의장 교체…네타냐후 입지 ‘흔들’",
+            "title": "EU, 북한 핵 활동 확대 규탄...대러 군사협력 비판",
             "points": [
-                "이스라엘 야권과 아랍계 정당의 연합을 통한 의회 의장 교체는 이스라엘 국내 정치 지형에 큰 변화를 가져왔으며, 네타냐후 총리의 정치적 입지를 약화시켰습니다.",
-                "이러한 정치적 불안정은 중동 지역의 정세, 특히 이스라엘-팔레스타인 분쟁 및 대외 정책 방향에 중대한 영향을 미칠 수 있는 핵심 변수입니다."
+                "유럽연합(EU)이 북한의 핵 활동 확대를 규탄하고 러시아와의 군사 협력을 비판한 것은 국제 사회의 대북 제재 및 러시아-우크라이나 전쟁에 대한 공동 전선을 강화하는 중요한 외교적 메시지입니다.",
+                "이는 한반도 비핵화 노력과 국제 안보 질서 유지에 대한 EU의 강력한 의지를 보여주며, 관련 국가들의 정책 결정에 영향을 미칠 수 있습니다."
             ],
-            "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFBVSldSd2VtczlDUGxwci1oSUNxR2ctOXFBeUhrTTgwQklWLW9SVXBzaG9qdThtSGlYOXp3cTJ2RjFCX2lGVzk5d3VTSVJGTm5wcE11dllYeG51UdIBX0FVX3lxTFBZcmRiVjl1MWZ0RVV3Wk5WbVF3SVVXZnIwdTFJQ3VaRUdnTVZONW1JN3FiWjk2VzhlN3NGYzM0OFVpLVpraXk1NUZ0TXNXT09kOWR5eHdJZWdraDVjUE1J?oc=5",
+            "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTE42WEdvMkt5OUFOQVNyckp5QWZWZzFyNGtaNnhtdndIT1czbERkaWZPMTV1ZkQyUW83TFJoakE4eU4yTm1sTVgzWGNYN2x5X0xHV2VGdzlNak9HUzRUY215dGtYMXhEUTdoOU44YjFGb25CczAtRlBXTtIBe0FVX3lxTE0wTTJTMHFabVM3SWtpTmVXd01CSHF5WFIydnJsdE5UdEZGbzhYSjBqUXlZY1k4NlFsUzdEbXV5LTRiRldxdVFIVjYyS3VEeXloNDNtUUlEdDEzUzNkYnNzVzJsZ1o0SEstaUFzdFp2RGhLWVNyMDVzSXZsdw?oc=5",
             "category": "World",
-            "published": "2026-11-19T02:06:28.940935"
+            "published": "2026-11-20T01:57:31.398251"
         }
     ]
 }
